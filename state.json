@@ -5,11 +5,14 @@
     "06b0b772a655c98d16b04a7c73ba75499b9c38267d73af261d89316ca4dd2eb8",
     "08f733989526d241c443d605c195acab571b08ca4f7aa2971075930c26e3c71c",
     "09702f35c6757117dda5dbadc1c325db1b045b51c96f7fe12af5cf11fcd3a0e4",
+    "09f8958545dcfc93ad2a0aa3cef154bff0cbf8639e23cd13d348b8c22ca4d39f",
     "0af83d9898dc744ac1195cad2365db24991d05ec12405d7c019fe0f0b499a7a8",
     "1056089e566b9349a8366f39a2747b9d1e6a0e67aa2dd719feb7da8bc4cbf38d",
     "10915c7849528a9aa9f6cc2c87c28ee5ea2defe035ac3b0e8fbd5bcb2e4ed17f",
     "116b338986d4c3c8e4027fbea0139da83df8a91743cbfc02e38cd74ffe729c09",
+    "124067174766fff5abcf97d8c9e52886792d6132d95192c4026b97010eb674c0",
     "124f7dbf6b6fc1f76206cdeed987224a6a1dccd3105c178f94ad4d5c4914a31a",
+    "16e70b299b96f28bdbd6dada9915fa7513040150a18f55231ce11469ed044b02",
     "173088bec8879ac7a3576e1d818b929d0439c83fa1d4ea1b7897edcd679f5f2c",
     "17854649726068364a6176998a3e8e5399159af249a8bf48d1247fb68c287d6f",
     "178f4b944581cfe48bbfdc112958808c4e786c578a8e569175ada6b1f942aebe",
@@ -21,15 +24,21 @@
     "1cd7a633561cfd40c7d0df77e8df61a318f88bc9ed00821546ff0da11e7608d3",
     "1ecb42a3f3e14c44f193d116378382d76eb01dcdfb0cc8b9397b7d60e917ffa9",
     "21468dbd631c37816aa6b87726d8a92ab37ffef73bcea42f1f524aa389177580",
+    "2fa4bd3b18dc5a0f79f9b33ebc0c2d4b70e349757b535f9b992d5abd2855572b",
+    "30aaa8e2b0c506d8025013428107dcfd568eb3a584a3d750adce25eebcf2615d",
     "318db958a8fd73d6c363e2547fec479c72042ad3d955b22e23e032b6c8ecc8ae",
     "32bddea8c2cf3fc4446f88c4bef47df3c55b4a8e983f78bb35210c9527c31184",
+    "338ac43052c17ee1ad42a0a3dc5bb9168354378b342608683225165e452581f0",
     "343bbc74a4d48606755b4dd83ce39fc0e96791b44e01b77861c82d63a6bdaaa9",
+    "35d04f6102e57d930100e14a502d7bd0ae0ba704488798a7e1fcb179e8e0d5b0",
     "35f266f915ec089bad8c95fa3b31dc6d76905b300d686b10fe8631e29fb7b494",
     "380d2a74f8fe6a5f610be3d6f46b2a4036873fd8777204a1d0db9f0d554ee00e",
     "38aa5eb3b0cb207cc26781142a378561b04096937c8133de32fbf858f9a0a801",
     "395f350f0fac622e4be4c6dd916dc455e0c7d37de95b7c67e6a413a786fb5bb3",
+    "3b83e7e9ff07b68b909939bf85aa51271621b2ea3a90f6cc2bba56cd82a723f7",
     "3d34783a912744edd78022d0edbcff8d3cd2bd28cdd7a4c4d2c7eae8a076ac02",
     "3d43d7a9eb84109ba042c71b573ad616e3a6ce8f0dff113eb26206d35ff0712d",
+    "3f0d3d05fd6aecaf530ea7b371efb54ce257e64298a0e803f0d9118c3141e14c",
     "3f61a24ce96c207c832cb0f4cd3fb2cb5de90a48439778c74c572b609239a281",
     "414ee3f0ff2a1c87883ee560ea852822e73c49bae497a203e53911accb5a35cd",
     "42309548691d38eb59ecaa110a9300b42974cb40375093cdee524ced87a34f77",
@@ -39,28 +48,38 @@
     "4dad2fd50981d4e710058e683b9013394ad283a94b6a96f7414b89b14a1ea347",
     "509a4bf482c20cbff1686c4a0f9cfed3739a6df272b6e5ed72c5ea05d36aea40",
     "51f4d4b54620f8e18716113e64b33eee5d0cb0c8a0092e9def98fdca68f33142",
+    "5246bc5a9413aad483b30ba3a9198c9fa53437f7237c6176a1d6c7d32cce6847",
     "530c3abd31198bce6d3ab488c3c8bb6b67114f363074cd044204b6658520a32a",
     "53bc2bddfe10800f65b4e1a0294ee53fba9374d990822895b7c134689df84c6f",
     "5488f8e31be844b3e20409f019d8e579d398ec9028f468308c98ce3146680bc7",
+    "561c98e6e7a9f9f709061a9d3aed5f022c3bcc6dbd22ade8342af799b97c15d2",
+    "58eecd61540f6c584b164e0f964ecce14114cf9a7f84c6fd8d740bc533b15b66",
     "59a5d1cc010dd86f8be0fa60081240b8b2074c490f4772728203a64ef3f49a18",
     "5ac86ffb42eec2c2599848849f214ce32078e273a9b8fcac89202a50f2110f88",
     "5aeb5b33246d215d51c226632fed44a191759be3e72725549c0c157905c1b815",
     "5bc7fc2e6202a1f4f8d5e3fa98c5f79708ace42a2b8069f086bf6ffbbd1fbcae",
     "5e579a17c9b6351243c7afdc7398337bf62afdafe80661ff9862338ff0dc1341",
     "5e66d9581c50b8ac917e75d6490f0c6d3957ca9eb97c8fe99ae4e01bf3c3b148",
+    "5ee671d009ec5e4a91b0eb8f4eb26031e6466ab15b2b7a539449697a548ed372",
     "5f3e369c58e596a7ed8567fa8a81b2aac2438d2c5008b5abd271050526eb1798",
     "5f755af01ad9f23bd2dc231bfc2e3d067215fd5c38497f2a1b14a1ef86774523",
     "5f8be87c2597164cdb2062d70c3ee82a663de52d96467a3d0f920f8fba401ef8",
     "5fd1aba609852f1619f656d547228f157db1e1f491bf88961d7007b361b85fe5",
+    "602608a488c22f57a133625505879e50129409d79e0449c8591ad25d86079f56",
+    "6094eb847639a99866b40054ee443505f4777e2b86a897de12733d7307ff4700",
     "60ed68133079e0cd44ca7612e170a2eeeab1bde4055afed40e0a01cb84da6616",
     "618a3e2cd6b1671fa53107f2756392a17a6a6f35cd50b736c4db3f08e5ebfa57",
     "61b9e297d23d005e4bb0600c107e8e5992e38a5df7b6f3e8829cafa65a6982d1",
+    "63971736fbd2886f669ce759a913a9752330d7d20c2d5d62dabdb96320c44cf2",
+    "640fac99b5feb674c1950f5d5a0ec5723a9778f8d26ab6e1e0e5bba8bc6096a3",
     "64a2778dedc8d1bac71a019cf87629417e353d8c9f78ad297ea11c9f4709069c",
+    "64c6d4598a7f59b331a1900e4b2a3aa7a94ea43ae9bebea0beab59aecdf0661c",
     "65414f90d08b594e4dcba2a5548aecffd34a9e7f5d33d32a710c8fd7f5664046",
     "654810fbeafa9dca3aa3e139f7feb3c7d80c76c499e4d6f68010050233a8e35e",
     "66e77287512b68aa6fa26b0d42b8cccfeeb10c998c9c09ceb21f3beeccdee585",
     "671f788a4c450ac846cbb4316107c941e183e5e65e1ce1b4976865e260a7ac7b",
     "6f76c1bd0456388c5b92e3fe7f7b570b96d6540a194cda005bf948cb215ed8cb",
+    "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
     "714a4f3b0edee8ca72318446856b7b1e94fb3310fa857bd2ae4e4e0011d580a0",
     "7228c7724a0e84f0003e87f5df9b332fdfe7f32f38eb8952129dca76da72d7a1",
     "75b86f4effcf97b5a82176327c2ddeb797e06f6a63c33adc6afe400c7910af5f",
@@ -71,26 +90,38 @@
     "7da109a7a805b09c7458866d9c4ebcb98ceea8b4396a05843e0bf426e139531e",
     "7dc7cbf7e7e83138209a90630fdcdba94c85c6eb228c5bfa10a455397bf98f7b",
     "80f645dc8680939f175ece649df7715f74c3ccf08dec93edd7c6ac1b47abaa2a",
+    "8d6696663a390bae85bb8d8dfe84aa5a32c7ba8feebad0cfa77c0d0a8c9f8eac",
     "8e1d4e6da8c9feea5e5713080fe507832d354586c7e018db8240a321fdd44907",
     "8e51a2a697f63b894b1571816947ad736fa656dd88ea95db3cfc143ecd60a895",
     "8eac02103f27f008d98e67553b541ebb33a78fc573a1014274c88c092c1b7ea0",
+    "8f68c35f8e2a5aacc50c4786eb0e6fe9159e8ea2202f7b3325c645dd92fd416b",
     "967ee9365d7e36ef64e79f734208f692164050c2f8dc7d8b50f19f9ddc78db1b",
     "973eeacb96a4acceaf0cbf506e22b3b9f90c604e4892b4a352df6a5f6de657e9",
     "9815afeb7ac87049d7e071e72bddcb5c7c4e51509b8182588abbeaa225d71e8c",
     "983666f169536e9e1176ae7053c02f87f20eed7d7f8b5d1dbb08fada3af8bf5b",
+    "98f999f151891ff8f32de3169c1b57db6335578362fac97007497c858a8f16ed",
     "997eca772b291f0289a03a7c722d58034ced7417e0271cf7a6fc95e5afa99a78",
     "9debc19dffbd00cd1ed49ba7b52abb8277477004a472da8b361ce5b05fb4cdb5",
+    "9ea7731f87a2a1bdd712dadb0f1621232ea4d1f7af1fcf4d5fb1d5bd29ee4ef6",
+    "9ef3fdefae16ce3c8687a124b8c12315d99f1ac7edcf22721198d564f9294bd0",
     "a0f8951d7fd57be617d7ad9ff5b4470051b7a36053c6d5345e58aedd9ebed385",
     "a3f4fb045b5d6bbfd7af00c42b395f37d1d0c15d9dee008bea238fe4477bc5fa",
     "a73d2a29a341c3878e51d73cbc25b7e346838a48517980fc60a74a283a4fbf09",
+    "adcbb6ae2fe1e0d5607367cfde1c38cb8f27c5de6955f15008d2aded7e6fb688",
+    "b22d39fb8ff289617d0067a7eec95ccfc6edef4cf352a2c395601f959ba045be",
     "b2545cc6d7c6295b6a6d171531ec9f728f7e8156a6954b3a98ed93ddec62a7a7",
     "b27b4cadb8bb9579d03fc48713f87b20b8d9d00393795de70997017e95a0d573",
     "b421a499d47a41a063ec33aa43f9edd9bdd4d66c34643bd5374069db28eab3ab",
     "b4b16f36cc2454f0986e323a3aa09391eb252e0798ded4d542f8b52c23ccb21b",
     "ba4ccb8cc8b108200e4378819766e670692c913a8f5653e9f45419a59fed589b",
+    "ba9b4313f8454bcee4714b9ba2bba37f1f92052530f0313c7b019f3afd0d9616",
     "bca7065fe4c347a86e11364ae82cc6323617e477042cceb525022a763bdc0b4d",
+    "bf9cc0d946e62c571c07c87aae8371b73d049822245c4b079818ac622097841d",
+    "c603bf1a60e9d3521f0db30f88f104e8e7bd1502db18ff3197213295f8da86ad",
     "c69954a24f67e68f7fc3ac31254a605a6cd1f267428c0ab658d3515db21ac9cd",
     "c7022e5c527a5e4f4bab436e9ff399a48aa76dd49d5a10a53f7a0e643f50e088",
+    "c719b85b4283dbfce86c84549e55c6fe1a9f573fdce9d92ea1e95f17987dc749",
+    "c9917eb4b45ea39a75e7ced83fca772432d5d09162397f56dccf8468d9adcd37",
     "cb785b3b678e80ae130e454eb0e5b2e89e289ecffdbe2fe34f88b72d34c16c94",
     "cf2ff32062c588039bfc8dc5f6d46888a496d4451b3782d5257aeec077808b04",
     "cf750300911db12fce8457ec92ce5132af88378d9416e7f473cf3152ccda03f3",
@@ -99,10 +130,13 @@
     "d75b4f8bc5ae6c055b5394c5e1cae35d6cd7ac818724244de5ede6a27f05727b",
     "db05edb41cb2353739dd06c28b0aaa37728c17ff74ac398e726bc736f6eac2a7",
     "dce475fe678041af05f4c5656b401e44dfa224d48f2b72747c37e3b74839eec7",
+    "dea14e876324f7fe7851ebdf682b059fad503d34b24de369795cd04a02e04085",
     "dfbb43cc397a5df974f1adb410636f505029c5e9b8e123a5de4a828cb7ce45cb",
+    "e2357e6a9ec2909e37eb6fbdea50da40dc8615b8dde85c34d5445c2560bcb1fc",
     "e2fd67d3f571559dd120f2b1afefaf8531f06f7e6665d6c6d435bdc074107c6a",
     "e36185ac61d07e8dc72b39021ea1277e66cc223115f2acd8fdc693e39ee17849",
     "e38790221fe5b9e12882a63aab607f66d1557c1cf850e7b13167b269433517ef",
+    "e3d08812bd403ea1c71eb0fad3234fa7d19f5569eb6db6af787753e875b7bf2f",
     "e491f78f293a1ba71122174670bc15b22adbb12225196c6afd9280dcb24cb469",
     "e7932f716cdfbc4d5fbaaa35779981f618896098639bd987dd37bd2ba397a545",
     "e81068a90b5c8e1147ad3de17134e77f2bf5711105a86cdce0ff3c2c22b6bb6f",
@@ -111,255 +145,21 @@
     "ed2639d5691342bb3f2af8a2b3c3421cff928b0c36ab8d44d9873758c2ff656e",
     "ed871b7ed5a3eac19477aafaa92b3cc7ad2fa91b369f43039d572ae742f2499c",
     "f0168edc73fbf736e76449341e660a9cd6d3831d87a8c8548b957b7a717511c0",
+    "f024ea7b40e23bc3390cbe28d8c6e50bb945ce84e434bc455ddc716d55f61bab",
+    "f10491a7118e9fd74d48a5d21821c58cae4978ffbf0d4b3ccba7e251fc130c82",
     "f3bd1027814a1f1ef16122a0d66a7ff472e8e73d4570c59ec04c581bddc60c56",
     "f4b9c6a4fa2bc04ea43f2c9e8436139c39d956a4f7ca12ece486d78394b730f7",
     "f4d50f998b64b56236def8a1eafe36adb9e609568e3136a3600aca3c459cbb4f",
+    "f6b8138a708289297075dba4e9f1c8f461a2162f0c5379356a7506657fed3a56",
     "f8d4a0814c659bc4fb42595611e5dda45593c708d9e05bc5b800a518633c4fad",
     "f8fd8f4cea5c62841b9126126d9c1b57bceccd44df9dbaf5225eb7811cf153b6",
     "f922d99db0921172b5ce617d67c1f4b59a67f26558445bdf862ca82ff7472017",
+    "fa02b314b55cf89b378a40ed34aeb14db85d5a42407fa121f97e987ce19df1b7",
+    "fad162213a1c882886ba03ea6d01981a42ad35815ab2dfe54a61ea5bec5e2fde",
+    "fc26e19e7a73a6a66b282f711b28bd05be92c8d3c262629ff277d53cdbc57884",
     "fc41276ce31713270f8f200b005903dcaddec949c9691dc016844743d93530aa"
   ],
   "pending": [
-    {
-      "keys": [
-        "98f999f151891ff8f32de3169c1b57db6335578362fac97007497c858a8f16ed",
-        "9ef3fdefae16ce3c8687a124b8c12315d99f1ac7edcf22721198d564f9294bd0"
-      ],
-      "title": "Президент України розповів, чому Німеччині було б вигідно надати ЗСУ ракети Taurus",
-      "url": "https://www.radiosvoboda.org/a/news-prezydent-ukrainy-nimechyna-taurus/33891836.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-05T20:23:43+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Зеленський пояснив бажання Києва замовити «Тауруси» тим, що за відсутності ракет для ППО є «лише один вихід: знищувати російські пускові установки»"
-    },
-    {
-      "keys": [
-        "30aaa8e2b0c506d8025013428107dcfd568eb3a584a3d750adce25eebcf2615d",
-        "63971736fbd2886f669ce759a913a9752330d7d20c2d5d62dabdb96320c44cf2"
-      ],
-      "title": "У Франції профспілки кажуть про 1,6 млн учасників протесту проти зростання вартості життя",
-      "url": "https://www.pravda.com.ua/news/2026/11/05/8061481/",
-      "source": "Українська правда",
-      "published": "2026-11-05T20:21:00+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": ""
-    },
-    {
-      "keys": [
-        "6094eb847639a99866b40054ee443505f4777e2b86a897de12733d7307ff4700",
-        "f10491a7118e9fd74d48a5d21821c58cae4978ffbf0d4b3ccba7e251fc130c82"
-      ],
-      "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "source": "New York Times",
-      "published": "2026-11-05T20:20:35+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Scott Colom, a Democrat running for Senate in Mississippi, greeting supporters in Jackson, the state capital, on Wednesday."
-    },
-    {
-      "keys": [
-        "dea14e876324f7fe7851ebdf682b059fad503d34b24de369795cd04a02e04085",
-        "e3d08812bd403ea1c71eb0fad3234fa7d19f5569eb6db6af787753e875b7bf2f"
-      ],
-      "title": "В готелі у Словаччині від колотих ран загинув українець: одного підозрюваного затримали, ще одного розшукують",
-      "url": "https://www.pravda.com.ua/news/2026/11/05/8061480/",
-      "source": "Українська правда",
-      "published": "2026-11-05T20:08:00+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "У місті Тренчин у Словаччині в ніч на 5 листопада від колото-різаних поранень загинув громадянин України. За підозрою у вчиненні злочину одного чоловіка затримали, ще одного шукають. Джерело : пресслужба МЗС у коментарі журналістам Дослівно : \"У ніч на 5 листопада у готелі \"SOG\" у м. Тренчин внаслідок ножових поранень загинув громадянин України. За інформацією Регіонального управління поліції в Тренчині, чоловік отримав два колото-різані поранення в ділянки серця та живота і помер від отриманих травм та гострої внутрішньої кровотечі. За підозрою у вчиненні цього злочину затримано іншого громадянина України. Ще один громадянин, який знаходився на місці інциденту, перебуває в розшуку\". Деталі : Регіональна кримінальна поліція в Тренчині відкрила кримінальне провадження за фактом умисного вбивства. Як додають в МЗС, всі згадані особи – цивільні. Двоє з них перебували в Словаччини у службовому відрядженні та не є військовослужбовцями Сил оборони України. У відомстві попросили не розповсюджувати недостовірну інформацію. Посольство України в Словаччині встановило контакт із дружиною загиблого для сприяння у вирішенні питань щодо поховання."
-    },
-    {
-      "keys": [
-        "64c6d4598a7f59b331a1900e4b2a3aa7a94ea43ae9bebea0beab59aecdf0661c",
-        "8f68c35f8e2a5aacc50c4786eb0e6fe9159e8ea2202f7b3325c645dd92fd416b"
-      ],
-      "title": "Зеленський: ми можемо подумати про онлайн-вибори",
-      "url": "https://www.rbc.ua/rus/news/zelenskiy-mi-mozhemo-podumati-onlayn-vibori-1793909081.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-05T20:05:04+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Вибори під час війни майже неможливі Влада може розглянути проведення виборів в Україні в онлайн-форматі. Але під час війни зробити це дуже складно. Про це повідомляє РБК-Україна з посиланням на заяву президента України Володимира Зеленського в інтерв'ю ZDF. Онлайн-вибори в Україні Зеленський зазначив, що у разі проведення виборів є велика частина громадян України, які не матимуть змоги голосувати. \"Збройні сили перебувають на фронті, вони також проти виборів, оскільки не мають можливості проголосувати. Хіба це справедливо? Мільйони людей перебувають в окопах, і технічно це неможливо організувати\", - каже президент. Зеленський зауважив, що саме військові повинні насамперед обирати главу держави, тому що \"вони зберегли незалежність і продовжують її зберігати\". На його думку, усі професії важливі, проте у воєнний час пріоритет - у військовослужбовців. \"Але під час війни професія солдата - найважливіша професія, тому що солдати ризикують своїм життям. І проводити вибори, на яких солдати не зможуть проголосувати, - це несправедливо. Це на сто відсотків несправедливо\", - впевнений він. За словами президента, Україна може розглянути можливість проведення онлайн-виборів. \"Це можливо, але тоді парламенту доведеться шукати та знаходити рішення\", - каже президент. Раніше РБК-Україна писало, що вибори у \"Дії\" наразі провести неможливо. Є \"підводні камені\", що виникали і при голосуванні у цьому сервісі на \"Євробаченні\". Про це заявив голова Верховної Ради Руслан Стефанчук. Крім того, Верховна Рада працює над законом щодо можливості виборів в Україні під час війни. Проте конкретне їх проведення в поточний момент абсолютно неможливе, впевнений Стефанчук."
-    },
-    {
-      "keys": [
-        "58eecd61540f6c584b164e0f964ecce14114cf9a7f84c6fd8d740bc533b15b66",
-        "c603bf1a60e9d3521f0db30f88f104e8e7bd1502db18ff3197213295f8da86ad"
-      ],
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T19:59:22+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "With a huge and still-growing catalog of exoplanets, researchers are anxious to take the next steps: trying to infer what conditions are like on them, either by imaging them directly or by capturing the light that has passed through their atmosphere. Both are substantial challenges, given the presence of stars that are far, far brighter than light that has come to us via the planet. While telescopes can be fitted with devices called coronagraphs that block out much of a star's light, there are limits to their effectiveness, caused by noise from subtle variations in the telescope's configuration and pointing between observations. Now, researchers have developed a new software package that optimizes a physical model of the telescope in a way that allows us to better model these differences, producing low-noise imaging of exoplanets. Point spreads Central to this work is the concept of a point spread function. If you use a telescope to image a single point of light, it will not appear that way in the actual image. Instead, it will be slightly blurry and spread out, due to imperfections in the telescope hardware and the limits of our ability to keep it pointed accurately through the time it takes to image something. The mathematical description of how a telescope distorts a point of light is called its point spread function. Read full article Comments"
-    },
-    {
-      "keys": [
-        "338ac43052c17ee1ad42a0a3dc5bb9168354378b342608683225165e452581f0",
-        "5246bc5a9413aad483b30ba3a9198c9fa53437f7237c6176a1d6c7d32cce6847"
-      ],
-      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-      "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-      "source": "New York Times",
-      "published": "2026-11-05T19:56:52+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Flávio Bolsonaro, the right-wing Brazilian senator who lost last month’s presidential election, in Aventura, Fla., on Wednesday after fleeing Brazil."
-    },
-    {
-      "keys": [
-        "640fac99b5feb674c1950f5d5a0ec5723a9778f8d26ab6e1e0e5bba8bc6096a3",
-        "adcbb6ae2fe1e0d5607367cfde1c38cb8f27c5de6955f15008d2aded7e6fb688"
-      ],
-      "title": "СБУ повідомила ще 3 російськм командирам про підозру через удар по «Охматдиту»",
-      "url": "https://www.radiosvoboda.org/a/news-sbu-pidozra-rosiiski-komandyry-udar-ohmatdyt/33891831.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-05T19:54:22+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Раніше заочно підозру через цей обстріл отримали російські генерали Сергій Кобилаш, Сергій Кувалдін та Микола Варпахович"
-    },
-    {
-      "keys": [
-        "2fa4bd3b18dc5a0f79f9b33ebc0c2d4b70e349757b535f9b992d5abd2855572b",
-        "5ee671d009ec5e4a91b0eb8f4eb26031e6466ab15b2b7a539449697a548ed372"
-      ],
-      "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
-      "url": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
-      "source": "New York Times",
-      "published": "2026-11-05T19:47:17+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "New members of the influential U.S. Preventive Services Task Force were given waivers to serve with financial conflicts."
-    },
-    {
-      "keys": [
-        "f6b8138a708289297075dba4e9f1c8f461a2162f0c5379356a7506657fed3a56",
-        "fa02b314b55cf89b378a40ed34aeb14db85d5a42407fa121f97e987ce19df1b7"
-      ],
-      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-      "source": "Ars Technica",
-      "published": "2026-11-05T19:46:37+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Kalshi is having a bad week in the federal court system. Two circuit appeals courts rejected the prediction market's latest attempts to block state gambling laws in Connecticut, New York, and Nevada. Kalshi is separately facing a new lawsuit filed by the Arkansas attorney general. In all cases involving Kalshi and state governments around the US, the main issue is whether state gambling laws apply to prediction markets despite Kalshi's claim that its platform offers \"swaps\" that can only be regulated by the US Commodity Futures Exchange (CFTC). The Trump administration is on Kalshi's side, with Donald Trump Jr. serving as an advisor to Kalshi in exchange for a generous equity deal . \"Kalshi insists that its products are not gambling,\" but \"Arkansas law is concerned with substance, not semantics,\" Arkansas Attorney General Tim Griffin said yesterday when announcing his lawsuit against Kalshi. Kalshi's prediction market lets customers \"wager money on the outcome of just about anything\" despite the fact that \"gambling on an unregulated platform is squarely prohibited by Arkansas law,\" he said. Read full article Comments"
-    },
-    {
-      "keys": [
-        "3b83e7e9ff07b68b909939bf85aa51271621b2ea3a90f6cc2bba56cd82a723f7",
-        "8d6696663a390bae85bb8d8dfe84aa5a32c7ba8feebad0cfa77c0d0a8c9f8eac"
-      ],
-      "title": "Зеленський: Нам потрібно від Німеччини ракети Taurus, це вигідно обом сторонам",
-      "url": "https://www.pravda.com.ua/news/2026/11/05/8061479/",
-      "source": "Українська правда",
-      "published": "2026-11-05T19:46:00+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Президент України Володимир Зеленський сказав, що Україна хотіла б замовити ракети Taurus у Німеччини, щоб мати змогу знищувати пускові установки, звідки Росія випускає свої ракети по українських містах. Джерело : інтерв'ю Зеленського ZDF, повідомляє \"Європейська правда\" Деталі : Коли США не змогли постачати Україні антибалістичні ракети для ППО, в України залишився лише один вихід, за словами президента, – знищувати російські пускові установки. \"Вони зробили цілі майданчики і вбивають нас, а ми не можемо захиститися. Це не цивільні об'єкти, не інфраструктура, не енергетика. Ось тому ми дуже хотіли замовити Taurus. Не просто замовити, а знову-таки також тестувати їх. Це вигідно обом сторонам\", – сказав Зеленський. За словами Зеленського, користь від цього буде не лише для України. Адже для іноземних виробників зброї це можливість протестувати свій товар на полі бою, а також – отримати добру рекламу. \"Ми зробили з IRIS-T бренд номер один у світі після Patriot, які антибалістичні. Зараз ця система коштує від 600 тисяч до десь мільйона–півтора. Також вони підтягнули всі проблемні питання, тому що тільки в реальній війні ви можете дійсно позбутися слабких місць того чи іншого захисту. У Німеччини черги на замовлення на 10-20 років. Вартість ракети зросла в рази, в десятки разів\", – заявив український президент. Нагадаємо, міністр оборони Німеччини Борис Пісторіус заявив, що не вважає необхідним постачання Україні крилатих ракет Taurus. Також \"ЄвроПравда\" дізналася, коли Україна отримає 500 ракет Patriot , продаж яких схвалили США. Це станеться аж у період з четвертого кварталу 2030 року до четвертого кварталу 2033 року."
-    },
-    {
-      "keys": [
-        "35d04f6102e57d930100e14a502d7bd0ae0ba704488798a7e1fcb179e8e0d5b0",
-        "561c98e6e7a9f9f709061a9d3aed5f022c3bcc6dbd22ade8342af799b97c15d2"
-      ],
-      "title": "Russia’s Matryoshka bots launch disinfo campaign claiming Ukraine runs “secret prisons” to torture soldiers and hold kidnapped foreigners",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xos9jy/russias_matryoshka_bots_launch_disinfo_campaign/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-05T19:45:19+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "submitted by /u/rulepanic [link] [comments]"
-    },
-    {
-      "keys": [
-        "ba9b4313f8454bcee4714b9ba2bba37f1f92052530f0313c7b019f3afd0d9616",
-        "e2357e6a9ec2909e37eb6fbdea50da40dc8615b8dde85c34d5445c2560bcb1fc"
-      ],
-      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "source": "New York Times",
-      "published": "2026-11-05T19:32:54+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Protesters gathered at the Supreme Court in May 2022 after a draft of the decision to overturn Roe v. Wade was leaked."
-    },
-    {
-      "keys": [
-        "16e70b299b96f28bdbd6dada9915fa7513040150a18f55231ce11469ed044b02",
-        "c719b85b4283dbfce86c84549e55c6fe1a9f573fdce9d92ea1e95f17987dc749"
-      ],
-      "title": "На Верховинщині фотопастка «впіймала» ведмедицю з трьома ведмежатами (ВІДЕО)",
-      "url": "https://if.informator.ua/2026/11/05/na-verhovynshhyni-fotopastka-vpijmala-vedmedyczyu-z-troma-vedmezhatamy-video/",
-      "source": "Інформатор Івано-Франківськ",
-      "published": "2026-11-05T19:30:06+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "На Верховинщині автоматична фотопастка зафіксувала ведмедицю, яка крокувала гірською місцевістю разом із трьома ведмежатами. Пише Інформатор Івано-Франківськ з покликанням на WWF-Україна. Фотопастки, завдяки яким науковці досліджують диких тварин у природному середовищі, передав парку WWF-Україна. Як ведмеді готуються до холодів? Осінь для бурих ведмедів — особливо важливий період. Перед зимівлею вони активно шукають калорійну їжу та […]"
-    },
-    {
-      "keys": [
-        "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
-        "f024ea7b40e23bc3390cbe28d8c6e50bb945ce84e434bc455ddc716d55f61bab"
-      ],
-      "title": "Президент Чехії каже, що не має амбіцій стати європейським переговірником щодо України",
-      "url": "https://www.pravda.com.ua/news/2026/11/05/8061477/",
-      "source": "Українська правда",
-      "published": "2026-11-05T19:27:00+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Президент Чехії Петр Павел заявив про відсутність амбіцій стати європейським переговірником з метою припинення війни в Україні. Джерело : його заява після зустрічі глав держав \"Вишеградської четвірки\" (V4) у Тренчині, Словаччина, передає \"Європейська правда \" з посиланням на Ceske Noviny Деталі : Чеський президент відповідав на запитання, чи погодився б він на пропозицію стати переговірником. Британський новинний сайт The Telegraph написав про потенційну роль Павела як переговірника 14 днів тому. \"У мене точно немає таких амбіцій. Я, звичайно, був би радий, якби міг поділитися своїм досвідом роботи як у НАТО, так і в Європейському Союзі. Але, безперечно, саме європейські держави мають вирішити, кого вони вважають своїм представником\", – сказав чеський президент, який очолював Військовий комітет НАТО з червня 2015 року по червень 2018 року. The Telegraph, посилаючись на дипломатичні джерела, повідомив, що Павел входить до числа п'яти політиків, яких європейські лідери розглядають як головних переговірників з російським лідером Владіміром Путіним для припинення війни в Україні. У четвер Павел заявив, що жодних імен не обговорювалося. \"Я розумію, що моє ім'я згадувалося в The Telegraph разом із кількома іншими, але я б назвав це журналістським припущенням. Тож жодних переговорів, безумовно, не було. Я неодноразово висловлювався з цього приводу, як і ті, чиї імена щойно були названі, і, можливо, саме звідси й виникло це припущення\", – сказав він. Прем'єр-міністр Італії Джорджа Мелоні закликала президента Європейської ради Антоніу Кошту обговорити питання призначення європейського переговірника на неформальному саміті в Дубліні в листопаді, як свідчить закритий лист, цитований агентствами ANSA та Adnkronos. У листі Мелоні зазначила, що для Європи надзвичайно важливо мати змогу висловлюватися \"одним голосом\" щодо війни в Україні. За словами Мелоні, без призначення спільного представника ЄС та визначення його повноважень ЄС ризикує виявитися безсилим у переговорах щодо при"
-    },
-    {
-      "keys": [
-        "b22d39fb8ff289617d0067a7eec95ccfc6edef4cf352a2c395601f959ba045be",
-        "fad162213a1c882886ba03ea6d01981a42ad35815ab2dfe54a61ea5bec5e2fde"
-      ],
-      "title": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xoroho/melania_trump_touts_her_diplomatic_role_as/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-05T19:22:14+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "submitted by /u/cnn [link] [comments]"
-    },
-    {
-      "keys": [
-        "602608a488c22f57a133625505879e50129409d79e0449c8591ad25d86079f56",
-        "9ea7731f87a2a1bdd712dadb0f1621232ea4d1f7af1fcf4d5fb1d5bd29ee4ef6"
-      ],
-      "title": "Зеленський каже, що США не надали Україні раніше обіцяну допомогу на 16 млрд доларів",
-      "url": "https://www.radiosvoboda.org/a/news-zelensky-ssha-ne-nadaly-dopomohy-na-16-mlrd-dolariv/33891823.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-05T19:21:00+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "За словами Зеленського, Україна має об’єднувати двопартійну підтримку, яку має в Конгресі США, враховуючи перерозподіл сил"
-    },
-    {
-      "keys": [
-        "bf9cc0d946e62c571c07c87aae8371b73d049822245c4b079818ac622097841d",
-        "fc26e19e7a73a6a66b282f711b28bd05be92c8d3c262629ff277d53cdbc57884"
-      ],
-      "title": "Зеленський відреагував на перекриття вулиці через відсутність світла: Не можна ремонтувати в розвалочку",
-      "url": "https://www.pravda.com.ua/news/2026/11/05/8061476/",
-      "source": "Українська правда",
-      "published": "2026-11-05T19:20:00+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "Президент України Володимир Зеленський 5 листопада відреагував на те, що в Києві напередодні люди перекривали дорогу через довге відключення електроенергії. Джерело : інтерв'ю Зеленського ТСН Пряма мова : \"Вчора люди перекрили одну з доріг в Києві. Ми говорили з прем'єром, я дзвонив міністру внутрішніх справ Вигівському, він мені каже: \"Ми зараз там вже попрацювали, тому що дійсно частина людей, довгий період не мали електрику\". І дійсно на енергетичному об'єкті не було достатньо працівників. Т обто не можна ремонтувати в розвалочку, як то кажуть. І молодці, поліцейські спрацювали, привели на об'єкт електриків , все запрацювало. І що народ? Народ розійшовся. І слава Богу, тому що перекривати – це точно не шлях. Але з іншого боку люди розійшлись, тому що вони побачили, що всі на місці і працюють\". Деталі : Президент додав, що керівництво Київводоканалу має працювати більше, швидше. \"Якщо треба міняти менеджмент водоканалу, хай міняють. Одних слів, що ми готові, ми будемо працювати 24х7, недостатньо\", – заявив глава держави. Водночас Зеленський зазначає, що електрики працюють над забезпеченням Києва електроенергією, втім російськими ударами пошкоджено багато ліній."
-    },
-    {
-      "keys": [
-        "09f8958545dcfc93ad2a0aa3cef154bff0cbf8639e23cd13d348b8c22ca4d39f",
-        "124067174766fff5abcf97d8c9e52886792d6132d95192c4026b97010eb674c0"
-      ],
-      "title": "Russia deepened Iran support with missile launcher deal: Moscow increased military aid for Tehran despite strains from Ukraine war",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xorkaj/russia_deepened_iran_support_with_missile/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-05T19:17:41+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "submitted by /u/rulepanic [link] [comments]"
-    },
-    {
-      "keys": [
-        "3f0d3d05fd6aecaf530ea7b371efb54ce257e64298a0e803f0d9118c3141e14c",
-        "c9917eb4b45ea39a75e7ced83fca772432d5d09162397f56dccf8468d9adcd37"
-      ],
-      "title": "«Вясна» опублікувала звіт про ситуацію з правами людини в Білорусі і каже, що влада приховує дані про політв’язнів",
-      "url": "https://www.radiosvoboda.org/a/news-bilorus-viasna-politviazni/33891822.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-05T19:17:41+00:00",
-      "discovered": "2026-11-05T21:13:11.414576+00:00",
-      "excerpt": "172 політв’язнів у білоруських в’язницях перебувають у вразливому становищі, кажуть правозахисники"
-    },
     {
       "keys": [
         "ed22abda5718785f3f3bab1b3b758a1776dcac164151730ae7526204e009d021",
@@ -3601,167 +3401,173 @@
   "history": [
     {
       "date": "2026-11-05",
-      "created": "2026-11-05T21:36:50.856236+00:00",
+      "created": "2026-11-05T21:38:40.522601+00:00",
       "summary": {
         "title": "Daily News Digest: November 5, 2026",
-        "intro": "A summary of global political developments, military updates, and significant domestic policy changes across the U.S. and Ukraine.",
+        "intro": "Today's headlines cover diplomatic and security challenges in Ukraine, international developments in Europe and South America, and various legal and scientific reports.",
         "stories": [
           {
-            "headline": "U.S. Election Results and Legislative Updates",
-            "summary": "The incoming congressional class is expected to have the lowest percentage of veterans since the 1970s, at approximately 15%. Meanwhile, in Mississippi, a closely contested Senate race between Democrat Scott Colom and Republican Cindy Hyde-Smith remains undecided. In Georgia, former Atlanta mayor Keisha Lance Bottoms secured a victory for the governorship, contributing to a broader trend of Democratic gains fueled by Black voters across the South.",
-            "article_ids": [
-              "3",
-              "12",
-              "16"
-            ]
-          },
-          {
-            "headline": "California Governor Moves to Commute Death Row Sentences",
-            "summary": "Governor Gavin Newsom has announced plans to commute the sentences of all 548 inmates on California’s death row to life without parole. If finalized, this would constitute the largest mass commutation of death sentences in U.S. history. The move, intended to align with values of justice and decency, is expected to face legal challenges as it requires support from the California Supreme Court for prisoners with multiple felony convictions.",
-            "article_ids": [
-              "8",
-              "15"
-            ]
-          },
-          {
-            "headline": "Conflict Updates in Ukraine and Regional Incidents",
-            "summary": "General Staff reports indicate 167 combat engagements on the front lines on November 5, involving heavy use of drones and guided aerial bombs. In the Kirovohrad region, three people were hospitalized following a Russian attack that ignited a residential building. Separately, a Ukrainian citizen has been detained in Slovakia on suspicion of murdering a fellow countryman, with police searching for a second individual involved in the incident. In Ivano-Frankivsk, the community is mourning the loss of five servicemen, while regional forecasts predict cloudy, cool weather with potential wind gusts for November 6.",
+            "headline": "Ukraine President Addresses Military and Energy Challenges",
+            "summary": "President Volodymyr Zelenskyy discussed the potential value of acquiring Taurus missiles from Germany to target Russian launch sites, framing it as a mutually beneficial move for testing military equipment. In domestic matters, he acknowledged the difficulty of holding elections during war, noting that online voting could be an option though it faces technical hurdles. He also addressed public protests in Kyiv over extended power outages, criticizing the speed of energy repairs and calling for improved management at public utility companies.",
             "article_ids": [
               "1",
-              "6",
-              "7",
-              "17",
-              "19"
+              "5",
+              "11",
+              "18"
             ]
           },
           {
-            "headline": "Military and International Developments",
-            "summary": "A Canadian service member faces a court-martial for allegedly sharing operational information with Ukraine. Meanwhile, the Royal International Air Tattoo will permanently relocate from RAF Fairford to MOD Boscombe Down following concerns over security at the original base. In Russia, the state has taken control of assets belonging to the tobacco manufacturer JTI. Additionally, Utah-based company Vector introduced a new integrated one-way attack drone system designed for complex combat environments. U.A.E. official Lana Nusseibeh’s U.N. secretary-general bid faces scrutiny regarding her country's role in Sudan, and there are reports regarding the assistance provided to Flávio Bolsonaro during his departure from Brazil.",
+            "headline": "Security and Legal Developments Involving Ukrainian Citizens",
+            "summary": "SBU investigators have charged three additional Russian commanders regarding the strike on the Okhmatdyt children's hospital. In Slovakia, a Ukrainian citizen was killed by knife wounds in a Trencin hotel; one suspect is in custody, and another is being sought by police. Authorities confirmed that the individuals involved were civilians on a work trip.",
+            "article_ids": [
+              "4",
+              "8"
+            ]
+          },
+          {
+            "headline": "Diplomatic and Political Updates",
+            "summary": "Czech President Petr Pavel dismissed reports suggesting he would become a lead European negotiator for ending the war in Ukraine, calling such claims journalistic speculation. Meanwhile, Russia is reportedly spreading disinformation regarding secret prisons in Ukraine, and investigations continue into the leaking of the U.S. Supreme Court decision that overturned Roe v. Wade. In Brazil, Senator Flávio Bolsonaro refused to provide details on his departure from the country following last month's election.",
+            "article_ids": [
+              "12",
+              "13",
+              "15",
+              "7"
+            ]
+          },
+          {
+            "headline": "United States Political and Economic News",
+            "summary": "Scott Colom's campaign in Mississippi has tightened the race for a U.S. Senate seat. In the federal court system, prediction market Kalshi continues to lose legal challenges against state gambling laws. Additionally, concerns have been raised regarding financial conflicts of interest among appointees to a U.S. health task force.",
+            "article_ids": [
+              "3",
+              "9",
+              "10"
+            ]
+          },
+          {
+            "headline": "Science, Human Rights, and International Protests",
+            "summary": "Researchers have developed software to improve imaging of exoplanets by better modeling telescope hardware performance. In Belarus, the human rights center Viasna reports that authorities are concealing data on political prisoners, noting that 172 individuals are in particularly vulnerable positions. Separately, France saw large-scale protests over rising living costs, and in Ukraine, a camera trap captured a bear with three cubs in the Verkhovyna region.",
             "article_ids": [
               "2",
-              "5",
-              "9",
-              "10",
-              "11",
+              "6",
               "14",
               "20"
             ]
           },
           {
-            "headline": "Miscellaneous Reports",
-            "summary": "Discussions continue regarding the political landscape in Ukraine under leadership shifts, with President Zelensky highlighting Democratic support, while the Kremlin expresses hopes for U.S. policy shifts. In human interest news, a Bronx native’s cross-country walking journey to California, which began in May, continues.",
+            "headline": "Additional International Reports",
+            "summary": "Reports indicate Russia has deepened military support for Iran with a missile launcher deal. Other updates mention Melania Trump's diplomatic activities amid ongoing international geopolitical tensions.",
             "article_ids": [
-              "4",
-              "13",
-              "18"
+              "16",
+              "17",
+              "19"
             ]
           }
         ]
       },
       "sources": {
         "1": {
-          "title": "МЗС: громадянина України затримали в Словаччині за підозрою у вбивстві співвітчизника",
-          "url": "https://www.radiosvoboda.org/a/news-mzs-hromadianyn-ukrainy-zatrymannia-v-slovachyni-vbyvstvo/33891843.html",
+          "title": "Президент України розповів, чому Німеччині було б вигідно надати ЗСУ ракети Taurus",
+          "url": "https://www.radiosvoboda.org/a/news-prezydent-ukrainy-nimechyna-taurus/33891836.html",
           "source": "Новини - Радіо Свобода"
         },
         "2": {
-          "title": "Canadian service member faces court-martial for sharing sensitive information with Ukraine",
-          "url": "https://kyivindependent.com/canadian-service-member-to-face-court-martial-for-sharing-sensitive-information-with-ukraine/",
-          "source": "The Kyiv Independent"
+          "title": "У Франції профспілки кажуть про 1,6 млн учасників протесту проти зростання вартості життя",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061481/",
+          "source": "Українська правда"
         },
         "3": {
-          "title": "Percentage of veterans serving in incoming congressional class drops to 15%",
-          "url": "https://www.militarytimes.com/news/2026/11/05/percentage-of-veterans-serving-in-incoming-congressional-class-drops-to-15/",
-          "source": "Military Times"
+          "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
+          "source": "New York Times"
         },
         "4": {
-          "title": "He Felt Stuck in New York. So He Started Walking to California.",
-          "url": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
-          "source": "New York Times"
+          "title": "В готелі у Словаччині від колотих ран загинув українець: одного підозрюваного затримали, ще одного розшукують",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061480/",
+          "source": "Українська правда"
         },
         "5": {
-          "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-          "source": "New York Times"
+          "title": "Зеленський: ми можемо подумати про онлайн-вибори",
+          "url": "https://www.rbc.ua/rus/news/zelenskiy-mi-mozhemo-podumati-onlayn-vibori-1793909081.html",
+          "source": "РБК-Украина"
         },
         "6": {
-          "title": "Генштаб зафіксував 167 бойових зіткнень на фронті з початку доби",
-          "url": "https://www.pravda.com.ua/news/2026/11/05/8061483/",
-          "source": "Українська правда"
+          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+          "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+          "source": "Ars Technica"
         },
         "7": {
-          "title": "Івано-Франківщина втратила пʼятьох бійців",
-          "url": "https://if.informator.ua/2026/11/05/ivano-frankivshhyna-vtratyla-p%ca%bcyatoh-bijcziv/",
-          "source": "Інформатор Івано-Франківськ"
+          "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+          "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
+          "source": "New York Times"
         },
         "8": {
-          "title": "Newsom moves to empty California's death row as 2028 looms",
-          "url": "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028",
-          "source": "Axios"
-        },
-        "9": {
-          "title": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
-          "url": "https://www.militarytimes.com/news/your-military/2026/11/05/popular-military-air-show-permanently-pulled-from-raf-fairford-after-suspected-terror-threat/",
-          "source": "Military Times"
-        },
-        "10": {
-          "title": "Путін передав у зовнішнє управління російський актив японського виробника тютюну JTI",
-          "url": "https://www.radiosvoboda.org/a/news-putin-zovnishne-upravlinnia-rosiiskyi-aktyv-jti/33891839.html",
+          "title": "СБУ повідомила ще 3 російськм командирам про підозру через удар по «Охматдиту»",
+          "url": "https://www.radiosvoboda.org/a/news-sbu-pidozra-rosiiski-komandyry-udar-ohmatdyt/33891831.html",
           "source": "Новини - Радіо Свобода"
         },
+        "9": {
+          "title": "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks",
+          "url": "https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html",
+          "source": "New York Times"
+        },
+        "10": {
+          "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+          "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+          "source": "Ars Technica"
+        },
         "11": {
-          "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
-          "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
-          "source": "New York Times"
-        },
-        "12": {
-          "title": "Democrat locked in Deep South Senate stunner",
-          "url": "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat",
-          "source": "Axios"
-        },
-        "13": {
-          "title": "100 days in, what changed for Ukraine's soldiers under Commander-in-Chief Drapatyi?",
-          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xotn78/100_days_in_what_changed_for_ukraines_soldiers/",
-          "source": "rUkrainianConflict on Reddit"
-        },
-        "14": {
-          "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
-          "url": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-          "source": "New York Times"
-        },
-        "15": {
-          "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
-          "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
-          "source": "New York Times"
-        },
-        "16": {
-          "title": "Across the South, Black Voters Help Propel Democratic Wins",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
-          "source": "New York Times"
-        },
-        "17": {
-          "title": "На Кіровоградщині через російську атаку троє людей постраждали",
-          "url": "https://www.pravda.com.ua/news/2026/11/05/8061482/",
+          "title": "Зеленський: Нам потрібно від Німеччини ракети Taurus, це вигідно обом сторонам",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061479/",
           "source": "Українська правда"
         },
-        "18": {
-          "title": "Zelensky says Democrats \"speak very clearly about supporting Ukraine\" after they won both chambers; the Kremlin says it hopes Trump \"will continue his peacemaking efforts\" regardless",
-          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xotez3/zelensky_says_democrats_speak_very_clearly_about/",
+        "12": {
+          "title": "Russia’s Matryoshka bots launch disinfo campaign claiming Ukraine runs “secret prisons” to torture soldiers and hold kidnapped foreigners",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xos9jy/russias_matryoshka_bots_launch_disinfo_campaign/",
           "source": "rUkrainianConflict on Reddit"
         },
-        "19": {
-          "title": "6 листопада на Прикарпатті прогнозують хмарну погоду з проясненнями, без істотних опадів.",
-          "url": "https://if.informator.ua/2026/11/05/6-lystopada-na-prykarpatti-prognozuyut-hmarnu-pogodu-z-proyasnennyamy-bez-istotnyh-opadiv/",
+        "13": {
+          "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+          "source": "New York Times"
+        },
+        "14": {
+          "title": "На Верховинщині фотопастка «впіймала» ведмедицю з трьома ведмежатами (ВІДЕО)",
+          "url": "https://if.informator.ua/2026/11/05/na-verhovynshhyni-fotopastka-vpijmala-vedmedyczyu-z-troma-vedmezhatamy-video/",
           "source": "Інформатор Івано-Франківськ"
         },
+        "15": {
+          "title": "Президент Чехії каже, що не має амбіцій стати європейським переговірником щодо України",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061477/",
+          "source": "Українська правда"
+        },
+        "16": {
+          "title": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xoroho/melania_trump_touts_her_diplomatic_role_as/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "17": {
+          "title": "Зеленський каже, що США не надали Україні раніше обіцяну допомогу на 16 млрд доларів",
+          "url": "https://www.radiosvoboda.org/a/news-zelensky-ssha-ne-nadaly-dopomohy-na-16-mlrd-dolariv/33891823.html",
+          "source": "Новини - Радіо Свобода"
+        },
+        "18": {
+          "title": "Зеленський відреагував на перекриття вулиці через відсутність світла: Не можна ремонтувати в розвалочку",
+          "url": "https://www.pravda.com.ua/news/2026/11/05/8061476/",
+          "source": "Українська правда"
+        },
+        "19": {
+          "title": "Russia deepened Iran support with missile launcher deal: Moscow increased military aid for Tehran despite strains from Ukraine war",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xorkaj/russia_deepened_iran_support_with_missile/",
+          "source": "rUkrainianConflict on Reddit"
+        },
         "20": {
-          "title": "Vector introduces ready-to-go one-way attack drone",
-          "url": "https://www.militarytimes.com/news/your-military/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
-          "source": "Military Times"
+          "title": "«Вясна» опублікувала звіт про ситуацію з правами людини в Білорусі і каже, що влада приховує дані про політв’язнів",
+          "url": "https://www.radiosvoboda.org/a/news-bilorus-viasna-politviazni/33891822.html",
+          "source": "Новини - Радіо Свобода"
         }
       },
-      "revision": "92418a560cb7"
+      "revision": "6b6f222ad354"
     }
   ],
-  "last_checked": "2026-11-05T21:36:50.856236+00:00"
+  "last_checked": "2026-11-05T21:38:40.522601+00:00"
 }
