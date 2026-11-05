@@ -229,7 +229,8 @@ def parse_feed(data: bytes, source: dict, final_url: str, cfg: dict, now: dateti
             dated = datetime.fromtimestamp(calendar.timegm(published), UTC) if published else None
         except (ValueError, OverflowError, TypeError):
             dated = None
-        if dated and (dated < cutoff or dated > now + timedelta(hours=12)):
+        # An undated feed entry cannot be confirmed as recent.
+        if dated is None or dated < cutoff or dated > now + timedelta(hours=12):
             continue
         body = " ".join(c.get("value", "") for c in entry.get("content", []) if c.get("type", "text").startswith(("text", "application/xhtml")))
         excerpt = plain(body or entry.get("summary", ""), cfg["excerpt_chars"])
@@ -286,7 +287,7 @@ def merge_queue(pending: list[dict], incoming: list[dict], seen: list[str]) -> t
             known.update(group["keys"])
         else:
             queue.append(group)
-    queue.sort(key=lambda a: (a["published"] or a["discovered"], a["url"]))
+    queue.sort(key=lambda a: (a["published"] or a["discovered"], a["url"]), reverse=True)
     return queue, sorted(known)
 
 
@@ -419,6 +420,10 @@ def load_state(path: Path) -> dict:
 def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summarizer) -> tuple[dict, str]:
     updated = copy.deepcopy(state)
     queue, seen = merge_queue(updated["pending"], incoming, updated["seen"])
+    # Apply the same freshness rule to saved items from earlier runs. This also
+    # clears old backlogs after a user changes the lookback to 24 hours.
+    cutoff = now - timedelta(hours=cfg["lookback_hours"])
+    queue = [item for item in queue if item["published"] and parse_time(item["published"]) >= cutoff]
     if len(queue) > cfg["max_pending"]:
         raise DigestError("Pending queue is full; raise max_pending or reduce feeds. State unchanged.")
     day = now.astimezone(ZoneInfo(cfg["timezone"])).date().isoformat()
@@ -468,7 +473,8 @@ def render_site(state: dict, cfg: dict, output: Path):
     cards = []
     for item in sorted(state["history"], key=lambda h: h["date"], reverse=True):
         link = f'{base}/#{item["date"]}'
-        title = f'{item["date"]} — {item["summary"]["title"]}'
+        # The stored creation date is authoritative; model-written titles can misdate a digest.
+        title = f'{item["date"]} — {cfg["title"]}'
         body = digest_html(item)
         node = ET.SubElement(channel, "item")
         ET.SubElement(node, "title").text = clean(title)

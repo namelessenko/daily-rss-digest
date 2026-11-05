@@ -62,11 +62,11 @@ class DigestTests(unittest.TestCase):
         self.assertEqual(atom[0]["excerpt"], "An Atom update.")
         self.assertEqual(atom[0]["published"], "2026-11-04T10:00:00+00:00")
 
-    def test_old_and_future_articles_excluded_undated_included(self):
+    def test_old_future_and_undated_articles_excluded(self):
         data = self.rss.replace(b"2026 12:00:00", b"2020 12:00:00").replace(b"2026 04:00:00", b"2030 04:00:00")
         self.assertEqual(d.parse_feed(data, SOURCE, SOURCE["url"], self.cfg, NOW), [])
         data = self.rss.replace(b"<pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>", b"")
-        self.assertIsNone(d.parse_feed(data, SOURCE, SOURCE["url"], self.cfg, NOW)[0]["published"])
+        self.assertEqual(len(d.parse_feed(data, SOURCE, SOURCE["url"], self.cfg, NOW)), 1)
 
     def test_rejects_non_feed_and_unsafe_links(self):
         with self.assertRaises(d.DigestError):
@@ -91,7 +91,7 @@ class DigestTests(unittest.TestCase):
         duplicate["keys"].append(d.fingerprint("another feed guid"))
         queue, seen = d.merge_queue(self.items, [duplicate], [])
         self.assertEqual(len(queue), 2)
-        self.assertIn(duplicate["keys"][-1], queue[0]["keys"])
+        self.assertTrue(any(duplicate["keys"][-1] in item["keys"] for item in queue))
         queue, seen = d.merge_queue([], [duplicate], [self.items[0]["keys"][0]])
         self.assertEqual(queue, [])
         self.assertIn(duplicate["keys"][-1], seen)
@@ -103,13 +103,22 @@ class DigestTests(unittest.TestCase):
         self.assertEqual(len(queue), 1)
         self.assertEqual(set(queue[0]["keys"]), {"a", "b", "c", "d"})
 
-    def test_overflow_is_queued_and_next_day_processed(self):
+    def test_overflow_expires_before_next_day(self):
         self.cfg["max_articles"] = 1
         first, _ = d.advance(d.empty_state(), self.items, self.cfg, NOW, summary)
         self.assertEqual(len(first["pending"]), 1)
         second, _ = d.advance(first, self.items, self.cfg, NOW + timedelta(days=1), summary)
-        self.assertEqual(len(second["history"]), 2)
+        self.assertEqual(len(second["history"]), 1)
         self.assertEqual(second["pending"], [])
+
+    def test_old_saved_backlog_is_cleared_and_recent_posts_win(self):
+        old = copy.deepcopy(self.items[0])
+        old["published"] = d.stamp(NOW - timedelta(days=3))
+        state = d.empty_state()
+        state["pending"] = [old]
+        updated, _ = d.advance(state, self.items, self.cfg, NOW, summary)
+        self.assertEqual(updated["pending"], [])
+        self.assertEqual(updated["history"][0]["sources"]["1"]["title"], self.items[1]["title"])
 
     def test_same_day_rerun_never_calls_gemini(self):
         self.cfg["max_articles"] = 1
@@ -161,6 +170,7 @@ class DigestTests(unittest.TestCase):
 
     def test_rss_html_escaping_and_stable_guid(self):
         malicious = summary(self.items)
+        malicious["title"] = "Wrong date: November 2"
         malicious["stories"][0]["summary"] = '<script>alert("x")</script> & more\x01'
         state, _ = d.advance(d.empty_state(), self.items, self.cfg, NOW, lambda _: malicious)
         with tempfile.TemporaryDirectory() as tmp:
@@ -169,6 +179,7 @@ class DigestTests(unittest.TestCase):
             feed = feedparser.parse((output / "feed.xml").read_bytes())
             self.assertFalse(feed.bozo)
             tree = ET.parse(output / "feed.xml")
+            self.assertEqual(tree.findtext("channel/item/title"), "2026-11-05 — My Daily Reading Digest")
             self.assertEqual(tree.findtext("channel/item/guid"), "daily-rss-digest:2026-11-05")
             description = tree.findtext("channel/item/description")
             self.assertIn("&lt;script&gt;", description)

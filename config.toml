@@ -8,13 +8,13 @@ language = "en"
 timezone = "UTC"
 model = "gemini-3.1-flash-lite"
 
-# On each run discover unseen posts from the last 7 days, including late arrivals.
-lookback_hours = 168
+# At the scheduled time, summarize posts published in the last 24 hours.
+lookback_hours = 24
 # One Gemini request per daily digest, apart from transient-error retries.
 max_articles = 20
 excerpt_chars = 2000
 max_output_tokens = 16384
-# Excess articles remain queued, oldest first, even when they age out of lookback.
+# Excess articles remain queued only while inside the lookback window.
 max_pending = 2000
 history_items = 90
 max_feeds = 200
