@@ -2,7 +2,8 @@ name: Daily RSS digest
 
 on:
   schedule:
-    - cron: '17 6 * * *' # 06:17 UTC; 07:17 Berlin winter / 08:17 summer
+    - cron: '0 21 * * *'
+      timezone: 'Europe/Berlin'
   workflow_dispatch:
     inputs:
       publish_only:
