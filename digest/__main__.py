@@ -18,6 +18,7 @@ def main():
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument("--publish-only", action="store_true", help="Rebuild saved history; no feeds or Gemini calls")
     mode.add_argument("--demo", action="store_true", help="Offline fixture preview; never modifies production state")
+    mode.add_argument("--replace-today", action="store_true", help="Replace today's saved digest using recent unprocessed articles")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     try:
@@ -48,7 +49,8 @@ def main():
         feeds = read_opml(args.opml, cfg["max_feeds"])
         articles, failures = collect(feeds, cfg, now)
         state, message = advance(state, articles, cfg, now,
-                                 lambda items: summarize(items, cfg, os.environ.get("GEMINI_API_KEY", "")))
+                                 lambda items: summarize(items, cfg, os.environ.get("GEMINI_API_KEY", "")),
+                                 replace_today=args.replace_today)
         # Build successfully before persisting. The workflow commits state before deployment;
         # a deployment failure is recoverable via --publish-only without another AI charge.
         render_site(state, cfg, args.output)

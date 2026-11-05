@@ -10,6 +10,10 @@ on:
         description: Rebuild and deploy saved history without fetching feeds or calling Gemini
         type: boolean
         default: false
+      replace_today:
+        description: Replace today's digest with recent unprocessed articles
+        type: boolean
+        default: false
 
 # Serializes the whole workflow, including deployment. Do not cancel a state save.
 concurrency:
@@ -52,9 +56,12 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           SITE_URL: ${{ steps.pages.outputs.base_url }}
           PUBLISH_ONLY: ${{ inputs.publish_only }}
+          REPLACE_TODAY: ${{ inputs.replace_today }}
         run: |
           if [ "$PUBLISH_ONLY" = "true" ]; then
             python -m digest --publish-only
+          elif [ "$REPLACE_TODAY" = "true" ]; then
+            python -m digest --replace-today
           else
             python -m digest
           fi

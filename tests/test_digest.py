@@ -129,6 +129,27 @@ class DigestTests(unittest.TestCase):
         self.assertEqual(len(rerun["pending"]), 1)
         forbidden.assert_not_called()
 
+    def test_explicit_replace_today_uses_recent_queue_and_preserves_on_failure(self):
+        first, _ = d.advance(d.empty_state(), self.items[:1], self.cfg, NOW, summary)
+        old_created = first["history"][0]["created"]
+        later = NOW + timedelta(hours=1)
+        with self.assertRaises(d.DigestError):
+            d.advance(first, self.items[1:], self.cfg, later,
+                      MagicMock(side_effect=d.DigestError("model failure")), replace_today=True)
+        self.assertEqual(first["history"][0]["created"], old_created)
+        second, message = d.advance(first, self.items[1:], self.cfg, later, summary, replace_today=True)
+        self.assertIn("Replaced", message)
+        self.assertEqual(len(second["history"]), 1)
+        self.assertNotEqual(second["history"][0]["created"], old_created)
+        self.assertEqual(second["history"][0]["sources"]["1"]["title"], self.items[1]["title"])
+        self.assertRegex(second["history"][0]["revision"], r"^[0-9a-f]{12}$")
+        with tempfile.TemporaryDirectory() as tmp:
+            d.render_site(second, self.cfg, Path(tmp))
+            guid = ET.parse(Path(tmp) / "feed.xml").findtext("channel/item/guid")
+            self.assertEqual(guid, "daily-rss-digest:2026-11-05:" + second["history"][0]["revision"])
+        with self.assertRaises(d.DigestError):
+            d.advance(second, [], self.cfg, later, summary, replace_today=True)
+
     def test_empty_day_no_request_or_digest(self):
         forbidden = MagicMock(side_effect=AssertionError())
         state, _ = d.advance(d.empty_state(), [], self.cfg, NOW, forbidden)

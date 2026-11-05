@@ -417,7 +417,8 @@ def load_state(path: Path) -> dict:
         raise DigestError("state.json is invalid; restore it from digest-state history instead of resetting it") from None
 
 
-def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summarizer) -> tuple[dict, str]:
+def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summarizer,
+            replace_today: bool = False) -> tuple[dict, str]:
     updated = copy.deepcopy(state)
     queue, seen = merge_queue(updated["pending"], incoming, updated["seen"])
     # Apply the same freshness rule to saved items from earlier runs. This also
@@ -428,17 +429,27 @@ def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summari
         raise DigestError("Pending queue is full; raise max_pending or reduce feeds. State unchanged.")
     day = now.astimezone(ZoneInfo(cfg["timezone"])).date().isoformat()
     status = "No new articles"
-    if any(item["date"] == day for item in updated["history"]):
+    existing_today = any(item["date"] == day for item in updated["history"])
+    if existing_today and not replace_today:
         status = "Today's digest already exists; new articles queued for tomorrow"
     elif queue:
         selected = queue[:cfg["max_articles"]]
         result = validate_summary(summarizer(selected), [str(i) for i in range(1, len(selected) + 1)])
         sources = {str(i): {k: a[k] for k in ("title", "url", "source")}
                    for i, a in enumerate(selected, 1)}
-        updated["history"].append({"date": day, "created": stamp(now), "summary": result, "sources": sources})
+        if existing_today:
+            updated["history"] = [item for item in updated["history"] if item["date"] != day]
+        digest = {"date": day, "created": stamp(now), "summary": result, "sources": sources}
+        if existing_today:
+            # A new GUID makes readers show the replacement as a fresh entry.
+            digest["revision"] = fingerprint(stamp(now))[:12]
+        updated["history"].append(digest)
         seen = sorted(set(seen).union(*(a["keys"] for a in selected)))
         queue = queue[len(selected):]
-        status = f"Created {day} digest from {len(selected)} articles"
+        verb = "Replaced" if existing_today else "Created"
+        status = f"{verb} {day} digest from {len(selected)} articles"
+    elif existing_today and replace_today:
+        raise DigestError("No recent unprocessed articles are available to replace today's digest")
     updated["history"] = sorted(updated["history"], key=lambda h: h["date"])[-cfg["history_items"]:]
     updated.update(seen=seen, pending=queue, last_checked=stamp(now))
     return updated, status
@@ -480,7 +491,10 @@ def render_site(state: dict, cfg: dict, output: Path):
         ET.SubElement(node, "title").text = clean(title)
         ET.SubElement(node, "link").text = link
         # Date-based opaque GUID remains stable if the site domain changes.
-        ET.SubElement(node, "guid", isPermaLink="false").text = "daily-rss-digest:" + item["date"]
+        guid = "daily-rss-digest:" + item["date"]
+        if item.get("revision"):
+            guid += ":" + item["revision"]
+        ET.SubElement(node, "guid", isPermaLink="false").text = guid
         ET.SubElement(node, "pubDate").text = format_datetime(parse_time(item["created"]), usegmt=True)
         ET.SubElement(node, "description").text = clean(body)
         cards.append(f'<article id="{item["date"]}"><h2>{html.escape(title)}</h2>{body}</article>')
