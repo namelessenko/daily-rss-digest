@@ -11,7 +11,7 @@ model = "gemini-3.1-flash-lite"
 # On each run discover unseen posts from the last 7 days, including late arrivals.
 lookback_hours = 168
 # One Gemini request per daily digest, apart from transient-error retries.
-max_articles = 10
+max_articles = 20
 excerpt_chars = 2000
 max_output_tokens = 16384
 # Excess articles remain queued, oldest first, even when they age out of lookback.
