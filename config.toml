@@ -1,0 +1,23 @@
+# The workflow supplies the actual GitHub Pages URL through SITE_URL.
+# For local runs, set this to https://YOURNAME.github.io/YOUR-REPOSITORY
+site_url = ""
+title = "My Daily Reading Digest"
+description = "A daily summary of my RSS subscriptions, with links to original sources."
+language = "en"
+# This controls digest dates; the workflow schedule is independently in UTC.
+timezone = "UTC"
+model = "gemini-3.1-flash-lite"
+
+# On each run discover unseen posts from the last 7 days, including late arrivals.
+lookback_hours = 168
+# One Gemini request per daily digest, apart from transient-error retries.
+max_articles = 40
+excerpt_chars = 2000
+max_output_tokens = 16384
+# Excess articles remain queued, oldest first, even when they age out of lookback.
+max_pending = 2000
+history_items = 90
+max_feeds = 200
+workers = 8
+feed_timeout = 20
+api_timeout = 120

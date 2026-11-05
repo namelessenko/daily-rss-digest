@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Demo news</title><link>https://example.org/</link><description>Fixture feed</description>
+  <item><title>A new community library opens</title><link>https://example.org/library?utm_source=rss</link><guid isPermaLink="false">story-1</guid><pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate><description><![CDATA[<p>The new library offers free workshops and longer opening hours.</p><script>ignore me</script>]]></description></item>
+  <item><title>City publishes its cycling plan</title><link>https://example.org/cycling</link><guid isPermaLink="false">story-2</guid><pubDate>Thu, 05 Nov 2026 04:00:00 GMT</pubDate><description>Protected lanes will connect three neighborhoods under the proposed plan.</description></item>
+</channel></rss>

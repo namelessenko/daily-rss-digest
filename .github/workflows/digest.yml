@@ -1,0 +1,81 @@
+name: Daily RSS digest
+
+on:
+  schedule:
+    - cron: '17 6 * * *' # 06:17 UTC; 07:17 Berlin winter / 08:17 summer
+  workflow_dispatch:
+    inputs:
+      publish_only:
+        description: Rebuild and deploy saved history without fetching feeds or calling Gemini
+        type: boolean
+        default: false
+
+# Serializes the whole workflow, including deployment. Do not cancel a state save.
+concurrency:
+  group: daily-rss-digest
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    # Manual runs from other branches cannot publish or overwrite production state.
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write # Only this job writes the separate digest-state branch.
+      pages: read
+    steps:
+      - name: Check out source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: requirements*.txt
+      - name: Install dependencies
+        run: python -m pip install -r requirements-dev.txt
+      - name: Run offline tests
+        run: python -m unittest discover -s tests -v
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
+      - name: Restore saved state
+        run: python scripts/state_branch.py restore
+      - name: Generate or rebuild digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+          PUBLISH_ONLY: ${{ inputs.publish_only }}
+        run: |
+          if [ "$PUBLISH_ONLY" = "true" ]; then
+            python -m digest --publish-only
+          else
+            python -m digest
+          fi
+      - name: Persist state before publishing
+        if: ${{ !inputs.publish_only }}
+        run: python scripts/state_branch.py save
+      - name: Upload site
+        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

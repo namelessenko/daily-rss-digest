@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<opml version="1.0"> 
+ <head> 
+  <title>Exported from feeeed</title> 
+ </head> 
+ <body> 
+  <outline type="rss" xmlUrl="https://if.informator.ua/feed" text="Інформатор Івано-Франківськ" title="Інформатор Івано-Франківськ"></outline>
+  <outline type="rss" xmlUrl="http://feeds.boingboing.net/boingboing/iBag" text="Boing Boing" title="Boing Boing"></outline>
+  <outline type="rss" xmlUrl="http://www.spiegel.de/schlagzeilen/rss/0,5291,20,00.xml" text="DER SPIEGEL - Politik" title="DER SPIEGEL - Politik"></outline>
+  <outline type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" text="Ars Technica" title="Ars Technica"></outline>
+  <outline type="rss" xmlUrl="https://kyivindependent.com/news-archive/rss/" text="The Kyiv Independent" title="The Kyiv Independent"></outline>
+  <outline type="rss" xmlUrl="https://www.rbc.ua/static/rss/ukrnet.strong.ukr.rss.xml" text="РБК-Украина" title="РБК-Украина"></outline>
+  <outline type="rss" xmlUrl="https://www.radiosvoboda.org/api/zrqitl-vomx-tpeoumq" text="Новини - Радіо Свобода" title="Новини - Радіо Свобода"></outline>
+  <outline type="rss" xmlUrl="http://mappingignorance.org/feed/" text="Mapping Ignorance" title="Mapping Ignorance"></outline>
+  <outline type="rss" xmlUrl="https://rss.dw.com/atom/rss-de-top" text="Deutsche Welle: DW.com Themen des Tages" title="Deutsche Welle: DW.com Themen des Tages"></outline>
+  <outline type="rss" xmlUrl="https://reddit.com/r/UkrainianConflict.rss" text="rUkrainianConflict on Reddit" title="rUkrainianConflict on Reddit"></outline>
+  <outline type="rss" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/news/?outputType=xml" text="Military Times" title="Military Times"></outline>
+  <outline type="rss" xmlUrl="https://reddit.com/r/worldnews.rss" text="rworldnews on Reddit" title="rworldnews on Reddit"></outline>
+  <outline type="rss" xmlUrl="https://www.axios.com/feeds/feed.rss" text="Axios" title="Axios"></outline>
+  <outline type="rss" xmlUrl="http://www.quantamagazine.org/feed/" text="Quanta Magazine" title="Quanta Magazine"></outline>
+  <outline type="rss" xmlUrl="http://www.npr.org/rss/rss.php?id=1001" text="News : NPR" title="News : NPR"></outline>
+  <outline type="rss" xmlUrl="http://www.pravda.com.ua/rss/" text="Українська правда" title="Українська правда"></outline>
+  <outline type="rss" xmlUrl="http://www.guardian.co.uk/world/eu/rss" text="European Union | The Guardian" title="European Union | The Guardian"></outline>
+  <outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" text="New York Times" title="New York Times"></outline>
+ </body> 
+</opml>
