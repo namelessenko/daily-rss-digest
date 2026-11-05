@@ -1,14 +1,14 @@
 import copy
 import json
 import os
+from pathlib import Path
 import subprocess
 import sys
 import tempfile
 import unittest
+from unittest.mock import MagicMock, patch
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
-from pathlib import Path
-from unittest.mock import MagicMock, patch
 
 import feedparser
 import requests
@@ -288,7 +288,7 @@ class DigestTests(unittest.TestCase):
                 d.load_config(ROOT / "config.toml")
         with tempfile.TemporaryDirectory() as tmp:
             file = Path(tmp) / "config.toml"
-            file.write_text((ROOT / "config.toml").read_text().replace("max_articles = 40", "max_articles = -1"))
+            file.write_text((ROOT / "config.toml").read_text().replace(f"max_articles = {self.cfg['max_articles']}", "max_articles = -1"))
             with self.assertRaises(d.DigestError):
                 d.load_config(file)
 
