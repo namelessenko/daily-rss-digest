@@ -240,6 +240,42 @@
   "pending": [
     {
       "keys": [
+        "bc5ac9bfda13b5d83a5f333e21b629f15d6de872142094d561e7872fd0bbb36c",
+        "4813e68135803884edfb452272d5dc54864f7400da88b4fd648010cbacf4d241"
+      ],
+      "title": "Russia to send senior diplomats, military officials to upcoming peace talks in Abu Dhabi",
+      "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/",
+      "source": "The Kyiv Independent",
+      "published": "2026-11-07T21:58:58+00:00",
+      "discovered": "2026-11-07T22:43:54.824514+00:00",
+      "excerpt": "Russian Deputy Foreign Minister Sergei Ryabkov, who oversees Russia's relations with the United States and arms control issues, will join the negotiations for the first time."
+    },
+    {
+      "keys": [
+        "b9a69297012fe9a8b90c9baeecb7d23a78305e1fbd64ee04d24fc691d84bbecc",
+        "0e30e505d00826f263cff420f8697b294663e6f383e49c9b8c3568f66507e9f6"
+      ],
+      "title": "Через удар Росії по Одесі загинула людина, пошкоджена інфраструктура",
+      "url": "https://www.radiosvoboda.org/a/news-udar-rosii-odesa-zahynula-liudyna/33892991.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-07T21:49:50+00:00",
+      "discovered": "2026-11-07T22:43:54.824514+00:00",
+      "excerpt": "Внаслідок попередньої атаки ДСНС фіксувала часткове руйнування житлового будинку в Одесі із загорянням"
+    },
+    {
+      "keys": [
+        "40299fc3cc9341a589dc5ed5505a77ac6bcf55e0f3df611daad2b5fe70a525f7",
+        "2cc8e6e143e163de8f11de5f51d334167faf642ae13137753fdd7247f984b96e"
+      ],
+      "title": "Росіяни атакували інфраструктуру Одеси, загинула людина",
+      "url": "https://www.pravda.com.ua/news/2026/11/07/8061761/",
+      "source": "Українська правда",
+      "published": "2026-11-07T21:47:00+00:00",
+      "discovered": "2026-11-07T22:43:54.824514+00:00",
+      "excerpt": "Російські війська у суботу ввечері атакували інфраструктуру Одеси, відомо про загиблу людину. Джерело : голова Одеської МВА Сергій Лисак Пряма мова : \"Ворог знову атакував Одесу. Постраждала інфраструктура. На жаль, одна людина загинула\". Деталі : Раніше Повітряні сили повідомляли про реактивний БпЛА над Одесою."
+    },
+    {
+      "keys": [
         "639452fd2360b832f06ae0097afe1a49d6366f4253ef732a32bed49fbfe9b938",
         "f3e80fdc911522c87aca3402c1914206d9901a75b85c53fc9b3911d3614159fc"
       ],
@@ -276,8 +312,8 @@
     },
     {
       "keys": [
-        "728741691b6a37abac60d1126c68fa4648febbcca747598ac664b1d6e6a0e56a",
-        "49fd519eb8d162816b8119da8a096c9bf390957d6f4a58fc1266e9530aef5793"
+        "49fd519eb8d162816b8119da8a096c9bf390957d6f4a58fc1266e9530aef5793",
+        "728741691b6a37abac60d1126c68fa4648febbcca747598ac664b1d6e6a0e56a"
       ],
       "title": "У Москві пройшли масштабні затримання: є інформація про вручення повісток та побиття",
       "url": "https://www.pravda.com.ua/news/2026/11/07/8061759/",
@@ -324,8 +360,8 @@
     },
     {
       "keys": [
-        "e1baf3724e1b38fa12ad8ddee480b9c0afe02573aef048e3ac515b21ef97c155",
-        "3a2294bf8e2d1d58cb5d0a0c1ba58aa0270299b1b35ab4990ff26536289c5294"
+        "3a2294bf8e2d1d58cb5d0a0c1ba58aa0270299b1b35ab4990ff26536289c5294",
+        "e1baf3724e1b38fa12ad8ddee480b9c0afe02573aef048e3ac515b21ef97c155"
       ],
       "title": "У Хмельницькому одна людина постраждала внаслідок удару російського дрона – ОВА",
       "url": "https://www.radiosvoboda.org/a/news-khmelnytsky-postrazhdalyi-udar-rosiiskyi-dron/33892987.html",
@@ -360,8 +396,8 @@
     },
     {
       "keys": [
-        "a5aa2d10db3769da18f25be7cfe386e8efc39fd42164c537906fd1659aef80d7",
-        "607861cd33c515f44838fe897805a1479d899759d5e5ea9f170053028f4a437a"
+        "607861cd33c515f44838fe897805a1479d899759d5e5ea9f170053028f4a437a",
+        "a5aa2d10db3769da18f25be7cfe386e8efc39fd42164c537906fd1659aef80d7"
       ],
       "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
       "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
@@ -900,8 +936,8 @@
     },
     {
       "keys": [
-        "65112e18c9391e772f39bd7ada26c714472c931d1523f59d755e67ca4f2b1601",
-        "4a959eb79f215436ced0e0866974bf18e9b31e2141acfdc85bc32287efbab129"
+        "4a959eb79f215436ced0e0866974bf18e9b31e2141acfdc85bc32287efbab129",
+        "65112e18c9391e772f39bd7ada26c714472c931d1523f59d755e67ca4f2b1601"
       ],
       "title": "We the People Finally Turn on Trump",
       "url": "https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html",
@@ -1415,6 +1451,18 @@
     },
     {
       "keys": [
+        "7c6e5c657d21e28933159500b46e60215406b2f95f1bd104db59e5ddad58d68c",
+        "cc4dfff7925ad97220789370d8fb5d4601229761f361f6349ccd2e38c405ac62"
+      ],
+      "title": "Democrats Need a Bold Governing Agenda",
+      "url": "https://www.nytimes.com/2026/11/07/opinion/midterms-democrats-won-agenda.html",
+      "source": "New York Times",
+      "published": "2026-11-07T13:45:36+00:00",
+      "discovered": "2026-11-07T22:43:54.824514+00:00",
+      "excerpt": "If Democrats rise to this moment, they can turn a single night’s victory into a new American promise."
+    },
+    {
+      "keys": [
         "4616d944501a3419ae24c8e5c1a4b1a6c6204c96134b3cac23f4bfa97f1374fd",
         "a2f4662a8abd1effc998e90663926fa156ab5e04da0305a23dee703b58bbd5a6"
       ],
@@ -1656,8 +1704,8 @@
     },
     {
       "keys": [
-        "f8e7ec8e50629aa83f4723469199db8b81d6c75b46d657636bddc6bd02b98ac8",
-        "3824bf0fd80934e74c8e3f9580d69fb6a3d478a41352fad4ccaf74f49a30e8eb"
+        "3824bf0fd80934e74c8e3f9580d69fb6a3d478a41352fad4ccaf74f49a30e8eb",
+        "f8e7ec8e50629aa83f4723469199db8b81d6c75b46d657636bddc6bd02b98ac8"
       ],
       "title": "In 5 states, Republicans may lose every statewide executive race on the ballot",
       "url": "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026",
@@ -2554,198 +2602,6 @@
       "published": "2026-11-06T22:45:49+00:00",
       "discovered": "2026-11-06T23:33:59.180272+00:00",
       "excerpt": "submitted by /u/barsik_ [link] [comments]"
-    },
-    {
-      "keys": [
-        "5d5ba4352330b519a0d773031c79029c632fa6c8093f15cedd34394f31ae0515",
-        "7113cb478abc9a972ca7da16aa5e4997634767a07f3002ee1ae3fffc15ce978f"
-      ],
-      "title": "Vance leads behind-the-scenes push for new Iran deal",
-      "url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
-      "source": "Axios",
-      "published": "2026-11-06T22:41:57+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to two sources with knowledge of the matter. Why it matters: Vance's heavy involvement shows he's taking it upon himself to extract the U.S. from a conflict he blamed for the GOP's staggering losses in this week's election. It also elevates the latest round of indirect talks to the highest levels of the administration. The big picture: U.S. officials and regional sources say that for now Trump is willing to let diplomatic efforts play out and wants to see if any kind of deal is possible. \"We're talking to them,\" Trump told reporters on Friday, when asked what his message to Iran was. But if he changes his mind and orders renewed strikes, the U.S. military is ready to launch strikes on a relatively short timetable. Behind the scenes: Vance has been speaking almost daily to Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al-Thani, Pakistani Chief of Army Staff Field Marshal Asim Munir and other mediators about the negotiations with Iran, sources with direct knowledge said. White House envoy Steve Witkoff and President Trump's adviser and son-in-law Jared Kushner are also involved. Vance and Qatari and Pakistani mediators have been discussing the possibility of a working-level technical meeting between the U.S. and Iran in the coming days, but it hasn't materialized yet, the sources said. The vice president's office declined to comment. Catch up quick: Vance was the most skeptical voice in Trump's inner circle about the war before it began at the end of February, advocating instead for a diplomatic solution. He led the U.S. negotiating team to an April summit on Iran in Islamabad, and he was personally involved in talks that led to the U.S.-Iran memorandum of understanding (MOU) in June. Vance then led the U.S. delegation to a round of direct talks with Iran in Switzerland, which ended wit"
-    },
-    {
-      "keys": [
-        "78cfd1cb02c8baa354629558cfd0200f324a6cffb719aa43ec5127397b479168",
-        "8f2f3ad681650db361838553babe8ab2c0b566ffa9c3532bab6e0d24368dc804"
-      ],
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T22:41:37+00:00",
-      "discovered": "2026-11-07T10:02:09.513177+00:00",
-      "excerpt": "Several tanker ships linked to Iran have been loitering over subsea Internet cables in the Gulf of Oman near the Strait of Hormuz—a possible indication that the Iranian government is preparing to attack such undersea infrastructure in response to any renewed US and Israeli strikes. The movements of three sanctioned tankers and an Iranian fishing boat have been tracked near major undersea cables by the maritime intelligence firm Windward in October, according to the Financial Times . Six active cables currently cross through the contested Strait of Hormuz, linking the Middle East to Europe, Africa and Asia, with two more cables having segments under construction in the region. Four countries, including Iraq, Kuwait, Bahrain and Qatar, depend entirely upon such subsea telecommunications connections running through the Strait of Hormuz chokepoint to link with the outside world. But other countries also depend heavily on the region's undersea cable network—one third of India’s westbound Internet traffic goes through the Persian Gulf and Strait of Hormuz. Read full article Comments"
-    },
-    {
-      "keys": [
-        "e556a3f98ee8cf5ecac9a81ffa1b6a4c9fa55a21a7c4e288eb0dc6ad976c84b0",
-        "eba08afc1485e8a93b863e736ff5d8dd1bed820d28dbd9864a79004c537ad387"
-      ],
-      "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
-      "url": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
-      "source": "New York Times",
-      "published": "2026-11-06T22:22:06+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta."
-    },
-    {
-      "keys": [
-        "5b3a00a2a8d767d60d6225ef95529caad401d4d67d47ddda05c56fc4340a2823",
-        "e53a6f7af524e587b9d4e546851866b14d09e44ac69cd500746436bb74fc84d8"
-      ],
-      "title": "Russian President Vladimir Putin has no ​veto on European security ‌matters and Ukraine must become fully integrated into European ​security architecture, says EU's ​foreign policy chief Kaja ⁠Kallas",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xppy2k/russian_president_vladimir_putin_has_no_veto_on/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-06T22:20:21+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "submitted by /u/Raj_Valiant3011 [link] [comments]"
-    },
-    {
-      "keys": [
-        "4dfcca2f504ba44febc6520b96ed1ee4be16b30a04dc1e34d6db70d7a92ee353",
-        "c706f57373bc61cc84c9e35a9c8260f0e95aadffebb5da7b3978a184fe703923"
-      ],
-      "title": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
-      "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
-      "source": "Axios",
-      "published": "2026-11-06T22:16:01+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Angered over his midterm losses, President Trump announced Friday he was replacing Susie Wiles as White House chief of staff with longtime adviser Stephen Miller. Why it matters: Trump is trading one of his few moderating forces with one of the most maximalist champions of his agenda, a striking signal that the president may double down on the hardline policies that helped Republicans lose control of Congress on Tuesday. Driving the news: Wiles submitted her resignation on Thursday night. Sources told Axios her departure was a mutual decision, but driven by Tuesday's election results, for which Trump blamed her. Sources said Trump began expressing discomfort with the scale of the midterm losses and the money his political team spent on Wednesday. Wiles offered to quit for two days before she resigned. Trump accepted her decision on Friday. Trump did not ask for her resignation, said one informed source who spoke with Wiles, \"but he couldn't get it out of his head that she was to blame, not him.\" \"Susie could've stuck around, but what's the point?\" that person said. \"Whether it's right or wrong, Susie knows that serving the president means it's at his pleasure. And if she couldn't change the way he felt, there was no reason to stay.\" What they're saying: \"I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026,\" Trump wrote on Truth Social, adding that Wiles will move to the Trump Political Operation. Wiles said in a statement posted to X that \"[s]erving President Trump in the White House has been the honor of a lifetime. I'm so proud to have been a part of what we've accomplished together.\" Zoom in: Miller, who served in Trump's first administration, was already a co-equal of Wiles' in some respects. No one in Trump's government knows the levers of power, the operation of the White House and the bold use of th"
-    },
-    {
-      "keys": [
-        "7bdb3f4fec31734cf5cd49cbda9fe1afe90339ee0c7a9f571d9a5d71e00367b5",
-        "fa7f32556c9f867d66f2a999f72458aae01709226c99e972d9fef956d06f543b"
-      ],
-      "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-      "source": "New York Times",
-      "published": "2026-11-06T22:13:11+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Stephen Miller in the White House with President Trump."
-    },
-    {
-      "keys": [
-        "600f5b5bd07da10e9a3a278afcfe26d7a4e6aaccb4717c395a44c62a510bf2b3",
-        "b8d6bf993c2d07a7e3ee5a89edfded0798ac0458201641e997f2dff4152e6106"
-      ],
-      "title": "Belgium's Sourdough Library keeps starters from more than 100 bakeries in a special fridge",
-      "url": "https://boingboing.net/2026/11/06/sourdough-library-belgium-karl-de-smedt.html",
-      "source": "Boing Boing",
-      "published": "2026-11-06T22:12:22+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "There is a sourdough library in Belgium. Karl De Smedt takes us on a tour of the library in this video . He shows us the special refrigerator where starters from over 100 different bakeries around the world are safely stored. — Read the rest The post Belgium's Sourdough Library keeps starters from more than 100 bakeries in a special fridge appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "7aa3f824cec5811cd41022146a31f69d5fa7d9871fc3ad4417c0768ad91ac37d",
-        "e1ca24445a5eca3c42446616979fb7742747b37a6af16f97b56717acb2dd6b79"
-      ],
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T22:08:47+00:00",
-      "discovered": "2026-11-07T10:02:09.513177+00:00",
-      "excerpt": "Many people are not big fans of game publisher EA right now for good reason , but for those who remember a better time in the 1990s, there's a little good news. Twenty-five classic games from that EA era have been lightly remastered and updated, then placed for sale on Steam and GOG , including several Wing Commander games and nearly the entire Ultima series. Below is the full list of remastered or re-released games: Read full article Comments"
-    },
-    {
-      "keys": [
-        "5ba612e508c6a447082c7d595116773dce2ee665ca827dfe758f12465102f2d6",
-        "fb8d35eaeef2a80987984c108ed14a2f59a7b6b16766be92221e01f52ecea07e"
-      ],
-      "title": "Арахамія не знав завчасно про зустріч Дмитрієва з Трампом, але не впевнений, що вона стосувалася України",
-      "url": "https://www.radiosvoboda.org/a/news-arahamiia-pro-zustrich-dmytriev-i-tramp/33892557.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-06T22:04:46+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "«Навіть коли США зустрічаються з європейцями і це стосується України, ми негайно отримуємо брифінг від обох сторін. Тож у нас є певна довіра до цього процесу»"
-    },
-    {
-      "keys": [
-        "1637540a8ac0987ae86798a8aa68b1dd42962e963477fb1b5b21c32c9fd1a6ca",
-        "a1bc9384b2e2319596b1bcc4033886fc58e1d8534a84c96b3fba28f08675afe3"
-      ],
-      "title": "Russian ballistic missiles slam Kyiv after Zelensky warns of mass attack",
-      "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-06T22:04:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Several waves of ballistic missiles have targeted the capital, with Kyiv Mayor Vitali Klitschko reporting that Russia is attacking infrastructure facilities near the city."
-    },
-    {
-      "keys": [
-        "70070e74af18fa5149373b88a48a525da9f744449e8cf157e60bd6595e3cd1d7",
-        "f7f6c241e66fab5d580f6bdc700eafdf7183052bd96957c4999c4c6e35ba5c51"
-      ],
-      "title": "The snake-necked turtle tucks its long neck sideways under its shell",
-      "url": "https://boingboing.net/2026/11/06/rote-island-snake-necked-turtle.html",
-      "source": "Boing Boing",
-      "published": "2026-11-06T22:00:23+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Behold, the snake-necked turtle. The Turtle Survival Center shared this video of this unique turtle species, who stand out amongst other turtles due to their long, flexible necks. When threatened, this species folds their long neck beneath the edge of their shells. — Read the rest The post The snake-necked turtle tucks its long neck sideways under its shell appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "5603cb584e872b27d76040fc799262c7f7a6c90e309a9fbafa340ef5cd12f029",
-        "ab92198c165921a28ede127cc3619f4dbf3714dedfe25881c04830f2efd18063"
-      ],
-      "title": "These $1,199 MacBooks are under $250 right now",
-      "url": "https://boingboing.net/2026/11/06/these-1199-macbooks-are-under-250-right-now.html",
-      "source": "Boing Boing",
-      "published": "2026-11-06T22:00:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "TL;DR: Get a refurbished 2018 MacBook Air with a 13.3-inch Retina display for $234.97 (reg. $1,199). Tech prices have made it so much harder to find a good computer for a good price. That's why more people are switching to refurbished gear. — Read the rest The post These $1,199 MacBooks are under $250 right now appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "ab8720698b4c3579f798f5da3e4d51f719480c91d1bd2323a67a2609e9b3c451",
-        "dbce7f72b883faf0532b024c06a3207150d19bb2ad126c4542a84dcd4d674bb9"
-      ],
-      "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-      "source": "News : NPR",
-      "published": "2026-11-06T21:53:10+00:00",
-      "discovered": "2026-11-07T18:49:01.555944+00:00",
-      "excerpt": "The party's success was fueled by frustrations over the cost of living. But in divided government, they'll face opposition from Republicans in Congress and a president vowing to use his veto pen. (Image credit: Win McNamee)"
-    },
-    {
-      "keys": [
-        "8daf86f83a2f1189e0a5b306e952c418b5bb20221bd8b50bb31ea0d6462b9ce7",
-        "5ad3aae66c5faeb7ea9644543911575cf962de7a59e9e7795b131b82096295d0"
-      ],
-      "title": "Двоє людей постраждали на Київщині через атаку російських дронів",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061662/",
-      "source": "Українська правда",
-      "published": "2026-11-06T21:49:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Російські війська атакували ударними дронами Броварський район на Київщині, двоє людей постраждали. Джерело : голова Київської ОВА Тимур Ткаченко Пряма мова : \"Внаслідок ворожої атаки ударних дронів у Броварському районі постраждали двоє людей. Виникла пожежа у приватному житловому будинку\". Деталі : Він уточнив, що одну жінку з гострою реакцією на стрес медики оглянули та надали допомогу на місці. Чоловіка деблокували з-під завалів. Він отримав множинні уламкові поранення голови та тулуба, опіки обличчя."
-    },
-    {
-      "keys": [
-        "fb0715eb9d291612096a710eea2978905e8fd061ff593a20a96e5bffd55ad471",
-        "6191cd260277cca51002221abcf9860cbc8505af355d6c0e0bce2c2d118e1bd4"
-      ],
-      "title": "Teenage girl held captive for 500 days rescued after secretly asking for help in Among Us",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xpp6zx/teenage_girl_held_captive_for_500_days_rescued/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-06T21:48:46+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "submitted by /u/IndicaOatmeal [link] [comments]"
-    },
-    {
-      "keys": [
-        "5d549b3a8021c0ebfba6ca265ccaabc9a71c3970da67f222797094c4843b97f4",
-        "b8ea84964832b31ebb3e4b62808f2599debdae2fbf4bcca8c1df639ff0029d48"
-      ],
-      "title": "Houston Police to Stop Alerting ICE During Traffic Stops",
-      "url": "https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html",
-      "source": "New York Times",
-      "published": "2026-11-06T21:47:12+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Mayor John Whitmire of Houston in July."
     }
   ],
   "history": [
@@ -3231,5 +3087,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-07T21:46:42.405096+00:00"
+  "last_checked": "2026-11-07T22:43:54.824514+00:00"
 }
