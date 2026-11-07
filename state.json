@@ -240,6 +240,66 @@
   "pending": [
     {
       "keys": [
+        "542dfe64358c293bd11a7697d94cfcddc8959d10c7b2da9a744e66897f7e766e",
+        "7f25025bb7974f421a98970cdccc04e0ad3a0ff9bec5d0e59df1cb2c08d0385d"
+      ],
+      "title": "FT: Демократи в Конгресі США готують пакет допомоги Україні на 15 мільярдів доларів",
+      "url": "https://www.pravda.com.ua/news/2026/11/07/8061756/",
+      "source": "Українська правда",
+      "published": "2026-11-07T20:02:00+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "Демократи в Конгресі США готують новий пакет безпекової допомоги для України, обсяг якого може складати 15 мільярдів доларів. Джерело : Financial Times із посиланням на джерела Деталі : Видання зазначає, що коли демократи контролюють обидві палати Конгресу, вони прагнуть використати свої повноваження, щоб посилити підтримку України та запровадити додаткові санкції проти російської економіки. Демократи планують сформувати новий пакет безпекової допомоги для Києва, обсяг якого, за словами одного з помічників-демократів у комітеті з закордонних справ Палати представників, становитиме близько 15 млрд доларів. Енергетична допомога \"займає дійсно дуже високе місце у нашому списку пріоритетів\", зазначив помічник-демократ з комітету. Законодавці, ймовірно, використають щорічний законопроект про оборонну політику – NDAA – який має бути ухвалений до закінчення каденції цього Конгресу, як механізм для надання допомоги Києву. Одним із головних пріоритетів демократів у новому Конгресі стане внесення поправок до закону про санкції проти Росії, названого на честь покійного сенатора від Південної Кароліни Ліндсі Грема, повідомили помічники членів комітету. Цей закон, ухвалений за широкої двопартійної підтримки, передбачає фінансові санкції проти оборонного та енергетичного секторів Росії. \"Ми збираємося внести поправки до законопроекту Грема. Півтора року пішло на те, щоб домогтися введення санкцій проти Росії, а їх просто скасували\", – заявив помічник-демократ з комітету."
+    },
+    {
+      "keys": [
+        "ad6bf7058ac24eadac53b4d21f1cf5217365fae4276646c62b4a7e499b7416e3",
+        "410827ba19dbdc3ff96344adf894f7f975deb14bc5cd287a20675867b85d93bd"
+      ],
+      "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+      "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+      "source": "Axios",
+      "published": "2026-11-07T19:58:46+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "Israeli President Isaac Herzog announced Saturday that he will task Gadi Eisenkot , leader of the opposition Yashar party, with forming a new government, dealing a major setback to Prime Minister Benjamin Netanyahu . Why it matters: Eisenkot will have 28 days to establish a new government. This is the closest Netanyahu has been to losing power since 2021, but deep divisions could still prevent them from forming a government. Driving the news: Netanyahu's Likud party won the most seats in the Oct. 27 election, but his coalition lost its majority, winning just 53 of the 120 seats in parliament. Eisenkot's bloc won 48 seats, but the two Arab parties, which won 19 seats, backed his bid to form a government. During consultations held earlier this week, 67 members of the Knesset recommended Eisenkot to form the new government, while only 46 recommended Netanyahu. United Torah Judaism, an ultra-Orthodox ally of Netanyahu, declined to endorse him and signaled it could join an Eisenkot-led coalition. This is a breaking news story. Check back for updates"
+    },
+    {
+      "keys": [
+        "ed0ecd575c996af932b9dfc2c8e3572dba779aacbfbfd7021211f30c815dcf0d",
+        "577fe0d9ca384e24ba4813160c0805ace4924822a8c25b30a7f2c1ec2431ee63"
+      ],
+      "title": "Border Guard Service denies reports of mass exodus of Ukrainians amid fears of harsh winter",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xqfbdm/border_guard_service_denies_reports_of_mass/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-07T19:55:07+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "submitted by /u/rulepanic [link] [comments]"
+    },
+    {
+      "keys": [
+        "e9079ef1cb3972c1ceb396f5d9e0fc9907f5ab2101499f9c38601e140177e6d6",
+        "14461484420646a2ba92fcd379c1aa9c06011f432d1be4d4005f3c4af87c337a"
+      ],
+      "title": "Israeli Opposition Leader Tapped to Try to Form Government",
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "source": "New York Times",
+      "published": "2026-11-07T19:50:21+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "Gadi Eisenkot, shown in Tel Aviv last month, has the daunting task of forming an Israeli coalition from disparate parties."
+    },
+    {
+      "keys": [
+        "f48fd2a5e440050c79a397ec43ccf72caf1216e45ff39aa7a89159688eaaa5c6",
+        "1dffa54931068d473a4e6d89fd49fd9044f3924cb280325507aead7687c3a6ee"
+      ],
+      "title": "Hackers claim leaked Russian data reveals up to 450,000 war-related deaths in Ukraine",
+      "url": "https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/",
+      "source": "The Kyiv Independent",
+      "published": "2026-11-07T19:40:00+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "The groups said they obtained the records from Rosstat's internal Demography database, containing information from death certificates registered between February 2022 and August 2026."
+    },
+    {
+      "keys": [
         "b4acab3f38349e7fc8dca3ccc9feee0257504044c4f2c255e09d42915192adfb",
         "d3b0f6070ad88d60971e22f256cccb046e65377d579aef37ae6a17016b704173"
       ],
@@ -252,8 +312,20 @@
     },
     {
       "keys": [
-        "fc8d673f50ed57149ec04937fd81cfefa656da76a080becd14648b298cb99c66",
-        "17825c80865a28c8db783742afecbf1d8f730ec12bb491c96b221459bbd35e0c"
+        "8798e0496b3c77f19c83712dd8f56bd36759723aa8529c79f62d55aa3d5210ff",
+        "ac6f75ecf2253ad58201badbd4d5a1e9e0b70cb4384d6bc4115afe67a2e85c41"
+      ],
+      "title": "Прокуратура Харківщини повідомляє про загиблу й постраждалих внаслідок російських атак",
+      "url": "https://www.radiosvoboda.org/a/news-prokuratura-harkivshchyna-zahybla-postrazhdali/33892979.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-07T19:28:57+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "Поранень зазнала одна жінка в Харкові, ще в трьох жителів області – гостра реакція на стрес"
+    },
+    {
+      "keys": [
+        "17825c80865a28c8db783742afecbf1d8f730ec12bb491c96b221459bbd35e0c",
+        "fc8d673f50ed57149ec04937fd81cfefa656da76a080becd14648b298cb99c66"
       ],
       "title": "Трамп заявив, що пропонує президенту UFC посаду речника Білого дому",
       "url": "https://www.pravda.com.ua/news/2026/11/07/8061754/",
@@ -264,8 +336,8 @@
     },
     {
       "keys": [
-        "bd59e8ca722039600ac02fe236142aa9b40c3063bb956dbe268e4f3e8676eea0",
-        "5557eaf5bed5f7ddcce78d255b8fabaeae25ca2d9c09e5a8db83623cf9bfce42"
+        "5557eaf5bed5f7ddcce78d255b8fabaeae25ca2d9c09e5a8db83623cf9bfce42",
+        "bd59e8ca722039600ac02fe236142aa9b40c3063bb956dbe268e4f3e8676eea0"
       ],
       "title": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone | Ukraine",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xqe4k3/my_biggest_fear_was_being_shot_down_how_an/",
@@ -276,8 +348,8 @@
     },
     {
       "keys": [
-        "d840cfa36ee5cba402a37d78d4b9d2cf48ca7508512dcd2b06e7b909676959a8",
-        "8a2b82c8fb1f537fc243d9d54558ebbb2afed14090d69b005ad1cb95b493b8b8"
+        "8a2b82c8fb1f537fc243d9d54558ebbb2afed14090d69b005ad1cb95b493b8b8",
+        "d840cfa36ee5cba402a37d78d4b9d2cf48ca7508512dcd2b06e7b909676959a8"
       ],
       "title": "Ukrainian Navy Struck Proton Plant in Oryol, Russia, With Neptune Missiles",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xqe40u/ukrainian_navy_struck_proton_plant_in_oryol/",
@@ -288,8 +360,8 @@
     },
     {
       "keys": [
-        "85006d2507dc2d50f4b002dc9f8beb6d286e5e8db2d9108c012568a851a9c73c",
-        "34ac401e344d635de5c9e6471e2bc0bff942c6ce2599b645f0437182ace12535"
+        "34ac401e344d635de5c9e6471e2bc0bff942c6ce2599b645f0437182ace12535",
+        "85006d2507dc2d50f4b002dc9f8beb6d286e5e8db2d9108c012568a851a9c73c"
       ],
       "title": "Францію знову сколихнули масштабні протести (відео)",
       "url": "https://www.rbc.ua/rus/news/frantsiyu-znovu-skolihnuli-masshtabni-protesti-1794076569.html",
@@ -300,8 +372,8 @@
     },
     {
       "keys": [
-        "72afdce7c136cb620c5ab777d74429f7394f69cfb47de870b995045dc97b459a",
-        "51aab30fb54bfd1f152182b9d3adcb56bc2cb1488b4fdeb0157d3f8d549848fa"
+        "51aab30fb54bfd1f152182b9d3adcb56bc2cb1488b4fdeb0157d3f8d549848fa",
+        "72afdce7c136cb620c5ab777d74429f7394f69cfb47de870b995045dc97b459a"
       ],
       "title": "Кількість загиблих внаслідок стрілянини в Кракові зросла до шести",
       "url": "https://www.radiosvoboda.org/a/news-strilianyna-krakiv-zahybli-shestero-zahyblyh/33892976.html",
@@ -324,8 +396,8 @@
     },
     {
       "keys": [
-        "9663543c3560e6fc7df9dd83e50c0185d66812c42d2b2101218f8589626e9fa8",
-        "45847dc737806da1c61e5dc971d5b91e5cb7c4558544050db73b51aa074aa02f"
+        "45847dc737806da1c61e5dc971d5b91e5cb7c4558544050db73b51aa074aa02f",
+        "9663543c3560e6fc7df9dd83e50c0185d66812c42d2b2101218f8589626e9fa8"
       ],
       "title": "У Нідерландах поліція затримала до 200 осіб під час акції протесту біля дата-центру Microsoft",
       "url": "https://www.pravda.com.ua/news/2026/11/07/8061753/",
@@ -684,8 +756,8 @@
     },
     {
       "keys": [
-        "3277f6c8b7a00291401a6597dec8426c2ae9804db7440513eb7b069edf290200",
-        "0044b306ccb72b0809f60cff5cfc7be8c36994d935cc0da0d4504c299b842155"
+        "0044b306ccb72b0809f60cff5cfc7be8c36994d935cc0da0d4504c299b842155",
+        "3277f6c8b7a00291401a6597dec8426c2ae9804db7440513eb7b069edf290200"
       ],
       "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
       "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
@@ -959,8 +1031,8 @@
     },
     {
       "keys": [
-        "4c2be0810f6d40b0c743f4d2c51b782a69d0d488272b095c73a516787d9656bd",
-        "31689b200b95ebd246132d233929f100ec718bed0c68b9dff594e32603b3e9d7"
+        "31689b200b95ebd246132d233929f100ec718bed0c68b9dff594e32603b3e9d7",
+        "4c2be0810f6d40b0c743f4d2c51b782a69d0d488272b095c73a516787d9656bd"
       ],
       "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
       "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
@@ -995,8 +1067,8 @@
     },
     {
       "keys": [
-        "4c9cc83e3eec53e623a16f0efbbc8d732386e11f5233f8b67fe7c784b4355da4",
-        "49c7960ee6b2ddcb2393bc50aa9326ea7d7ce65610adea5658cf767670992f9f"
+        "49c7960ee6b2ddcb2393bc50aa9326ea7d7ce65610adea5658cf767670992f9f",
+        "4c9cc83e3eec53e623a16f0efbbc8d732386e11f5233f8b67fe7c784b4355da4"
       ],
       "title": "What Michelle Goldberg Learned From the Most Exciting Democrats",
       "url": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
@@ -1379,6 +1451,7 @@
     },
     {
       "keys": [
+        "5a3f2b9e6b631bc043982d62cf9b03a9c23400cbc22a01c6a18fa06ace71eca8",
         "8df09a9f4235d765c50e8ebdf12a2aa1c1914649a05d98a1fd9c7b35d24e80d4",
         "d1a9981fb479bc731fa40c7bf5527157eb599a8e20782c893fa1243027bf9a32"
       ],
@@ -1679,8 +1752,8 @@
     },
     {
       "keys": [
-        "a5c730912d22b86fe086514724ea47ca3029d88df39dfed26dca9b38f6adc858",
-        "7a628bff9dd61acda67d4db7e205736f514f4cab8e1e1b03d2921bfe8e0b00f8"
+        "7a628bff9dd61acda67d4db7e205736f514f4cab8e1e1b03d2921bfe8e0b00f8",
+        "a5c730912d22b86fe086514724ea47ca3029d88df39dfed26dca9b38f6adc858"
       ],
       "title": "With So Much New Blood in the Senate, the Average Age Is Falling. To 63.",
       "url": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
@@ -2073,6 +2146,18 @@
       "published": "2026-11-07T03:09:53+00:00",
       "discovered": "2026-11-07T10:02:09.513177+00:00",
       "excerpt": "The drop of more than 6 percent was the second consecutive year that the figure had fallen."
+    },
+    {
+      "keys": [
+        "114a76069b94307eab478d2b8c8b8d8ec19436f2939c302c93d7c8e449f5cdc8",
+        "169480c8c35cad5e5b8743b399e60db64cea45843d9e544f84730ee970d0a87a"
+      ],
+      "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
+      "source": "New York Times",
+      "published": "2026-11-07T03:08:58+00:00",
+      "discovered": "2026-11-07T20:15:01.374153+00:00",
+      "excerpt": "The president has bulldozed through obstacles as he has sought to remake the face of Washington. But newly empowered Democrats and angry judges are setting up a high-stakes showdown."
     },
     {
       "keys": [
@@ -2851,245 +2936,6 @@
       "published": "2026-11-06T20:15:22+00:00",
       "discovered": "2026-11-06T23:33:59.180272+00:00",
       "excerpt": "The talks in Abu Dhabi are expected to take place in a trilateral format, with Ukrainian, Russian, and U.S. officials in attendance."
-    },
-    {
-      "keys": [
-        "00416cdf3bd036de9c2cf4861a45655887dc8eb12c63e7306c573e474f3d6262",
-        "b9a6737cd8bbb2acb1405bc3fba1c84ecca5734fd2fe3aae7ad45a3b72683d7f"
-      ],
-      "title": "Зеленський анонсував кадрові рішення в ЗСУ",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061654/",
-      "source": "Українська правда",
-      "published": "2026-11-06T20:15:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Президент України Володимир Зеленський 6 листопада анонсував кадрові рішення в ЗСУ. Джерело : звернення Зеленського Пряма мова : \"Ще одне. Ми готуємо рішення з Головнокомандувачем – кадрові рішення в Збройних Силах України. Я хочу подякувати усім, хто служить Україні! І будь ласка, бережіть себе, враховуючи загрозу ракет. Дякую\". Деталі : Більше інформації щодо змін глава держави не повідомив."
-    },
-    {
-      "keys": [
-        "53b42340409bee9b840cea8310d23cb75e687c8e2adfb9aab9103562b441e9b2",
-        "84ad8ac65eadbc33e2cac32c7ab73e7065b890538acd38b922043bdd1af5351b"
-      ],
-      "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-      "source": "News : NPR",
-      "published": "2026-11-06T20:09:58+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in? (Image credit: U.S Embassy in Zambia)"
-    },
-    {
-      "keys": [
-        "d2946bb4d66df5f612fa83681fab060014747804540fd98216d0cb5dcab14e21",
-        "f7d1fc5221343d15ca76d1eb8c7285a8ac5030e4ed2e31b2c3584b09d24cbc33"
-      ],
-      "title": "В ОП не знають, коли розглянуть подання про присвоєння Рощиній звання Героя України",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061653/",
-      "source": "Українська правда",
-      "published": "2026-11-06T20:06:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Офіс президента повідомив, що не має інформації про дату розгляду подання щодо посмертного присвоєння Вікторії Рощиній звання Героя України, яке надійшло ще в червні. Джерело: відповідь заступниці керівника Офісу президента Олени Ковальської від 6 листопада на адвокатський запит Любові Крупнової Дослівно: \"Інформуємо, що подання Київського міського голови щодо присвоєння звання Герой України з удостоєнням ордена \"Золота Зірка\" Рощиній Вікторії Володимирівні (вхідний № 365/22809-01 від 05.06.2026) буде розглянуто експертною групою в установленому порядку. Повідомляємо про відсутність в Офісі президента України інформації щодо дати розгляду цього подання\". Деталі: Також в ОП повідомили, що розглянули запит голови Комітету з питань свободи слова Ярослава Юрчишина та ще 19 народних депутатів щодо подання про посмертне присвоєння Рощиній звання Героя України. Верховна Рада підтримала цей запит 15 жовтня 2026 року. За словами Ковальської, депутатів поінформували про результати розгляду їхнього запиту. Знати більше : Проєкт \"Вікторія\". Історія полону та катувань, що пережила журналістка Рощина й тисячі ув'язнених Росією українців Що передувало: 15 жовтня Верховна Рада повторно звернулася до президента Володимира Зеленського щодо присвоєння журналістці Вікторії Рощиній звання Героя України посмертно. Направлення запиту підтримали 255 депутатів. Уперше парламент звернувся з таким проханням у травні 2025 року. У липні 2026 року відповідне подання також скерувала Київська міська державна адміністрація. Водночас 2 жовтня в Офісі президента повідомили , що не знають, коли його розгляне експертна група. Про загибель Рощиної в російському ув'язненні стало відомо 10 жовтня 2024 року. За словами представника ГУР Андрія Юсова, журналістка перебувала у списках на обмін і мала повернутися додому. Розслідувачі \"Слідства.Інфо\" з'ясували, що в російському полоні Рощину жорстоко катували . Справу про її зникнення після повідомлення про смерть перекваліфікували на воєнний злочин, поєднаний "
-    },
-    {
-      "keys": [
-        "4c1f0c7488528ab485f6f7ec362f2fe35121ae377413ca4621d3169503ded1bb",
-        "93c1aa4a8396dd580817f0c04d0ecfe4c9dfd346d6d41d1d71468133e1e68e9b"
-      ],
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T20:05:30+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "A shipment of Nvidia hardware valued at $11.4 million vanished in transport between Oakland and Texas over the summer, and more than two months later, police have announced no arrests or recovery of the cargo. As reported by The Mercury News , six pallets of unknown Nvidia equipment left Oakland on August 29 on a truck bound for Fort Worth, Texas. The hardware was reportedly picked up as scheduled by a truck bearing the logo of a food transportation company before vanishing off the grid. The theft wasn't noticed until early September, when the buyers realized that the shipment had never been received. Police attempting to trace the truck's route found it had made several multi-hour stops after picking up the hardware before losing the truck somewhere in San Bernardino County, California. Oakland police confirmed that there was a grand theft report filed on September 13 and that the investigation remains ongoing. Authorities have not said what Nvidia hardware was stolen or exactly how the theft was carried out. Read full article Comments"
-    },
-    {
-      "keys": [
-        "979e7dd54a85857f247001ba1f8c26f4cbf7f08e0211c4653db57a3fa6ab2549",
-        "e8b5ada3e66e6fd156158f1ba8c601accc15a805b61d38ed22e6c533c22e5385"
-      ],
-      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xpmolo/kenyan_doomsday_sect_leader_jailed_for_200_years/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-06T20:04:28+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "submitted by /u/Slight_Sherbert_5239 [link] [comments]"
-    },
-    {
-      "keys": [
-        "0a8674100d866565e4b29854a0806b978b7fc2042ca2358ca728c92ef91b5449",
-        "72ca5021a945e4b862137a2dc6bbfe0c50ec58c3a3b2d2c654583497d6e3ed9e"
-      ],
-      "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
-      "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-      "source": "New York Times",
-      "published": "2026-11-06T20:03:40+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "A farm in Kansas. Ranchers were hurt when President Trump’s plan to import more beef lowered the price they received for their cattle, and farmers had to pay more for fertilizer and diesel."
-    },
-    {
-      "keys": [
-        "44bb62cab9b478d03950807189df4d8256b5a6c9c4a2dd7416f017a5b37e5fbf",
-        "7ff93ba04848c3bbc1eeaae4505bc523bf94b2df23cfc42c9f0e94b4000529e4"
-      ],
-      "title": "Navajo Nation elects its first woman president as political battles loom",
-      "url": "https://www.axios.com/2026/11/06/navajo-nation-first-woman-president-tribe",
-      "source": "Axios",
-      "published": "2026-11-06T19:53:41+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Navajo Nation voters made history this week by choosing their first woman president, handing Crystalyne Curley a groundbreaking victory — and a political fight before she even takes office. Why it matters: Curley's victory breaks a barrier in the Navajo Nation, where women hold deep cultural influence, but men have long dominated the presidency. Driving the news: Curley, 40, and running mate Chris Deschene defeated Justin Jones and Emily Ellison in the Nov. 3 election, according to unofficial Navajo Election Administration results . Curley won 50.88% to Jones' 49.12% — a margin of just 1,115 votes across the Nation's 110 chapters. She will succeed President Buu Nygren, whose turbulent bid for a second term ended with a third-place finish in July's primary. Her running mate, former Arizona legislator and energy attorney Chris Deschene, returns to tribal leadership politics 12 years after a Navajo-language qualification dispute derailed his presidential campaign. The Navajo Nation, the country's largest Native American reservation, spans more than 27,000 square miles across Arizona, New Mexico and Utah and has nearly 430,000 enrolled members , according to June 2026 tribal figures. Yes, but: Jones refuses to concede and has threatened a legal challenge, alleging irregularities in the vote count. The Navajo Times reported he initially offered no specific discrepancies. Tribal election law prevents certification until at least 10 days after the election, leaving time for challenges, according to the site . Zoom in: Curley now faces a tougher challenge: tackling poverty, delivering basic services and healing a government fractured by years of infighting. About 35.2% of residents of the Navajo Nation Reservation live below the poverty line, compared with 12.5% nationally, according to 2024 American Community Survey five-year estimates . Between 30% and 40% of Navajo families lack running water at home, according to an April 2026 statement from the outgoing administration."
-    },
-    {
-      "keys": [
-        "0883395792955e2c4b78e2a7b53000fed4b4f681b7b1b3c677c7dbad7dcd9a2a",
-        "83e010d44577d8395f0fcd1b18936c4d2297ee784a68f7ca517780fc24c6471c"
-      ],
-      "title": "Russia preparing major attack against Ukraine's bridges, critical infrastructure, Zelensky warns",
-      "url": "https://kyivindependent.com/russia-preparing-major-attack-against-ukraines-bridges-critical-infrastructure-zelensky-warns/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-06T19:51:36+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "\"We currently have intelligence indicating that a new attack is being prepared against our energy infrastructure, our bridges across the Dnipro River, and civilian infrastructure.\""
-    },
-    {
-      "keys": [
-        "78965d62402dbe4d439eb7941ac9f84910443d6250894db8a55f87d50a5ace31",
-        "d0991f8e935a1ca17a63d3670e6361df52965e93fb55d64b846a72ee1d098430"
-      ],
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "source": "Ars Technica",
-      "published": "2026-11-06T19:50:18+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Some Roku OS users have been sad to learn that their favorite screensaver will no longer be available as of December 1. This week, affected users reported receiving an alert on their device that they will not be able to use the “Aquatic Life” screensaver after this month, as first reported by Cord Cutters News . The screensaver has been an option for Roku OS users for 10 years. Roku has been licensing the animation, which is called the Marine Aquarium , from artist Jim Sachs through Prolific Publishing. Read full article Comments"
-    },
-    {
-      "keys": [
-        "5519e5ed01d3df0f3251150ae44f07b53403e454239699a999fc7710a60d80f7",
-        "b5790ee3e697715b649e752b30bb836dc4a1fc07437ccbe9cc0a5cc4d6150664"
-      ],
-      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
-      "source": "News : NPR",
-      "published": "2026-11-06T19:50:14+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S. (Image credit: Rogelio V. Solis)"
-    },
-    {
-      "keys": [
-        "6d64416a731759192cd2a24e941e383feb40cbcfc07b43320027a3f8cdfd2bba",
-        "d13a7fb758d33875a0575d79cfca70c52014948aafb4eb78fbdf29ed3adb4aba"
-      ],
-      "title": "«Я офігів»: ексголова МВС Клименко прокоментував згадку «К.» на плівках НАБУ",
-      "url": "https://www.radiosvoboda.org/a/news-klymenko-pro-plivky-nabu/33892536.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-06T19:45:20+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "На питання, чи хтось звертався до нього з пропозицією «домовитись» із фігурантами справи, Клименко сказав, що ніхто з цим до нього не підходив"
-    },
-    {
-      "keys": [
-        "e9b8bdd31da52cb56ca0eabaf1f866301dfdd4618c9716e4c61dcd892875fa16",
-        "0c907f5d40efd052364c42dd4d4e68b6bee6f14d2b5b3ff9615a38163576f1bd"
-      ],
-      "title": "Клименко про сутички у Петропавлівській Борщагівці: Держава має краще запобігати провокаціям",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061650/",
-      "source": "Українська правда",
-      "published": "2026-11-06T19:44:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Секретар РНБО Ігор Клименко, коментуючи події у Петропавлівській Борщагівці на Київщині, заявив, що держава фактично програла інформаційну роботу щодо мобілізації та має краще виявляти й попереджати провокації. Джерело: Клименко під час спілкування з журналістами Пряма мова: \"Питання мобілізації взагалі є одним із найчутливіших. Воно швидко запалює суспільство. На жаль, інформаційно за весь цей час мобілізацію фактично програли. Хто саме? Мабуть, всі разом\". Деталі: Клименко розповів, що стежив за розвитком подій у Петропавлівській Борщагівці. За його словами, серед присутніх було багато молоді, зокрема немобілізаційного віку, та діти. Він зазначив, що інформація поширювалася дуже швидко, а люди приїхали не лише з Києва чи Борщагівки. За наявною в нього інформацією, на місці було 29 стрімерів. Клименко також заявив, що на тлі чутливості теми мобілізації діють організовані групи, які, за його словами, заробляють гроші на провокаціях. Як приклад, він згадав жінку, яку назвав \"пані \"лікарка\"\". Пряма мова: \"Тобто пішло замовлення, вони відробляють. Такі досить добре організовані групи. Однозначно, державі треба краще працювати по виявленню і попередженню таких провокацій, особливо під час війни\". Деталі: Окремо секретар РНБО назвав одним з основних завдань Ради аналіз мобілізаційного, демографічного та економічного потенціалу України. За його словами, оцінка стійкості держави має спиратися на чіткі показники, які дозволять прогнозувати ситуацію та ухвалювати рішення. Пряма мова: \"Мають бути чіткі параметри, чіткі цифри по тому, що називають \"стійкістю\". Тоді, спираючись на дані, можна прогнозувати, робити висновки, доповідати вищому керівництву держави, приймати рішення\". Читайте також: \"Лікарка\" на колінах і 40 фейкових заручників: що сталося у Петропавлівській Борщагівці і як ворожі канали роздували історію Що передувало: 2 листопада у Петропавлівській Борщагівці на Київщині сталися сутички біля будинку, де перебували нацгвардійці. Люди зібралися після поширення непер"
-    },
-    {
-      "keys": [
-        "62d74e1266acab4e68d9b02efde8973a69ce14c46d0d9611ba56e1703dc2ea18",
-        "cdef5f405cf0a948abd9ef05951fe6e742257e65fceb19823c458180b921a524"
-      ],
-      "title": "Ukraine's anti-corruption court orders probe into prominent Zelensky ally",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xpm5sk/ukraines_anticorruption_court_orders_probe_into/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-06T19:43:21+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "submitted by /u/rulepanic [link] [comments]"
-    },
-    {
-      "keys": [
-        "f970472c2834fe5612cf8c519b14407ad2ce06c9da43f9c1c482c15fbc2e4c48",
-        "b20298e4e4d6895ff2ba48d5961d840238104bd6e59900e5ab934febea3e0d3a"
-      ],
-      "title": "Трамп звільнив керівницю апарату Білого дому",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061647/",
-      "source": "Українська правда",
-      "published": "2026-11-06T19:38:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Президент Дональд Трамп у п'ятницю в другій половині дня повідомив, що керівниця адміністрації Сьюзі Вайлз залишає свою посаду, а її місце займе заступник керівника адміністрації Стівен Міллер. Джерело : \"Європейська правда \" з посиланням на допис Трампа в Truth Social Деталі : У дописі він зазначив, що Вайлз \"виконала чудову роботу\" і перейде до його політичного штабу. \"Я хочу подякувати їй за роботу на посаді керівниці адміністрації – вона чудово впоралася зі своїми обов'язками!\" – сказав Трамп. Міллер почне роботу на новій посаді з понеділка. ЗМІ раніше повідомили, що держсекретар США начебто розглядає можливість піти у відставку з адміністрації Трампа, щоб підготуватися до президентської кампанії 2028 року. Рубіо спростува в повідомлення про це."
-    },
-    {
-      "keys": [
-        "85b7af8428c034f82f27bc5fb5c34371859e8e62c36b00782eace39377857346",
-        "9fae729e097889eb6f18f3254057f2ab76ef0e5028318bc519888e8dd8de4fbf"
-      ],
-      "title": "\"Я офігів\": Клименко вперше висловився про свою згадку у плівках НАБУ",
-      "url": "https://www.rbc.ua/rus/news/ya-ofigel-klimenko-vpershe-vislovivsya-svoyu-1793993407.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-06T19:32:07+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Учасники злочинного угруповання, яке НАБУ викрило у рамках справи \"Карфаген\", спеціально намагалися натиснути на чиновників, у тому числі й на секретаря РНБО Ігоря Клименка. Як передає РБК-Україна, про це Клименко заявив на зустрічі з журналістами. Реакція на плівки НАБУ та погрози Клименко емоційно прокоментував появу свого прізвища на записах фігурантів справи про наркоугруповання \"Хімпром\". \"Я офігів, чесно\", - зазначив він. За словами чиновника, на записах лідер угруповання на прізвисько \"Мексиканець\" погрожував влаштувати політичну кризу, організувати зняття керівництва МВС та запустити інформаційну кампанію з фейками через низку Telegram-каналів та сайтів. \"Тобто вони використовували такі інформаційні бомби, рознести, щоб чиновників репутаційно підбивати в цьому інформаційному шумі. Це був елемент тиску\", - сказав Клименко. Окремо він зазначив, що ніхто до нього із пропозицією дати хабар не підходив. \"Таких розмов у мене ні з ким не було. Тиснути по наркотикам, і щодо постанови Кабміну, те, що вони мали на увазі - ну, потиснули, бачите, як? Постанова є, U420 - ні\", - наголосив Клименко. Також він сказав, що йому невідомо, кого саме фігуранти мали на увазі, говорячи про можливість залучити когось із його оточення \"в долю\". Ліквідація мережі U420 Клименко нагадав, що угруповання намагалося використовувати прогалини в законодавстві щодо синтетичних каннабіноїдів і продавало наркотики через мережу магазинів. Після тривалої операції, розслідувань та ухвалення необхідних урядових рішень правоохоронці повністю ліквідували цю мережу ще у квітні. За його словами, постанову розробляли 2,5 місяці, оскільки \"потрібно було прописувати хімічні формули\". Також ініціативу погоджували з МОЗ та з головою Нацполіції. \"Важливо було справді заборонити всі похідні, що належать до цього хімічного елементу\", - зазначив секретар РНБО. Він зазначив, що жоден із таких магазинів не працює, а правоохоронні органи продовжують роботу з виявлення та притягнення до відповідальності всіх приче"
-    },
-    {
-      "keys": [
-        "c45c03159309b689ad6fd5518a69206757439b6103976f5a129946ff3d613710",
-        "87f7f2589035b4c8ed20e2d47789942f8615efbfe53bae08c15df8bfac666bc3"
-      ],
-      "title": "Зеленський попередив, що РФ готує новий удар по енергетиці, по мостах через Дніпро. У Києві лунали вибухи",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061645/",
-      "source": "Українська правда",
-      "published": "2026-11-06T19:32:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Президент України Володимир Зеленський увечері 6 листопада попередив, що РФ готує новий удар по енергетиці, по мостах через Дніпро, по цивільній інфраструктурі. Джерело : звернення Зеленського 6 листопада Пряма мова : \"Ми зараз маємо інформацію від розвідки, що готується новий удар – по енергетиці, по наших мостах через Дніпро, по цивільній інфраструктурі. Повітряні Сили та Збройні Сили України загалом готуються до захисту. Це непросто. Потрібні перехоплювачі для \"петріотів\", і кожна домовленість – важлива, кожен день в постачанні – дуже важливий. І дуже просимо наших партнерів не відкладати постачання на потім\". Деталі : Глава держави повідомив, що говорив з командою, яка займається дипстрайками й анонсував відповідні далекобійні удари по Росії. Пряма мова : \"Також сьогодні була важлива розмова з країнами NB8 – це країни Північної Європи та Балтії. Про потреби наші перед зимою вони поінформовані. І ми розраховуємо: буде підтримка. Не збавляємо активності і щоб були зустрічі – формати з американцями, європейцями та росіянами. Непросто, але ми маємо вийти на дипломатичний трек, рухатись до закінчення війни. Ми координуємось з партнерами. Україна робить все, щоб мир був. Ми готуємо рішення з Головнокомандувачем – кадрові рішення в Збройних Силах України. Я хочу подякувати усім, хто служить Україні!\" Оновлено : Увечері 6 листопада в Києві пролунали вибухи. Повітряні сили повідомляли про загрозу балістичних ракет."
-    },
-    {
-      "keys": [
-        "4bb803258ce3e7481b7f62f0c2a80c38a2494e949e21734b85ff5b233c0381fb",
-        "92b7163d04a4675d0fbc9b35b401cc1a8ea64219c14effafb38b37046e97377c"
-      ],
-      "title": "Яка вартість пального на Прикарпатті станом на 6 листопада",
-      "url": "https://if.informator.ua/2026/11/06/yaka-vartist-palnogo-na-prykarpatti-stanom-na-6-lystopada/",
-      "source": "Інформатор Івано-Франківськ",
-      "published": "2026-11-06T19:30:44+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "На Прикарпатті, порівняно з минулим тижнем, змінилася вартість пального. На автозаправках Коломиї подорожчала ціна дизельного та інших видів палива. У Калуші, залежно від тої чи іншої АЗС, ціни подорожчали або залишилися незмінними. Пише Інформатор Івано-Франківськ із посиланням на Інформатор Коломию та Інформатор Калуш. На сьогодні в Коломиї такі ціни на пальне: Бензин 95 вартує від 81 грн до […]"
-    },
-    {
-      "keys": [
-        "15b8f9e5f9f35df279b9a3c35d7acc37af0540e8ca64cf543144d96f3652dc9d",
-        "9dadf79c1fd7ccae3a308faf90392d5155b16191f68b955679222a16e978d057"
-      ],
-      "title": "Suspects in high-profile case discussed acid attack on Ukraine's top investigative journalist",
-      "url": "https://kyivindependent.com/suspects-in-high-profile-case-discussed-acid-attack-on-ukraines-top-investigative-journalist/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-06T19:29:39+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Two suspects can be heard discussing physically assaulting Denys Bihus or dousing him with acid, in an attempt to intimidate the founder of Bihus.info, an outlet known for investigating high-level corruption, according to NABU tapes."
-    },
-    {
-      "keys": [
-        "c8d922f69ac485261cc0e67081c3e45e2b6b8b78e7844443d648e24b0a6ad213",
-        "c1b5b5e26c67f6f57b3610004ecb3840fe3c0f5cecbe92e6991aa99295b6f7e7"
-      ],
-      "title": "\"Я офігів\": Клименко про згадки свого прізвища на плівках НАБУ",
-      "url": "https://www.pravda.com.ua/news/2026/11/06/8061642/",
-      "source": "Українська правда",
-      "published": "2026-11-06T19:29:00+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Колишній міністр внутрішніх справ, нині секретар РНБО Ігор Клименко заявив, що фігуранти справи \"Карфаген\" не зверталися до нього з пропозиціями щодо мережі U420, а обговорення ними його прізвища назвав \"трьопом між двома кримінальниками\". Джерело: Клименко під час спілкування з журналістами Пряма мова: \"Що стосується згадки міністра внутрішніх справ і міністра охорони здоров'я, можу сказати, що це було у них нормально – \"трьоп\" між двома кримінальниками, якщо можна таким словом сказати, вибачте за сленг. Вони так між собою обговорювали шляхи вирішення проблеми. А ми для них були реальною проблемою\". Деталі: На запитання, чи здивувався він, почувши своє прізвище на оприлюднених записах, Клименко відповів: \"Я офігів, чесно\". Журналісти також попросили його прокоментувати розмову фігурантів про можливість залучити когось із його оточення \"у частку\", щоб впливати на нього. Клименко заявив, що не знає, кого саме вони мали на увазі, та запевнив, що людей, які могли б на нього тиснути, в його оточенні немає. Пряма мова: \"Дивіться, до мене ніхто взагалі не приходив. Таких розмов у мене ні з ким не було\". Деталі: За словами ексміністра, після спецоперації правоохоронців мережа U420 припинила роботу, жоден її магазин не відкрився знову. \"Постанова є, U420 – немає\", – сказав він, коментуючи обговорення фігурантами спроб вплинути на рішення щодо заборони наркотичних речовин. Клименко також заявив, що \"Хімпром\" створив мережу Telegram-каналів і сайтів, через які поширював фейки для дискредитації посадовців. За його словами, після таких інформаційних атак представники угруповання намагалися домовлятися з ними. До кампанії проти себе він відніс і графіті з закликами усунути його з посади, які з'явилися у квітні. Відповідаючи на запитання, чи можуть оприлюднені записи бути інструментом тиску на нього, Клименко зазначив: \"Гіпотетично – можуть. Чи в цьому випадку? Не впевнений\". Розслідування НАБУ він назвав \"серйозною історією\", оскільки в ньому фігурують генерали, спецслужби та пр"
-    },
-    {
-      "keys": [
-        "b6ba77185dc5a2a1d7076d5da71e9082ab96d56ea8c29e3327ee5fdd3ddf740f"
-      ],
-      "title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
-      "url": "https://www.militarytimes.com/news/your-military/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
-      "source": "Military Times",
-      "published": "2026-11-06T19:27:32+00:00",
-      "discovered": "2026-11-06T23:33:59.180272+00:00",
-      "excerpt": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week, training to navigate dense jungles and counter explosive threats as the U.S. military sharpens its focus on the Western Hemisphere . Dubbed Exercise Southern Vanguard 2027, the exercise is the 41st iteration of the annual training event, which runs through mid-November, the Army announced this week. Hosted by the Colombian Army and led by the U.S. Army Western Hemisphere Command , the drills involve roughly 350 U.S. military personnel and more than 400 Colombian soldiers. After the event’s opening ceremony, the U.S. Army said joint exercises will focus on jungle warfare and counter-IED skills, with command post training, maritime interdiction, cyber skills and ground security. The Colombian National Army’s Chief of the Force Generation Staff Brig. Gen. Edilberto Cortés extended a welcome to all of the exercise’s international participants. “This presence demonstrates the shared commitment of our nations to strengthen collective readiness and consolidate the ties of cooperation that support our strategic and historical relationship,” he said in the Army’s release. The exercise — which kicked off on Monday — is scheduled to run until mid-November, and troops planned to conduct medical evacuation drills from Colombia’s Tolemaida military base to its Cavalry School in Bogotá, according to a separate release. In an extensive force restructure, the Army launched a the new Western Hemisphere Command in late 2025. The change reflects a broader shift in Pentagon priorities alongside the 2026 National Defense Strategy, which prioritizes defending the “U.S. Homeland” and Western Hemisphere over countering China. At an annual U.S. Army conference in October, the service’s top commander for the Western Hemisphere characetrized American “economic supremacy” as a major goal of Washington’s regional security plans. “The end state is economic supremacy for the United States,” Ge"
     }
   ],
   "history": [
@@ -3575,5 +3421,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-07T19:26:59.632709+00:00"
+  "last_checked": "2026-11-07T20:15:01.374153+00:00"
 }
