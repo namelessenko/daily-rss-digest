@@ -280,6 +280,66 @@
   "pending": [
     {
       "keys": [
+        "c25a30ced01831a763fb36d79c8faf47ab1b81dcb5db6877c743c4c82f5f718f",
+        "00b34eb03f51e9fadce175fab1933f8247a4ac598b4b7d869b41e48383a41e77"
+      ],
+      "title": "Rosstat hack: data suggests over 390,000 Russian deaths in Ukraine war",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xra1cx/rosstat_hack_data_suggests_over_390000_russian/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-08T21:45:17+00:00",
+      "discovered": "2026-11-08T21:59:28.696481+00:00",
+      "excerpt": "submitted by /u/koakzion [link] [comments]"
+    },
+    {
+      "keys": [
+        "f305565dd8da83de425ea19476c8c686668462f85c61d620687a4435520b4edf",
+        "cd724307dfb6ecbc0fec9d01f3065d875890e10d76c4c85cc5bef08a4eb1f933"
+      ],
+      "title": "Сибіга засудив рішення IIHF внести збірну Росії з хокею до молодіжних змагань замість Норвегії",
+      "url": "https://www.radiosvoboda.org/a/news-sybiha-rishennia-iihf-zbirna-rosii-molodizhni-zmahannia/33893357.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-08T21:40:00+00:00",
+      "discovered": "2026-11-08T21:59:28.696481+00:00",
+      "excerpt": "Cьогодні Норвезька федерація хокею повідомила, що отримала від IIHF інформацію про включення Росії до складу учасників U20 замість Норвегії"
+    },
+    {
+      "keys": [
+        "b1b74f742d07a3bd1fae84d541eebd535a4f29437683da7477ad7a994e5cd6b7",
+        "10b862a631b59b249c8c6761f2b98cfa257012fca0997ee4e53c1677a949a4cc"
+      ],
+      "title": "Росія атакувала великий енергооб'єкт ДТЕК на Одещині: частина жителів без світла",
+      "url": "https://www.pravda.com.ua/news/2026/11/08/8061859/",
+      "source": "Українська правда",
+      "published": "2026-11-08T21:37:00+00:00",
+      "discovered": "2026-11-08T21:59:28.696481+00:00",
+      "excerpt": "Увечері 8 листопада російські війська атакували великий енергетичний об'єкт ДТЕК на півночі Одеської області. Джерело : ДТЕК Деталі : Внаслідок удару частина жителів залишилася без електропостачання. За інформацією компанії, енергетики вже розпочали огляд уцілілого обладнання та розбір завалів. Відновлювальні роботи ускладнюють повітряні тривоги та загроза повторних російських атак. У ДТЕК повідомили, що ремонтні бригади працюють цілодобово, щоб відновити електропостачання."
+    },
+    {
+      "keys": [
+        "a1592eb3cb9804d895fb5e50edc678274cd6ed0ffedfb00ee2f0c55f8e85a397",
+        "0bf30e5cc3fdf09f6b58e1e0305eaee675323ef54137785e52a85b7fee3d383f"
+      ],
+      "title": "Zelenskyy: Russia conducted major rotation of troops and equipment in Oleshky",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xr9row/zelenskyy_russia_conducted_major_rotation_of/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-08T21:33:33+00:00",
+      "discovered": "2026-11-08T21:59:28.696481+00:00",
+      "excerpt": "submitted by /u/Dances_With_Seagulls [link] [comments]"
+    },
+    {
+      "keys": [
+        "a166e90078a509eb89c06baffd271d65e59b535759933cfd0815f4f96041272e",
+        "807e5df8872a5621296c0a1a5b59802f2f351e4903de14f516438cb6fd59c2b9"
+      ],
+      "title": "У Швеції соціал-демократи пропонують створити уряд із Центристською партією та \"зеленими\"",
+      "url": "https://www.pravda.com.ua/news/2026/11/08/8061856/",
+      "source": "Українська правда",
+      "published": "2026-11-08T21:12:00+00:00",
+      "discovered": "2026-11-08T21:59:28.696481+00:00",
+      "excerpt": ""
+    },
+    {
+      "keys": [
         "5d006f31cd61968051ff26f50c6d33770a25a3bcc4a5b135ba149121b793c839",
         "e27a01aa905d81e87d356cd8eb70e19e255a25b86bfc5e28742c8d2a5d8be41e"
       ],
@@ -292,8 +352,8 @@
     },
     {
       "keys": [
-        "ad58b04fc3b8923a262dd29e115926ccee068de2bbdb681b66dc0a9e1b60dc4d",
-        "3646ff445dc7e7da9c0598a3e8407d3355c2a476206eb5110248405409e01e83"
+        "3646ff445dc7e7da9c0598a3e8407d3355c2a476206eb5110248405409e01e83",
+        "ad58b04fc3b8923a262dd29e115926ccee068de2bbdb681b66dc0a9e1b60dc4d"
       ],
       "title": "Серед загиблих у Кракові – громадяни 5 країн. У Польщі триває жалоба",
       "url": "https://www.radiosvoboda.org/a/news-sered-zahyblyh-krakovi-hromadiany-5-krain/33893355.html",
@@ -340,8 +400,8 @@
     },
     {
       "keys": [
-        "f7d48f022c0a0b2e8af1c54b22a6630c40cac9784f9bc78a58e736ac7fb1eea5",
-        "e8d4a1fd893e897ac11e89ffc375508d5758dd070f4afdc265ac67b02c69b20f"
+        "e8d4a1fd893e897ac11e89ffc375508d5758dd070f4afdc265ac67b02c69b20f",
+        "f7d48f022c0a0b2e8af1c54b22a6630c40cac9784f9bc78a58e736ac7fb1eea5"
       ],
       "title": "Why forcing Ukraine into a peace deal won’t work",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xr7zfj/why_forcing_ukraine_into_a_peace_deal_wont_work/",
@@ -376,8 +436,8 @@
     },
     {
       "keys": [
-        "ceddcc559c81ecb2487029bf69557ee628e319e4245d79c55d357e471c195f46",
-        "1cdb628542189b21e407b9e942edcbfae399165daa69709673b33dce55ab975b"
+        "1cdb628542189b21e407b9e942edcbfae399165daa69709673b33dce55ab975b",
+        "ceddcc559c81ecb2487029bf69557ee628e319e4245d79c55d357e471c195f46"
       ],
       "title": "РФ атакує Кременчук дронами, постраждали семеро цивільних",
       "url": "https://www.rbc.ua/rus/news/rf-atakue-kremenchuk-dronami-postrazhdali-1794167941.html",
@@ -1362,6 +1422,18 @@
     },
     {
       "keys": [
+        "57e804bc3de6ee64d20c914b3fa124eab081e3e93885c88cbc4282e9505e2e5f",
+        "72ad3da45542b52e2c3d75cb7e61559d74858488032367ec6e0a4fff72f630b8"
+      ],
+      "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+      "source": "News : NPR",
+      "published": "2026-11-08T13:34:34+00:00",
+      "discovered": "2026-11-08T21:59:28.696481+00:00",
+      "excerpt": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage."
+    },
+    {
+      "keys": [
         "bc8a465aa6cb30f166aeb2e41ca388589f98fcc0f6b25c3b40ba3dddc6a95268",
         "cfcc80a41530684e04189c5ec4f438af8992306e0b1f50161e7fb547fb8a57a0"
       ],
@@ -2237,126 +2309,6 @@
       "published": "2026-11-07T22:00:00+00:00",
       "discovered": "2026-11-08T18:50:54.359555+00:00",
       "excerpt": "TL;DR: Get Word, Excel, PowerPoint, and four more Office 2019 apps plus Windows 11 Pro for one PC for $24.97 (reg. $428). Microsoft 365 keeps Word and Excel working only as long as the monthly or yearly payment goes through. If you'd rather own your apps outright, try the All-in-One Microsoft Office Pro 2019 for Windows bundle . — Read the rest The post Office 2019 & Windows 11 Pro for $25 total, and nobody bills you next month appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "4813e68135803884edfb452272d5dc54864f7400da88b4fd648010cbacf4d241",
-        "bc5ac9bfda13b5d83a5f333e21b629f15d6de872142094d561e7872fd0bbb36c"
-      ],
-      "title": "Russia to send senior diplomats, military officials to upcoming peace talks in Abu Dhabi",
-      "url": "https://kyivindependent.com/russia-to-send-senior-diplomats-military-officials-to-upcoming-peace-talks-in-abu-dhabi/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-07T21:58:58+00:00",
-      "discovered": "2026-11-07T22:43:54.824514+00:00",
-      "excerpt": "Russian Deputy Foreign Minister Sergei Ryabkov, who oversees Russia's relations with the United States and arms control issues, will join the negotiations for the first time."
-    },
-    {
-      "keys": [
-        "e1e47d3e1d19a7f986ccd0633de8f93c1178595761c1880533e133ad4a506bdd",
-        "20669316cd5f299e68fa4ad9065d8f17daa6892a9675dd1b40d3ec403304625d"
-      ],
-      "title": "Pope Leo calls for universal health care ‘in every society’ in first address in Uruguay",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xqhxkp/pope_leo_calls_for_universal_health_care_in_every/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-07T21:51:46+00:00",
-      "discovered": "2026-11-08T20:29:59.629094+00:00",
-      "excerpt": "submitted by /u/loggiews [link] [comments]"
-    },
-    {
-      "keys": [
-        "b9a69297012fe9a8b90c9baeecb7d23a78305e1fbd64ee04d24fc691d84bbecc",
-        "0e30e505d00826f263cff420f8697b294663e6f383e49c9b8c3568f66507e9f6"
-      ],
-      "title": "Через удар Росії по Одесі загинула людина, пошкоджена інфраструктура",
-      "url": "https://www.radiosvoboda.org/a/news-udar-rosii-odesa-zahynula-liudyna/33892991.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-07T21:49:50+00:00",
-      "discovered": "2026-11-07T22:43:54.824514+00:00",
-      "excerpt": "Внаслідок попередньої атаки ДСНС фіксувала часткове руйнування житлового будинку в Одесі із загорянням"
-    },
-    {
-      "keys": [
-        "40299fc3cc9341a589dc5ed5505a77ac6bcf55e0f3df611daad2b5fe70a525f7",
-        "2cc8e6e143e163de8f11de5f51d334167faf642ae13137753fdd7247f984b96e"
-      ],
-      "title": "Росіяни атакували інфраструктуру Одеси, загинула людина",
-      "url": "https://www.pravda.com.ua/news/2026/11/07/8061761/",
-      "source": "Українська правда",
-      "published": "2026-11-07T21:47:00+00:00",
-      "discovered": "2026-11-07T22:43:54.824514+00:00",
-      "excerpt": "Російські війська у суботу ввечері атакували інфраструктуру Одеси, відомо про загиблу людину. Джерело : голова Одеської МВА Сергій Лисак Пряма мова : \"Ворог знову атакував Одесу. Постраждала інфраструктура. На жаль, одна людина загинула\". Деталі : Раніше Повітряні сили повідомляли про реактивний БпЛА над Одесою."
-    },
-    {
-      "keys": [
-        "639452fd2360b832f06ae0097afe1a49d6366f4253ef732a32bed49fbfe9b938",
-        "f3e80fdc911522c87aca3402c1914206d9901a75b85c53fc9b3911d3614159fc"
-      ],
-      "title": "Ukrainian paratrooper keeps his cool after enemy grenade lands nearby, throwing it and his own grenade into a Russian shelter",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xqhrjs/ukrainian_paratrooper_keeps_his_cool_after_enemy/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-07T21:43:53+00:00",
-      "discovered": "2026-11-07T21:46:42.405096+00:00",
-      "excerpt": "submitted by /u/ua-stena [link] [comments]"
-    },
-    {
-      "keys": [
-        "03d31bc0a0bd851fa2bb9bf349ad805ff4a3ed6f0c6f5d998bcceaf1f0d86306",
-        "cc3f1be1c2bce7d1065b8d9abb18817a4ddcb38e456b263859b03bf963de5917"
-      ],
-      "title": "У будинку терориста, який влаштував стрілянину в Кракові, знайшли тіла трьох людей – Туск",
-      "url": "https://www.pravda.com.ua/news/2026/11/07/8061760/",
-      "source": "Українська правда",
-      "published": "2026-11-07T21:41:00+00:00",
-      "discovered": "2026-11-07T21:46:42.405096+00:00",
-      "excerpt": "У будинку 24-річного чоловіка, який у суботу влаштував смертельну стрілянину в центрі Кракова, виявили тіла трьох людей. Джерело : прем'єр Польщі Дональд Туск під час термінової наради з міністрами і керівниками спецслужб у Кракові, повідомляє Polsat News Пряма мова Туска : \"У будинку терориста було знайдено три тіла\". Деталі : Прем'єр додав, що в будинку було знайдено тіла двох жінок і чоловіка. Це, найімовірніше, близькі родичі нападника. \"Всупереч побоюванням, автомобіль терориста не становить піротехнічної загрози. Були побоювання, що він може вибухнути. Там також було чимало зброї, тож я переконаний, що можливих спільників терориста дуже швидко затримають\", – сказав Туск. Неділя та понеділок у Польщі оголошені днями національної жалоби. Передісторія : Стрілянина сталася 7 листопада на центральній площі Ринок у Кракові. Водій автомобіля в'їхав на головну площу міста та відкрив вогонь . У польській поліції повідомили , що стрілянину в центрі Кракова влаштував громадянин Польщі. Станом на вечір суботи кількість жертв стрілянини у центрі Кракова зросла до шести осіб , при цьому 12 поранених перебувають у критичному стані."
-    },
-    {
-      "keys": [
-        "ccf5153abf9c5f9af9a9ff70e5ce5df9221881efe5e9d4f050e07f859101d948",
-        "ab15307d56c631fb2353a2dd317f70240900146a0b7a271eec9396c5bc6f3bd0"
-      ],
-      "title": "Hackers claim leaked Russian data reveals up to 450,000 war-related deaths in Ukraine",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xqhjsi/hackers_claim_leaked_russian_data_reveals_up_to/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-07T21:33:46+00:00",
-      "discovered": "2026-11-08T20:29:59.629094+00:00",
-      "excerpt": "submitted by /u/ChiefFun [link] [comments]"
-    },
-    {
-      "keys": [
-        "23cbb358e032440072ec0004c3a9b7b6f3611b4e789885e048e6d37ce49efb9b",
-        "3b47008549b239e86f67496c8dd4dcea528db00da7f68fa018d96e892819d68e"
-      ],
-      "title": "Belarus barred from 2027 ice hockey championships as IIHF considers Russia's return after court ruling",
-      "url": "https://kyivindependent.com/belarus-barred-from-2027-ice-hockey-championships-as-iihf-considers-russias-return-after-court-ruling/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-07T21:31:46+00:00",
-      "discovered": "2026-11-07T21:46:42.405096+00:00",
-      "excerpt": "Separately, the IIHF said it \"continues to disagree\" with an Oct. 30 ruling by the Court of Arbitration for Sport (CAS) that overturned its exclusion of Russian teams from international competitions."
-    },
-    {
-      "keys": [
-        "49fd519eb8d162816b8119da8a096c9bf390957d6f4a58fc1266e9530aef5793",
-        "728741691b6a37abac60d1126c68fa4648febbcca747598ac664b1d6e6a0e56a"
-      ],
-      "title": "У Москві пройшли масштабні затримання: є інформація про вручення повісток та побиття",
-      "url": "https://www.pravda.com.ua/news/2026/11/07/8061759/",
-      "source": "Українська правда",
-      "published": "2026-11-07T21:24:00+00:00",
-      "discovered": "2026-11-07T21:46:42.405096+00:00",
-      "excerpt": "У Москві поліція провела масштабний рейд у районі Китай-Города, під час якого було затримано близько 200 молодих людей, зокрема неповнолітніх. Джерело : \"Осторожно, новости \", Baza Деталі : Близькі затриманих розповіли \"Осторожно, новости\", що в районі Китай-Города без пояснення причин забирали в автозак \"усіх, хто перебував на вулиці\". Серед них є неповнолітні – поліція нічого не повідомляла їхнім батькам. Автозаки вирушили до відділків внутрішніх справ \"Басманний\" і \"Таганський\". За словами затриманої дівчини, в інших автозаках силовики били затриманих і ламали їм телефони, після чого фотографували паспорти та обличчя прямо на вулиці. Крім того, затриманим дітям також не дозволили сходити до туалету. На це їм відповідали: \"Нічим допомогти не можемо, тільки в штани або за деревце і штраф\", – стверджують затримані. Пізніше частину затриманих на Китай-Городі почали відпускати з відділів поліції. 15-річний затриманий розповів виданню про побиття поліцією. Як розповіли молоді люди, яких відпустили, силовики затримували на Китай-Городі молодих людей, які \"були одягнені неформально\". При цьому в прес-службі ГУ МВС Москви рейд назвали \"профілактичними заходами\". Одним із напрямків силовики назвали припинення \"вживання алкогольних напоїв у громадських місцях\". Ті, кого випустили з відділення поліції \"Таганський\", розповіли \"Осторожно, новости\", що затриманим у Китай-Городі повнолітнім вручають повістки до військкомату. \"Заводять по 10 осіб, роздають повістки й відводять\", – сказали вони. Як пише видання, силовики вручили повістки навіть студентам із відстрочкою. За словами одного з чоловіків, у туалеті відділку поліції побили кількох затриманих, які \"щось заперечували\" співробітникам. За даними Baza, під час масштабного рейду в Китай-Городі затримано понад 200 молодих людей. Щонайменше 17 підлітків отримали адміністративні протоколи за розпивання алкоголю в громадському місці."
-    },
-    {
-      "keys": [
-        "140913a0ef258c1f1bb59d67026d66fb1d332f0384e65b13d6ecba74f66619a1",
-        "eb4c4ecc63bc2c9463e326409c1a9251f6c0cc50a46afc2c2dc4f6ee5226b732"
-      ],
-      "title": "Трамп запропонував голові UFC Вайту стати своїм прессекретарем і взяти в помічники громадян РФ",
-      "url": "https://www.radiosvoboda.org/a/news-trump-holova-ufc-white-pressekretar/33892989.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-07T21:16:59+00:00",
-      "discovered": "2026-11-07T21:46:42.405096+00:00",
-      "excerpt": "Дейна Вайт є давнім прихильником Республіканської партії США. Він підтримував Трампа на виборах як 2020-го, так і в 2024 році"
     }
   ],
   "history": [
@@ -2998,5 +2950,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-08T21:11:07.479279+00:00"
+  "last_checked": "2026-11-08T21:59:28.696481+00:00"
 }
