@@ -357,6 +357,29 @@
   "pending": [
     {
       "keys": [
+        "76c6b57a089cd14ad024567e784235d579d12421eb7237b20cdf02492789b714"
+      ],
+      "title": "Hegseth to cut civilians from military service colleges, wants focus on ‘victory’",
+      "url": "https://www.militarytimes.com/pentagon/2026/11/09/hegseth-to-cut-civilians-from-military-service-colleges-wants-focus-on-victory/",
+      "source": "Military Times",
+      "published": "2026-11-10T00:30:10+00:00",
+      "discovered": "2026-11-10T00:41:54.934700+00:00",
+      "excerpt": "Defense Secretary Pete Hegseth ordered an overhaul of higher military service colleges today, releasing a memorandum listing 33 directives that he stated would be effective immediately. The mandate will require students aspiring to roles as senior military leaders to prove their acumen using Artificial Intelligence in war games rather than write lengthy written dissertations, and end emeritus status and eliminate lifetime tenure for newly hired civilian faculty. It will also decrease the number of civilians employed who have no military experience. Hegseth has instructed military colleges to “realign the civilian-faculty ratio” in their workforces to “ensure that the majority of full-time faculty possess direct military experience and defense experience,” while civilians who are considered “purely technical subject-matter experts shall be limited.” “We speak endlessly of producing critical thinkers, strategic enterprise leaders, and officers with an appreciation of complex global security environments,” said Hegseth in a speech about the directives to students and faculty at the U.S. Naval War College in Newport, Rhode Island today. Hegseth said the primary focus of military education should be to teach students how to achieve victory, pointing out that the words “win” and “defeat” are absent from service colleges’ mission statements, and the word “victory” appears only once. “This is the language of civilian bureaucracy, not military command,” he said. He asserted that the United States is undergoing “the most far-reaching strategic recalibration of our national security posture since the end of the Second World War,” which he described as “deeper and more profound than the fall of the Soviet Union.” He spoke out against what he called a “stubborn undercurrent of passive-aggressive institutional resistance” within the Naval War College and academics who hope to “wait out President Trump’s term in office.” “Hear me clearly: they’re wrong, and they’re dead wrong,” he"
+    },
+    {
+      "keys": [
+        "ba9a1f7e9beff54c90720bc5c3e783ad3187989ace7eed4d671de918a3d2c090",
+        "cd81bf0bcd650088fe946b87ee1a36931766c92941f9adcaa8132d770bedb494"
+      ],
+      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+      "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+      "source": "New York Times",
+      "published": "2026-11-10T00:08:43+00:00",
+      "discovered": "2026-11-10T00:41:54.934700+00:00",
+      "excerpt": "Jensen Huang, the chief executive of Nvidia, seen earlier this year. His relationship with a suspected spy for Beijing has rattled his company, the powerhouse chipmaker that is driving the data center boom powering the U.S. economy."
+    },
+    {
+      "keys": [
         "13a182992e520c765a152568f5172efa2cb0c05cb360ab6aaed5c5ccfbca9feb",
         "be8b69f4835e65dfc9edb2c6e11d9d63a5a62e90aa12274930a5835b56d0e7fc"
       ],
@@ -1025,8 +1048,8 @@
     },
     {
       "keys": [
-        "fb9fec97affecc4bc2a78695469024083e1948ee7647181942921769aa395719",
-        "65adfadbefb0c2b3425e26bb0fcc35118ea65cf9b3416611e4071d46cab00d7a"
+        "65adfadbefb0c2b3425e26bb0fcc35118ea65cf9b3416611e4071d46cab00d7a",
+        "fb9fec97affecc4bc2a78695469024083e1948ee7647181942921769aa395719"
       ],
       "title": "Hundreds of young people detained in central Moscow raid | DW News",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xs0mlh/hundreds_of_young_people_detained_in_central/",
@@ -1085,8 +1108,8 @@
     },
     {
       "keys": [
-        "d22ec06ec0bcab27d4c51c24416a6b71f656dd567eef7edc1a25c272b0fe905e",
-        "c5525ede87d08f50b3d9ae9b55cb50ef5ab8eaab8a21d4813ebae72bb79eec98"
+        "c5525ede87d08f50b3d9ae9b55cb50ef5ab8eaab8a21d4813ebae72bb79eec98",
+        "d22ec06ec0bcab27d4c51c24416a6b71f656dd567eef7edc1a25c272b0fe905e"
       ],
       "title": "Ukraine Drone Forces Shift to Starlink Alternative for Comms to Hit Russia",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xs0hmi/ukraine_drone_forces_shift_to_starlink/",
@@ -1241,8 +1264,8 @@
     },
     {
       "keys": [
-        "84e05342bc6b8d9343afbda7d788b0aedf4119c88c380219fe88fd7454ac56a9",
-        "59ca249e9533aa9d705416d98e3689b144c8e1727fa4aff10b9564e2cfae2f46"
+        "59ca249e9533aa9d705416d98e3689b144c8e1727fa4aff10b9564e2cfae2f46",
+        "84e05342bc6b8d9343afbda7d788b0aedf4119c88c380219fe88fd7454ac56a9"
       ],
       "title": "Russian Corvette Escorts Mystery Cargo Convoys Through Danish Straits Toward Atlantic",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrzauw/russian_corvette_escorts_mystery_cargo_convoys/",
@@ -1637,8 +1660,8 @@
     },
     {
       "keys": [
-        "fe00d54a0e852472b8bdec1ffaea1aedab4ba3942d4dca71ff987bab6176ad71",
-        "64fb60c6fa83d71c8f726e2cf90bffac2bbdb22e89a23ceb5843c8c40530a529"
+        "64fb60c6fa83d71c8f726e2cf90bffac2bbdb22e89a23ceb5843c8c40530a529",
+        "fe00d54a0e852472b8bdec1ffaea1aedab4ba3942d4dca71ff987bab6176ad71"
       ],
       "title": "Ukraine rebukes French leftist Mélenchon over Donbas remarks",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrwe0v/ukraine_rebukes_french_leftist_mélenchon_over/",
@@ -1697,8 +1720,8 @@
     },
     {
       "keys": [
-        "bbfcdf8ab9b719ea469e229e3e1ce0c9717853ada1516116e2daa206f4ab1fba",
-        "3d59448d520ce92a045934b0205020f04f25653d3bee8d32335e1c28333ffce6"
+        "3d59448d520ce92a045934b0205020f04f25653d3bee8d32335e1c28333ffce6",
+        "bbfcdf8ab9b719ea469e229e3e1ce0c9717853ada1516116e2daa206f4ab1fba"
       ],
       "title": "Walls are closing in around Putin … Oligarchs turn against the war.",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrw5mg/walls_are_closing_in_around_putin_oligarchs_turn/",
@@ -2078,8 +2101,8 @@
     },
     {
       "keys": [
-        "c80509e44c6c466dd2f3f4ea6dff04aae7fdc379b6781a421dd19e75dae2ef1a",
-        "7062641ba57da05bdb47c57e3d750a78ef387a340840ebe297876cc9b8a18608"
+        "7062641ba57da05bdb47c57e3d750a78ef387a340840ebe297876cc9b8a18608",
+        "c80509e44c6c466dd2f3f4ea6dff04aae7fdc379b6781a421dd19e75dae2ef1a"
       ],
       "title": "Humiliating Leak Exposes Dark Truth Putin Tried to Hide",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrtcgq/humiliating_leak_exposes_dark_truth_putin_tried/",
@@ -2126,8 +2149,8 @@
     },
     {
       "keys": [
-        "328a710c1e7ab37ae491068a0a0696b05a79668fb234edcfb8e152edf1dbc8c2",
-        "108d295cc0da2b91a23afffe6e0ba9d7f4078d959ba3a4b1164698607a2545b3"
+        "108d295cc0da2b91a23afffe6e0ba9d7f4078d959ba3a4b1164698607a2545b3",
+        "328a710c1e7ab37ae491068a0a0696b05a79668fb234edcfb8e152edf1dbc8c2"
       ],
       "title": "Ukraine Moves to Create Its Own Space Force Within Armed Forces",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrt4jk/ukraine_moves_to_create_its_own_space_force/",
@@ -2426,8 +2449,8 @@
     },
     {
       "keys": [
-        "e3f315f05fa0d6ad48c3bd399ace6ada45edef7be584fba66b3f042825e238b0",
-        "bf78dede075a7176a1c77cacc535297904dd58e1c8c76b26f96f17c900f245a0"
+        "bf78dede075a7176a1c77cacc535297904dd58e1c8c76b26f96f17c900f245a0",
+        "e3f315f05fa0d6ad48c3bd399ace6ada45edef7be584fba66b3f042825e238b0"
       ],
       "title": "Ukrainian forces kill, injure 2,980 Russian troops in 1 day — Russia lost over 400,000 soldiers this year",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrq3u7/ukrainian_forces_kill_injure_2980_russian_troops/",
@@ -2522,8 +2545,8 @@
     },
     {
       "keys": [
-        "c569f2c3afd77553b49595af1cf40afb8dc7c5e4dd313fd683773d178a664086",
-        "73800b56926edc9560c2bdecae5ff8db207c19f8d1766cb72b46d6154bc52976"
+        "73800b56926edc9560c2bdecae5ff8db207c19f8d1766cb72b46d6154bc52976",
+        "c569f2c3afd77553b49595af1cf40afb8dc7c5e4dd313fd683773d178a664086"
       ],
       "title": "Ukraine strikes Russia's second-largest oil refinery in overnight drone attack, Russian governor says",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xropd6/ukraine_strikes_russias_secondlargest_oil/",
@@ -2738,6 +2761,18 @@
     },
     {
       "keys": [
+        "09c57067ded9bacde82443b6e8d62cfa546b01bcc0622c10f0e6024334beaa5b",
+        "11084ba3abcb668a8ee6cb2c4853c4ade7df0c42ae9c23d549908642b21f4ac1"
+      ],
+      "title": "Ukrainian drones hit Russia's second-largest oil refinery. Russian authorities claim that a total of 113 Ukrainian drones were shot down over the Leningrad region during the attack",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrmh44/ukrainian_drones_hit_russias_secondlargest_oil/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-09T08:34:16+00:00",
+      "discovered": "2026-11-10T00:41:54.934700+00:00",
+      "excerpt": "submitted by /u/TVP_World_News [link] [comments]"
+    },
+    {
+      "keys": [
         "66c8ebcc2ab9c65bf9aaa41c10446bfed9f954e72fadb071874d0bbaf1dd2aae",
         "c0e778dd7976799df5ca185720ff74a260a3c9054e00c903efa2c4eee3e2018f"
       ],
@@ -2762,8 +2797,8 @@
     },
     {
       "keys": [
-        "d75543ed927514e2553e0a00afd12b29c4605b2952585a73c434e61b40039a4d",
-        "55181329165b6e7e9032a176b8d126efb5d51e6eba59759a3d0d7aba33956f0d"
+        "55181329165b6e7e9032a176b8d126efb5d51e6eba59759a3d0d7aba33956f0d",
+        "d75543ed927514e2553e0a00afd12b29c4605b2952585a73c434e61b40039a4d"
       ],
       "title": "Hacker group Silent Crow claims that Russia has lost 450,100 people killed in its war against Ukraine. The hackers allegedly obtained the data after breaching databases belonging to Russia's Federal State Statistics Service (Rosstat) together with the Belarusian Cyber Partisans, Radio Liberty report",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrm2pj/hacker_group_silent_crow_claims_that_russia_has/",
@@ -2774,8 +2809,8 @@
     },
     {
       "keys": [
-        "910ddfdf3bf9023a70f3ab582bffb2c9802c39e29c156762b52b4fa6e1b78e1b",
-        "48b61bf61557771fb62aea32852fc8a849422a34d49d7191a75038aaebead365"
+        "48b61bf61557771fb62aea32852fc8a849422a34d49d7191a75038aaebead365",
+        "910ddfdf3bf9023a70f3ab582bffb2c9802c39e29c156762b52b4fa6e1b78e1b"
       ],
       "title": "Besides ceding Donbas as a condition for a ceasefire, Russian dictator Vladimir Putin is demanding even more Ukrainian territory in exchange for security guarantees from NATO countries, the Financial Times reported on Nov. 6.",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrm2hs/besides_ceding_donbas_as_a_condition_for_a/",
@@ -2786,8 +2821,8 @@
     },
     {
       "keys": [
-        "f95ff07a384b6967969ecc97cb2ddab2474dc76ab3a5641ce4de2cfe512a0d21",
-        "562441556b7aa6570b81e271256e26555a22c5bac59d4b3cbd3e2cd887fb4072"
+        "562441556b7aa6570b81e271256e26555a22c5bac59d4b3cbd3e2cd887fb4072",
+        "f95ff07a384b6967969ecc97cb2ddab2474dc76ab3a5641ce4de2cfe512a0d21"
       ],
       "title": "WTA canceled its traditional Finals group photoshoot after Elina Svitolina refused to pose alongside Russian and Belarusian players, tennis journalist Ben Rothenberg wrote on X on Nov. 5.",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrm29s/wta_canceled_its_traditional_finals_group/",
@@ -2882,8 +2917,8 @@
     },
     {
       "keys": [
-        "dba01e91fc78e81ab1e3b6d50edfb1def2e5273b41a6c675e37562bacbf31fae",
-        "9c04cd3e5362184c95268e517ee2f91b067f516b87e8685fd2e1f2788c164aa1"
+        "9c04cd3e5362184c95268e517ee2f91b067f516b87e8685fd2e1f2788c164aa1",
+        "dba01e91fc78e81ab1e3b6d50edfb1def2e5273b41a6c675e37562bacbf31fae"
       ],
       "title": "Russia’s Kirishi oil refinery continues to heavily burn tonight after multiple Ukrainian attack drones hit the facility. This is the 7th Russian oil refinery hit in just a little over a week.",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrjcp7/russias_kirishi_oil_refinery_continues_to_heavily/",
@@ -2954,8 +2989,8 @@
     },
     {
       "keys": [
-        "e542cd6fc23b252bb929084f05fe00f2d16cbc0e5f10277a4266cca725eca4d1",
-        "4bab888173223e07b3ce6f0cd8aaa20cf7e8f76da0a245a60016f5104bc298d3"
+        "4bab888173223e07b3ce6f0cd8aaa20cf7e8f76da0a245a60016f5104bc298d3",
+        "e542cd6fc23b252bb929084f05fe00f2d16cbc0e5f10277a4266cca725eca4d1"
       ],
       "title": "Trump: When they had their first meeting, there was great disrespect shown to Russia… I think it’s going to happen and they’re going to end up with a little differently shaped Ukraine.",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xrh8w3/trump_when_they_had_their_first_meeting_there_was/",
@@ -3952,5 +3987,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-10T00:16:03.513763+00:00"
+  "last_checked": "2026-11-10T00:41:54.934700+00:00"
 }
