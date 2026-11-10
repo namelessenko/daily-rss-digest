@@ -357,8 +357,116 @@
   "pending": [
     {
       "keys": [
-        "f90c00a602e6798a15decab6fa55ebad31e56321a9cc60268653b17ca67b11dc",
-        "e262dd1b18a1e0b44ee6935a7c45f1c989a9e78fc779096035eda440f20be44a"
+        "8a516d718b534b67a38c54904c206a0df7740d23c07cb1ddc8d567dbdd2ef40c",
+        "6583d9d3f0a2a050e386ff70c1ed1fbae58f637fef291da591b7f59b547397ad"
+      ],
+      "title": "Stanley Zabar Has Died. He Managed the Books, and the Slaw, at a N.Y.C. Landmark.",
+      "url": "https://www.nytimes.com/2026/11/10/obituaries/stanley-zabar-dead.html",
+      "source": "New York Times",
+      "published": "2026-11-10T22:14:05+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "Zabar’s, a family business, became a renowned food emporium, which he ran with his brother Saul and another partner. He was 94."
+    },
+    {
+      "keys": [
+        "af7a6ef2e1097e8c1e13c189e2fd41c89751b7f27bbc796f9469012f85bc1d9d",
+        "6a77a12fbd73c77076ffbae71af55e96ad20e5c498cfe435ac54ceb50d1b83b9"
+      ],
+      "title": "Через масовану атаку російських дронів частково знеструмлений Кривий Ріг",
+      "url": "https://www.pravda.com.ua/news/2026/11/11/8062239/",
+      "source": "Українська правда",
+      "published": "2026-11-10T22:08:00+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "Голова Ради оборони Кривого Рогу Олександр Вілкул повідомив, місто внаслідок атаки російських безпілотників частково знеструмлене. Джерело : Вілкул у соцмережах Пряма мова Вілкула: \"Місто частково без електрики. Водну та каналізаційну систему стабілізуємо на генераторах. З теплопостачанням буде важче\". Деталі : Вілкул також зазначив, що у Кривому Розі є пошкоджені багатоквартирні будинки, школи та садочки. Він додав, що над усуненням наслідків обстрілів працюють аварійні бригади всіх енергетичних та комунальних служб. Перед цим Вілкул повідомляв про масовану атаку російських дронів на Кривий Ріг, їхніми цілями були об'єкти критичної інфраструктури."
+    },
+    {
+      "keys": [
+        "9c194ef4370dae7e69fb65c94c3ba7e37814fecaa97904a81b1ce9762783577f",
+        "8c2a07a8f91dbe738b464d4369054dfb34b685d9cc18a7edda339e8704a164a8"
+      ],
+      "title": "\"Простіше тиснути на нас\": Зеленський відкинув угоду з виходом України з Донбасу",
+      "url": "https://www.rbc.ua/rus/news/prostishe-tisnuti-nas-zelenskiy-vidkinuv-1794348167.html",
+      "source": "РБК-Украина",
+      "published": "2026-11-10T22:02:47+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "Україна не готова до угоди, яка передбачає вихід з Донбасу, і не довіряє Путіну. Тиснути на Київ простіше, ніж на Москву, але Україна розраховує, що США разом з Європою знайдуть інший шлях. Про це повідомляє РБК-Україна з посиланням на заяву президента України Володимира Зеленського на пресконференції в Дубліні. Зеленський пояснив, чому від Києва вимагають поступок, а не від Москви. \"Це простий спосіб, як говорити з росіянами: тиснути на нас, щоб ми покинули Донбас, і буде угода. Ми не готові до такої угоди, ми не готові довіряти Путіну\", - заявив президент. Водночас Зеленський висловив сподівання, що Вашингтон шукатиме інший підхід до завершення війни. \"Звісно, простіше тиснути на нас, але я сподіваюсь, що США знайдуть інший шлях, з Європою. Ми розраховуємо на це\", - сказав він. Росія на переговорах намагається підкріпити свої вимоги щодо Донбасу заявами про успіхи на фронті. За словами Зеленського, російська делегація в Абу-Дабі стверджувала, що окупувала половину підконтрольної Україні частини Донбасу, і про це серйозно говорили представники російських військових і розвідки. Президент наголосив, що такі заяви не мають нічого спільного з реальністю, а Путін живе в іншій реальності. Подібні вкиди з'являлися і раніше. Російське командування доповідало Путіну про нібито захоплення Добропілля, однак з'ясувалося, що це неправда. Зокрема, ці заяви спростував керівник ОП Кирило Буданов."
+    },
+    {
+      "keys": [
+        "613bf415b552c61df2175283136e54212fe4570df4453e61d6365ae85c808380",
+        "70b7b349958ac9e9b269aea43be6ff71a4bc671f41af9e23ba6d1773f4af3b71"
+      ],
+      "title": "It’s Time for Israelis to Throw Out Their Trump",
+      "url": "https://www.nytimes.com/2026/11/10/opinion/israel-elections-netanyahu-eisenkot-trump.html",
+      "source": "New York Times",
+      "published": "2026-11-10T22:00:05+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "The U.S. midterm election results should be a lesson to the Israeli opposition in rallying against Netanyahu."
+    },
+    {
+      "keys": [
+        "9a1743601d85c8b6cfa611acaa3aa815e5be246990b8dac0ebcafe8a1538e3cf",
+        "d51b002cff081c43a0f5005f37ba9a72acf9f8095fedf1f1cbd797c09e0beefd"
+      ],
+      "title": "These $25 JBL earbuds cancel noise and remember eight of your devices",
+      "url": "https://boingboing.net/2026/11/10/these-25-jbl-earbuds-cancel-noise-and-remember-eight-of-your-devices.html",
+      "source": "Boing Boing",
+      "published": "2026-11-10T22:00:00+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "TL;DR: Get open-box JBL Vibe Beam 2 noise-canceling earbuds for $24.97 (reg. $64.95), plus a free one-month Surfshark VPN Starter Plan. Name-brand earbuds with active noise canceling usually cost $60 or more, and the cheap pairs tend to drop noise canceling first. — Read the rest The post These $25 JBL earbuds cancel noise and remember eight of your devices appeared first on Boing Boing ."
+    },
+    {
+      "keys": [
+        "8b620e8751c4a4be33845b9433ed72c4a09327f07f257e8c37ca22ce3a4c19cb",
+        "a8a849b886c1c30dd77effec6fa66b57a71ef4dc9fe01331250584090536dff1"
+      ],
+      "title": "Зеленський: Росіяни заявляють, що окупували більше території, ніж є насправді",
+      "url": "https://www.pravda.com.ua/news/2026/11/10/8062236/",
+      "source": "Українська правда",
+      "published": "2026-11-10T21:49:00+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "Президент України Володимир Зеленський заявив, що на переговорах з'ясувалось, що росіяни вважають окуповану територію більшою, ніж вона є насправді. Джерело : Зеленський на пресконференції 10 листопада Пряма мова : \"Росіяни повідомили, що вони, окупували половину території Донбасу, яку ми контролюємо. Справді половину, це не просто, знаєте, одне село, а це велика, справді велика територія, і вони, тобто військові та розвідники з російської сторони, дуже серйозно про це говорили\". Деталі : Зеленський каже, що українська команда спростовувала ці дані кажучи, що є відеозаписи, де зрозуміло, що Україна контролює цю територію. Пряма мова: \"Проблема в тому, що Путін живе дещо в іншому інформаційному просторі – це інша реальність, і, звісно, він заявляє Америці: \"Послухайте, мені потрібно один, два, три місяці, і ми повністю окупуємо східну частину України\". Звісно, я теж можу намалювати йому таку картину, що відбудеться повна окупація, але це неправда\". Деталі : За словами Зеленського, головнокомандувач Об'єднаних сил НАТО в Європі Алексус Грінкевич, який був присутній на зустрічі, підтвердив, що українська карта бойових дій ближча до реальності."
+    },
+    {
+      "keys": [
+        "a3778717517bcb1ea77fe9edda95bc5edf6be2476a5cc498e976f9c523edfd12",
+        "bf83b522919dc1bb8d3d4a77a9629b5ca75a362685736b25cf483da7af8b09c8"
+      ],
+      "title": "Ukraine strikes drone port at occupied Donetsk Airport",
+      "url": "https://kyivindependent.com/ukraine-strikes-drone-port-at-occupied-donetsk-airport/",
+      "source": "The Kyiv Independent",
+      "published": "2026-11-10T21:46:53+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "\"There should be fewer enemy drones over Ukrainian cities. That's why we are not only intercepting drones that have already been launched, but also destroying the infrastructure from which they are launched,\" the 412th Brigade of the Unmanned Systems Forces wrote."
+    },
+    {
+      "keys": [
+        "316d759ed07623b5dcd809477038146272c544401953f4bbad753cc3d9b6a7e1",
+        "0cb91c2aa87c32efa512e652dbde34ac7dec6c7497dff025e88f17a0ccda3150"
+      ],
+      "title": "Британська поліція затримала військового США за підозрою в шпигунстві на користь Росії",
+      "url": "https://www.radiosvoboda.org/a/news-brytanska-politsia-zatrymala-viiskovoho-ssha-za-pidozroiu-v-shpyhunstvi/33894821.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-10T21:43:20+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "Голова ФБР Кеш Патель назвав арешт «важливим рішенням», пов’язаним зі звинуваченнями в шпигунстві"
+    },
+    {
+      "keys": [
+        "a479891f4c37a6291d102ab0166d1b846ca7ddc3244007e801b3ac94a48075af",
+        "94e47f028ee6c2717242be82801c0f5fc65a9aa24e1ab6a8fb43baeb11232325"
+      ],
+      "title": "Poland to transfer 2 MiG-29 jets to Ukraine in exchange for drone technology, Polish official says",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xszl7o/poland_to_transfer_2_mig29_jets_to_ukraine_in/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-10T21:41:33+00:00",
+      "discovered": "2026-11-10T22:22:45.059736+00:00",
+      "excerpt": "submitted by /u/rulepanic [link] [comments]"
+    },
+    {
+      "keys": [
+        "e262dd1b18a1e0b44ee6935a7c45f1c989a9e78fc779096035eda440f20be44a",
+        "f90c00a602e6798a15decab6fa55ebad31e56321a9cc60268653b17ca67b11dc"
       ],
       "title": "Inside devastated front-line city of Slovyansk that Russia wants Ukraine to give up",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xszhhi/inside_devastated_frontline_city_of_slovyansk/",
@@ -369,8 +477,8 @@
     },
     {
       "keys": [
-        "8249fa66c0afc933a605c6a8510d6607d82905aaa240ec6f2003d31f910cc21a",
-        "534a4c3f60a40831504bd88b7fa077e1757f1990ca965964b99c64941ed743e7"
+        "534a4c3f60a40831504bd88b7fa077e1757f1990ca965964b99c64941ed743e7",
+        "8249fa66c0afc933a605c6a8510d6607d82905aaa240ec6f2003d31f910cc21a"
       ],
       "title": "Politizane's breathtaking graph of income inequality as a website—and a printable chart",
       "url": "https://boingboing.net/2026/11/10/politizanes-breathtaking-graph-of-income-inequality-as-a-website-and-a-printable-chart.html",
@@ -381,8 +489,8 @@
     },
     {
       "keys": [
-        "97495f466b617c144e4a11f6c9d475c67706e20988949ceb4ee7772bf93a6493",
-        "73f7bb23b3341c187ebede1452200702c2382b5baee09661acf5da3e1e796a95"
+        "73f7bb23b3341c187ebede1452200702c2382b5baee09661acf5da3e1e796a95",
+        "97495f466b617c144e4a11f6c9d475c67706e20988949ceb4ee7772bf93a6493"
       ],
       "title": "Robert Habeck: \"Die Trump-Regierung hat die Ukraine verraten\"",
       "url": "https://www.spiegel.de/politik/robert-habeck-die-trump-regierung-hat-die-ukraine-verraten-a-e0168f77-3ea3-42ef-b818-14d90194dd72",
@@ -404,8 +512,8 @@
     },
     {
       "keys": [
-        "88300bdbdaa460dd6da24a2e8e2ab1d66cca0253fc11ef2c213e4fcafb19d5ee",
-        "738577a2e70aaa0d9d8f0db0afe5f59c37eb99c7efe78ba6ef3c811d468b4caa"
+        "738577a2e70aaa0d9d8f0db0afe5f59c37eb99c7efe78ba6ef3c811d468b4caa",
+        "88300bdbdaa460dd6da24a2e8e2ab1d66cca0253fc11ef2c213e4fcafb19d5ee"
       ],
       "title": "Spiegel: Бундесвер заборонив китайські дрони та автомобілі на військових об'єктах",
       "url": "https://www.pravda.com.ua/news/2026/11/10/8062235/",
@@ -475,8 +583,8 @@
     },
     {
       "keys": [
-        "edd02a13a141541138201d63b47a83ea35c728cd7ad9d9fa4a9c68d3507d65d5",
-        "91ca107ec854fd8fa364b8638307ca7d1a11b04fbfac407ffb7e222775535c60"
+        "91ca107ec854fd8fa364b8638307ca7d1a11b04fbfac407ffb7e222775535c60",
+        "edd02a13a141541138201d63b47a83ea35c728cd7ad9d9fa4a9c68d3507d65d5"
       ],
       "title": "Will N.Y. Democrats Use Their Supermajority to Push Hochul to the Left?",
       "url": "https://www.nytimes.com/2026/11/10/nyregion/supermajority-new-york.html",
@@ -4307,5 +4415,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-10T21:48:53.438775+00:00"
+  "last_checked": "2026-11-10T22:22:45.059736+00:00"
 }
