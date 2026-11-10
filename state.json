@@ -29,6 +29,7 @@
     "191a66ec0e018051ebdb2b571a1cac050ed5aabae3c835ebaf7bd5b753ed3c25",
     "198a132de4cbe5db06c2c83973c07fa8381bb14f00fb25ab5368437792fcb0cc",
     "19bcb7f42fd0bebd384bdd625d36892feceb99c8f808b92b51ef3e8b48d0aa5d",
+    "19d5246202c07b1cac5d29e7a6f2bb1e7034763e50154632049a210d93d68234",
     "1a89773de2acc133985f3aa573ebce97740e7f4e5de6370f2ea27fda6c44ab6c",
     "1a8ad7ae484ec0d161efbf48bfc9ba1d2beb7d8eb40bb7173c09e4632c2ac566",
     "1aeb38f01654b44873a9a3d055d2e5480a02974ac484f72408b0391dc71e436a",
@@ -36,15 +37,20 @@
     "1b9acd8ddd73cad33bbe2b1eeb023c52c353a58c2138c8084be2de8a764be6b6",
     "1cb46eb30f45253b9f9c195e35c3992eb6b39bc664caf60385dd6e1150345566",
     "1cd7a633561cfd40c7d0df77e8df61a318f88bc9ed00821546ff0da11e7608d3",
+    "1e913bf9fd9025944244f155e19357f7d88c30c7f572e8ef60057c7ce069cb1c",
     "1ecb42a3f3e14c44f193d116378382d76eb01dcdfb0cc8b9397b7d60e917ffa9",
     "21468dbd631c37816aa6b87726d8a92ab37ffef73bcea42f1f524aa389177580",
     "21902544b545b0b8bb19f0e24d5e71ed84d5715434c1437d2de4c450cffab13e",
     "22e495b5d21bd2719c0ad3e8150a23193fa3b7ef1bc294e223d17cd8797b4713",
     "232bd68ed3de4e5e84c96b64ca43aed29438ceba87bb51e3afe8e89c051c65de",
+    "2367d15afc14508e17210894799275eb7e0e42950332a49707d879d995f59532",
     "272069fa3814fc3d6e3e5249081980fc53ca68d6c8f56ab17567b923c44af995",
     "27d519fde93152fc9ccea1a541ca8374c09276f51ef68f914cb1eaa08e01f3c3",
     "29940448bc1c63de2a343973e9fd87f5394fa4fc4e9851404c7035c49b00300b",
+    "29f1812103aaf0da952d5f8f9ecd8624713031a7c3c6a96b031eaae46dfc424e",
+    "2a879164698bc3ae01cc6a62a0772376937b92553dd8b8ae3d914b4d0872ce2b",
     "2bf0c7cb546ad60aa00d6b496b8f0d2700f24cefe31f53fa6cf10f56d5ea1a57",
+    "2c095ea2469034797ae149e04f0f90d6a0197bf38e0314c7d2bff4bcab37d9c4",
     "2c0dca33a80e48590770ef647c64ea5e63b238d57b2492cd4ea584534daee26d",
     "2c661a198045aa6825ebc8a4f56a2521cb2a24cad3f5e802cfe86dac7e0101f2",
     "2d836f91c51dfc4bae9830d1db1ba2a52f70c1400daccc770a999fe54e00b46b",
@@ -59,6 +65,7 @@
     "333619cb5e5dc2ebbab83196f276d91ca877f612582a3a3afa4317b34227d0f1",
     "338ac43052c17ee1ad42a0a3dc5bb9168354378b342608683225165e452581f0",
     "343bbc74a4d48606755b4dd83ce39fc0e96791b44e01b77861c82d63a6bdaaa9",
+    "34b98118d4d5e2b2b31c51e2b39fab345bd93bff341f78ac2cf5a86a8d9ac962",
     "35d04f6102e57d930100e14a502d7bd0ae0ba704488798a7e1fcb179e8e0d5b0",
     "35f266f915ec089bad8c95fa3b31dc6d76905b300d686b10fe8631e29fb7b494",
     "380d2a74f8fe6a5f610be3d6f46b2a4036873fd8777204a1d0db9f0d554ee00e",
@@ -112,6 +119,7 @@
     "5aeb5b33246d215d51c226632fed44a191759be3e72725549c0c157905c1b815",
     "5bc7fc2e6202a1f4f8d5e3fa98c5f79708ace42a2b8069f086bf6ffbbd1fbcae",
     "5d595a4c7673b1e8a37283e406d896a419c5ed62b4e0a977faeb5aa2bc06be57",
+    "5e35a756ea8a7f1f874d7c487508f66c61e74f302de459c014c90467081412bb",
     "5e579a17c9b6351243c7afdc7398337bf62afdafe80661ff9862338ff0dc1341",
     "5e66d9581c50b8ac917e75d6490f0c6d3957ca9eb97c8fe99ae4e01bf3c3b148",
     "5ee671d009ec5e4a91b0eb8f4eb26031e6466ab15b2b7a539449697a548ed372",
@@ -132,16 +140,20 @@
     "64a2778dedc8d1bac71a019cf87629417e353d8c9f78ad297ea11c9f4709069c",
     "64c6d4598a7f59b331a1900e4b2a3aa7a94ea43ae9bebea0beab59aecdf0661c",
     "65414f90d08b594e4dcba2a5548aecffd34a9e7f5d33d32a710c8fd7f5664046",
+    "6546cc7c0210dd4715d1fede269ba3373aeaf320bce6d78db290ff9896ddc099",
     "654810fbeafa9dca3aa3e139f7feb3c7d80c76c499e4d6f68010050233a8e35e",
     "66e77287512b68aa6fa26b0d42b8cccfeeb10c998c9c09ceb21f3beeccdee585",
     "671f788a4c450ac846cbb4316107c941e183e5e65e1ce1b4976865e260a7ac7b",
     "6a5900f00f613b997e34af4372bdec4ae56bd8668a04bf43bd64f295eaf514db",
     "6b503484d61af8e40d19458226bece39d11b8724de6709ef6be60b11f09c83fd",
     "6c1bf9f29e2c3afe549a8121c941624eb2a33ea564d58b1311e4eb807ce8883f",
+    "6d21b11711e41cbee51080c7f09527e83d45d1660d8172ea79c43a6ed5861863",
+    "6e2e849a4b962fb14aa0bb1ce08ccb52376fcae28d42a0ae03d76981f93ac7a5",
     "6f76c1bd0456388c5b92e3fe7f7b570b96d6540a194cda005bf948cb215ed8cb",
     "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
     "714a4f3b0edee8ca72318446856b7b1e94fb3310fa857bd2ae4e4e0011d580a0",
     "7228c7724a0e84f0003e87f5df9b332fdfe7f32f38eb8952129dca76da72d7a1",
+    "7337902fe6b105550cd458b605e7d34aa0b5bc1b5641f4de3d68bac8bff7f4b7",
     "75b86f4effcf97b5a82176327c2ddeb797e06f6a63c33adc6afe400c7910af5f",
     "76a4d1be8de56d5ac8b5aef9ab80f895680f0a221e0b8d1b67db8ace1c6f7b6f",
     "77ede06fc338fcfcd8484e75a5e46eb7a87754642a45b62a63a92d682f126ab5",
@@ -156,13 +168,17 @@
     "7d8b382012acf3a245c02709334dfb8b925fdecf8d876bb4da4cb1f3967756dd",
     "7da109a7a805b09c7458866d9c4ebcb98ceea8b4396a05843e0bf426e139531e",
     "7dc7cbf7e7e83138209a90630fdcdba94c85c6eb228c5bfa10a455397bf98f7b",
+    "7f186d6934c6cbe7a2fd1ac093f695e7204409e7a6fbd8c25f53fbedb22ff886",
     "80f645dc8680939f175ece649df7715f74c3ccf08dec93edd7c6ac1b47abaa2a",
+    "81bbe8df9ec91f2f662adb1bfe96c95080a34add0bf10b15771a5d077cd53ece",
+    "81fbb81fbdad1fc76e1153d7a236512a347da71410ac425b685384934d5fa06f",
     "830ab117fc9c7f6906f8d50853d8a271cfc2d50e5a185c5eed07ae7ef359ed70",
     "83108b924fae0d00f06d8f6c5928b058b06dce15328ba8d0ee49d52030cbd4db",
     "83e7286c94f56ec0e8ce6c63a22eeb2a3f96ff62232c7defe22984e4868505a7",
     "85db2067262e09fff955cd2b433f32061ccada88fae68f9bdb9f7cf09eccba1f",
     "86df47c182fbb645f29e5c049bc032ee9e6e8b0791901068fb9566e452733932",
     "870db0d5468da2500cacc3d1393dbde6037f2802db62e790a49103235815f548",
+    "8926ff481d21f78dca41f6628f931e5718b65293d5c2e3eeca97f6f6e8fea177",
     "8d6696663a390bae85bb8d8dfe84aa5a32c7ba8feebad0cfa77c0d0a8c9f8eac",
     "8e1d4e6da8c9feea5e5713080fe507832d354586c7e018db8240a321fdd44907",
     "8e51a2a697f63b894b1571816947ad736fa656dd88ea95db3cfc143ecd60a895",
@@ -170,9 +186,12 @@
     "8eac02103f27f008d98e67553b541ebb33a78fc573a1014274c88c092c1b7ea0",
     "8f637ce4d19a727e71bfc90972eabda872b1545f42667f269162a17442dffaea",
     "8f68c35f8e2a5aacc50c4786eb0e6fe9159e8ea2202f7b3325c645dd92fd416b",
+    "90fc11f99bf5830f6d961946ece8ae5543773081a2b4050423f75a8eef093f7a",
     "91fa811465a8df0a73dcea8555475c8d4dceb784842fd57ca7f62e4c25f76d25",
     "926db5bd76a0178541a21270453390fd072bebe4cb1f437a4967307efbf90b49",
+    "939136a2940448dcb965d3b3b982af28d24d7be20100ed1ebc981d364f18970d",
     "960d6cbdfd58c3f601a35f9ce7b34d7c13548ed4355d324ee364f92728f487c6",
+    "966106b2789ba51b7f3c87b2a2d145bb87bf96dc97b7f6cb36adfb6a9c67f548",
     "967ee9365d7e36ef64e79f734208f692164050c2f8dc7d8b50f19f9ddc78db1b",
     "96d54d87195ede2e71da4659604af901955d7c7ee5d968af35f24f711e93ee1c",
     "973eeacb96a4acceaf0cbf506e22b3b9f90c604e4892b4a352df6a5f6de657e9",
@@ -182,19 +201,23 @@
     "98f999f151891ff8f32de3169c1b57db6335578362fac97007497c858a8f16ed",
     "997eca772b291f0289a03a7c722d58034ced7417e0271cf7a6fc95e5afa99a78",
     "9bc548d17e84db4ad0a2c4f9bbd4454ff9ee72556a9f878bd83787555a63cca1",
+    "9c0eead815f38681aa625c8d3caa38e98b2708effc149564613a12c1223508c3",
     "9cc92d06ce74e13b22215778a9c1ab982944ac4ac328ca8cfe5005ad8691ebcc",
     "9ce5aa8d7fadeb50227e350034132135b06dd3d7c74f3cd5b9cfa6c66249c7bf",
     "9dd92ed6958fddf75495d7ae361b426bae65263877665830035fd5634dea45a3",
     "9debc19dffbd00cd1ed49ba7b52abb8277477004a472da8b361ce5b05fb4cdb5",
+    "9e217490f72bd3d6159d6c34622deb01578b69167f74c09011018e286f7d3577",
     "9ea7731f87a2a1bdd712dadb0f1621232ea4d1f7af1fcf4d5fb1d5bd29ee4ef6",
     "9ef3fdefae16ce3c8687a124b8c12315d99f1ac7edcf22721198d564f9294bd0",
     "9f249741e21d69d8affa678c69097ca54147ec22af5937bd2e2602a9415d6e61",
     "9f5153210f206fbe47d6b609ec926b25a2ae163adcc048e3586423f041e6dc0e",
     "a0f8951d7fd57be617d7ad9ff5b4470051b7a36053c6d5345e58aedd9ebed385",
+    "a2545fe809d5bbe31fa6af054bd7484292276dec9e9f187b8d8e7d0818764c4b",
     "a2cca338e0bd49e875e86a0782a1b0a7908cb119c0f3e07f88d7640e416d93ce",
     "a3cd9f867bc5d4aa02a8055c9ce2f7b10438352d10375a156fb7b8507b764bd1",
     "a3f4fb045b5d6bbfd7af00c42b395f37d1d0c15d9dee008bea238fe4477bc5fa",
     "a4ba7824df5b3f759977c901e3a53a8aa34c7de87db5a57c5fd95a44436fc9df",
+    "a632d037f44ad0d878fd9a777aa0a73191b8b39372eef70600bb213404db1d46",
     "a67508bf98e1f3be16f9f531079cd14b8a0cd08deee55fda431ca44f4bd03177",
     "a73d2a29a341c3878e51d73cbc25b7e346838a48517980fc60a74a283a4fbf09",
     "a7a2017fe077080c3a57fa36feb5f8a4c3e4cd54117b9adf05126b0cf4f34d7c",
@@ -203,11 +226,14 @@
     "aa212467df2c9ba6dccf6889729336e424ebecb4281d423c7867edb946758525",
     "aac77aa5019786752b82e6896227ab5bbd9b1748538dd469de29ea45b4835885",
     "abf9a758b26a3aba6865f35b12cfd8a4258f601a8a3d12eda0622a4ec2df4e4e",
+    "ac766154fe8c3a2da3297016d59e4bc3d835996c8610f28cf1df8998b3d175e5",
+    "ad60d7617108e60d5d0ac4e896f7c1bc704526792d53217a30ebd06228092031",
     "adcbb6ae2fe1e0d5607367cfde1c38cb8f27c5de6955f15008d2aded7e6fb688",
     "ae9ca0f75693b5214cc1ce2dd622d1593f1ec9935da0dfcccc78495d57b89381",
     "b22d39fb8ff289617d0067a7eec95ccfc6edef4cf352a2c395601f959ba045be",
     "b2545cc6d7c6295b6a6d171531ec9f728f7e8156a6954b3a98ed93ddec62a7a7",
     "b27b4cadb8bb9579d03fc48713f87b20b8d9d00393795de70997017e95a0d573",
+    "b28bf248a1c80f9ed7df6036fe7f5e146c87ec7a0f6162737b1ca1e3aae39fb5",
     "b40dc5e7bf93e61cf78af8fc6efc87a7ad04117e6d98b5104137653444936d71",
     "b421a499d47a41a063ec33aa43f9edd9bdd4d66c34643bd5374069db28eab3ab",
     "b4538b718ec75d2eee129b19db7d7edc06e8b9d1974e52d6cc254c5faf2446af",
@@ -215,6 +241,7 @@
     "b4b16f36cc2454f0986e323a3aa09391eb252e0798ded4d542f8b52c23ccb21b",
     "b629f66acbe61d20f0b06735351d5e2ed88cebd8ed4c1b1c322c417d98266e1c",
     "b846ae8bb3af81dd18c9a98f039f90efb1687895f16ec0ad51ecb271e334cd44",
+    "b86bf7ebf7e2c8d57a75b9a74d515cea2eca1b186af7868c96054c7c565f4401",
     "ba4ccb8cc8b108200e4378819766e670692c913a8f5653e9f45419a59fed589b",
     "ba9b4313f8454bcee4714b9ba2bba37f1f92052530f0313c7b019f3afd0d9616",
     "baacfff62f4b5f2fb5d8e85c86944d7f0cd14658d07ba8cdb9232c0e3cbf3fcf",
@@ -225,6 +252,7 @@
     "c153ecc5d9978260c953c4f8c645a13831ea21e4ab78cc314584916c66af6ead",
     "c1e2ec20853ea8b45edd3c57ef4a614fab65461f4c3a199f6d7813009cfe5eaa",
     "c2445733d10ed5552d62dc828eb661bfdfa90b8cc2091b591e8168a559625fe4",
+    "c2a44d62ed2d0daff5390c277cb30f61f73eca4c0d6a1e4e80a7e022934e3cdf",
     "c2afe93c77671d4bc7d3a514059080504a4d4b6d08faf178821d0ce563d6fccc",
     "c30229ac12f9e3f2eb49e0f142ceb4a1f9ca900636a9a73b3226375d10e47f11",
     "c3e88aa8fd23fb521406e3e61a42c9cab1c8959bc0285d4b10b6d72faa49b4ba",
@@ -236,9 +264,11 @@
     "c7022e5c527a5e4f4bab436e9ff399a48aa76dd49d5a10a53f7a0e643f50e088",
     "c719b85b4283dbfce86c84549e55c6fe1a9f573fdce9d92ea1e95f17987dc749",
     "c81bf9c8803bb934249f8bcb128b799ce949dd981aa2c41485771aac79d0da29",
+    "c85289d4d54fd5f759f3c0d5e066064407b7a818bea51f3ea1c794448a1c25aa",
     "c9917eb4b45ea39a75e7ced83fca772432d5d09162397f56dccf8468d9adcd37",
     "cab90f05d2ceab0c24f5d0887c036405c585d412221a530512f28822156ef23d",
     "cb785b3b678e80ae130e454eb0e5b2e89e289ecffdbe2fe34f88b72d34c16c94",
+    "cc711bd1930046452dd2efb3b12d53270428a7779d35caa98aa3280b9694e6ec",
     "cd878332a02f5aeef992d65d743642c890b6fc064969ec4e4b1df26202be0993",
     "cf2ff32062c588039bfc8dc5f6d46888a496d4451b3782d5257aeec077808b04",
     "cf750300911db12fce8457ec92ce5132af88378d9416e7f473cf3152ccda03f3",
@@ -253,20 +283,27 @@
     "d39f3d0566df20f1afd3010a84432b470d15645e9a3fb9a1872e0fa9549f4180",
     "d41a7ea16fd058e2325297f41357d3fc95addd12b1e473580153e5009c6c6488",
     "d451acd7041a7e948acf0be122fee0f1a0fa792dfaf1c3b26d7bb9cd9be46293",
+    "d579d080bc51633b718df1057a9f1db3ca7d1650f5e44b72c24256953bc87f35",
     "d68eb8d5e5bd9fae448115079ed988c29a06e35ea54b56eb24f7a23ccb531f88",
+    "d695bac69137f1a8c428bb14db319ad727ab526b7e4fbff136025fc2a076d606",
     "d75b4f8bc5ae6c055b5394c5e1cae35d6cd7ac818724244de5ede6a27f05727b",
+    "d7c39fe6bb8e5876d1d42a1c09a6588317dadad2399fcc674d0a7a68b4cdfdd1",
     "d84bc82e7be301be7b6780f9232b581d19c66b77f7d75174a6eb91b41228b63b",
     "d8d2f3fda1c3ea03e7ad5bd97fe247de4430d9024d4db82be7577792b1f0b0ee",
     "d9350d7d2afa886ccc7438497029ba955bd5700d70c88fa49752f23920a638a8",
     "d97024cb138483ba774022f357ddd4e2cb53e80a5723c1d515947b631c15794d",
     "da0be7a30add75bb7229ac43e3a4acc2537b628cb7e7af71665b7d51e56e8f86",
+    "da1f9968a0336b34ceba05e34f028a307d8d36cb5a3f6a95dc1456376fd81abc",
     "db05edb41cb2353739dd06c28b0aaa37728c17ff74ac398e726bc736f6eac2a7",
     "db3f8c77edc6b862de34a9ce80f93c7d23088166483e13c8959c2f3adddf1bbd",
     "dce475fe678041af05f4c5656b401e44dfa224d48f2b72747c37e3b74839eec7",
+    "dd717d9032164833eeece6d9ea72864185a18164e557fb5398a9a5798ee013d5",
+    "de7910676e42a6e8ffe918af2917ae78cc41f621cfeb7546865842d2b117a893",
     "dea14e876324f7fe7851ebdf682b059fad503d34b24de369795cd04a02e04085",
     "deed29fa31db045d032558e93a393af12d4faa4e1a52ba416ee0766f7614fee1",
     "dfbb43cc397a5df974f1adb410636f505029c5e9b8e123a5de4a828cb7ce45cb",
     "e0064ece6a2aef9e4727b67c0654043a0e7d17c47ef0b28cec2c86779a3c74af",
+    "e073531965c32b3c8a4380781773da50d829292199f30f799a2404e2f84db3dc",
     "e2357e6a9ec2909e37eb6fbdea50da40dc8615b8dde85c34d5445c2560bcb1fc",
     "e2fd67d3f571559dd120f2b1afefaf8531f06f7e6665d6c6d435bdc074107c6a",
     "e3329e5d5f02621c039fdd60ac1ad3d6d49ac21acbe35f8272a5f4ada68fe3be",
@@ -301,6 +338,7 @@
     "f4b9c6a4fa2bc04ea43f2c9e8436139c39d956a4f7ca12ece486d78394b730f7",
     "f4d50f998b64b56236def8a1eafe36adb9e609568e3136a3600aca3c459cbb4f",
     "f6b8138a708289297075dba4e9f1c8f461a2162f0c5379356a7506657fed3a56",
+    "f77eccb0cf7ff2c4d6498e2878a3b43203d39a210e1c5314c0da4562f7df26d9",
     "f84e0009b609361c5b8322c467df941aa2578148d5399502ddc214052a1daa5e",
     "f8d4a0814c659bc4fb42595611e5dda45593c708d9e05bc5b800a518633c4fad",
     "f8fd8f4cea5c62841b9126126d9c1b57bceccd44df9dbaf5225eb7811cf153b6",
@@ -317,173 +355,6 @@
     "fef5a8b0c2aad0370003e7dd2d5af04dd84c7f5d82857635d4b45c4b5bd37247"
   ],
   "pending": [
-    {
-      "keys": [
-        "b86bf7ebf7e2c8d57a75b9a74d515cea2eca1b186af7868c96054c7c565f4401",
-        "29f1812103aaf0da952d5f8f9ecd8624713031a7c3c6a96b031eaae46dfc424e"
-      ],
-      "title": "Pressure builds on Thune ahead of GOP leadership elections",
-      "url": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
-      "source": "Axios",
-      "published": "2026-11-09T23:26:23+00:00",
-      "discovered": "2026-11-09T23:47:13.903187+00:00",
-      "excerpt": "Seven Republican senators now are calling for their leadership elections to be delayed — with one even promising to walk out rather than vote Tuesday. Why it matters: Senate Majority Leader John Thune (R-S.D.) is still expected to be reelected to lead the Senate GOP tomorrow. But the growing push to delay is a sign of troubles ahead. Driving the news: Sens. Ron Johnson (R-Wisc.), Rick Scott (R-Fla.), Mike Lee (R-Utah), Ted Budd (R-N.C.) and John Kennedy (R-La.) all signed a letter demanding that the leadership elections be delayed to allow for more discussion about what went wrong for the party last week. Sens. Dave McCormick (R-Pa.) and Jim Banks (R-Ind.) backed them up in statements posted on X. Johnson threatened to skip the vote if the delay doesn't happen. Between the lines: The decision technically falls to conference chair Tom Cotton (R-Ark.) — though it's usually made with leadership buy-in. The election is expected to be held as planned Tuesday morning unless a senator motions to delay and it passes with a majority — which seems unlikely with the number of public supporters, according to a source familiar with the planning discussions. Despite the arguments that Thune should not get to lock in his leadership so quickly, no one has thrown their hat in the ring to challenge him. The bottom line: At this point, none of the leadership elections are competitive. Senate Majority Whip John Barrasso (R-Wyo.), Conference Chair Tom Cotton (R-Ark.) Policy Committee Chair Shelley Moore Capito (R-W.Va.) and Conference Vice Chair James Lankford (R-Okla.) are expected to keep their spots as Nos. 2, 3, 4 and 5 atop the conference. Moreno is the sole candidate for NRSC chair."
-    },
-    {
-      "keys": [
-        "9c0eead815f38681aa625c8d3caa38e98b2708effc149564613a12c1223508c3",
-        "9e217490f72bd3d6159d6c34622deb01578b69167f74c09011018e286f7d3577"
-      ],
-      "title": "Norway buys 500.000 drones to be donated to Ukraine",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xs64jb/norway_buys_500000_drones_to_be_donated_to_ukraine/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-09T22:39:31+00:00",
-      "discovered": "2026-11-09T23:47:13.903187+00:00",
-      "excerpt": "submitted by /u/Cosmos1985 [link] [comments]"
-    },
-    {
-      "keys": [
-        "8926ff481d21f78dca41f6628f931e5718b65293d5c2e3eeca97f6f6e8fea177",
-        "de7910676e42a6e8ffe918af2917ae78cc41f621cfeb7546865842d2b117a893"
-      ],
-      "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
-      "url": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
-      "source": "Axios",
-      "published": "2026-11-09T21:47:48+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Alice Huang, a former executive of a Singapore-based AI computing company, is at the center of a suspected Chinese espionage scandal after Nvidia CEO Jensen Huang acknowledged an extramarital affair. Why it matters: The investigation raises questions about whether Chinese intelligence sought access to Nvidia's technology and CEO through Alice Huang as the U.S. and China compete in the AI race. Driving the news: Over the weekend, Jensen Huang admitted in a letter to Nvidia employees that he had a romantic relationship with a suspected Chinese spy. Though he did not name Alice Huang, the letter came after The New York Times first reported that U.S. authorities believed she was a Chinese spy in October. Photos captured Alice and Jensen Huan g together in 2024 and 2025. Though they have the same surname, Alice and Jensen Huang are not related or married. Jensen Huang has been married to Lori Huang for 40 years. Context: Little is known about Alice Huang. She has lead a Singapore-based company called Megaspeed International, a cloud computing and data center operator that became a multibillion-dollar Nvidia customer. The New York Times reported Monday that the Commerce Department was leading the investigation into Megaspeed before it was sent to the Justice Department after Nvidia reached out about the case. Read more about Alice Huang and Megaspeed below. Who is Alice Huang? Zoom in: Huang, also known as Huang Le, is a Chinese citizen with a reported background in journalism and finance. An AFP investigation found an online profile that said she previously worked at the financial services company HSBC and the broadcasters CCTV and Hunan TV. However, AFP said it couldn't independently verify the information. Zoom out: The New York Times reports that China's Ministry of State Security recruited Alice Huang to seek information about Jensen Huang and influence his feelings about selling AI chips to Chinese firms. But it's still unclear what information she provided to Beiji"
-    },
-    {
-      "keys": [
-        "a632d037f44ad0d878fd9a777aa0a73191b8b39372eef70600bb213404db1d46",
-        "da1f9968a0336b34ceba05e34f028a307d8d36cb5a3f6a95dc1456376fd81abc"
-      ],
-      "title": "Supreme Court says border wall construction can continue in west Texas",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-      "source": "News : NPR",
-      "published": "2026-11-09T21:47:39+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward. (Image credit: Carlos Morales )"
-    },
-    {
-      "keys": [
-        "19d5246202c07b1cac5d29e7a6f2bb1e7034763e50154632049a210d93d68234",
-        "6e2e849a4b962fb14aa0bb1ce08ccb52376fcae28d42a0ae03d76981f93ac7a5"
-      ],
-      "title": "У Переяславі росіяни вдарили по будинку з людьми, які потребують догляду. Є поранені",
-      "url": "https://www.pravda.com.ua/news/2026/11/09/8062049/",
-      "source": "Українська правда",
-      "published": "2026-11-09T21:47:00+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Російські війська атакували 9 листопада Переяслав на Київщині, пошкоджений будинок, де мешкають люди, які потребують особливої соціальної підтримки та догляду. Двоє постраждалих. Джерело : голова Київської ОВА Тимур Ткаченко Пряма мова : \"У Переяславі внаслідок російського удару пошкоджено будинок комунальної власності, де мешкають люди, які потребують особливої соціальної підтримки та догляду. На жаль, двоє людей отримали поранення. Їх доправили до лікарні\". Деталі : Ткаченко додав, що всі люди, які на момент удару перебували у закладі – евакуйовані. Будівля частково зруйнована."
-    },
-    {
-      "keys": [
-        "2c095ea2469034797ae149e04f0f90d6a0197bf38e0314c7d2bff4bcab37d9c4",
-        "90fc11f99bf5830f6d961946ece8ae5543773081a2b4050423f75a8eef093f7a"
-      ],
-      "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
-      "url": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
-      "source": "Axios",
-      "published": "2026-11-09T21:39:37+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Rep. Thomas Massie (R-KY) introduced articles of impeachment against Defense Secretary Pete Hegseth on Monday over his handling of the Iran war and other alleged misconduct. Why it matters: The coming vote could mark the first impeachment of a Cabinet secretary during the second Trump administration and signal what's to come when Democrats take control of Congress next year. What they're saying: Hegseth \"will remain a threat to the Constitution if allowed to remain in office, and has acted in a manner grossly incompatible with his duties and the rule of law,\" Massie said Monday while reading the articles of impeachment on the House floor. \"Secretary Hegseth knowingly executed and implemented unlawful orders to initiate war against a foreign nation… thereby substituting unlawful executive action for the constitutional and statutory judgment of Congress.\" The other side: Hegseth dismissed the impeachment push as politically motivated \"noise\" Monday, telling reporters that he and his team aren't worried with the push. The Department of Defense didn't immediately respond to Axios' request for comment. Catch up quick: Massie first introduced the articles of impeachment prior to the House going into recess so members could campaign. He reintroduced the resolution Monday, restarting a two-legislative-day clock for House leaders to act. Massie and other members of Congress accuse Hegseth of defying Congress by continuing the unpopular war in Iran despite legislative efforts to shut it down. Three of the eight articles accuse Hegseth of violating congressional war powers in Iran. The others allege misconduct involving civilian casualties, strikes on suspected drug boats, retaliation against Sen. Mark Kelly, the capture of Nicolás Maduro and military operations in Yemen. Hegseth has reportedly been among the most ardent supporters of the war, telling Trump that the conflict would be easy to win. Eight months later, that doesn't appear to be true. Between the lines: Republican"
-    },
-    {
-      "keys": [
-        "81bbe8df9ec91f2f662adb1bfe96c95080a34add0bf10b15771a5d077cd53ece",
-        "cc711bd1930046452dd2efb3b12d53270428a7779d35caa98aa3280b9694e6ec"
-      ],
-      "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "source": "New York Times",
-      "published": "2026-11-09T21:36:00+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Sunrise in the Santa Elena Canyon in Big Bend National Park in Texas this year."
-    },
-    {
-      "keys": [
-        "939136a2940448dcb965d3b3b982af28d24d7be20100ed1ebc981d364f18970d"
-      ],
-      "title": "Unite for Veterans Coalition to rally in DC for fair elections, Hegseth impeachment",
-      "url": "https://www.militarytimes.com/news/2026/11/09/unite-for-veterans-coalition-to-rally-in-dc-for-fair-elections-hegseth-impeachment/",
-      "source": "Military Times",
-      "published": "2026-11-09T21:33:37+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Veterans, family members and advocates will gather on the lawn of the U.S. Capitol on Wednesday to support the constitutional rights of service members and their dependents and press for fair elections and protections of democratic norms. The Unite for Veterans Coalition , a nonprofit organization that advocates for veterans’ healthcare and benefits, as well as constitutional accountability, will hold a rally to highlight the importance of fair elections, the military vote and the importance of counting all ballots. The speakers also plan to denounce the Iran war and voice their support for the impeachment of Defense Secretary Pete Hegseth — a vote on which could occur the same day as the gathering. The group is particularly outraged that the Trump administration launched the Iran war without a plan to evacuate military families living in the region before the conflict began in February. “[Hegseth] has shown us that he is willing to put Americans’ lives at risk and treat it like a joke. He has shown us that he is willing to put military families, children, in harm’s way,” said Kristofer Goldsmith, an Iraq War veteran who founded Task Force Butler, a nonprofit established to combat authoritarianism. Also on the agenda is to address the ongoing National Guard deployments in Washington, D.C., and urge the Trump administration to “send the troops home,” according to a news release. Since August 2025, about 9,700 National Guard troops from across the nation have been shipped into the city in service of the “Make DC Safe and Beautiful” mission ordered by Trump. Wednesday’s rally will feature veteran speakers who will focus on upcoming legislation important to veterans, including the Major Richard Star Act — which would eliminate an offset that medically retired military personnel pay to receive their Veterans Affairs benefits — and the Take Care of America’s Veterans Act, which includes the Major Richard Star Act and roughly 60 other pieces of key legislation but also inc"
-    },
-    {
-      "keys": [
-        "c2a44d62ed2d0daff5390c277cb30f61f73eca4c0d6a1e4e80a7e022934e3cdf",
-        "5e35a756ea8a7f1f874d7c487508f66c61e74f302de459c014c90467081412bb"
-      ],
-      "title": "China Calls for Binding Ukraine Peace Deal Ahead of Abu Dhabi Talks",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xs4gox/china_calls_for_binding_ukraine_peace_deal_ahead/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-09T21:33:28+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "submitted by /u/ArgentineBeauty [link] [comments]"
-    },
-    {
-      "keys": [
-        "ac766154fe8c3a2da3297016d59e4bc3d835996c8610f28cf1df8998b3d175e5",
-        "d579d080bc51633b718df1057a9f1db3ca7d1650f5e44b72c24256953bc87f35"
-      ],
-      "title": "Генштаб повідомив про 148 боїв на фронті від початку доби",
-      "url": "https://www.pravda.com.ua/news/2026/11/09/8062048/",
-      "source": "Українська правда",
-      "published": "2026-11-09T21:32:00+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Від початку доби 9 листопада на фронті відбулось 148 бойових зіткнень. Джерело : зведення Генштабу ЗСУ станом на 22:00 Дослівно : \"Загалом від початку цієї доби відбулося 148 бойових зіткнень. Противник завдав 48 авіаційних ударів, скинув 163 керовані авіабомби. Крім того, залучив для ураження 4608 дронів-камікадзе та здійснив 1967 обстрілів населених пунктів і позицій наших військ\". Деталі : На Північно-Слобожанському та Курському напрямках від початку доби росіяни завдали двох авіаударів, застосували три керовані авіабомби, здійснили 46 обстрілів позицій наших військ і населених пунктів, зокрема один обстріл із застосуванням РСЗВ. На Південно-Слобожанському напрямку РФ шість разів атакувала позиції українських підрозділів, на Лиманському – 6, на Слов'янському – 2, на Краматорському – 2, на Костянтинівському – 9, на Покровському – 12, на Гуляйпільському – 2, на Оріхівському – 1."
-    },
-    {
-      "keys": [
-        "ad60d7617108e60d5d0ac4e896f7c1bc704526792d53217a30ebd06228092031",
-        "2a879164698bc3ae01cc6a62a0772376937b92553dd8b8ae3d914b4d0872ce2b"
-      ],
-      "title": "Russia 'pretending' to negotiate on Ukraine while 'bombing civilians', says the EU's foreign ​policy chief Kallas, adding that Moscow had already signed up to numerous agreements underpinning European security but had failed to respect them",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xs4f02/russia_pretending_to_negotiate_on_ukraine_while/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-09T21:31:37+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "submitted by /u/Raj_Valiant3011 [link] [comments]"
-    },
-    {
-      "keys": [
-        "966106b2789ba51b7f3c87b2a2d145bb87bf96dc97b7f6cb36adfb6a9c67f548",
-        "d7c39fe6bb8e5876d1d42a1c09a6588317dadad2399fcc674d0a7a68b4cdfdd1"
-      ],
-      "title": "Lauren Boebert loses House seat to Democrat Eileen Laubacher",
-      "url": "https://boingboing.net/2026/11/09/laurent-boebert-loses-house-seat-to-democrat-eileen-laubacher.html",
-      "source": "Boing Boing",
-      "published": "2026-11-09T21:29:04+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Lauren Boebert, the Republican congresswoman who switched to Colorado's deep-red 4th District after nearly losing in 2022 in her old one, has nonetheless lost it to Democrat Eileen Laubacher. CNN called it late Monday after determining that outstanding ballots could not overcome Laubacher's slim lead. — Read the rest The post Lauren Boebert loses House seat to Democrat Eileen Laubacher appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "34b98118d4d5e2b2b31c51e2b39fab345bd93bff341f78ac2cf5a86a8d9ac962",
-        "dd717d9032164833eeece6d9ea72864185a18164e557fb5398a9a5798ee013d5"
-      ],
-      "title": "У Вірменії двох російських військових затримали за підозрою в побитті українця",
-      "url": "https://www.radiosvoboda.org/a/news-virmenia-zatrymannja-vijskovyh-rf-pobyttjaukrajincja/33894029.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-09T21:25:46+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "У Гюмрі розташовується 102-га військова військова база Росії. Вона була офіційно оформлена в 1995 році на підставі міждержавної угоди, підписаної між Москвою та Єреваном"
-    },
-    {
-      "keys": [
-        "7337902fe6b105550cd458b605e7d34aa0b5bc1b5641f4de3d68bac8bff7f4b7",
-        "e073531965c32b3c8a4380781773da50d829292199f30f799a2404e2f84db3dc"
-      ],
-      "title": "Шість людей постраждали у Харкові внаслідок російського удару \"Шахедом\"",
-      "url": "https://www.pravda.com.ua/news/2026/11/09/8062046/",
-      "source": "Українська правда",
-      "published": "2026-11-09T21:25:00+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "Російські війська увечері 9 листопада завдали удару безпілотником по Холодногірському районі Харкова, 6 людей постраждали. Джерело : мер міста Ігор Терехов Пряма мова : \"За уточненою інформацією Ситуаційного центру, влучання сталося у Холодногірському району. Внаслідок удару \"Шахедом\" горить приватний будинок, поранені четверо людей, пошкоджено близько 10 авто\". Деталі : Згодом міський голова повідомив, що кількість постраждалих зросла до шести."
-    },
     {
       "keys": [
         "13a182992e520c765a152568f5172efa2cb0c05cb360ab6aaed5c5ccfbca9feb",
@@ -845,8 +716,8 @@
     },
     {
       "keys": [
-        "820301e2c0684be4fdfcfbeba01ed77f0ec8fdbc25cb182751d9d6f36d58c2bc",
-        "7637f0b43dd98247fed33ff604dc45960b860e2bb5193d7d79a4395bd3a460bd"
+        "7637f0b43dd98247fed33ff604dc45960b860e2bb5193d7d79a4395bd3a460bd",
+        "820301e2c0684be4fdfcfbeba01ed77f0ec8fdbc25cb182751d9d6f36d58c2bc"
       ],
       "title": "Haiti police, Salvadoran troops destroy house of 400 Mawozo gang leader",
       "url": "https://www.reddit.com/r/worldnews/comments/1xs21ks/haiti_police_salvadoran_troops_destroy_house_of/",
@@ -1418,8 +1289,8 @@
     },
     {
       "keys": [
-        "a4ee678c69628f14846bf9b20ec50dfd348803d8d18584822787d8700145cd42",
-        "85dd6992c63dde9ef8819f2eb13b809db027bf01419f59f783add80584c53887"
+        "85dd6992c63dde9ef8819f2eb13b809db027bf01419f59f783add80584c53887",
+        "a4ee678c69628f14846bf9b20ec50dfd348803d8d18584822787d8700145cd42"
       ],
       "title": "Russia's top independent newspaper closes under relentless government pressure",
       "url": "https://www.reddit.com/r/worldnews/comments/1xryzw7/russias_top_independent_newspaper_closes_under/",
@@ -1538,8 +1409,8 @@
     },
     {
       "keys": [
-        "dfeba2a3bfe94fd35899cecf4abdac4cd360806963e5ff132d5cee50caf3f111",
-        "4ce2a263fa568e7ce40d13d0b08733ddc231bbe7f23de23ff0336379babe1c3d"
+        "4ce2a263fa568e7ce40d13d0b08733ddc231bbe7f23de23ff0336379babe1c3d",
+        "dfeba2a3bfe94fd35899cecf4abdac4cd360806963e5ff132d5cee50caf3f111"
       ],
       "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
       "url": "https://www.reddit.com/r/worldnews/comments/1xryd33/europe_to_join_usbrokered_ukraine_talks_in_abu/",
@@ -2147,8 +2018,8 @@
     },
     {
       "keys": [
-        "b32d6c4b0e247a900530f9f663e0b25b22bd94382b4dcd82c1a8b65ff3256131",
-        "9a832786434d3bc0aa74930d7eb896f986127d6b7564b1ba76d85b9c9773601b"
+        "9a832786434d3bc0aa74930d7eb896f986127d6b7564b1ba76d85b9c9773601b",
+        "b32d6c4b0e247a900530f9f663e0b25b22bd94382b4dcd82c1a8b65ff3256131"
       ],
       "title": "US prepares to deploy 250 foreign troops in Gaza as Israel opposes Turkish involvement",
       "url": "https://www.reddit.com/r/worldnews/comments/1xrtist/us_prepares_to_deploy_250_foreign_troops_in_gaza/",
@@ -2411,8 +2282,8 @@
     },
     {
       "keys": [
-        "b79dde169accb1ccd06b07094dc42e0908d203f2894ee1b0ab938d52aa989799",
-        "2ad2c444c8e0fa168e3a3d6083b92a634d5fbd58f4640ae8e104992063e0a4a6"
+        "2ad2c444c8e0fa168e3a3d6083b92a634d5fbd58f4640ae8e104992063e0a4a6",
+        "b79dde169accb1ccd06b07094dc42e0908d203f2894ee1b0ab938d52aa989799"
       ],
       "title": "As Putin Sends Diesel Tankers Toward US, Russia Imposes Fuel Limits at Home",
       "url": "https://www.reddit.com/r/worldnews/comments/1xrrxu4/as_putin_sends_diesel_tankers_toward_us_russia/",
@@ -2603,8 +2474,8 @@
     },
     {
       "keys": [
-        "2fda3c98ef670be510c2e0e513f2364b6c2308fe95b1ee9630238cfbdc59d42c",
-        "2e2e878e6834f7645f343833f2c1caffe45087508e10c49a7505332d6fda06f7"
+        "2e2e878e6834f7645f343833f2c1caffe45087508e10c49a7505332d6fda06f7",
+        "2fda3c98ef670be510c2e0e513f2364b6c2308fe95b1ee9630238cfbdc59d42c"
       ],
       "title": "Sandu Says Moldova Buys No Russian Gas After Decades of Moscow’s “Energy Blackmail”",
       "url": "https://www.reddit.com/r/worldnews/comments/1xrpbje/sandu_says_moldova_buys_no_russian_gas_after/",
@@ -2927,6 +2798,18 @@
     },
     {
       "keys": [
+        "66d1f3a45881725c9d63ff20f6b39615deb45e8fdefd5cc6bb4c099d0d5328ee",
+        "9c4b669b78055dccb79cad214bc3a246dbbd812ad80fbee023dd5bc87445bcb4"
+      ],
+      "title": "Covert Russian network exploited French riots on social media, EU report says",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xrm0q9/covert_russian_network_exploited_french_riots_on/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-09T08:05:21+00:00",
+      "discovered": "2026-11-10T00:16:03.513763+00:00",
+      "excerpt": "submitted by /u/Odd_Pick_6800 [link] [comments]"
+    },
+    {
+      "keys": [
         "cb0a6adfcd4393091f63d55ce28836595f92dc5aab3ae33e8a3c799240005f97",
         "dfb31d08ee5808e1f52c0eb9131fe0695bfb15625bd40521b2de3815cbe4cb7c"
       ],
@@ -2951,8 +2834,8 @@
     },
     {
       "keys": [
-        "ee21e7a2759491a80160f9ea70827ed12a01ee5ab49aa4f85e638ae1c0706a7f",
-        "7628e156c4cae5ee79f2fa20c14389ee3f8e0abf8a79579e43f30cc8d10153bd"
+        "7628e156c4cae5ee79f2fa20c14389ee3f8e0abf8a79579e43f30cc8d10153bd",
+        "ee21e7a2759491a80160f9ea70827ed12a01ee5ab49aa4f85e638ae1c0706a7f"
       ],
       "title": "Ukraine will likely 'end up with a little bit different shape' after war, Trump tells 60 Minutes",
       "url": "https://www.reddit.com/r/worldnews/comments/1xrl6mi/ukraine_will_likely_end_up_with_a_little_bit/",
@@ -3035,8 +2918,8 @@
     },
     {
       "keys": [
-        "dfd4840fb7561c1696c49f6c199ef8e5df7c7b0d633e67ee5a04a7f680569f2e",
-        "0279275a20319455d1ed55e157277acc833b004c760581d90c628613e129868f"
+        "0279275a20319455d1ed55e157277acc833b004c760581d90c628613e129868f",
+        "dfd4840fb7561c1696c49f6c199ef8e5df7c7b0d633e67ee5a04a7f680569f2e"
       ],
       "title": "Putin may not want peace, warns Norwegian leader who spoke to him",
       "url": "https://www.reddit.com/r/worldnews/comments/1xrib27/putin_may_not_want_peace_warns_norwegian_leader/",
@@ -3047,8 +2930,8 @@
     },
     {
       "keys": [
-        "113868d617e42a9443a9dad5ef38e1400ec795ecfafc64d33683fd6b8a47d6b4",
-        "08cdd03a19f8c0f0442ade5af1e9d744ebc410119f93371e53ac99e6c54a9b14"
+        "08cdd03a19f8c0f0442ade5af1e9d744ebc410119f93371e53ac99e6c54a9b14",
+        "113868d617e42a9443a9dad5ef38e1400ec795ecfafc64d33683fd6b8a47d6b4"
       ],
       "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1720, Part 1 (Thread #1867)",
       "url": "https://www.reddit.com/r/worldnews/comments/1xrhudi/rworldnews_live_thread_russian_invasion_of/",
@@ -3104,30 +2987,6 @@
       "published": "2026-11-09T02:41:21+00:00",
       "discovered": "2026-11-09T23:27:14.593959+00:00",
       "excerpt": "Президент США Дональд Трамп заявив, що вже скоро може бути досягнута мирна угода щодо завершення війни в Україні. При цьому він натякнув, що кордони держави можуть змінитися. Про це повідомляє РБК-Україна з посиланням на його інтерв'ю для YouTube-каналу 60 Minutes. Що заважає закінчити війну Під час бесіди журналіст зазначив, що Трамп, прийшовши у владу, обіцяв досягти миру в Україні, проте війна триває. У зв'язку з цим ведучий запитав, що є головною перешкодою на шляху до миру . \"Ненависть між Зеленським і Путіним ... Якби я був президентом, ця війна ніколи б не почалася. Жодних шансів. Але вона почалася, тому я успадкував цю війну. Я вважаю, що ми дуже близькі до укладання угоди\", - відповів Трамп. Відносини із Зеленським та Путіним На питання, кому лідер США довіряє більше - президенту України Володимиру Зеленському чи диктатору РФ Володимиру Путіну, Трамп не відповів. Однак він сказав, що має добрі стосунки з обома лідерами і матиме зустріч (але мова судячи з усього про переговори України, США та РФ в Абу-Дабі, призначені на 10-11 листопада). Далі Трамп сказав, що єдина причина через яку війна закінчиться - це особисто він . На питання, чи не є ненависть Зеленського зрозумілішою, оскільки це Росія вторглася в Україну, відповідь була такою: \"Ну, це зрозуміло, але все це було дуже-дуже... Коли у них відбулася перша зустріч, Росія зіткнулася з проявом великої неповаги . Тому я нічого не говоритиму... За всі чотири роки мого президентства (мова про перший термін з 2016 по 2020 роки) ця війна так і не почалася. І вона ніколи б не почалася, хоча Путін дуже сильно цього хотів\", - заявив голова Білого дому. Чи веде Путін Трампа за ніс У лідера США також запитали, чи не думає він, що Путін його водить за ніс, на що Трамп відповів негативно . На докір, що він знову говорить про швидке досягнення миру, але за підсумком, судячи з усього, саме Путін є перешкодою до цього, а також на зауваження журналіста щодо припинення допомоги Україні та дизельної угоди з РФ - Трамп одразу"
-    },
-    {
-      "keys": [
-        "47d10f9140c11ac1e48edf17cc5e54e2e9df6b5cfc0a9dfe69492138da2cb435",
-        "600d0f06c7343bd11adda639ff8e72ba4beb9f3ce60f981b4d8420009244471a"
-      ],
-      "title": "President Volodymyr Zelensky has announced that Russian forces used North Korean KN-23 ballistic missiles in an overnight strike on a key Ukrainian energy facility, with air defenses able to intercept only four of 36 ballistic missiles due to an acute shortage of Patriot interceptors",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xrd9vc/president_volodymyr_zelensky_has_announced_that/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-09T00:12:23+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "submitted by /u/RoninSolutions [link] [comments]"
-    },
-    {
-      "keys": [
-        "282cabaf2f942b04b225ee661c73b385ff083190ba816780372bdfffb9c8331e",
-        "7018ee2f2c818e44929d2f0a8e4e6e4a6312268b75bfd656b1a1c22d8334a08a"
-      ],
-      "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
-      "url": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
-      "source": "Axios",
-      "published": "2026-11-09T00:00:35+00:00",
-      "discovered": "2026-11-09T23:27:14.593959+00:00",
-      "excerpt": "President Trump defended Nvidia CEO Jensen Huang on Sunday night, even as the company's board launched an investigation into his affair with a suspected Chinese spy. Why it matters: The blowback to Huang's relationship is only getting more intense by the hour, with multiple members of Congress calling for probes and investors saying the news could put a cloud over the entire AI trade. What they're saying: Trump was asked Sunday night if he's taking Huang with him on an Asia trip next week. \"I don't know, but I'd certainly take him,\" the president told reporters. \"I haven't heard that he's done anything wrong,\" Trump added. \"He dealt with somebody but, you know, so does everybody else.\" The intrigue: The New York Times reported in late October that Trump was briefed earlier this year about Huang's relationship with the potential spy but chose not to act. Huang has been one of Trump's favorite corporate executives since his return to office, frequently appearing at White House events. He also traveled with Trump to China earlier this year, even after the reported memo warning the president of Huang's relationship. What's next: A group of House Republican committee chairs have asked Huang to agree by Nov. 11 to a date for a briefing on his relationship and Nvidia's national security controls."
     }
   ],
   "history": [
@@ -3929,7 +3788,169 @@
           "source": "Ars Technica"
         }
       }
+    },
+    {
+      "date": "2026-11-10",
+      "created": "2026-11-10T00:16:03.513763+00:00",
+      "summary": {
+        "title": "Daily News Digest: November 9, 2026",
+        "intro": "Reporting on current political developments, military conflict in Ukraine, and investigations involving Nvidia leadership.",
+        "stories": [
+          {
+            "headline": "Defense Secretary Impeachment and Political Shifts",
+            "summary": "Rep. Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth, citing the war in Iran and other misconduct. President Trump has pledged to support Hegseth against the resolution. Meanwhile, Republican Senate leadership elections face pressure as several senators advocate for delays, though no formal challengers to John Thune have emerged. In other electoral news, Democrat Eileen Laubacher has defeated incumbent Republican Lauren Boebert for her House seat.",
+            "article_ids": [
+              "5",
+              "6",
+              "12",
+              "18"
+            ]
+          },
+          {
+            "headline": "Conflict Continues in Ukraine",
+            "summary": "Russian forces struck the Trypillia Thermal Power Plant, with state-owned Centrenergo warning of serious consequences. Russian strikes also hit a facility for individuals requiring social support in Pereiaslav, injuring two, and a drone strike in Kharkiv’s Kholodnohirskyi district injured six people. The General Staff of the Armed Forces of Ukraine reported 148 combat engagements throughout the day. Separately, Norway has reportedly purchased 500,000 drones for Ukraine, and reports indicate two Russian soldiers were detained in Armenia for allegedly beating an Ukrainian citizen.",
+            "article_ids": [
+              "2",
+              "7",
+              "11",
+              "15",
+              "16",
+              "17",
+              "19",
+              "20"
+            ]
+          },
+          {
+            "headline": "Nvidia CEO Faces Scrutiny Over Personal Connections",
+            "summary": "Nvidia CEO Jensen Huang acknowledged an extramarital affair following reports concerning his relationship with Alice Huang, a former executive at a company that is a major Nvidia customer. U.S. authorities are investigating suspicions that the woman may have been recruited by Chinese intelligence to gather information on Nvidia and influence business decisions regarding AI chip sales. Nvidia's board has stated it has no reason to believe company secrets were compromised, and House committee chairs have requested a briefing on the matter.",
+            "article_ids": [
+              "3",
+              "8",
+              "9"
+            ]
+          },
+          {
+            "headline": "Border Wall and Military Personnel Updates",
+            "summary": "The Supreme Court has permitted the continuation of border wall construction in Big Bend, Texas, following an emergency request by the Trump administration. Elsewhere, the U.S. Navy’s Blue Angels squadron dismissed a pilot for underperforming and a public affairs officer for unrelated reasons. Additionally, a coalition of veterans is scheduled to rally in D.C. on Wednesday to support fair elections and express opposition to the current war in Iran.",
+            "article_ids": [
+              "4",
+              "10",
+              "13",
+              "14"
+            ]
+          },
+          {
+            "headline": "Child Endangerment Charge in South Carolina",
+            "summary": "A 35-year-old South Carolina man was charged with unlawful conduct with a child after allegedly leaving his young daughter unattended outside a Target store to secure a place in line for a Pokémon card release.",
+            "article_ids": [
+              "1"
+            ]
+          }
+        ]
+      },
+      "sources": {
+        "1": {
+          "title": "Man charged after daughter left asleep outside Target before Pokémon card drop",
+          "url": "https://boingboing.net/2026/11/09/man-charged-after-daughter-left-asleep-outside-target-before-pokemon-card-drop.html",
+          "source": "Boing Boing"
+        },
+        "2": {
+          "title": "Energy company warns of 'extremely serious' consequences after Russian forces strike Trypillia Thermal Power Plant",
+          "url": "https://kyivindependent.com/energy-company-warns-of-extremely-serious-consequences-after-russian-forces-strike-trypillia-thermal-power-plant/",
+          "source": "The Kyiv Independent"
+        },
+        "3": {
+          "title": "Sex, secrets and spies: The history of suspected honey traps",
+          "url": "https://www.axios.com/2026/11/09/jensen-huang-china-spy-nvidia-fbi-doj",
+          "source": "Axios"
+        },
+        "4": {
+          "title": "Blue Angels dismiss aviator and public affairs officer, sources say moves unrelated",
+          "url": "https://www.militarytimes.com/news/your-military/2026/11/09/blue-angels-dismiss-aviator-and-public-affairs-officer-sources-say-moves-unrelated/",
+          "source": "Military Times"
+        },
+        "5": {
+          "title": "Трамп пообіцяв підтримати Гегсета в разі процедури імпічменту",
+          "url": "https://www.pravda.com.ua/news/2026/11/10/8062052/",
+          "source": "Українська правда"
+        },
+        "6": {
+          "title": "Pressure builds on Thune ahead of GOP leadership elections",
+          "url": "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections",
+          "source": "Axios"
+        },
+        "7": {
+          "title": "Norway buys 500.000 drones to be donated to Ukraine",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xs64jb/norway_buys_500000_drones_to_be_donated_to_ukraine/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "8": {
+          "title": "The Evening: Fallout From Nvidia Revelations Continues",
+          "url": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
+          "source": "New York Times"
+        },
+        "9": {
+          "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+          "url": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+          "source": "Axios"
+        },
+        "10": {
+          "title": "Supreme Court says border wall construction can continue in west Texas",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+          "source": "News : NPR"
+        },
+        "11": {
+          "title": "У Переяславі росіяни вдарили по будинку з людьми, які потребують догляду. Є поранені",
+          "url": "https://www.pravda.com.ua/news/2026/11/09/8062049/",
+          "source": "Українська правда"
+        },
+        "12": {
+          "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+          "url": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
+          "source": "Axios"
+        },
+        "13": {
+          "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
+          "source": "New York Times"
+        },
+        "14": {
+          "title": "Unite for Veterans Coalition to rally in DC for fair elections, Hegseth impeachment",
+          "url": "https://www.militarytimes.com/news/2026/11/09/unite-for-veterans-coalition-to-rally-in-dc-for-fair-elections-hegseth-impeachment/",
+          "source": "Military Times"
+        },
+        "15": {
+          "title": "China Calls for Binding Ukraine Peace Deal Ahead of Abu Dhabi Talks",
+          "url": "https://www.reddit.com/r/worldnews/comments/1xs4gox/china_calls_for_binding_ukraine_peace_deal_ahead/",
+          "source": "rworldnews on Reddit"
+        },
+        "16": {
+          "title": "Генштаб повідомив про 148 боїв на фронті від початку доби",
+          "url": "https://www.pravda.com.ua/news/2026/11/09/8062048/",
+          "source": "Українська правда"
+        },
+        "17": {
+          "title": "Russia 'pretending' to negotiate on Ukraine while 'bombing civilians', says the EU's foreign ​policy chief Kallas, adding that Moscow had already signed up to numerous agreements underpinning European security but had failed to respect them",
+          "url": "https://www.reddit.com/r/worldnews/comments/1xs4f02/russia_pretending_to_negotiate_on_ukraine_while/",
+          "source": "rworldnews on Reddit"
+        },
+        "18": {
+          "title": "Lauren Boebert loses House seat to Democrat Eileen Laubacher",
+          "url": "https://boingboing.net/2026/11/09/laurent-boebert-loses-house-seat-to-democrat-eileen-laubacher.html",
+          "source": "Boing Boing"
+        },
+        "19": {
+          "title": "У Вірменії двох російських військових затримали за підозрою в побитті українця",
+          "url": "https://www.radiosvoboda.org/a/news-virmenia-zatrymannja-vijskovyh-rf-pobyttjaukrajincja/33894029.html",
+          "source": "Новини - Радіо Свобода"
+        },
+        "20": {
+          "title": "Шість людей постраждали у Харкові внаслідок російського удару \"Шахедом\"",
+          "url": "https://www.pravda.com.ua/news/2026/11/09/8062046/",
+          "source": "Українська правда"
+        }
+      }
     }
   ],
-  "last_checked": "2026-11-09T23:47:13.903187+00:00"
+  "last_checked": "2026-11-10T00:16:03.513763+00:00"
 }
