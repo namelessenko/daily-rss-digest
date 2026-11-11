@@ -1,12 +1,15 @@
 {
   "version": 1,
   "seen": [
+    "002218c16aa75876116844c123b573947ad75a4e91d34575df63eefcc9ba191e",
     "008e7497bbbbf154a8c001f26ddf701f9478b95c3c7a2f08094f298fc403ddba",
     "00b97fd23fa4868abd7022703a9619dce0dce1f178134cc44fe5e7b771ce3dac",
     "041302c87e7322bcbb052f118c24f10a022085b7915d3708b7683e925b6edeeb",
     "0616325642eb827c04764b93683db2224c5a91554982057487cb0fa8b71ca19f",
+    "069e0851a9a731c9d75618fe00438defbd5d90376670e3755e826a2819ee9a39",
     "06b0b772a655c98d16b04a7c73ba75499b9c38267d73af261d89316ca4dd2eb8",
     "070184a596b31800dbdcd70b2ebd8f4ce0fc996385ce335d982a4339ad22756f",
+    "076db2f0dfbb778d80a372b003a45554c29c1fcba30a9bb7f9a1a9c7f0d18923",
     "089e8319488b7f87c005c0767e55c237b5ba7d8a47077a3c6485d33392b4f9d7",
     "08f733989526d241c443d605c195acab571b08ca4f7aa2971075930c26e3c71c",
     "09702f35c6757117dda5dbadc1c325db1b045b51c96f7fe12af5cf11fcd3a0e4",
@@ -21,6 +24,7 @@
     "124f7dbf6b6fc1f76206cdeed987224a6a1dccd3105c178f94ad4d5c4914a31a",
     "131995d1c89f789c55c6f3e3bf6bbe4fc70a829689c615c2b18def75bee8d59e",
     "13998cf84c57deb4dfc463b1a95d18b20289d3fd6dde36bdc250c9da42a03d8b",
+    "1689b708369ec0534951eb98242f4a879b160309dfcee495ecccdc3bf5fc3169",
     "16e70b299b96f28bdbd6dada9915fa7513040150a18f55231ce11469ed044b02",
     "173088bec8879ac7a3576e1d818b929d0439c83fa1d4ea1b7897edcd679f5f2c",
     "177a8ace5c7ed281b79b27f21f8fb11e5d89fa0ad6b4ffe02bae13cbd93991dc",
@@ -32,6 +36,7 @@
     "19d5246202c07b1cac5d29e7a6f2bb1e7034763e50154632049a210d93d68234",
     "1a89773de2acc133985f3aa573ebce97740e7f4e5de6370f2ea27fda6c44ab6c",
     "1a8ad7ae484ec0d161efbf48bfc9ba1d2beb7d8eb40bb7173c09e4632c2ac566",
+    "1ae9f402f3686f39f92111676aa7730c6aa1be97f9f4d20081a670a1b32327d5",
     "1aeb38f01654b44873a9a3d055d2e5480a02974ac484f72408b0391dc71e436a",
     "1b66a38656a6a0de16f66029ba56a1ac35812ca2ea10308e7379f306bc41a196",
     "1b9acd8ddd73cad33bbe2b1eeb023c52c353a58c2138c8084be2de8a764be6b6",
@@ -40,10 +45,12 @@
     "1e913bf9fd9025944244f155e19357f7d88c30c7f572e8ef60057c7ce069cb1c",
     "1ecb42a3f3e14c44f193d116378382d76eb01dcdfb0cc8b9397b7d60e917ffa9",
     "21468dbd631c37816aa6b87726d8a92ab37ffef73bcea42f1f524aa389177580",
+    "214897c094cc82a41acdf3dc891e72ed5e80d7cb122a42856333de852d18862b",
     "21902544b545b0b8bb19f0e24d5e71ed84d5715434c1437d2de4c450cffab13e",
     "22e495b5d21bd2719c0ad3e8150a23193fa3b7ef1bc294e223d17cd8797b4713",
     "232bd68ed3de4e5e84c96b64ca43aed29438ceba87bb51e3afe8e89c051c65de",
     "2367d15afc14508e17210894799275eb7e0e42950332a49707d879d995f59532",
+    "268d05cb4991e9a6faba4aeac6fd1b53e407854793f7ad93c44aa7dead7b6709",
     "272069fa3814fc3d6e3e5249081980fc53ca68d6c8f56ab17567b923c44af995",
     "27d519fde93152fc9ccea1a541ca8374c09276f51ef68f914cb1eaa08e01f3c3",
     "29940448bc1c63de2a343973e9fd87f5394fa4fc4e9851404c7035c49b00300b",
@@ -64,10 +71,12 @@
     "32bddea8c2cf3fc4446f88c4bef47df3c55b4a8e983f78bb35210c9527c31184",
     "333619cb5e5dc2ebbab83196f276d91ca877f612582a3a3afa4317b34227d0f1",
     "338ac43052c17ee1ad42a0a3dc5bb9168354378b342608683225165e452581f0",
+    "342ee02a7463f3a2426d5af1b4677119104f3a73eca1cebebcdd8450426ba4d9",
     "343bbc74a4d48606755b4dd83ce39fc0e96791b44e01b77861c82d63a6bdaaa9",
     "34b98118d4d5e2b2b31c51e2b39fab345bd93bff341f78ac2cf5a86a8d9ac962",
     "35d04f6102e57d930100e14a502d7bd0ae0ba704488798a7e1fcb179e8e0d5b0",
     "35f266f915ec089bad8c95fa3b31dc6d76905b300d686b10fe8631e29fb7b494",
+    "371703c29e4399103eecd53db0d22f70af21615a9b6a83ecc59b7cd2a596fea8",
     "380d2a74f8fe6a5f610be3d6f46b2a4036873fd8777204a1d0db9f0d554ee00e",
     "38aa5eb3b0cb207cc26781142a378561b04096937c8133de32fbf858f9a0a801",
     "395f350f0fac622e4be4c6dd916dc455e0c7d37de95b7c67e6a413a786fb5bb3",
@@ -102,6 +111,7 @@
     "4e86e4b3248c8a9d763661dfe85ddab9273aa0ac9dc9e657605ec9a3c4b0a31e",
     "509a4bf482c20cbff1686c4a0f9cfed3739a6df272b6e5ed72c5ea05d36aea40",
     "50eb1d72ca4e289fe62ace60389f4d6079385987bda6dababe23c6af3d88e761",
+    "516b609386373a1306942172015144421fbdfcfa2bed24d29a81805f5e1fa4ec",
     "51f4d4b54620f8e18716113e64b33eee5d0cb0c8a0092e9def98fdca68f33142",
     "5246bc5a9413aad483b30ba3a9198c9fa53437f7237c6176a1d6c7d32cce6847",
     "530c3abd31198bce6d3ab488c3c8bb6b67114f363074cd044204b6658520a32a",
@@ -111,6 +121,7 @@
     "55a139a7d5c8352209d49fae677f8e870b18c8793654c684ce6a5c12698f923d",
     "55abb50c5e0b58c2cdc0d55165d995db631daf486e4f958ca813f3581ee4d247",
     "561c98e6e7a9f9f709061a9d3aed5f022c3bcc6dbd22ade8342af799b97c15d2",
+    "567f064e2a20e7a8b82c3386b5d461ea6d09a231f5d731cf9adf50ae5fe374ea",
     "56c544bd681bffa3bb85429fa5a7e9ee1baa1e206a73aba593ef3885c3efdc1b",
     "58eecd61540f6c584b164e0f964ecce14114cf9a7f84c6fd8d740bc533b15b66",
     "599814f677cd4bd71802194800b4cbbd469af9fa71b6ca12ced72171ee438c90",
@@ -144,11 +155,13 @@
     "654810fbeafa9dca3aa3e139f7feb3c7d80c76c499e4d6f68010050233a8e35e",
     "66e77287512b68aa6fa26b0d42b8cccfeeb10c998c9c09ceb21f3beeccdee585",
     "671f788a4c450ac846cbb4316107c941e183e5e65e1ce1b4976865e260a7ac7b",
+    "685cca1ffbc9671be3661947f923454ce03c731bc807852b6dd09242934dff2e",
     "6a5900f00f613b997e34af4372bdec4ae56bd8668a04bf43bd64f295eaf514db",
     "6b503484d61af8e40d19458226bece39d11b8724de6709ef6be60b11f09c83fd",
     "6c1bf9f29e2c3afe549a8121c941624eb2a33ea564d58b1311e4eb807ce8883f",
     "6d21b11711e41cbee51080c7f09527e83d45d1660d8172ea79c43a6ed5861863",
     "6e2e849a4b962fb14aa0bb1ce08ccb52376fcae28d42a0ae03d76981f93ac7a5",
+    "6e371037e21faf7cba35a8577de67be26362a9ed2cd355549d7f52d7ed1065a2",
     "6f76c1bd0456388c5b92e3fe7f7b570b96d6540a194cda005bf948cb215ed8cb",
     "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
     "714a4f3b0edee8ca72318446856b7b1e94fb3310fa857bd2ae4e4e0011d580a0",
@@ -156,6 +169,9 @@
     "7337902fe6b105550cd458b605e7d34aa0b5bc1b5641f4de3d68bac8bff7f4b7",
     "75b86f4effcf97b5a82176327c2ddeb797e06f6a63c33adc6afe400c7910af5f",
     "76a4d1be8de56d5ac8b5aef9ab80f895680f0a221e0b8d1b67db8ace1c6f7b6f",
+    "76d1d2ef80ceb0dee1259f564820f51d905c5699265e3da234302e6b8fda9879",
+    "76e1125f3eff442bea7faa1fb5e0a1c43f81450ac483ccb75bad3eb0da2f4e52",
+    "7727567674035639f781dab8d48c0d3ff763689e4042724b8eb7a81c361b9f59",
     "77ede06fc338fcfcd8484e75a5e46eb7a87754642a45b62a63a92d682f126ab5",
     "78414a29c70831411b8566f2834695ebabef15d808f8ebd05f4f7f595f9cbd46",
     "78fdb9be9f8a7954f8a314cc0eb2ecc18c9d0512e1dbb42d49db0213063508f7",
@@ -169,6 +185,7 @@
     "7da109a7a805b09c7458866d9c4ebcb98ceea8b4396a05843e0bf426e139531e",
     "7dc7cbf7e7e83138209a90630fdcdba94c85c6eb228c5bfa10a455397bf98f7b",
     "7f186d6934c6cbe7a2fd1ac093f695e7204409e7a6fbd8c25f53fbedb22ff886",
+    "7f2e181937df65a4aa5697ee75d4c14557d80325dee84cd8552de11948efec09",
     "80f645dc8680939f175ece649df7715f74c3ccf08dec93edd7c6ac1b47abaa2a",
     "81bbe8df9ec91f2f662adb1bfe96c95080a34add0bf10b15771a5d077cd53ece",
     "81fbb81fbdad1fc76e1153d7a236512a347da71410ac425b685384934d5fa06f",
@@ -178,7 +195,9 @@
     "85db2067262e09fff955cd2b433f32061ccada88fae68f9bdb9f7cf09eccba1f",
     "86df47c182fbb645f29e5c049bc032ee9e6e8b0791901068fb9566e452733932",
     "870db0d5468da2500cacc3d1393dbde6037f2802db62e790a49103235815f548",
+    "883a1113464637318a8823cb7836aa7f265bb3d44358db1fa74f525b6d08fd38",
     "8926ff481d21f78dca41f6628f931e5718b65293d5c2e3eeca97f6f6e8fea177",
+    "8bc1ad00bafbabf2e030eafa113721d1bbf314c8ebaf573d72ed3066b4558967",
     "8d6696663a390bae85bb8d8dfe84aa5a32c7ba8feebad0cfa77c0d0a8c9f8eac",
     "8e1d4e6da8c9feea5e5713080fe507832d354586c7e018db8240a321fdd44907",
     "8e51a2a697f63b894b1571816947ad736fa656dd88ea95db3cfc143ecd60a895",
@@ -188,22 +207,28 @@
     "8f68c35f8e2a5aacc50c4786eb0e6fe9159e8ea2202f7b3325c645dd92fd416b",
     "90fc11f99bf5830f6d961946ece8ae5543773081a2b4050423f75a8eef093f7a",
     "91fa811465a8df0a73dcea8555475c8d4dceb784842fd57ca7f62e4c25f76d25",
+    "925e9567a6f10f5f4e0c5b45fe4a6e411e01027f70a3abeeda1b72666a6b74e6",
     "926db5bd76a0178541a21270453390fd072bebe4cb1f437a4967307efbf90b49",
+    "92936ee1a35662a7c0904f2e71e708efe338cba533f8b2ef19b396e66af462a1",
     "939136a2940448dcb965d3b3b982af28d24d7be20100ed1ebc981d364f18970d",
     "960d6cbdfd58c3f601a35f9ce7b34d7c13548ed4355d324ee364f92728f487c6",
     "966106b2789ba51b7f3c87b2a2d145bb87bf96dc97b7f6cb36adfb6a9c67f548",
+    "96651a40ca12c320cb13e645f6c543d225dc45e83f7044d102e29014e6b84130",
     "967ee9365d7e36ef64e79f734208f692164050c2f8dc7d8b50f19f9ddc78db1b",
     "96d54d87195ede2e71da4659604af901955d7c7ee5d968af35f24f711e93ee1c",
     "973eeacb96a4acceaf0cbf506e22b3b9f90c604e4892b4a352df6a5f6de657e9",
     "9815afeb7ac87049d7e071e72bddcb5c7c4e51509b8182588abbeaa225d71e8c",
     "983666f169536e9e1176ae7053c02f87f20eed7d7f8b5d1dbb08fada3af8bf5b",
     "986e934191aa2a7fa8d3cd8dba1e5f750716bcaa202a7e855d9b320ab16aee81",
+    "989f4213c0d19c681d6999b97d352453e3145c6b970e87af019b8ef6a90ff8b3",
     "98f999f151891ff8f32de3169c1b57db6335578362fac97007497c858a8f16ed",
     "997eca772b291f0289a03a7c722d58034ced7417e0271cf7a6fc95e5afa99a78",
     "9bc548d17e84db4ad0a2c4f9bbd4454ff9ee72556a9f878bd83787555a63cca1",
     "9c0eead815f38681aa625c8d3caa38e98b2708effc149564613a12c1223508c3",
+    "9c97ffb4851ec27cc6c19ec3a5c452d485b13843057b38162fbd9641f4178edc",
     "9cc92d06ce74e13b22215778a9c1ab982944ac4ac328ca8cfe5005ad8691ebcc",
     "9ce5aa8d7fadeb50227e350034132135b06dd3d7c74f3cd5b9cfa6c66249c7bf",
+    "9cf027e2903d2a9be8980eef4af591b6420d7a9541a2aa1b13457947cc354051",
     "9dd92ed6958fddf75495d7ae361b426bae65263877665830035fd5634dea45a3",
     "9debc19dffbd00cd1ed49ba7b52abb8277477004a472da8b361ce5b05fb4cdb5",
     "9e217490f72bd3d6159d6c34622deb01578b69167f74c09011018e286f7d3577",
@@ -212,6 +237,7 @@
     "9f249741e21d69d8affa678c69097ca54147ec22af5937bd2e2602a9415d6e61",
     "9f5153210f206fbe47d6b609ec926b25a2ae163adcc048e3586423f041e6dc0e",
     "a0f8951d7fd57be617d7ad9ff5b4470051b7a36053c6d5345e58aedd9ebed385",
+    "a10b06802e69b5e36c791b9778961d5bd82a02c3e0ad0ee9cd809b46534b6ff5",
     "a2545fe809d5bbe31fa6af054bd7484292276dec9e9f187b8d8e7d0818764c4b",
     "a2cca338e0bd49e875e86a0782a1b0a7908cb119c0f3e07f88d7640e416d93ce",
     "a3cd9f867bc5d4aa02a8055c9ce2f7b10438352d10375a156fb7b8507b764bd1",
@@ -221,6 +247,7 @@
     "a67508bf98e1f3be16f9f531079cd14b8a0cd08deee55fda431ca44f4bd03177",
     "a73d2a29a341c3878e51d73cbc25b7e346838a48517980fc60a74a283a4fbf09",
     "a7a2017fe077080c3a57fa36feb5f8a4c3e4cd54117b9adf05126b0cf4f34d7c",
+    "a826c710c005867639fdaa21f51d90373a1ca2d1d857aa960408d4c320d101ff",
     "a8385a2a4715bab538377b7480fb714e9966dccd527ff7622f077fb8c06c629d",
     "a9612c9ffac6375ef25e623f38b00a7264ebbd46d30c73736cec3091aa60ef5a",
     "aa212467df2c9ba6dccf6889729336e424ebecb4281d423c7867edb946758525",
@@ -234,6 +261,7 @@
     "b2545cc6d7c6295b6a6d171531ec9f728f7e8156a6954b3a98ed93ddec62a7a7",
     "b27b4cadb8bb9579d03fc48713f87b20b8d9d00393795de70997017e95a0d573",
     "b28bf248a1c80f9ed7df6036fe7f5e146c87ec7a0f6162737b1ca1e3aae39fb5",
+    "b3e3689a212156afaa50f4cee5c929deca27e1b20838045f39d684e3281d132e",
     "b40dc5e7bf93e61cf78af8fc6efc87a7ad04117e6d98b5104137653444936d71",
     "b421a499d47a41a063ec33aa43f9edd9bdd4d66c34643bd5374069db28eab3ab",
     "b4538b718ec75d2eee129b19db7d7edc06e8b9d1974e52d6cc254c5faf2446af",
@@ -242,12 +270,14 @@
     "b629f66acbe61d20f0b06735351d5e2ed88cebd8ed4c1b1c322c417d98266e1c",
     "b846ae8bb3af81dd18c9a98f039f90efb1687895f16ec0ad51ecb271e334cd44",
     "b86bf7ebf7e2c8d57a75b9a74d515cea2eca1b186af7868c96054c7c565f4401",
+    "b9ec02ec153d6f1374bb5d01944e5f6df7356eb77c4bc0dcc3f52982542d0d35",
     "ba4ccb8cc8b108200e4378819766e670692c913a8f5653e9f45419a59fed589b",
     "ba9b4313f8454bcee4714b9ba2bba37f1f92052530f0313c7b019f3afd0d9616",
     "baacfff62f4b5f2fb5d8e85c86944d7f0cd14658d07ba8cdb9232c0e3cbf3fcf",
     "bae510d1187f848b7cec220f69d643e0f8c12e59c09240550c643688ccdf3456",
     "bca7065fe4c347a86e11364ae82cc6323617e477042cceb525022a763bdc0b4d",
     "bd2a2c27b0a36c2bb7e81f7e6317809b6954305a513c16cf8413dc7ee9b8bb4b",
+    "be75115a3090d25429d11da808ad1f1f97f9ec1e504012d5352481d89a58e111",
     "bf9cc0d946e62c571c07c87aae8371b73d049822245c4b079818ac622097841d",
     "c153ecc5d9978260c953c4f8c645a13831ea21e4ab78cc314584916c66af6ead",
     "c1e2ec20853ea8b45edd3c57ef4a614fab65461f4c3a199f6d7813009cfe5eaa",
@@ -262,8 +292,10 @@
     "c65c78b0a4e318ab6719d4d0105991ae67bde15422c8c7763cb0528f21c72372",
     "c69954a24f67e68f7fc3ac31254a605a6cd1f267428c0ab658d3515db21ac9cd",
     "c7022e5c527a5e4f4bab436e9ff399a48aa76dd49d5a10a53f7a0e643f50e088",
+    "c70471604c0f1caf4daba1269f916caf1bdbf1a9fa85fe94246d5591c247bfa3",
     "c719b85b4283dbfce86c84549e55c6fe1a9f573fdce9d92ea1e95f17987dc749",
     "c81bf9c8803bb934249f8bcb128b799ce949dd981aa2c41485771aac79d0da29",
+    "c8316c13e41474fab4b06f044afc1a564b6c3a7a849229b418268c618a3d99f2",
     "c85289d4d54fd5f759f3c0d5e066064407b7a818bea51f3ea1c794448a1c25aa",
     "c9917eb4b45ea39a75e7ced83fca772432d5d09162397f56dccf8468d9adcd37",
     "cab90f05d2ceab0c24f5d0887c036405c585d412221a530512f28822156ef23d",
@@ -279,6 +311,8 @@
     "d1122947edb73159679d2975475ef269e6a1e1ee973715d074b740a2a2c1434e",
     "d12f9109481db5f76f947b9a1169f142e18cc132d7cdc49d29e43cf5f415a2d0",
     "d153f6183bce0e9e660f98eb1bdfbbbf3d89d4423fc239046a0aa6742d34b44c",
+    "d24bb121b5e9bfba0556de90c65d8c396efe65e86af18e1e4a420c1e4f823b60",
+    "d2852ca9bb0eb881138ff3f070d339a8d01ae879e6eb925a8d0ed69b0596de06",
     "d363d4311f6d6ec33c9dd761ac3f7fd003eacdf31fb78a65f741bb8dfef40647",
     "d39f3d0566df20f1afd3010a84432b470d15645e9a3fb9a1872e0fa9549f4180",
     "d41a7ea16fd058e2325297f41357d3fc95addd12b1e473580153e5009c6c6488",
@@ -286,6 +320,7 @@
     "d579d080bc51633b718df1057a9f1db3ca7d1650f5e44b72c24256953bc87f35",
     "d68eb8d5e5bd9fae448115079ed988c29a06e35ea54b56eb24f7a23ccb531f88",
     "d695bac69137f1a8c428bb14db319ad727ab526b7e4fbff136025fc2a076d606",
+    "d70bdf4aaa7b9fef92880f0821c33863b05f46d4de917acb58d3ff1bade2dbc1",
     "d75b4f8bc5ae6c055b5394c5e1cae35d6cd7ac818724244de5ede6a27f05727b",
     "d7c39fe6bb8e5876d1d42a1c09a6588317dadad2399fcc674d0a7a68b4cdfdd1",
     "d84bc82e7be301be7b6780f9232b581d19c66b77f7d75174a6eb91b41228b63b",
@@ -301,6 +336,7 @@
     "de7910676e42a6e8ffe918af2917ae78cc41f621cfeb7546865842d2b117a893",
     "dea14e876324f7fe7851ebdf682b059fad503d34b24de369795cd04a02e04085",
     "deed29fa31db045d032558e93a393af12d4faa4e1a52ba416ee0766f7614fee1",
+    "deeda58240240f7bd23f2c51d4bc7f4744add6e57b241f6b7f8c08efc394d8ff",
     "dfbb43cc397a5df974f1adb410636f505029c5e9b8e123a5de4a828cb7ce45cb",
     "e0064ece6a2aef9e4727b67c0654043a0e7d17c47ef0b28cec2c86779a3c74af",
     "e073531965c32b3c8a4380781773da50d829292199f30f799a2404e2f84db3dc",
@@ -312,6 +348,7 @@
     "e3d08812bd403ea1c71eb0fad3234fa7d19f5569eb6db6af787753e875b7bf2f",
     "e3ede6bb476bef887d239ebcf8637ee5d7bb3ab4002ced9729ca08d869a38a74",
     "e491f78f293a1ba71122174670bc15b22adbb12225196c6afd9280dcb24cb469",
+    "e61529b588c3bfd06e34b2f9accf94ddb3a5e6663803cab1c1f337920237b4ca",
     "e636ec8652f78ec911b8e0ac2213455abd702072208ff2ac24cf6c07271c763b",
     "e7036f74ecc5d4a2db179e9253ac2a697c4d21d3066a52da3dd6ce82cef9c189",
     "e75346e3ba77fd15f551c1fba2c8757f890bc6ad325abbbd26f4cb21ec56b007",
@@ -337,6 +374,7 @@
     "f430b33f9fa7005851df95dbd35b808740740072ec83e51bf7dde2bc94d91b04",
     "f4b9c6a4fa2bc04ea43f2c9e8436139c39d956a4f7ca12ece486d78394b730f7",
     "f4d50f998b64b56236def8a1eafe36adb9e609568e3136a3600aca3c459cbb4f",
+    "f5df5abd520694ef35a5e615f3ccc5c853dd17d3035f0ed978bd32f0e1ff7f96",
     "f6b8138a708289297075dba4e9f1c8f461a2162f0c5379356a7506657fed3a56",
     "f77eccb0cf7ff2c4d6498e2878a3b43203d39a210e1c5314c0da4562f7df26d9",
     "f84e0009b609361c5b8322c467df941aa2578148d5399502ddc214052a1daa5e",
@@ -350,6 +388,7 @@
     "fc26e19e7a73a6a66b282f711b28bd05be92c8d3c262629ff277d53cdbc57884",
     "fc41276ce31713270f8f200b005903dcaddec949c9691dc016844743d93530aa",
     "fc65f4ee3724a2471afdd8f692a000b17604b8e9c750cccc637164fefce6fd7e",
+    "fceab854cee88018b543eebe9b346ccaf686cc50ab89b1d8ce55dcdda1d0ebc1",
     "fdab3922d34a116248ab8530a57977a4d81f9bf12d106a9c419d0405448580ff",
     "fe463fe732d84258261d6a3e329017482792952341692be396b4a89dbc93ccc1",
     "fef5a8b0c2aad0370003e7dd2d5af04dd84c7f5d82857635d4b45c4b5bd37247"
@@ -357,116 +396,8 @@
   "pending": [
     {
       "keys": [
-        "925e9567a6f10f5f4e0c5b45fe4a6e411e01027f70a3abeeda1b72666a6b74e6",
-        "6e371037e21faf7cba35a8577de67be26362a9ed2cd355549d7f52d7ed1065a2"
-      ],
-      "title": "Ukraine's new drone blitz cuts Russian oil refining capacity by 30 percent",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt1olb/ukraines_new_drone_blitz_cuts_russian_oil/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-10T23:09:30+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "submitted by /u/one_and_equal [link] [comments]"
-    },
-    {
-      "keys": [
-        "268d05cb4991e9a6faba4aeac6fd1b53e407854793f7ad93c44aa7dead7b6709",
-        "76d1d2ef80ceb0dee1259f564820f51d905c5699265e3da234302e6b8fda9879"
-      ],
-      "title": "GOP House rejects Hegseth impeachment effort",
-      "url": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
-      "source": "Axios",
-      "published": "2026-11-10T23:06:08+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "House Republicans voted Tuesday evening to block an effort to impeach Defense Secretary Pete Hegseth , shielding a top Trump administration official from a politically embarrassing rebuke. Why it matters: The vote marks a victory for Hegseth, the Trump administration and Republican leaders, who were bracing for the prospect of a rebellion within their own ranks. But the reprieve is probably short-lived: Democrats are all but guaranteed to force the issue again when they retake majorities in the House and Senate in January. The vote to refer the impeachment measure back to committee passed 211-204, with Rep. Thomas Massie (R-Ky.), the measure's sponsor, the lone \"no\" vote. Driving the news: Massie forced a procedural vote on his resolution to impeach Hegseth, alleging he has defied Congress and illegally continued the U.S. war in Iran. The Trump administration has been vehemently defending Hegseth , including through a statement opposing the impeachment effort issued shortly before the vote. \"Has Pete Hegseth committed impeachable crimes? The question is absurd and the answer is: obviously not,\" Vance said Tuesday on X . \"Like so much of Congress , impeachment has become a ridiculous show that stands in for actual policymaking. Congress has so many tools for registering its policy disagreements,\" Vance added. Axios' Marc Caputo and Alex Isenstadt previously reported that Hegseth is on \"thin ice \" with Trump officials. Between the lines : Republican leaders protected their members from having to go on record on the politically difficult issue before Election Day after Speaker Mike Johnson (R-La.) sent lawmakers home early to campaign. What's next: Tuesday's vote effectively kills any effort to impeach Hegseth this Congress."
-    },
-    {
-      "keys": [
-        "567f064e2a20e7a8b82c3386b5d461ea6d09a231f5d731cf9adf50ae5fe374ea",
-        "deeda58240240f7bd23f2c51d4bc7f4744add6e57b241f6b7f8c08efc394d8ff"
-      ],
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T23:02:39+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "The US military is taking a new approach to prop up commercial launch companies as SpaceX looks to wind down its Falcon rocket program, suggesting defense officials see the workhorse rocket's retirement as a potential national security risk. The Pentagon's Office of Strategic Capital has twice in the last two weeks announced it was sending cash to two of SpaceX's competitors in the launch business. First, on October 26, the office announced a $150 million conditional loan commitment to Stoke Space. Military officials revealed a second $150 million Pentagon loan Tuesday for Rocket Lab. Stoke Space and Rocket Lab are the first two launch companies to receive significant support from the Office of Strategic Capital (OSC), an organization established in 2022 to infuse companies developing \"vital\" national security technologies with capital. OSC has been on a loan spree in recent weeks, committing hundreds of millions of dollars to companies specializing in batteries, drones, and semiconductors. In the space sector, the office also provided a $150 million loan to LeoLabs , a commercial satellite tracking company, for production and deployment of radar units. Read full article Comments"
-    },
-    {
-      "keys": [
-        "342ee02a7463f3a2426d5af1b4677119104f3a73eca1cebebcdd8450426ba4d9",
-        "e61529b588c3bfd06e34b2f9accf94ddb3a5e6663803cab1c1f337920237b4ca"
-      ],
-      "title": "Російську Ленінградську область атакують безпілотники",
-      "url": "https://www.pravda.com.ua/news/2026/11/11/8062242/",
-      "source": "Українська правда",
-      "published": "2026-11-10T22:58:00+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "У ніч на середу, 11 листопада, у Росії Ленобласть зазнала атаки безпілотників. Джерело : губернатор Ленобласті РФ Олександр Дрозденко , ТАСС , Astra Деталі : Дрозденко заявив, нібито над територією Ленінградської області було збито 42 БПЛА. Перед цим російські ЗМІ повідомили, що два літаки, що летіли в Санкт-Петербург, приземлилися в Гельсінкі через обмеження з безпеки. Моніторинги зазначили, що російська ППО збиває дрони, які летять на Санкт-Петербург і область, у Твері."
-    },
-    {
-      "keys": [
-        "002218c16aa75876116844c123b573947ad75a4e91d34575df63eefcc9ba191e",
-        "214897c094cc82a41acdf3dc891e72ed5e80d7cb122a42856333de852d18862b"
-      ],
-      "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
-      "source": "New York Times",
-      "published": "2026-11-10T22:48:42+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "The Jefferson County School District headquarters in Golden, Colo., earlier this year."
-    },
-    {
-      "keys": [
-        "076db2f0dfbb778d80a372b003a45554c29c1fcba30a9bb7f9a1a9c7f0d18923",
-        "92936ee1a35662a7c0904f2e71e708efe338cba533f8b2ef19b396e66af462a1"
-      ],
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt16da/us_soldier_is_arrested_in_uk_on_suspicion_of/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-10T22:47:41+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "submitted by /u/andrewgrabowski [link] [comments]"
-    },
-    {
-      "keys": [
-        "371703c29e4399103eecd53db0d22f70af21615a9b6a83ecc59b7cd2a596fea8",
-        "069e0851a9a731c9d75618fe00438defbd5d90376670e3755e826a2819ee9a39"
-      ],
-      "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
-      "source": "New York Times",
-      "published": "2026-11-10T22:46:12+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "Visitors to the eternal flame at President John F. Kennedy’s gravesite at Arlington National Cemetery in 2009. It has a clear sightline across the Memorial Bridge to the Lincoln Memorial."
-    },
-    {
-      "keys": [
-        "516b609386373a1306942172015144421fbdfcfa2bed24d29a81805f5e1fa4ec",
-        "c8316c13e41474fab4b06f044afc1a564b6c3a7a849229b418268c618a3d99f2"
-      ],
-      "title": "Старі вимоги РФ, гарантії безпеки та обмін: джерела про перший день переговорів в Абу-Дабі",
-      "url": "https://www.rbc.ua/rus/news/stari-vimogi-rf-garantiyi-bezpeki-ta-obmin-1794350525.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-10T22:42:05+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "Основними темами першого дня переговорів в Абу-Дабі були майбутня безпекова архітектура та гарантії безпеки для Європи, України та РФ. Крім того, обговорювалась можливість проведення великого обміну полонениним. Про це РБК-Україна повідомило поінформоване джерело. Спочатку українська сторона провела розмову з європейськими та американськими представниками. А вже потім - відбулись перемовини з росіянами. За даними видання, російська делегація, серед іншого, згадала свої пропозиції щодо зміни європейської архітектури безпеки, які Путін просував у діалозі з тодішнім президентом США Джо Байденом у грудні 2021 року. Зазначимо, що йдеться про так звані \"гарантії безпеки\", які Москва пропонувала закріпити в домовленостях зі США та НАТО. Серед її вимог були відмова від подальшого розширення Альянсу, скорочення військової присутності інших союзників у країнах, які вступили до НАТО після 1997 року, та обмеження військової співпраці з пострадянськими державами поза Альянсом, зокрема Україною. \"За їхніми словами, мовляв, те, що Байден не пішов на їхні умови, призвело до війни. Хоча ж усі розуміють, що не в цьому річ. Натомість американці намагались сьогодні під час перемовин зрозуміти, чого боїться Росія, що їй потрібні гарантії безпеки\", - пояснив співрозмовник. Джерела видання очікують, що наступного дня на переговорах обговорять можливе припинення вогню, питання енергетики та безпеку в Чорному морі. Тристоронні переговори України, США та Росії щодо завершення війни стартували в Абу-Дабі 10 листопада. Перша зустріч тривала понад чотири години, після чого делегації домовилися продовжити роботу 11 листопада. Українську делегацію очолює Рустем Умєров, до неї також увійшли керівник Офісу президента Кирило Буданов, Давид Арахамія, Сергій Кислиця та Вадим Скібіцький. Росію представляють помічник Путіна Володимир Мединський і представники дипломатичного та силового відомств. Ще вдень 10 листопада джерело РБК-Україна повідомило, що серед тем переговорів є підготовка великого обміну п"
-    },
-    {
-      "keys": [
-        "8bc1ad00bafbabf2e030eafa113721d1bbf314c8ebaf573d72ed3066b4558967",
-        "9cf027e2903d2a9be8980eef4af591b6420d7a9541a2aa1b13457947cc354051"
-      ],
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T22:35:01+00:00",
-      "discovered": "2026-11-10T23:15:29.321985+00:00",
-      "excerpt": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying security camera. The Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement posted on November 10. Amazon describes the devices as relying on an AI Pilot system that uses each device’s cameras along with “specialized vision models, on-device sensors and cloud processing” to plan patrol routes while autonomously navigating around obstacles such as furniture. Both devices also use that AI Pilot system to digitally map the floor plan of the customer’s home or business. This setup process occurs after the customer carries the Ring drone through their indoor spaces or allows the Ring Rover to do some autonomous exploration. Read full article Comments"
-    },
-    {
-      "keys": [
-        "96cad79e7680e68adaa2b7033bdff035f2df48899d9d92cc92598c87215296d4",
-        "118e19ff5e2e456c9d96ae8361b36162de2192c514161bb89ab6bf996ee2deb6"
+        "118e19ff5e2e456c9d96ae8361b36162de2192c514161bb89ab6bf996ee2deb6",
+        "96cad79e7680e68adaa2b7033bdff035f2df48899d9d92cc92598c87215296d4"
       ],
       "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield | Ukrainian forces have foiled Moscow’s offensive in the Donetsk region. The Russian army is making one more push",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt0sfy/ten_months_of_war_to_gain_46_square_miles_how/",
@@ -489,8 +420,8 @@
     },
     {
       "keys": [
-        "9b6f55f4ef0d9c16713ca8c212c2b84c2710693ae7b305ecd7bc02c5c0812aee",
-        "5c377135a312e9a8e9e09c8346c03d194aa0c6150c957d5e8ace9d1d5ed0a710"
+        "5c377135a312e9a8e9e09c8346c03d194aa0c6150c957d5e8ace9d1d5ed0a710",
+        "9b6f55f4ef0d9c16713ca8c212c2b84c2710693ae7b305ecd7bc02c5c0812aee"
       ],
       "title": "Зеленський розповів, коли Україна може отримати літаки Gripen від Швеції",
       "url": "https://www.radiosvoboda.org/a/news-zelensky-koly-ukraina-mozhe-otrymaty-gripen/33894825.html",
@@ -549,8 +480,8 @@
     },
     {
       "keys": [
-        "95947173d2584f2773832acb54ce8444213b0f94b7b09699e8875f6b42597ddf",
-        "4bc38d1e390e677c297811ca2d11e10e9181537b3cd3694d3183d66fd6752c88"
+        "4bc38d1e390e677c297811ca2d11e10e9181537b3cd3694d3183d66fd6752c88",
+        "95947173d2584f2773832acb54ce8444213b0f94b7b09699e8875f6b42597ddf"
       ],
       "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
       "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
@@ -582,6 +513,18 @@
       "published": "2026-11-10T21:46:53+00:00",
       "discovered": "2026-11-10T22:22:45.059736+00:00",
       "excerpt": "\"There should be fewer enemy drones over Ukrainian cities. That's why we are not only intercepting drones that have already been launched, but also destroying the infrastructure from which they are launched,\" the 412th Brigade of the Unmanned Systems Forces wrote."
+    },
+    {
+      "keys": [
+        "bc039d19027b3594ddf515d1880026b75e5516bfcbf71dbad0dc2099fdf1adfb",
+        "90b1dc4d8dd966c442f5c3651329860f0df832eaee022fd4d88854a9be38b1d7"
+      ],
+      "title": "Should you trust new AI agents with your money and data?",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+      "source": "News : NPR",
+      "published": "2026-11-10T21:44:32+00:00",
+      "discovered": "2026-11-11T00:02:28.018036+00:00",
+      "excerpt": "Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money's involved?"
     },
     {
       "keys": [
@@ -870,8 +813,8 @@
     },
     {
       "keys": [
-        "deab108867f270045cbf9affe220fda7e58b7633d1741f14c96e19830eeb0aeb",
-        "c0761b22f41691d6070521c89d5d47d5878763d9f47b0818810c8bdc21db858b"
+        "c0761b22f41691d6070521c89d5d47d5878763d9f47b0818810c8bdc21db858b",
+        "deab108867f270045cbf9affe220fda7e58b7633d1741f14c96e19830eeb0aeb"
       ],
       "title": "What happens to mathematics when AI becomes an oracle?",
       "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
@@ -4593,7 +4536,169 @@
           "source": "Українська правда"
         }
       }
+    },
+    {
+      "date": "2026-11-11",
+      "created": "2026-11-11T00:02:28.018036+00:00",
+      "summary": {
+        "title": "Daily News Digest: November 10, 2026",
+        "intro": "Today's top stories include developments in the U.S. House, ongoing international negotiations, and updates on global security.",
+        "stories": [
+          {
+            "headline": "House Republicans Block Impeachment Effort Against Defense Secretary",
+            "summary": "The U.S. House of Representatives voted 211-204 to refer articles of impeachment against Defense Secretary Pete Hegseth to the House Judiciary Committee, effectively halting the immediate effort. Representative Thomas Massie had initiated the articles, citing concerns over unauthorized military actions in various regions. Administration officials and Republican leadership worked to prevent a floor vote, with Hegseth characterizing the attempt as a farce.",
+            "article_ids": [
+              "3",
+              "5",
+              "8",
+              "11",
+              "13"
+            ]
+          },
+          {
+            "headline": "U.S.-Ukraine-Russia Negotiations Begin in Abu Dhabi",
+            "summary": "Trilateral talks aimed at ending the war in Ukraine commenced in Abu Dhabi on November 10. The first day of discussions focused on European security architecture, safety guarantees, and a potential large-scale prisoner exchange. The Russian delegation reiterated historical demands regarding NATO expansion and military cooperation, while the U.S. side sought to address underlying security concerns. Negotiations are scheduled to continue on November 11.",
+            "article_ids": [
+              "2",
+              "19"
+            ]
+          },
+          {
+            "headline": "U.S. Investigates Nvidia CEO Ties to Chinese Intelligence",
+            "summary": "The U.S. Commerce Department reportedly received a classified memo warning of an alleged relationship between Nvidia CEO Jensen Huang and a suspected Chinese intelligence agent, Alice Huang. The memo, which influenced discussions regarding technology exports, was prepared by the State Department and highlighted in briefings with President Trump. It remains unclear how these security warnings impacted the approval of specific Nvidia chip sales to China.",
+            "article_ids": [
+              "1"
+            ]
+          },
+          {
+            "headline": "Trump Administration Adopts 'Iron Gate' Policy Toward Iran",
+            "summary": "President Trump has signaled a pivot in Iran policy, favoring a strategy of economic pressure and a new operation, \"Iron Gate,\" designed to disrupt Iranian land-based weapons smuggling. Secretary of State Marco Rubio confirmed this approach, which avoids both the resumption of direct conflict and a peace deal, during a G7 meeting in Paris.",
+            "article_ids": [
+              "4"
+            ]
+          },
+          {
+            "headline": "Military and Technology Updates",
+            "summary": "The Pentagon's Office of Strategic Capital has issued $150 million loans to Rocket Lab and Stoke Space to support commercial launch capabilities amid concerns over a supply crunch following the potential retirement of SpaceX’s Falcon program. Meanwhile, Russian officials report that 42 drones were intercepted over the Leningrad region. Reports also indicate significant damage to Russian oil refining capacity, and a U.S. soldier has been arrested in the U.K. on suspicion of spying for Russia. Additionally, Amazon announced new AI-powered Ring security devices, while researchers released a comparative study on the long-term effectiveness of 21 antidepressants. Representative María Elvira Salazar won re-election in Florida, and the Kennedy family has moved to block a memorial project at Arlington National Cemetery.",
+            "article_ids": [
+              "6",
+              "7",
+              "9",
+              "10",
+              "12",
+              "14",
+              "15",
+              "16",
+              "17",
+              "18",
+              "20"
+            ]
+          }
+        ]
+      },
+      "sources": {
+        "1": {
+          "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+          "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+          "source": "Axios"
+        },
+        "2": {
+          "title": "US Senator tells incoming Congress not to give up on Ukraine, supply air defense",
+          "url": "https://kyivindependent.com/us-senator-tells-incoming-congress-not-to-give-up-on-ukraine-supply-air-defense/",
+          "source": "The Kyiv Independent"
+        },
+        "3": {
+          "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+          "source": "News : NPR"
+        },
+        "4": {
+          "title": "Trump swung between war and diplomacy — then chose a third way",
+          "url": "https://www.axios.com/2026/11/10/trump-iran-war-diplomacy-economic-crackdown",
+          "source": "Axios"
+        },
+        "5": {
+          "title": "House Republicans sidestep effort to impeach Hegseth",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+          "source": "Military Times"
+        },
+        "6": {
+          "title": "New Research Compares Long-Term Relief From 21 Antidepressants",
+          "url": "https://www.nytimes.com/2026/11/10/well/mind/antidepressants-efficacy-work.html",
+          "source": "New York Times"
+        },
+        "7": {
+          "title": "A section of the Domodedovo Airport terminal has become completely deserted",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt25a7/a_section_of_the_domodedovo_airport_terminal_has/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "8": {
+          "title": "The Evening: House Republicans Shelve Hegseth Impeachment",
+          "url": "https://www.nytimes.com/2026/11/10/briefing/hegseth-impeachment-inflation.html",
+          "source": "New York Times"
+        },
+        "9": {
+          "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
+          "source": "New York Times"
+        },
+        "10": {
+          "title": "Reuters: Ukraine has knocked out 30% of Russia’s oil refining capacity",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt211g/reuters_ukraine_has_knocked_out_30_of_russias_oil/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "11": {
+          "title": "Палата представників США заблокувала спробу оголосити імпічмент міністру оборони Гегсету",
+          "url": "https://www.pravda.com.ua/news/2026/11/11/8062240/",
+          "source": "Українська правда"
+        },
+        "12": {
+          "title": "Ukraine's new drone blitz cuts Russian oil refining capacity by 30 percent",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt1olb/ukraines_new_drone_blitz_cuts_russian_oil/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "13": {
+          "title": "GOP House rejects Hegseth impeachment effort",
+          "url": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
+          "source": "Axios"
+        },
+        "14": {
+          "title": "The US military seems to be getting nervous about the launch supply crunch",
+          "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+          "source": "Ars Technica"
+        },
+        "15": {
+          "title": "Російську Ленінградську область атакують безпілотники",
+          "url": "https://www.pravda.com.ua/news/2026/11/11/8062242/",
+          "source": "Українська правда"
+        },
+        "16": {
+          "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
+          "source": "New York Times"
+        },
+        "17": {
+          "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xt16da/us_soldier_is_arrested_in_uk_on_suspicion_of/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "18": {
+          "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+          "source": "New York Times"
+        },
+        "19": {
+          "title": "Старі вимоги РФ, гарантії безпеки та обмін: джерела про перший день переговорів в Абу-Дабі",
+          "url": "https://www.rbc.ua/rus/news/stari-vimogi-rf-garantiyi-bezpeki-ta-obmin-1794350525.html",
+          "source": "РБК-Украина"
+        },
+        "20": {
+          "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+          "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+          "source": "Ars Technica"
+        }
+      }
     }
   ],
-  "last_checked": "2026-11-10T23:15:29.321985+00:00"
+  "last_checked": "2026-11-11T00:02:28.018036+00:00"
 }
