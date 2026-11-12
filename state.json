@@ -4,8 +4,10 @@
     "002218c16aa75876116844c123b573947ad75a4e91d34575df63eefcc9ba191e",
     "008e7497bbbbf154a8c001f26ddf701f9478b95c3c7a2f08094f298fc403ddba",
     "00b97fd23fa4868abd7022703a9619dce0dce1f178134cc44fe5e7b771ce3dac",
+    "012c07f820b658c0b44d7dee524553fb849ecfb747df19b5b33cc09e03c3acc8",
     "041302c87e7322bcbb052f118c24f10a022085b7915d3708b7683e925b6edeeb",
     "0616325642eb827c04764b93683db2224c5a91554982057487cb0fa8b71ca19f",
+    "065423a34858831f4c49de0e43f1046f5d6842da45d2f984a79b983f6102e5f7",
     "069e0851a9a731c9d75618fe00438defbd5d90376670e3755e826a2819ee9a39",
     "06b0b772a655c98d16b04a7c73ba75499b9c38267d73af261d89316ca4dd2eb8",
     "070184a596b31800dbdcd70b2ebd8f4ce0fc996385ce335d982a4339ad22756f",
@@ -32,6 +34,7 @@
     "178f4b944581cfe48bbfdc112958808c4e786c578a8e569175ada6b1f942aebe",
     "191a66ec0e018051ebdb2b571a1cac050ed5aabae3c835ebaf7bd5b753ed3c25",
     "198a132de4cbe5db06c2c83973c07fa8381bb14f00fb25ab5368437792fcb0cc",
+    "19928eaf2c95907bc2335f9de044442d22397c530838e2d861f14893a914c2cd",
     "19bcb7f42fd0bebd384bdd625d36892feceb99c8f808b92b51ef3e8b48d0aa5d",
     "19d5246202c07b1cac5d29e7a6f2bb1e7034763e50154632049a210d93d68234",
     "1a89773de2acc133985f3aa573ebce97740e7f4e5de6370f2ea27fda6c44ab6c",
@@ -50,6 +53,7 @@
     "22e495b5d21bd2719c0ad3e8150a23193fa3b7ef1bc294e223d17cd8797b4713",
     "232bd68ed3de4e5e84c96b64ca43aed29438ceba87bb51e3afe8e89c051c65de",
     "2367d15afc14508e17210894799275eb7e0e42950332a49707d879d995f59532",
+    "24e1742d66bbe8002618d58a81413e0d150046fe99b4ba773ed5f231ca6afa12",
     "268d05cb4991e9a6faba4aeac6fd1b53e407854793f7ad93c44aa7dead7b6709",
     "272069fa3814fc3d6e3e5249081980fc53ca68d6c8f56ab17567b923c44af995",
     "27d519fde93152fc9ccea1a541ca8374c09276f51ef68f914cb1eaa08e01f3c3",
@@ -59,6 +63,7 @@
     "2bf0c7cb546ad60aa00d6b496b8f0d2700f24cefe31f53fa6cf10f56d5ea1a57",
     "2c095ea2469034797ae149e04f0f90d6a0197bf38e0314c7d2bff4bcab37d9c4",
     "2c0dca33a80e48590770ef647c64ea5e63b238d57b2492cd4ea584534daee26d",
+    "2c45ec8ed2c39eadae97a4e2ef59a7920fa19cead640001cad080b12d443459d",
     "2c661a198045aa6825ebc8a4f56a2521cb2a24cad3f5e802cfe86dac7e0101f2",
     "2d836f91c51dfc4bae9830d1db1ba2a52f70c1400daccc770a999fe54e00b46b",
     "2dc8262e1cc6f15bb0889852895f56e448f540c39688a6261f89a25222e61d76",
@@ -68,6 +73,7 @@
     "30aaa8e2b0c506d8025013428107dcfd568eb3a584a3d750adce25eebcf2615d",
     "317dd31fb50c2e602deee027ff0bddee3a921d455ee7aede33d56ea0d6a70f25",
     "318db958a8fd73d6c363e2547fec479c72042ad3d955b22e23e032b6c8ecc8ae",
+    "318f40ee286b4b1d46a2959dc6339cfe71ec342c642224fd7bca69e33870cb97",
     "32bddea8c2cf3fc4446f88c4bef47df3c55b4a8e983f78bb35210c9527c31184",
     "333619cb5e5dc2ebbab83196f276d91ca877f612582a3a3afa4317b34227d0f1",
     "338ac43052c17ee1ad42a0a3dc5bb9168354378b342608683225165e452581f0",
@@ -87,9 +93,11 @@
     "3f0d3d05fd6aecaf530ea7b371efb54ce257e64298a0e803f0d9118c3141e14c",
     "3f604a3b3bcc9dbf03bfc341bceb53c313d86333a50ace7ebcc3f364cfd006dd",
     "3f61a24ce96c207c832cb0f4cd3fb2cb5de90a48439778c74c572b609239a281",
+    "3f66664e285f52045d57c6ee8744841828ca9f4a636867ff3765eb2db520caaf",
     "3fb8d6ec0b652ce114966f98ab80d36e442960031d7b5f5994d032ed3ec6cc93",
     "3fc2c2c78686fd76a682261d25f5e0cf1af74621152431a9a048adae81bb20e7",
     "401417bfe1f2fc44502f5c74596b960831202627748d2e1e2a7652a58d248fcc",
+    "406a5c5cddf2619a27410b1f6eafd86616af5d48f3417086c6b112023c2d97f3",
     "408adecd7b735a086bd6ddcd913ca92211a763016e7a9205e1e799008c94d8d4",
     "414ee3f0ff2a1c87883ee560ea852822e73c49bae497a203e53911accb5a35cd",
     "42309548691d38eb59ecaa110a9300b42974cb40375093cdee524ced87a34f77",
@@ -103,11 +111,13 @@
     "476beb4b5babdd2031bb745d62cb2e00ebc4d05f98549c6ba3273749c128c694",
     "4b2099a2314e1cbee873857aed9e310659bd48cade00a8c7b1ea2babda3113c9",
     "4b2e16ac28011eeec5ee7dc6781ca16a8438f6cd4328392a6cca62b8d99890b8",
+    "4c366e9f19f5c77e4d9a1bd445bfb6730d94603b15e8e6e30883a512b7c7b73c",
     "4ce0db2ed8b2db0ff604e5b086df4af66c51be4ff12ff746e2bfa0b353df7a1e",
     "4cff3a14dc1c59f9977c3b6d1171dabb14c1194f5a1050007d69d287bb5c3d54",
     "4d25577dd1fc888b6c7ceb7fa4a3b615a69f56cdd14b74695da5b64bbf37b8d0",
     "4dad2fd50981d4e710058e683b9013394ad283a94b6a96f7414b89b14a1ea347",
     "4e0ee5228a7a88774dd1458b3d0914da3f38c6c49eb5f0ac78b634ca88ea0ef1",
+    "4e156456d7bc32cf6f75f69dc9d8d42bc6074466387c86d142be2e2100f36733",
     "4e86e4b3248c8a9d763661dfe85ddab9273aa0ac9dc9e657605ec9a3c4b0a31e",
     "509a4bf482c20cbff1686c4a0f9cfed3739a6df272b6e5ed72c5ea05d36aea40",
     "50eb1d72ca4e289fe62ace60389f4d6079385987bda6dababe23c6af3d88e761",
@@ -120,9 +130,12 @@
     "5488f8e31be844b3e20409f019d8e579d398ec9028f468308c98ce3146680bc7",
     "55a139a7d5c8352209d49fae677f8e870b18c8793654c684ce6a5c12698f923d",
     "55abb50c5e0b58c2cdc0d55165d995db631daf486e4f958ca813f3581ee4d247",
+    "561ba16dea5548f9cb10d4114a00927d3cede42030247a2ebbb54971ee737d05",
     "561c98e6e7a9f9f709061a9d3aed5f022c3bcc6dbd22ade8342af799b97c15d2",
     "567f064e2a20e7a8b82c3386b5d461ea6d09a231f5d731cf9adf50ae5fe374ea",
+    "568eebe1b24cb4f94b475e0f3bf2d06394ede5c4ad5ae238cedc68d7fb673512",
     "56c544bd681bffa3bb85429fa5a7e9ee1baa1e206a73aba593ef3885c3efdc1b",
+    "56de1e5f494c47a9ecb0ddf24d8622e550e90e0548fa91acfd1557fcdf6027cd",
     "58eecd61540f6c584b164e0f964ecce14114cf9a7f84c6fd8d740bc533b15b66",
     "599814f677cd4bd71802194800b4cbbd469af9fa71b6ca12ced72171ee438c90",
     "59a5d1cc010dd86f8be0fa60081240b8b2074c490f4772728203a64ef3f49a18",
@@ -135,6 +148,7 @@
     "5e66d9581c50b8ac917e75d6490f0c6d3957ca9eb97c8fe99ae4e01bf3c3b148",
     "5ee671d009ec5e4a91b0eb8f4eb26031e6466ab15b2b7a539449697a548ed372",
     "5f3e369c58e596a7ed8567fa8a81b2aac2438d2c5008b5abd271050526eb1798",
+    "5f65dbd0e02ab59542e40000e47be1db8cdc550641aa10c6965c2895f796b00d",
     "5f755af01ad9f23bd2dc231bfc2e3d067215fd5c38497f2a1b14a1ef86774523",
     "5f8be87c2597164cdb2062d70c3ee82a663de52d96467a3d0f920f8fba401ef8",
     "5fd1aba609852f1619f656d547228f157db1e1f491bf88961d7007b361b85fe5",
@@ -148,6 +162,7 @@
     "61db713d87c8dab22a105048f70713759b17dc723203b0da49b5232f5ebd8be5",
     "63971736fbd2886f669ce759a913a9752330d7d20c2d5d62dabdb96320c44cf2",
     "640fac99b5feb674c1950f5d5a0ec5723a9778f8d26ab6e1e0e5bba8bc6096a3",
+    "6470888ad41246555e8ab775bf793f1792ac25d9d536a84b6d904f733ab59ab0",
     "64a2778dedc8d1bac71a019cf87629417e353d8c9f78ad297ea11c9f4709069c",
     "64c6d4598a7f59b331a1900e4b2a3aa7a94ea43ae9bebea0beab59aecdf0661c",
     "65414f90d08b594e4dcba2a5548aecffd34a9e7f5d33d32a710c8fd7f5664046",
@@ -156,7 +171,9 @@
     "66e77287512b68aa6fa26b0d42b8cccfeeb10c998c9c09ceb21f3beeccdee585",
     "671f788a4c450ac846cbb4316107c941e183e5e65e1ce1b4976865e260a7ac7b",
     "685cca1ffbc9671be3661947f923454ce03c731bc807852b6dd09242934dff2e",
+    "696a01d147430ff4746f443524844230289f6f967488125b68775b716649e4ee",
     "6a5900f00f613b997e34af4372bdec4ae56bd8668a04bf43bd64f295eaf514db",
+    "6a81d720651177253f3fc1c72435bcc6bbb230a42ea9a85582a5b05cf48140d0",
     "6b503484d61af8e40d19458226bece39d11b8724de6709ef6be60b11f09c83fd",
     "6c1bf9f29e2c3afe549a8121c941624eb2a33ea564d58b1311e4eb807ce8883f",
     "6d21b11711e41cbee51080c7f09527e83d45d1660d8172ea79c43a6ed5861863",
@@ -164,9 +181,11 @@
     "6e371037e21faf7cba35a8577de67be26362a9ed2cd355549d7f52d7ed1065a2",
     "6f76c1bd0456388c5b92e3fe7f7b570b96d6540a194cda005bf948cb215ed8cb",
     "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
+    "7017c184713d88f80dad4dd67ec403e800be36eadb134152dcaf54239d07190e",
     "714a4f3b0edee8ca72318446856b7b1e94fb3310fa857bd2ae4e4e0011d580a0",
     "7228c7724a0e84f0003e87f5df9b332fdfe7f32f38eb8952129dca76da72d7a1",
     "7337902fe6b105550cd458b605e7d34aa0b5bc1b5641f4de3d68bac8bff7f4b7",
+    "74dbc28e19ff3b32430a9f8bb2fb874acb25a6dfd90776290f1a865a2a5bdfc1",
     "75b86f4effcf97b5a82176327c2ddeb797e06f6a63c33adc6afe400c7910af5f",
     "76a4d1be8de56d5ac8b5aef9ab80f895680f0a221e0b8d1b67db8ace1c6f7b6f",
     "76d1d2ef80ceb0dee1259f564820f51d905c5699265e3da234302e6b8fda9879",
@@ -177,9 +196,11 @@
     "78fdb9be9f8a7954f8a314cc0eb2ecc18c9d0512e1dbb42d49db0213063508f7",
     "79afcd7ec52544d7b629baaefc63df7f4cd1d04e10f01015da0895ddb2eada64",
     "7a46558027e0a24831b2499473c09835401a7c7ccace5ff9ed6063a7948cdd08",
+    "7a92092296721b48f5a47406fef115c3d0f5df148c39cbc3cd8fb43e97bf538e",
     "7abe5aeb79747ae73637edc3ea33b01d9deb57d25ae1b9f7b3e4bd305f5cfb70",
     "7b0ee07930a2749d660b233ade1a1d9ee3e47177b48e8b3e6ea0c82eed16f6b2",
     "7b89252b4ed0db99f5eb09396c9b63c4ab4f34f7dff8e076103cff770f2b3ab6",
+    "7cbda8d4ffe1f29e1457696c64f805323c68597e3f22f7078a49d8e935dfc9c3",
     "7d62f8066c8d4f86e4da14256a97c4a46e61c6f913a6a8588771b68eed4d7f87",
     "7d8b382012acf3a245c02709334dfb8b925fdecf8d876bb4da4cb1f3967756dd",
     "7da109a7a805b09c7458866d9c4ebcb98ceea8b4396a05843e0bf426e139531e",
@@ -192,12 +213,15 @@
     "830ab117fc9c7f6906f8d50853d8a271cfc2d50e5a185c5eed07ae7ef359ed70",
     "83108b924fae0d00f06d8f6c5928b058b06dce15328ba8d0ee49d52030cbd4db",
     "83e7286c94f56ec0e8ce6c63a22eeb2a3f96ff62232c7defe22984e4868505a7",
+    "8464c4060f17137ca62f11cb09d3f738d85522236db9d44e7409bf1e93e6ffc9",
     "85db2067262e09fff955cd2b433f32061ccada88fae68f9bdb9f7cf09eccba1f",
     "86df47c182fbb645f29e5c049bc032ee9e6e8b0791901068fb9566e452733932",
     "870db0d5468da2500cacc3d1393dbde6037f2802db62e790a49103235815f548",
     "883a1113464637318a8823cb7836aa7f265bb3d44358db1fa74f525b6d08fd38",
+    "8897d95a595388620a3b8be5684e07bb8ee119872abd6c5c1a67d1be5e168e7e",
     "8926ff481d21f78dca41f6628f931e5718b65293d5c2e3eeca97f6f6e8fea177",
     "8bc1ad00bafbabf2e030eafa113721d1bbf314c8ebaf573d72ed3066b4558967",
+    "8c3d22a2e34e3d202daa82937327d948897772a5e30d3ab51c1a2e68594b527e",
     "8d6696663a390bae85bb8d8dfe84aa5a32c7ba8feebad0cfa77c0d0a8c9f8eac",
     "8e1d4e6da8c9feea5e5713080fe507832d354586c7e018db8240a321fdd44907",
     "8e51a2a697f63b894b1571816947ad736fa656dd88ea95db3cfc143ecd60a895",
@@ -205,7 +229,9 @@
     "8eac02103f27f008d98e67553b541ebb33a78fc573a1014274c88c092c1b7ea0",
     "8f637ce4d19a727e71bfc90972eabda872b1545f42667f269162a17442dffaea",
     "8f68c35f8e2a5aacc50c4786eb0e6fe9159e8ea2202f7b3325c645dd92fd416b",
+    "8f883a210b67c4df86cefe534d985daa8761cc26e028639d4d7262183a7bc971",
     "90fc11f99bf5830f6d961946ece8ae5543773081a2b4050423f75a8eef093f7a",
+    "918f6d1b0a229eb35c5a34cf9f26c0e5c7c1b28087a5a01116f8328280c7c75e",
     "91fa811465a8df0a73dcea8555475c8d4dceb784842fd57ca7f62e4c25f76d25",
     "925e9567a6f10f5f4e0c5b45fe4a6e411e01027f70a3abeeda1b72666a6b74e6",
     "926db5bd76a0178541a21270453390fd072bebe4cb1f437a4967307efbf90b49",
@@ -236,6 +262,7 @@
     "9ef3fdefae16ce3c8687a124b8c12315d99f1ac7edcf22721198d564f9294bd0",
     "9f249741e21d69d8affa678c69097ca54147ec22af5937bd2e2602a9415d6e61",
     "9f5153210f206fbe47d6b609ec926b25a2ae163adcc048e3586423f041e6dc0e",
+    "9fb3e1b820f78474ed496c58996ca707e1ef33a5a7bcb25fe207016f252c29ee",
     "a0f8951d7fd57be617d7ad9ff5b4470051b7a36053c6d5345e58aedd9ebed385",
     "a10b06802e69b5e36c791b9778961d5bd82a02c3e0ad0ee9cd809b46534b6ff5",
     "a2545fe809d5bbe31fa6af054bd7484292276dec9e9f187b8d8e7d0818764c4b",
@@ -246,9 +273,11 @@
     "a632d037f44ad0d878fd9a777aa0a73191b8b39372eef70600bb213404db1d46",
     "a67508bf98e1f3be16f9f531079cd14b8a0cd08deee55fda431ca44f4bd03177",
     "a73d2a29a341c3878e51d73cbc25b7e346838a48517980fc60a74a283a4fbf09",
+    "a78f5c4bedac514c4165593cc3b728122f142223c4e892e2773207cdc3e0620c",
     "a7a2017fe077080c3a57fa36feb5f8a4c3e4cd54117b9adf05126b0cf4f34d7c",
     "a826c710c005867639fdaa21f51d90373a1ca2d1d857aa960408d4c320d101ff",
     "a8385a2a4715bab538377b7480fb714e9966dccd527ff7622f077fb8c06c629d",
+    "a8f865fad37eec1a0304d743f57ebd833472845021a9c0277f9cf61dceb6539e",
     "a9612c9ffac6375ef25e623f38b00a7264ebbd46d30c73736cec3091aa60ef5a",
     "aa212467df2c9ba6dccf6889729336e424ebecb4281d423c7867edb946758525",
     "aac77aa5019786752b82e6896227ab5bbd9b1748538dd469de29ea45b4835885",
@@ -268,6 +297,8 @@
     "b457bcca66e9566b9b3373c76d2854bc351a7835a2afe26c2910b9c2730455ba",
     "b4b16f36cc2454f0986e323a3aa09391eb252e0798ded4d542f8b52c23ccb21b",
     "b629f66acbe61d20f0b06735351d5e2ed88cebd8ed4c1b1c322c417d98266e1c",
+    "b7734f7c09b6aa5dbc65e952bea17bd465f02282a8f44422b85596b0c71d224e",
+    "b8340ee7818d403bae64f2fd67dd53f1c3d39d5c7a98ed187c83c6fc184d4a54",
     "b846ae8bb3af81dd18c9a98f039f90efb1687895f16ec0ad51ecb271e334cd44",
     "b86bf7ebf7e2c8d57a75b9a74d515cea2eca1b186af7868c96054c7c565f4401",
     "b9ec02ec153d6f1374bb5d01944e5f6df7356eb77c4bc0dcc3f52982542d0d35",
@@ -286,11 +317,13 @@
     "c2afe93c77671d4bc7d3a514059080504a4d4b6d08faf178821d0ce563d6fccc",
     "c30229ac12f9e3f2eb49e0f142ceb4a1f9ca900636a9a73b3226375d10e47f11",
     "c3e88aa8fd23fb521406e3e61a42c9cab1c8959bc0285d4b10b6d72faa49b4ba",
+    "c5100f197d20b7d2b782041ea547fa90c781d246dea867a6cdbdbfee82674832",
     "c551dbe4642c07d625a75130e9f9cc71e3679c901b8c661110c4362f1849a33b",
     "c5f6106b9c242c1f402f1e48d7f6981678babd053f60f7afe054e70ebce46827",
     "c603bf1a60e9d3521f0db30f88f104e8e7bd1502db18ff3197213295f8da86ad",
     "c65c78b0a4e318ab6719d4d0105991ae67bde15422c8c7763cb0528f21c72372",
     "c69954a24f67e68f7fc3ac31254a605a6cd1f267428c0ab658d3515db21ac9cd",
+    "c6f50264c27ce66443b5dd31f2db5a1be363249085290b67635da792e800c363",
     "c7022e5c527a5e4f4bab436e9ff399a48aa76dd49d5a10a53f7a0e643f50e088",
     "c70471604c0f1caf4daba1269f916caf1bdbf1a9fa85fe94246d5591c247bfa3",
     "c719b85b4283dbfce86c84549e55c6fe1a9f573fdce9d92ea1e95f17987dc749",
@@ -306,6 +339,7 @@
     "cf750300911db12fce8457ec92ce5132af88378d9416e7f473cf3152ccda03f3",
     "d058172cf5baa6cf684a6c0e68976d46772faf7f4df7552bc9d44a92cb6e94ab",
     "d05ab6a642fd2aa4363f2ae5a4954f0fd889422c45c034ea7d0e1946bee61dcc",
+    "d095f59823b8b0dd2cd9d84b742d2c804abfedd4df764636ec15f62824009470",
     "d0db07e2dc50b244ca5b47043115b1dea015c7ebdaba760667942cff1b6dc1ec",
     "d0df0e840d915e3b8fb020bd4cb300dc2a4d59951e93642eb36a192c636f8d3f",
     "d1122947edb73159679d2975475ef269e6a1e1ee973715d074b740a2a2c1434e",
@@ -325,6 +359,7 @@
     "d7c39fe6bb8e5876d1d42a1c09a6588317dadad2399fcc674d0a7a68b4cdfdd1",
     "d84bc82e7be301be7b6780f9232b581d19c66b77f7d75174a6eb91b41228b63b",
     "d8d2f3fda1c3ea03e7ad5bd97fe247de4430d9024d4db82be7577792b1f0b0ee",
+    "d9177558429daacccbb1d5aeea9da31eaf4e733994859041d67751aa332d6da0",
     "d9350d7d2afa886ccc7438497029ba955bd5700d70c88fa49752f23920a638a8",
     "d97024cb138483ba774022f357ddd4e2cb53e80a5723c1d515947b631c15794d",
     "da0be7a30add75bb7229ac43e3a4acc2537b628cb7e7af71665b7d51e56e8f86",
@@ -340,6 +375,7 @@
     "dfbb43cc397a5df974f1adb410636f505029c5e9b8e123a5de4a828cb7ce45cb",
     "e0064ece6a2aef9e4727b67c0654043a0e7d17c47ef0b28cec2c86779a3c74af",
     "e073531965c32b3c8a4380781773da50d829292199f30f799a2404e2f84db3dc",
+    "e1f84af40703053730d55618769cae2e1834561af8e3f0034dce88c0542b450f",
     "e2357e6a9ec2909e37eb6fbdea50da40dc8615b8dde85c34d5445c2560bcb1fc",
     "e2fd67d3f571559dd120f2b1afefaf8531f06f7e6665d6c6d435bdc074107c6a",
     "e3329e5d5f02621c039fdd60ac1ad3d6d49ac21acbe35f8272a5f4ada68fe3be",
@@ -362,11 +398,13 @@
     "ed3efd06965c7e717729dbbcea27a7a4d6c5c7ac3606d1189dad9c59eecbe118",
     "ed44f8c3fb1ab03305cc715b672d8db20f164e1713b8cd2d4394f11ebeba2c2c",
     "ed871b7ed5a3eac19477aafaa92b3cc7ad2fa91b369f43039d572ae742f2499c",
+    "ee374dc03cf127b7fc67a981fb8cbda43f5b7f50dc0c60f0c8251eb0ee7e1ae8",
     "f0168edc73fbf736e76449341e660a9cd6d3831d87a8c8548b957b7a717511c0",
     "f018e6ef36104d85c3caf6da89459623f421c1d10e4ad4f6ec0d5037ea83e2aa",
     "f024ea7b40e23bc3390cbe28d8c6e50bb945ce84e434bc455ddc716d55f61bab",
     "f1022d22afcb3f054846ee9d749f55e49547f4d3aae0945030928f13a5f44176",
     "f10491a7118e9fd74d48a5d21821c58cae4978ffbf0d4b3ccba7e251fc130c82",
+    "f1090b8d20de0cb11a87535f8e4b008cda2a4db857a21cba8fa0c5c55dc13b7a",
     "f1196a925bd42d319a323480aee96fd0851b6da006b395adf106288188e82060",
     "f3bd1027814a1f1ef16122a0d66a7ff472e8e73d4570c59ec04c581bddc60c56",
     "f40b1083fea64abbc98e924fe61dbe8451c4a60fa188a7acfbeaff429dcc1d4c",
@@ -384,6 +422,8 @@
     "fa02b314b55cf89b378a40ed34aeb14db85d5a42407fa121f97e987ce19df1b7",
     "fa8c9906fcfb98fea0a6d8f027e7251790b6c2b7d29f6ae560bfe53ee8577640",
     "fad162213a1c882886ba03ea6d01981a42ad35815ab2dfe54a61ea5bec5e2fde",
+    "faf321da2508ac350ec0d0e6c60f08b0c51159c2a018daeb9e76a16183461e46",
+    "fb252c610de04f692b68fd2070628539cdb144f8d0245b38c372ab7830f6b699",
     "fb6234d8440dfc444f270cb9a552f375beb8479487003b95eb00b07b2c337ef4",
     "fc26e19e7a73a6a66b282f711b28bd05be92c8d3c262629ff277d53cdbc57884",
     "fc41276ce31713270f8f200b005903dcaddec949c9691dc016844743d93530aa",
@@ -394,174 +434,6 @@
     "fef5a8b0c2aad0370003e7dd2d5af04dd84c7f5d82857635d4b45c4b5bd37247"
   ],
   "pending": [
-    {
-      "keys": [
-        "faf321da2508ac350ec0d0e6c60f08b0c51159c2a018daeb9e76a16183461e46",
-        "24e1742d66bbe8002618d58a81413e0d150046fe99b4ba773ed5f231ca6afa12"
-      ],
-      "title": "Die deutsche Wirtschaft erholt sich langsam. Doch hohe Schulden, schwache Produktivität und fehlende Reformen bremsen den Aufschwung",
-      "url": "https://www.dw.com/de/die-deutsche-wirtschaft-erholt-sich-langsam-doch-hohe-schulden-schwache-produktivität-und-fehlende-reformen-bremsen-den-aufschwung/a-79920472?maca=de-rss-de-top-1016-xml-atom",
-      "source": "Deutsche Welle: DW.com Themen des Tages",
-      "published": "2026-11-11T23:22:00+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Die deutsche Wirtschaft wächst wieder leicht. Doch Ökonomen warnen: Ohne Reformen, höhere Produktivität und solide Staatsfinanzen drohen Wohlstandsverluste, steigende Schulden und Belastungen für kommende Generationen."
-    },
-    {
-      "keys": [
-        "012c07f820b658c0b44d7dee524553fb849ecfb747df19b5b33cc09e03c3acc8",
-        "7a92092296721b48f5a47406fef115c3d0f5df148c39cbc3cd8fb43e97bf538e"
-      ],
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "source": "Ars Technica",
-      "published": "2026-11-11T23:10:17+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Nvidia’s board is set to hold urgent talks about the future of its founder Jensen Huang after revelations that he had an affair with a top executive at the company, according to people familiar with the matter. The meeting on Wednesday comes amid a deepening scandal at the $4.2 trillion group, after Donald Trump said the FBI was investigating allegations that Huang was romantically involved with an alleged Chinese spy. The Nvidia chief executive had a romantic relationship with Kimberly Powell, the chipmaker’s vice-president of healthcare, according to two people familiar with the matter. Powell, a more than 18-year veteran at Nvidia, is among the company’s more prominent public figures. Read full article Comments"
-    },
-    {
-      "keys": [
-        "2c45ec8ed2c39eadae97a4e2ef59a7920fa19cead640001cad080b12d443459d",
-        "5f65dbd0e02ab59542e40000e47be1db8cdc550641aa10c6965c2895f796b00d"
-      ],
-      "title": "Russia's largest oil refinery slammed by drones in 8-hour attack 2,500 km from Ukraine",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xtwnmr/russias_largest_oil_refinery_slammed_by_drones_in/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-11T23:08:31+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "submitted by /u/neonpurplestar [link] [comments]"
-    },
-    {
-      "keys": [
-        "4e156456d7bc32cf6f75f69dc9d8d42bc6074466387c86d142be2e2100f36733",
-        "9fb3e1b820f78474ed496c58996ca707e1ef33a5a7bcb25fe207016f252c29ee"
-      ],
-      "title": "Росіяни вдарили по Києву балістикою, у столиці пролунали вибухи",
-      "url": "https://www.rbc.ua/rus/news/rosiyani-vdarili-kievu-balistikoyu-stolitsi-1794438385.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-11T23:06:25+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "У ніч на 12 листопада Росія атакувала Київ балістичними ракетами, у столиці пролунали вибухи. Перед цим Повітряні сили попередили про загрозу балістичного удару. Про це повідомляє РБК-Україна з посиланням на Повітряні сили ЗСУ та Київську міську військову адміністрацію. Близько 01:00 Повітряні сили попередили про загрозу застосування балістичного озброєння. Невдовзі в Києві пролунали вибухи. У КМВА закликали киян негайно пройти в укриття і залишатися там до відбою тривоги. Балістична загроза в столиці означає червоний рівень небезпеки."
-    },
-    {
-      "keys": [
-        "8897d95a595388620a3b8be5684e07bb8ee119872abd6c5c1a67d1be5e168e7e",
-        "406a5c5cddf2619a27410b1f6eafd86616af5d48f3417086c6b112023c2d97f3"
-      ],
-      "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
-      "url": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
-      "source": "Axios",
-      "published": "2026-11-11T23:05:56+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Democrat Scott Colom defeated Republican Sen. Cindy Hyde-Smith in a stunning Mississippi upset , becoming the first Democrat elected to the state's Senate delegation since 1982, AP projects. Why it matters: Colom's victory marks another extraordinary breakthrough for Democrats in the Deep South, extending the historic blue wave that handed the party control of both chambers of Congress. Colom also becomes Mississippi's first Black senator since Reconstruction. Hiram Rhodes Revels became the nation's first Black senator in 1870. Mississippi's last Black senator, Blanche K. Bruce, served until 1881. Catch up quick: The race remained too close to call after Election Day, with Colom's victory expanding Democrats' 55–44 advantage over Republicans in the Senate. The big picture: Colom's victory followed a late surge of Democratic spending and organizing in a state Trump carried by 23 points in 2024. Hyde-Smith faced warning signs in the campaign's closing months, when Colom raised twice as much as the GOP senator despite her overall cash advantage. She was also outspent on TV advertising , with a flood of ads from left-leaning PACs and super PACs pushing support for Colom and attacking the senator for her vote not to release files related to the convicted human trafficker Jeffrey Epstein. Hyde-Smith's campaign also faced criticism over an interview she gave to WLOX-TV in Jackson, Mississippi, where she fumbled an answer about the price of beef, saying that Mississippians had \"so many other proteins to choose from.\" Colom's campaign capitalized on her blunder, creating a viral campaign ad urging voters to \"choose another senator.\" The GOP made a late push to help Hyde-Smith, including President Trump speaking at a rally for her in Alcorn County, where he won by 68% in 2024. But it wasn't enough. Hyde-Smith's term will end after eight years. She was appointed to the Senate in 2018 by then-Mississippi Gov. Phil Bryant, and ran for a full term in 2020, where she bested her De"
-    },
-    {
-      "keys": [
-        "568eebe1b24cb4f94b475e0f3bf2d06394ede5c4ad5ae238cedc68d7fb673512",
-        "561ba16dea5548f9cb10d4114a00927d3cede42030247a2ebbb54971ee737d05"
-      ],
-      "title": "Democrat Scott Colom wins Mississippi Senate race",
-      "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-      "source": "News : NPR",
-      "published": "2026-11-11T23:04:51+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith. (Image credit: Sarah Warnock/AP)"
-    },
-    {
-      "keys": [
-        "4c366e9f19f5c77e4d9a1bd445bfb6730d94603b15e8e6e30883a512b7c7b73c",
-        "d9177558429daacccbb1d5aeea9da31eaf4e733994859041d67751aa332d6da0"
-      ],
-      "title": "У Києві та областях оголосили повітряну тривогу через загрозу балістики",
-      "url": "https://www.pravda.com.ua/news/2026/11/12/8062425/",
-      "source": "Українська правда",
-      "published": "2026-11-11T23:00:00+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "У ніч на четвер, 12 листопада, у Києві та низці областей оголосили повітряну тривогу через загрозу російської балістики. Джерело : Повітряні сили, мапа повітряних тривог, КМВА Дослівно : \"Червоний рівень небезпеки Закликаємо мешканців міста пройти до найближчих укриттів\". Деталі : Згодом у ПС повідомили про півтряню ціль, яка рухуається курсом на столицю."
-    },
-    {
-      "keys": [
-        "fb252c610de04f692b68fd2070628539cdb144f8d0245b38c372ab7830f6b699",
-        "d095f59823b8b0dd2cd9d84b742d2c804abfedd4df764636ec15f62824009470"
-      ],
-      "title": "У НАТО заявили, що лише Україна має право вирішувати долю своїх територій",
-      "url": "https://www.pravda.com.ua/news/2026/11/12/8062424/",
-      "source": "Українська правда",
-      "published": "2026-11-11T22:55:00+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Заступник верховного головнокомандувача об'єднаних збройних сил НАТО Джон Стрінгер заявив, що лише Україна має право визначати майбутнє своїх суверенних територій. Джерело : Стрінгер в інтерв'ю телеканалу Euronews Пряма мова : \"Це шкодить Путіну. Він думав, що зараз втрутиться, створить нову архітектуру безпеки в Європі, яка почалася в Україні на початку 2022 року, і його в цьому дуже розчарували. Те, чого Україна змогла досягти завдяки уяві, інноваціям та волі, є неймовірним, і ми повинні віддати цьому належне\". Деталі : Він підкреслив, що західні союзники повинні \"вітати\" успіхи Києва в цих атаках, попри заклики президента США Дональда Трампа припинити удари по російських дизельних НПЗ через занепокоєння зростанням цін на енергоносії. Окрім того, Стрінгер висловив сумнів у щирості намірів Кремля під час переговорів в Абу-Дабі. За його словами, наразі мало доказів того, що Володимир Путін відмовився від своїх максималістських цілей зразка 2022 року, які передбачали анексію українських територій. На запитання про можливий тиск на Україну щодо відмови від частини Донецької та Луганської областей Стрінгер заявив, що лише Україна має право визначати майбутнє своїх суверенних територій. Пряма мова : \"Що стосується територій, це абсолютно питання для українців\"."
-    },
-    {
-      "keys": [
-        "8464c4060f17137ca62f11cb09d3f738d85522236db9d44e7409bf1e93e6ffc9",
-        "19928eaf2c95907bc2335f9de044442d22397c530838e2d861f14893a914c2cd"
-      ],
-      "title": "Nvidia’s Board Is Expected to Meet to Discuss Jensen Huang’s Future",
-      "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
-      "source": "New York Times",
-      "published": "2026-11-11T22:48:56+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Few Silicon Valley executives have been as synonymous with their companies as Jensen Huang, the co-founder and chief executive of Nvidia."
-    },
-    {
-      "keys": [
-        "7cbda8d4ffe1f29e1457696c64f805323c68597e3f22f7078a49d8e935dfc9c3",
-        "8f883a210b67c4df86cefe534d985daa8761cc26e028639d4d7262183a7bc971"
-      ],
-      "title": "Russia's largest oil refinery slammed by drones in 8-hour attack 2,500 km from Ukraine",
-      "url": "https://kyivindependent.com/russias-largest-oil-refinery-slammed-by-drones-in-8-hr-attack-2-500-km-from-ukraine/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-11T22:41:46+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "The Omsk oil refinery, a Gazprom facility in Siberia, has a processing capacity of over 21 million metric tons of crude per year."
-    },
-    {
-      "keys": [
-        "f1090b8d20de0cb11a87535f8e4b008cda2a4db857a21cba8fa0c5c55dc13b7a",
-        "318f40ee286b4b1d46a2959dc6339cfe71ec342c642224fd7bca69e33870cb97"
-      ],
-      "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
-      "source": "New York Times",
-      "published": "2026-11-11T22:33:36+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "Secretary of Defense Pete Hegseth and his wife, Jennifer, during a ceremony at Arlington National Cemetery on Wednesday."
-    },
-    {
-      "keys": [
-        "696a01d147430ff4746f443524844230289f6f967488125b68775b716649e4ee",
-        "e1f84af40703053730d55618769cae2e1834561af8e3f0034dce88c0542b450f"
-      ],
-      "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
-      "url": "https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares",
-      "source": "Axios",
-      "published": "2026-11-11T22:31:06+00:00",
-      "discovered": "2026-11-11T22:43:11.535412+00:00",
-      "excerpt": "Shares in Nvidia sank Wednesday night after the New York Times reported CEO Jensen Huang had a second affair with a senior executive who reports to him. Why it matters: The report adds to mounting scrutiny of Huang, already under investigation over an affair with a purported Chinese spy. The potential impact goes beyond one man and one business, though. Huang is arguably the world's most powerful CEO at the moment, his company serving as the beating heart of the AI revolution. He also has no obvious successor . Driving the news: Huang, 63, had a relationship with Kimberly Powell, 48, Nvidia's vice president of health care, according to the Times. Both are married to other people. The two were reportedly seen being affectionate at a hotel during Nvidia's annual developer conference in San Jose in March. A bystander recorded the interaction, and Huang's security team made an offer to the person to sign a nondisclosure agreement, per the Times. The paper reported that Nvidia declined to issue a statement, and Powell did not respond to a request for comment. By the numbers: Nvidia shares fell nearly 5% in after-hours trading Wednesday. The company's lost about $1 trillion in market cap since the Times first reported on Oct. 29 that Huang had a \"close relationship\" with a suspected spy. On the prediction market Kalshi, the odds of Huang being out as CEO by Jan. 1 doubled after the report. Zoom out: This new report comes after Huang confirmed in a company email that he had been unfaithful in his marriage. Nvidia has an independent panel investigating, and hired the law firm Wachtell, Lipton, Rosen & Katz to handle the probe. What we're watching: How Nvidia handles the growing scandal could have affects far beyond just its walls."
-    },
-    {
-      "keys": [
-        "7017c184713d88f80dad4dd67ec403e800be36eadb134152dcaf54239d07190e",
-        "918f6d1b0a229eb35c5a34cf9f26c0e5c7c1b28087a5a01116f8328280c7c75e"
-      ],
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "source": "New York Times",
-      "published": "2026-11-11T22:27:54+00:00",
-      "discovered": "2026-11-11T22:43:11.535412+00:00",
-      "excerpt": "Nvidia’s chief executive, Jensen Huang, at the company’s annual conference in San Jose, Calif., in March."
-    },
-    {
-      "keys": [
-        "6470888ad41246555e8ab775bf793f1792ac25d9d536a84b6d904f733ab59ab0",
-        "065423a34858831f4c49de0e43f1046f5d6842da45d2f984a79b983f6102e5f7"
-      ],
-      "title": "Russia’s AI Ambitions Take a Hit With Ukrainian Data Center Strikes",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xtvimr/russias_ai_ambitions_take_a_hit_with_ukrainian/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-11T22:20:27+00:00",
-      "discovered": "2026-11-11T23:28:34.081289+00:00",
-      "excerpt": "submitted by /u/neonpurplestar [link] [comments]"
-    },
     {
       "keys": [
         "05780006e7dd5caa4b97b4feff13f66c8dc4fb3f05ee09a9f62f038cfafa1d8a",
@@ -609,6 +481,18 @@
       "published": "2026-11-11T21:59:43+00:00",
       "discovered": "2026-11-11T22:43:11.535412+00:00",
       "excerpt": "В оприлюдненому 4 листопада розділі «Звіту про розширення», присвяченому Грузії, Єврокомісія зазначила, що кавказька країна номінально залишається країною-кандидаткою на членство в ЄС"
+    },
+    {
+      "keys": [
+        "25427598fca5db4527d35c6803253857d412ff94a1d685a3f81b64d157b1a1de",
+        "9f13a4c985a92805138a153a5dcaa83fea4db2c8c6cad5c88ecd57d462d8b6b1"
+      ],
+      "title": "Ukrainian Drone Operators Strike Russian Troops on the Sumy Front",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xtuzsc/ukrainian_drone_operators_strike_russian_troops/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-11T21:59:30+00:00",
+      "discovered": "2026-11-12T00:37:45.585849+00:00",
+      "excerpt": "submitted by /u/No-Meal2561 [link] [comments]"
     },
     {
       "keys": [
@@ -3259,6 +3143,18 @@
     },
     {
       "keys": [
+        "cbbdde978102c473586ca833279805322ce2b3778bdaec944a957b583ac249ab",
+        "8765fdfd6f58e0c5a51ba5c3caf7fd6b699c682cf1727da170d1c134ac576e1f"
+      ],
+      "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+      "source": "New York Times",
+      "published": "2026-11-11T09:31:18+00:00",
+      "discovered": "2026-11-12T00:37:45.585849+00:00",
+      "excerpt": "A fruit vendor at a market in Tyre, Lebanon. Longstanding economic problems have been worsened by strife this year."
+    },
+    {
+      "keys": [
         "0bd1589428a54f509b487e6ec9dd738d839287b54e2a9b8a490daef708551da1",
         "af8e1fabe3dba4b291d6ad78f124b62f3ab6b13f56a44c4b350112afdd56674a"
       ],
@@ -3556,18 +3452,6 @@
       "published": "2026-11-11T00:59:32+00:00",
       "discovered": "2026-11-11T21:26:31.258803+00:00",
       "excerpt": "Ukrainian drones struck the Ust-Luga Baltic Sea port in western Russia's Leningrad Oblast overnight on Nov. 11, monitoring channels reported."
-    },
-    {
-      "keys": [
-        "50e6f48a995fdce16b8c009299c6e5814ce2ee282c98511bd582a599a5d0121d",
-        "944125876786f75233a5ff0ecfd84e49ee2e48b554bb86af03018ac90aa294e5"
-      ],
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "source": "Ars Technica",
-      "published": "2026-11-10T23:30:56+00:00",
-      "discovered": "2026-11-11T21:26:31.258803+00:00",
-      "excerpt": "Seagate doesn't think hybrid drives are done just yet. On Tuesday, the company announced the launch of the new FireCuda Forge line of storage drives. The new drives combine the high capacity of a traditional plattered HDD with the speed and responsiveness of a user-supplied solid-state drive (SSD). The new hybrid storage solution is Seagate's first to be powered and managed by the new Alkemi intelligent storage platform. The FireCuda Forge is available right now through Seagate's web store , and comes in 8TB ($699) or 20TB ($899) HDD configurations—neither of which includes the required SSD. Users will have to bring their own SSD, with some specific restrictions. The FireCuda Forge is compatible with M.2 2280 NVMe drives that are PCIe Gen3 or higher. The maximum supported NVMe capacity is 1TB, which means that's as much data as you'll be able to dedicate to storage on the \"fast side\" of the hybrid setup. The NVMe will require minimum speeds of 2,400MB/s read and 2,000MB/s write, and a unit with DRAM cache is recommended. Seagate claims 2,500MB/s read and 2,000MB/s write speeds for the combined system, along with USB4 and support for Windows 11 and macOS 26+. Credit: Seagate Read full article Comments"
     }
   ],
   "history": [
@@ -4693,7 +4577,163 @@
           "source": "Ars Technica"
         }
       }
+    },
+    {
+      "date": "2026-11-12",
+      "created": "2026-11-12T00:37:45.585849+00:00",
+      "summary": {
+        "title": "Daily News Digest: November 12, 2026",
+        "intro": "This report summarizes key developments in international politics, ongoing conflicts in Ukraine, and major corporate updates.",
+        "stories": [
+          {
+            "headline": "Democrat Scott Colom Flips Mississippi Senate Seat",
+            "summary": "Democrat Scott Colom has defeated Republican Senator Cindy Hyde-Smith in a historic upset, becoming the first Democrat elected to the Senate from Mississippi since 1982. Colom, who is Mississippi’s first Black senator since Reconstruction, secured the victory following a late surge in Democratic spending and organizing. The race was considered a nail-biter, with ballots being counted for days after the election.",
+            "article_ids": [
+              "3",
+              "5",
+              "11",
+              "12"
+            ]
+          },
+          {
+            "headline": "Ukraine Targets Russian Energy Infrastructure Amid Escalated Strikes",
+            "summary": "Russia launched a ballistic missile attack on Kyiv following peace talks, with further alerts issued for the capital and other regions. In response to ongoing conflict, Lithuania has pledged to supply Ukraine with essential energy equipment, following support from Denmark and Norway. Separately, drone attacks were reported at the Omsk oil refinery in Siberia, located 2,500 kilometers from Ukraine. NATO official John Stringer emphasized that only Ukraine has the right to decide the future of its territory, noting that Russia's original 2022 goals remain unchanged despite negotiations.",
+            "article_ids": [
+              "2",
+              "4",
+              "7",
+              "9",
+              "10",
+              "13",
+              "14",
+              "16",
+              "20"
+            ]
+          },
+          {
+            "headline": "Nvidia CEO Jensen Huang Faces Leadership Crisis",
+            "summary": "Nvidia’s board is reportedly set to meet regarding the future of CEO Jensen Huang amid a worsening scandal. Reports indicate Huang engaged in a romantic relationship with Kimberly Powell, a vice-president at the company. This follows previous reports involving an alleged Chinese spy. Nvidia shares fell approximately 5% in after-hours trading, and the company has launched an investigation into the matter.",
+            "article_ids": [
+              "8",
+              "15",
+              "18",
+              "19"
+            ]
+          },
+          {
+            "headline": "Political Developments in Washington and Germany",
+            "summary": "In the U.S., Democrats faced criticism regarding attendance at a recent impeachment vote concerning Defense Secretary Pete Hegseth. Meanwhile, economists are warning that Germany's economic recovery is being hindered by high debt levels, low productivity, and a lack of necessary reforms.",
+            "article_ids": [
+              "1",
+              "6",
+              "17"
+            ]
+          }
+        ]
+      },
+      "sources": {
+        "1": {
+          "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+          "source": "New York Times"
+        },
+        "2": {
+          "title": "Литва передасть Україні необхідне енергетичне обладнання – Зеленський",
+          "url": "https://www.pravda.com.ua/news/2026/11/12/8062426/",
+          "source": "Українська правда"
+        },
+        "3": {
+          "title": "Democrat Scott Colom wins the closest Senate race in the country",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+          "source": "News : NPR"
+        },
+        "4": {
+          "title": "Russia attacks Kyiv with ballistic missiles hours after peace talks end",
+          "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/",
+          "source": "The Kyiv Independent"
+        },
+        "5": {
+          "title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
+          "url": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
+          "source": "New York Times"
+        },
+        "6": {
+          "title": "Die deutsche Wirtschaft erholt sich langsam. Doch hohe Schulden, schwache Produktivität und fehlende Reformen bremsen den Aufschwung",
+          "url": "https://www.dw.com/de/die-deutsche-wirtschaft-erholt-sich-langsam-doch-hohe-schulden-schwache-produktivität-und-fehlende-reformen-bremsen-den-aufschwung/a-79920472?maca=de-rss-de-top-1016-xml-atom",
+          "source": "Deutsche Welle: DW.com Themen des Tages"
+        },
+        "7": {
+          "title": "russia attacked a civilian bomb shelter during the Nov 2 airstrike. Artem and Daniela Zhukovy were killed in the shelter, their daughter Dominika is now without parents",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xtwt2g/russia_attacked_a_civilian_bomb_shelter_during/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "8": {
+          "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+          "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+          "source": "Ars Technica"
+        },
+        "9": {
+          "title": "Russia's largest oil refinery slammed by drones in 8-hour attack 2,500 km from Ukraine",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xtwnmr/russias_largest_oil_refinery_slammed_by_drones_in/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "10": {
+          "title": "Росіяни вдарили по Києву балістикою, у столиці пролунали вибухи",
+          "url": "https://www.rbc.ua/rus/news/rosiyani-vdarili-kievu-balistikoyu-stolitsi-1794438385.html",
+          "source": "РБК-Украина"
+        },
+        "11": {
+          "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
+          "url": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
+          "source": "Axios"
+        },
+        "12": {
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "source": "News : NPR"
+        },
+        "13": {
+          "title": "У Києві та областях оголосили повітряну тривогу через загрозу балістики",
+          "url": "https://www.pravda.com.ua/news/2026/11/12/8062425/",
+          "source": "Українська правда"
+        },
+        "14": {
+          "title": "У НАТО заявили, що лише Україна має право вирішувати долю своїх територій",
+          "url": "https://www.pravda.com.ua/news/2026/11/12/8062424/",
+          "source": "Українська правда"
+        },
+        "15": {
+          "title": "Nvidia’s Board Is Expected to Meet to Discuss Jensen Huang’s Future",
+          "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+          "source": "New York Times"
+        },
+        "16": {
+          "title": "Russia's largest oil refinery slammed by drones in 8-hour attack 2,500 km from Ukraine",
+          "url": "https://kyivindependent.com/russias-largest-oil-refinery-slammed-by-drones-in-8-hr-attack-2-500-km-from-ukraine/",
+          "source": "The Kyiv Independent"
+        },
+        "17": {
+          "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
+          "source": "New York Times"
+        },
+        "18": {
+          "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+          "url": "https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares",
+          "source": "Axios"
+        },
+        "19": {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+          "source": "New York Times"
+        },
+        "20": {
+          "title": "Russia’s AI Ambitions Take a Hit With Ukrainian Data Center Strikes",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xtvimr/russias_ai_ambitions_take_a_hit_with_ukrainian/",
+          "source": "rUkrainianConflict on Reddit"
+        }
+      }
     }
   ],
-  "last_checked": "2026-11-11T23:28:34.081289+00:00"
+  "last_checked": "2026-11-12T00:37:45.585849+00:00"
 }
