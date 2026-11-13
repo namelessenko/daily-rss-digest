@@ -476,6 +476,54 @@
   "pending": [
     {
       "keys": [
+        "df93bc849315c389552e0eb74d196bbd492d20176f4cf239b3d3bef7e2277d8e",
+        "3f12ab3bdd01f98ed2087f444e69a5b75b6b64a8c6268aa2ed1e7719198924f4"
+      ],
+      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+      "source": "News : NPR",
+      "published": "2026-11-13T22:18:55+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule. (Image credit: Lynne Sladky)"
+    },
+    {
+      "keys": [
+        "2f7f8a59c11294aa9273de94c87cf9077dd5ce9a0f631d21a2446c9d281bb658",
+        "51b2836eaef7cb43249438f3d71a49d45c77797a5b4e7640128484ca4c988bde"
+      ],
+      "title": "FAA orders nationwide ground stop for all US flight departures",
+      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
+      "source": "The Kyiv Independent",
+      "published": "2026-11-13T22:14:36+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "The Nov. 13 incident marks only the second nationwide ground stop of U.S. departures since Sept. 11, 2001."
+    },
+    {
+      "keys": [
+        "0217ba3644793c051d4e970c3dbe7a13817d9fdab124de1ab8e9922c95bd8b96",
+        "edba7614e948cc4fd37e6db43474768cbfff458b9e8716068be729a33abd9103"
+      ],
+      "title": "Get MS Office 2024 Pro Plus for $48 for life while it's on sale",
+      "url": "https://boingboing.net/2026/11/13/get-ms-office-2024-pro-plus-for-48-for-life-while-its-on-sale.html",
+      "source": "Boing Boing",
+      "published": "2026-11-13T22:00:00+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "TL;DR : Get lifetime access to the entire Microsoft Office 2024 Professional Plus for Windows for just $47.99 (reg. $249.99) while it's on sale. Upgrading your productivity suite when there's a good bargain is always a win, and Microsoft Office is sure to provide. — Read the rest The post Get MS Office 2024 Pro Plus for $48 for life while it's on sale appeared first on Boing Boing ."
+    },
+    {
+      "keys": [
+        "eca74d6119ecdfb89749e51449345ed84d6925a5054e90ce849241f480385b30",
+        "7e1df452e61d4210dced01f8051b80de58d00bf5693d6e3ce34ebd0c7ec2a2f4"
+      ],
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T21:59:01+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "GLP-1 medications are everywhere these days. The peptide-based drugs are both highly effective and wildly popular for diabetes, weight loss and a growing range of connected chronic health conditions, including cardiovascular disease and obstructive sleep apnea. But, amid the boom, the latest data suggests millions of Americans have turned to unapproved versions and are using the potent drugs in ways doctors never intended, raising questions about what that real-world use means for safety and efficacy. In a study published this week , researchers at the Centers for Disease Control and Prevention broke down survey data of GLP-1 use collected between July and August of 2025. Based on responses from over 8,000 US adults, the researchers estimate that about one in 10 US adults (9.8 percent) used a glucagon-like peptide-1 receptor agonist, aka GLP-1 medication, in 2025. That's around 27 million adults. The study was published in the CDC's Morbidity and Mortality Weekly Report. Among GLP-1 users, nearly half (44 percent) reported using their GLP-1 in a way that was different from how it was prescribed. Users skipped doses, delayed getting refills, and used smaller doses than prescribed, among other changes. More than half of the people modifying how they used the drug said the changes were because of cost or availability reasons. Cost and access barriers were most pronounced among younger GLP-1 users. Fifty-eight percent of adults 14­–39 years old who modified their use cited cost as a barrier, compared with just 20 percent of adults 65 or older who said the same. Read full article Comments"
+    },
+    {
+      "keys": [
         "48bbb8188d1e86d06089a663f0364ee56affc9be5572182f5dd459d315328144"
       ],
       "title": "Coast Guard responds to New Orleans ship collision, 140 missing",
@@ -499,8 +547,20 @@
     },
     {
       "keys": [
-        "fe086bed167bda4e8f8d42f2641629337e2ec62074b625d72f7de201825ae0fa",
-        "3ca6822fc9e37596290279502544710dc91e9599f8937db15381c2c7a59ff51b"
+        "bcc41d7bbc2bbceb44ddf06f84f1838d3d35c107f24e1b8442f29f5c11399dfb",
+        "f291ed55a773ccae7cb05009c4585d8603ccd7fa67b2fdafa7034954c671ce2d"
+      ],
+      "title": "США: Федеральне управління авіації зупинило весь авіарух у країні через «надзвичайні обставини»",
+      "url": "https://www.radiosvoboda.org/a/news-faa-zupynka-aviaruhu-u-ssha/33898262.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-13T21:53:24+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "Портал із моніторингу польотів Flightradar24 повідомив, що літакам, які вже виконують рейси, дозволили продовжити рух до місць призначення"
+    },
+    {
+      "keys": [
+        "3ca6822fc9e37596290279502544710dc91e9599f8937db15381c2c7a59ff51b",
+        "fe086bed167bda4e8f8d42f2641629337e2ec62074b625d72f7de201825ae0fa"
       ],
       "title": "У США по всій країні призупинили авіарейси через збій у системі зв’язку",
       "url": "https://www.pravda.com.ua/news/2026/11/13/8062812/",
@@ -508,6 +568,30 @@
       "published": "2026-11-13T21:53:00+00:00",
       "discovered": "2026-11-13T21:59:17.170229+00:00",
       "excerpt": "У США 13 листопада призупинили вильоти всіх рейсів через \"надзвичайні обставини та з міркувань безпеки\". У країні виникли проблеми зі зв'язком у системі управління повітряним рухом. Джерело : Reuters з посиланням на Федеральне управління цивільної авіації США Деталі : Згідно з оголошенням, літаки, які вже перебувають у повітрі, можуть приземлитися, але ті, що знаходяться на землі, не можуть злітати. Сервіс відстеження рейсів FlightAware повідомив, що через загальнонаціональне призупинення вильотів було затримано або скасовано майже 7 000 рейсів. У FAA уточнили, що зупинку вильотів в усіх аеропортах країни оголосили через те, що збій зачепив одразу кілька центрів управління повітряним рухом на маршрутах. Наразі технічні фахівці відомства з'ясовують причини несправності. Як зазначає Reuters, це другий випадок повного призупинення всіх вильотів у масштабах США після терактів 11 вересня 2001 року."
+    },
+    {
+      "keys": [
+        "342461a8d02494d1ec179fa77cd34c6c76835620cca6093d67c30e91b90ba525",
+        "ee64724f9f4a8e880e14f4073dddd8d843897034bddc69a78f081f947ed0b22b"
+      ],
+      "title": "USA issues Ground Stop",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvkuhk/usa_issues_ground_stop/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-13T21:50:28+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "submitted by /u/HoneyJojo16 [link] [comments]"
+    },
+    {
+      "keys": [
+        "ad3a589181dbc501fd1ad6a0241f966093daecb5976a4e7a5ceedeee55b491d0",
+        "7cec293c763af62117c120a88b2e849d221980f02a8f1f2e783b51b46eaf33be"
+      ],
+      "title": "All US departing flights grounded by aviation officials",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvkfqn/all_us_departing_flights_grounded_by_aviation/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-13T21:33:52+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "submitted by /u/AlwaysTravel [link] [comments]"
     },
     {
       "keys": [
@@ -523,8 +607,32 @@
     },
     {
       "keys": [
-        "b10ce9e97412d2eb7c129d59019f26e3f7806a95e94fd4311cdd83e7ffcb5167",
-        "6c64fb3c9c215183a7992e863ca64904ccc8cc8eed651ea040b519d88b903b66"
+        "a696f95a919bab3c8ec7ddf4f0d60ab4e362af3097edaeaf02dca9b3b646ef3c",
+        "a10ddaf059a71e9073aea49be2655d8decd078e08ca26757732f4c1b5cb17ad8"
+      ],
+      "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+      "url": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
+      "source": "New York Times",
+      "published": "2026-11-13T21:31:49+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "They helped the G.O.P. avoid more House midterm losses — on top of the advantage they already have from gerrymandering."
+    },
+    {
+      "keys": [
+        "ae55f21245af91a5cd64fbb64f3a32366443f418449f4bd7a8a7ce443adb4324",
+        "9d534c6068e16cc6c0c56f467ec7a7ad0da0334ae4a6e10b35dd8dc801a85323"
+      ],
+      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+      "source": "New York Times",
+      "published": "2026-11-13T21:28:58+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "Microsoft acknowledged that about 20 different services were impaired by the outage."
+    },
+    {
+      "keys": [
+        "6c64fb3c9c215183a7992e863ca64904ccc8cc8eed651ea040b519d88b903b66",
+        "b10ce9e97412d2eb7c129d59019f26e3f7806a95e94fd4311cdd83e7ffcb5167"
       ],
       "title": "У справі ексміністра уряду Орбана знайшли мільйони готівки, частину – закопану у лісі",
       "url": "https://www.pravda.com.ua/news/2026/11/13/8062811/",
@@ -582,8 +690,20 @@
     },
     {
       "keys": [
-        "4c2a7ae05dcf4dce5e0a55bcaf360632c08fdbe5c5db9b5edc7f514f280a6454",
-        "09fb9fe7572b9fd711dd9dbb039c310f7b917e6af208693f182d21c08037a606"
+        "aebf58f82cea30c12a21e9801b0e3bc61569adb55c8d781698b12a845403341f",
+        "2b5787147d04dcb97dd01a56248e1393076dd0298b9b1894574dd87556f4f280"
+      ],
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T21:20:47+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments"
+    },
+    {
+      "keys": [
+        "09fb9fe7572b9fd711dd9dbb039c310f7b917e6af208693f182d21c08037a606",
+        "4c2a7ae05dcf4dce5e0a55bcaf360632c08fdbe5c5db9b5edc7f514f280a6454"
       ],
       "title": "Ground stop ordered for all airports nationwide for ‘reasons of safety’",
       "url": "https://www.reddit.com/r/worldnews/comments/1xvk1oh/ground_stop_ordered_for_all_airports_nationwide/",
@@ -650,6 +770,18 @@
       "published": "2026-11-13T20:53:00+00:00",
       "discovered": "2026-11-13T21:26:22.833124+00:00",
       "excerpt": "Президент України Володимир Зеленський 13 листопада провів зустріч з мерами різних українських міст про підготовку до зимового періоду. Джерело : повідомлення Зеленського у соцмережах Пряма мова : \"Зустрівся з міськими головами різних українських міст – з усіх частин України, – Харкова, Дніпра, Ужгорода, Івано-Франківська, Чернівців, Черкас, Миколаєва, Вінниці, були виконувачі обовʼязків міських голів Одеси, Запоріжжя, Луцька, Рівного, також виконавчий директор Асоціації міст України та президентка Української асоціації районних та обласних рад, голова Харківської обласної ради. Зустрівся з міськими головами різних українських міст – з усіх частин України, – Харкова, Дніпра, Ужгорода, Івано-Франківська, Чернівців, Черкас, Миколаєва, Вінниці, були виконувачі обовʼязків міських голів Одеси, Запоріжжя, Луцька, Рівного, також виконавчий директор Асоціації… pic.twitter.com/TqVjktHC6X https://x.com/ZelenskyyUa/status/2121342765124485383?ref_src=twsrc%5Etfw Був присутній і Премʼєр-міністр Сергій Корецький. Це була перша зустріч у такому форматі діалогу, тепер це буде регулярно. Підготовка міст і громад до зимового періоду – пріоритет\". Деталі : На зустрічі обговорили енергетику, захист неба, внутрішні безпекові загрози, стійкість зв'язку та допомогу людям. фото: з соцмережі Х Зеленського Пряма мова : \"Говорили про те, як будемо реагувати на центральному рівні, на рівні обласної та місцевої влади. Ключове – щоб з кожного регіону та міста оперативно надходила реальна інформація по тому, що відбувається на місцях, і були відповідні рішення. Обговорили також пошук механізмів допомоги людям, які можуть опинитись у складних обставинах протягом зими. Важливо також зберегти й бюджетну спроможність громад\"."
+    },
+    {
+      "keys": [
+        "e8f1a28370ebd204542c2ee362edd91e0df5169d13c69ef43919b76cfc22e199",
+        "1534c57bcaf39d026d50b675d5cb1db06faa11a975879a84b692e098db1b29d8"
+      ],
+      "title": "US military responds to 'suspected unauthorised drone activity' at UK air base",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvjd2k/us_military_responds_to_suspected_unauthorised/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-13T20:51:34+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "submitted by /u/Depressed_Cat_00 [link] [comments]"
     },
     {
       "keys": [
@@ -844,8 +976,8 @@
     },
     {
       "keys": [
-        "ce0d76fcab3ea72e27f1a955a816bee1634444bae04063a46a53be291837ad2c",
-        "91f49a3cbdb5a87b8d6263675687d916a70772ee533db8c5fe4d6f4e84794089"
+        "91f49a3cbdb5a87b8d6263675687d916a70772ee533db8c5fe4d6f4e84794089",
+        "ce0d76fcab3ea72e27f1a955a816bee1634444bae04063a46a53be291837ad2c"
       ],
       "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
       "url": "https://www.reddit.com/r/worldnews/comments/1xvicj2/eisenkot_accuses_netanyahu_of_fueling_racist/",
@@ -1597,6 +1729,18 @@
     },
     {
       "keys": [
+        "40eeba334759f8c9402ac1a339dfbee90a2afc6f0599983178afc27b622b2b04",
+        "6600b818c7ab8cf5ce5880a2a81d7e8c6b91d224913a805d0a89167532d12a19"
+      ],
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica",
+      "published": "2026-11-13T17:25:45+00:00",
+      "discovered": "2026-11-13T22:37:29.786158+00:00",
+      "excerpt": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week , Cristiano bluntly told the audience in a Toronto Convention Center, \"I think for most people in this room, the most likely reason they will die is because of an AI accident.\" In the opening lecture of a three-part series , Cristiano outlined his worries about the risk of an impending \"AI takeover.\" He defined that as a situation where goal-pursuing AI systems \"call the shots in the same sense that humans today call the shots and what happens on Earth\" and where any human trying to stop them \"would be as ineffective as if you or me was trying to stop the US military.\" Such a situation would likely lead to mass death and perhaps uninhabitable environments for humans, Cristiano said. Read full article Comments"
+    },
+    {
+      "keys": [
         "1a16088c25759306819f500b6148c70fd41c8521ce379ed24fba0101de3579ac",
         "e1540b190e8c8d5b8bb8c9c3ad15c48eecf6b6bfe4413c3c2d2a00d804de880a"
       ],
@@ -1945,8 +2089,8 @@
     },
     {
       "keys": [
-        "f46893171b0538f061d9f9715d4a6ef9dcfa9d5d25057789e5b9c484253e6de9",
-        "3623bc6efe3fb51bd46a240dacd6c79cec1b8ddf891be38d5d674d23a697e690"
+        "3623bc6efe3fb51bd46a240dacd6c79cec1b8ddf891be38d5d674d23a697e690",
+        "f46893171b0538f061d9f9715d4a6ef9dcfa9d5d25057789e5b9c484253e6de9"
       ],
       "title": "Death toll from russian terrorist strike on Komyshuvakha rises to 55 as search operation enters 6th day. A civilian bomb shelter under a school was destroyed with people inside.",
       "url": "https://www.reddit.com/r/worldnews/comments/1xvbxp1/death_toll_from_russian_terrorist_strike_on/",
@@ -2185,8 +2329,8 @@
     },
     {
       "keys": [
-        "cf34794891ed55c0aaae16df809e10bdbc6c9618b0abd5a080973e09321022ab",
-        "496dc0ffee7866ad6bb94d4e31189fe19a93506536d4885d7d6f6c10172fe54e"
+        "496dc0ffee7866ad6bb94d4e31189fe19a93506536d4885d7d6f6c10172fe54e",
+        "cf34794891ed55c0aaae16df809e10bdbc6c9618b0abd5a080973e09321022ab"
       ],
       "title": "Ukraine seeks explanation on Starshield speed restrictions from US",
       "url": "https://www.reddit.com/r/worldnews/comments/1xvaqcw/ukraine_seeks_explanation_on_starshield_speed/",
@@ -2653,8 +2797,8 @@
     },
     {
       "keys": [
-        "6ad85ba83f720630d3546e5306c418bf0ac866302cd73049b2621c2cd3f8f840",
-        "400bd4654a0a49727ce588d809485a9bf55175bbb3c5a4117af7853db6a08706"
+        "400bd4654a0a49727ce588d809485a9bf55175bbb3c5a4117af7853db6a08706",
+        "6ad85ba83f720630d3546e5306c418bf0ac866302cd73049b2621c2cd3f8f840"
       ],
       "title": "Finland, Norway Block Visas for Russian Athletes",
       "url": "https://www.reddit.com/r/worldnews/comments/1xv6vog/finland_norway_block_visas_for_russian_athletes/",
@@ -3025,8 +3169,8 @@
     },
     {
       "keys": [
-        "5e3390256892ffd24d436fbc304743f2d930b4f7f6ebcb5e8deeeb89573ee1ef",
-        "3ae5aca760828116228f2222b512743d14054c79c819b937ce932d179f9e96c5"
+        "3ae5aca760828116228f2222b512743d14054c79c819b937ce932d179f9e96c5",
+        "5e3390256892ffd24d436fbc304743f2d930b4f7f6ebcb5e8deeeb89573ee1ef"
       ],
       "title": "Brazil's Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid",
       "url": "https://www.reddit.com/r/worldnews/comments/1xv4xgj/brazils_bolsonaro_shrugs_off_fugitive_label_eyes/",
@@ -3085,8 +3229,8 @@
     },
     {
       "keys": [
-        "f3d5a86357cc64f24ee887e2c6cde74143e83c399290a000ec05c62d511539ed",
-        "827d99663b8b4c4551cb26e670b3a5a8e0b54c1efeff318f6840c88c94c38e03"
+        "827d99663b8b4c4551cb26e670b3a5a8e0b54c1efeff318f6840c88c94c38e03",
+        "f3d5a86357cc64f24ee887e2c6cde74143e83c399290a000ec05c62d511539ed"
       ],
       "title": "Turning Point UK CEO privately boasts of connections with terrorist hitman.",
       "url": "https://www.reddit.com/r/worldnews/comments/1xv4pxn/turning_point_uk_ceo_privately_boasts_of/",
@@ -3289,8 +3433,8 @@
     },
     {
       "keys": [
-        "9aea73884b7b4f17d06f9ef8076ba3c241a120dc9308e08995eef6b7538577e8",
-        "31b75e2c9c0c35b0a0453aa381940cd0e64d944f2cf525fa1c713da519b32c1a"
+        "31b75e2c9c0c35b0a0453aa381940cd0e64d944f2cf525fa1c713da519b32c1a",
+        "9aea73884b7b4f17d06f9ef8076ba3c241a120dc9308e08995eef6b7538577e8"
       ],
       "title": "Trump: 'I want to get Cuba done' before leaving office",
       "url": "https://www.reddit.com/r/worldnews/comments/1xv2768/trump_i_want_to_get_cuba_done_before_leaving/",
@@ -3469,8 +3613,8 @@
     },
     {
       "keys": [
-        "70e2cc2b6bbdc42f40c107f85b1acd0514193822ea3377b4ca1984589a775e1c",
-        "3d444943a222ee79341935eb1a7cf20d7796719349b7fcf4892b70f4440a496d"
+        "3d444943a222ee79341935eb1a7cf20d7796719349b7fcf4892b70f4440a496d",
+        "70e2cc2b6bbdc42f40c107f85b1acd0514193822ea3377b4ca1984589a775e1c"
       ],
       "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1724, Part 1 (Thread #1871)",
       "url": "https://www.reddit.com/r/worldnews/comments/1xuxxb6/rworldnews_live_thread_russian_invasion_of/",
@@ -3597,159 +3741,6 @@
       "published": "2026-11-12T22:42:57+00:00",
       "discovered": "2026-11-13T00:19:34.483129+00:00",
       "excerpt": "Also, a Brooklyn building collapse kills eight, including two children. Here’s the latest at the end of Thursday."
-    },
-    {
-      "keys": [
-        "18b29abe493fd245b06c318c6398a63c2730de6f7b4a4ca3b3c20823771e537a",
-        "2b1acdd3d7ebfa0c676107756ea773977d0a82b4a9f0e162b415ecd58f9d7246"
-      ],
-      "title": "Зеленський анонсував найбільший обмін полоненими між Україною та РФ",
-      "url": "https://www.rbc.ua/rus/news/zelenskiy-anonsuvav-naybilshiy-obmin-polonenimi-1794522979.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-12T22:36:19+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "Президент Володимир Зеленський на зустрічі з американськими представниками у Дубліні анонсував найбільший обмін полоненими між Україною та РФ. Про це глава держави повідомив під час спілкування із пресою, повідомляє РБК-Україна з посиланням на Офіс президента. \"По-перше, результат дуже важливий, і тепер, за Росією, американська сторона також підтвердила, що ми обміняємося військовополоненими. Як мені сказав Стів і Джаред, це буде найбільший обмін військовополоненими\", - заявив Зеленський. Зеленський у Дубліні зустрівся з посланцями США Стівом Віткоффом та Джаредом Кушнером після того, як останні повернулися з переговорів у Москві з диктатором РФ Володимиром Путіним. Раніше Віткофф повідомив, що планує обговорити з Володимиром Зеленським підсумки переговорів із Путіним та переконати обрати шлях завершення війни. ЗМІ писали, що до цієї зустрічі мають приєднатися представники європейських країн, зокрема Німеччини, Франції та Британії. Як відомо, 10-11 листопада в Абу-Дабі пройшли переговори між США, Росією та Україною, на яких шукали шляхи до миру, хоча за підсумками вийшло, що вдалося успішно обговорити лише майбутню безпекову архітектуру Європи. Українська сторона заявляла, що РФ привезла на переговори жорсткі директиви, в яких \"немає місця для торгів\". При цьому представники кожної зі сторін продовжують заявляти про \"позитивні сигнали\" та сподівання на просування у переговорах. Обмін полоненими 10 листопада Зеленський заявляв, що з Москвою на переговорах в Абу-Дабі обговорювалося питання обміну полоненими \"1000 на 1000\" або навіть \"1500 на 1500\". Попередній обмін полоненими між Україною та РФ відбувся 23 жовтня. Додому повернулися ще 270 українців."
-    },
-    {
-      "keys": [
-        "658079fb71adf116410e958ac0805ce534bb235f8966b400b999714375153ca1",
-        "b460efa9e13358c5283f95af01c3e6b1daf81ab9ca7c592dd738c42caee5e300"
-      ],
-      "title": "Путін погодився допустити Європу на переговори щодо завершення війни в Україні, - Кушнер",
-      "url": "https://www.rbc.ua/rus/news/putin-pogodivsya-dopustiti-evropu-peregovori-1794522745.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-12T22:32:25+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "Спецпредставник Трампа Джаред Кушнер заявив, що диктатор РФ Володимир Путін погодився допустити Європу на подальші мирні переговори щодо завершення війни в Україні. Про це повідомляє РБК-Україна з посиланням на трансляцію Офісу президента. Після зустрічі спецпосланців Трампа із президентом України Володимиром Зеленським в Ірландії вони вийшли до преси та дали кілька коментарів. Зокрема, один із них стосувався анонсу допуску Європи до переговорів. Кушнер наголосив, що США останніми місяцями дуже тісно працювали з європейцями і особисто він вважає, що жодної угоди укласти не вийде, якщо на переговорах не буде представників Європи. \"Ми говорили президенту Путіну, що вважаємо це дуже важливим. Президент Зеленський також рішуче підтримував цю позицію і заявляв про це з самого початку. І я думаю, нам вдалося домогтися того, щоб президент Путін погодився спробувати такий формат\", - сказав спецпредставник Трампа. Він висловив сподівання, що в ході переговорів відбудуться зустрічі та буде можливість обговорювати питання та вести діалог \"у більш спокійній обстановці та детально\" розбирати проблеми. \"Я можу сказати, принаймні виходячи з того, що ми чуємо від людей: вони хотіли б, щоб ця війна закінчилася. Вона триває вже дуже довго. Очевидно, що вона торкнулася величезної кількості людей\", - наголосив Кушнер. Також він повідомив, що на зустрічі з Москвою американській делегації вдалося остаточно узгодити найбільший з початку війни обмін військовополоненими між Україною та Росією."
-    },
-    {
-      "keys": [
-        "3529db6ffdeabab83b4a4b8bf2141e3229e5eb54657b75f45165f484381f096c"
-      ],
-      "title": "Navy unveils special warfare-themed uniforms for upcoming Army-Navy game",
-      "url": "https://www.militarytimes.com/news/your-military/2026/11/12/navy-unveils-special-warfare-themed-uniforms-for-upcoming-army-navy-game/",
-      "source": "Military Times",
-      "published": "2026-11-12T22:29:40+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "The U.S. Navy released images of the football uniforms that Midshipmen players will wear in the 127th Army-Navy game, courtesy of Under Armour. The threads pay homage to the history of sailors who served in the branch’s Naval special warfare component, honoring SEALs, special warfare combatant-craft crewmen and Underwater Demolition Teams. “From the earliest Navy Frogmen of World War II to today’s highly trained SEALs and SWCC operators, the uniform pays tribute to generations of service members whose courage, determination, innovation and sacrifice have helped define Naval Special Warfare,” the Navy said in a release. The uniform’s dark blue helmet is emblazoned with images of a Navy SEAL trident, SWCC master warboat and bone frog, which sits on top of the headpiece and represents the World War II-era Underwater Demolition Team frogmen. The jersey’s sleeves feature a version of the Navy Working Uniform Type II camouflage pattern, first rolled out for Naval special warfare operators. Each sleeve also carries a symbol of the service’s special warfare history. On the left, a Naval Special Warfare Command emblem is etched into the fabric; on the right, an American flag; and on the back of the collar, a Naval special warfare locker tag with a SEAL/SWCC designation and two gold stars representing service members who gave the ultimate sacrifice. A Navy Midshipman player showcases the uniform’s Navy Working Uniform Type II camouflage pattern and sea spray-inspired gloves. (U.S. Navy) The uniforms also bear the phrase “The only easy day was yesterday” along the inside collar. The pants are a dark blue with a lighter blue stripe down the side, dotted to represent the sea spray that Naval special warfare watercraft kick up as they knife through the ocean. The gloves feature an Underwater Demolition Team insignia along with another sea-spray design. In a video released by Navy athletics and narrated by famed Navy SEAL Jocko Willink, Navy special warfare personnel can be seen h"
-    },
-    {
-      "keys": [
-        "13b74fc37b097dbe0d9ff20d91b58a72ad0841fb5bf562c73c2174c1490755e2",
-        "f87e6997448d17e1af08b65ebeb13d43549b2953c631ac460eddb37cd90ba242"
-      ],
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "published": "2026-11-12T22:28:47+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments"
-    },
-    {
-      "keys": [
-        "5483dcb74ba5bb47681b2460474f670f152ca1309bca1910d1ce0c8394500732",
-        "f8b92d55b608d09b0fa82f75ac7dfe95bee931d513ed3a88349d65216d45eaff"
-      ],
-      "title": "Зеленський анонсував «найбільший» обмін полоненими після зустрічі з Кушнером і Віткоффом",
-      "url": "https://www.radiosvoboda.org/a/news-zelensky-anonsuvav-obmin-polonenymy-zustrich-kushner-i-witkoff/33897581.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-12T22:28:28+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "Кушнер заявив про «дуже хорошу дискусію» із президентом України щодо подій останніх трьох днів"
-    },
-    {
-      "keys": [
-        "f0e0af13f5dd75d2e5126be0598b7d4331b3ca6e4a53bb1dfd37c6e16ff9de0e"
-      ],
-      "title": "Democrats push to remove US-Israel tech measure from defense bill",
-      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
-      "source": "Military Times",
-      "published": "2026-11-12T22:21:53+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "Sen. Chris Van Hollen, D-Md., is leading a push to remove provisions from the Senate and House versions of this year’s National Defense Authorization Act that would promote closer ties between the U.S. industrial base and Israel’s. A letter sent Tuesday to House and Senate leadership signed by Van Hollen and 11 other Senate colleagues, including Sens. Elizabeth Warren, D-Mass., Bernie Sanders, I-Vt., and Tammy Duckworth, D-Ill., specifically addresses Section 1217 of the Senate version and Section 219 of the House version of the bill. Those sections, called the United States-Israel Defense Cooperation Initiative in the House and the United States-Israel Framework for Upgraded Technologies, Unified Research, and Enhanced Security (FUTURES) Act in the Senate , each call for enhanced cooperation between the two countries on weapons technology development, including in artificial intelligence, quantum technology and chemical and biological weapons. “The Senator is working with his colleagues to remove these provisions and will determine next steps should they remain in,” Van Hollen’s office said in an email to Military Times. “The Senator will continue to push to remove these provisions and push to protect the United States’ ability to act independently and in line with U.S. national security interests.” The letter also addresses a provision of the fiscal 2027 Intelligence Authorization Act that proposes enhancing intelligence-sharing between the two countries, which, according to the text of the bill, is intended to help Israel “maintain its qualitative military edge” and “deter and counter destabilizing activities by the Government of Iran and Iran-aligned state and nonstate actors that threaten Israel, United States forces, and regional partners.” The U.S. government’s support for Israel has come under intense scrutiny over the past three years . Israel’s war in Gaza has killed at least 74,000 Palestinians , according to Gaza’s Health Ministry, and U.S. and Israeli a"
-    },
-    {
-      "keys": [
-        "8d3287f57f29c137118b0d12f8265ee80cbe75526855517ded1f9834695a2be7"
-      ],
-      "title": "House passes bill to expand benefits for combat-injured veterans",
-      "url": "https://www.militarytimes.com/congress/2026/11/12/house-passes-bill-to-expand-benefits-for-combat-injured-veterans/",
-      "source": "Military Times",
-      "published": "2026-11-12T22:09:31+00:00",
-      "discovered": "2026-11-12T22:15:04.640941+00:00",
-      "excerpt": "The House approved legislation Thursday that would allow combat-injured military retirees with less than 20 years of service to collect their full military retirement pay and Department of Veterans Affairs disability compensation without the dollar-for-dollar offset that currently reduces their retirement benefits. The passage of the Major Richard Star Act, H.R. 2102, sends the measure to the Senate, where lawmakers must still approve it before it can reach the president’s desk. The vote followed a months-long effort led by Rep. Mark Takano, D-Calif., ranking Democrat on the House Veterans’ Affairs Committee, to force consideration of the standalone legislation. On May 21, Takano and Rep. Raul Ruiz, D-Calif., began an effort to force a House vote on a resolution that would set the rules for bringing the Major Richard Star Act to the floor. The petition reached the required 218 signatures on Sept. 15, with Rep. Nancy Mace, R-S.C., providing the decisive endorsement. On Thursday, lawmakers adopted H. Res. 1247 by a 271-135 vote, clearing the way for final consideration of the Star Act. Rep. Joe Courtney, D-Conn., who signed the discharge petition, urged the Senate to act following Thursday’s passage. “By finally passing the Major Richard Star Act, a bipartisan coalition just took a major step to follow through on that mission,” Courtney said in a Nov. 12 statement. He urged senators to send it to the president. The bill’s Republican sponsor, Rep. Gus Bilirakis, R-Fla., introduced the legislation in 2020. Ruiz and Takano have been leading Democratic advocates for its passage. Veterans of Foreign Wars National Commander-in-Chief Corey Geisler emphasized that securing a vote was not enough without passage of the full legislation. “Getting a vote is not the finish line,” Geisler said. “Passing the right bill is.” Following Thursday’s passage, Wounded Warrior Project applauded the House vote and called on the Senate to act. “We thank House Veterans’ Affairs Committee Ranki"
-    },
-    {
-      "keys": [
-        "2e9dbfd7408a1b6e89ab1f27d0f652c5f895bc88c60b25fe6ba38f266afa0590",
-        "a5da00bf2e145d2b4461ecd9d99825e06a227b105524a56c5068c086349d9289"
-      ],
-      "title": "The Fall of the A.I. King",
-      "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
-      "source": "New York Times",
-      "published": "2026-11-12T22:09:03+00:00",
-      "discovered": "2026-11-12T22:15:04.640941+00:00",
-      "excerpt": "How to understand Jensen Huang’s stunning departure."
-    },
-    {
-      "keys": [
-        "0480d92f27e7013a919330a0e7106cc0bdf1ac6c98171cde762422f7dca8706c",
-        "df97e356b2308f8f8702341f9580a0c76774b70e9c9efe68f5dfded610a90979"
-      ],
-      "title": "Зеленський анонсує найбільший обмін військовополоненими",
-      "url": "https://www.pravda.com.ua/news/2026/11/13/8062620/",
-      "source": "Українська правда",
-      "published": "2026-11-12T22:06:00+00:00",
-      "discovered": "2026-11-12T22:15:04.640941+00:00",
-      "excerpt": "Президент України Володимир Зеленський за підсумками зустрічі з представниками президента США Джаредом Кушнером та Стівом Віткоффом 12 листопада анонсував \"найбільший\" обмін військовополоненими з РФ. Джерело : заява президента на пресконференції у Дубліні Пряма мова : \"Після поїздки в Росію американська команда привезла дуже важливий результат - ми проведемо обмін військовополоненими. Стів і Джаред сказали мені, що це буде найбільший обмін військовополоненими Хлопці, наші солдати повертаються додому, я дуже вдячний усім нашим переговорникам. Це реальний результат. Насамперед це успіх для родин, звісно, і для всіх нас адже люди повернуться додому, до своїх сімей\". Деталі : Ще одним важливим результатом Зеленський назвав те, що наступного разу європейці будуть за столом переговорів."
-    },
-    {
-      "keys": [
-        "12dc57f5f8801b64d0e236e7f01f468800edc7f67dcd461f524c0b8d3c63dbcf",
-        "ec225dc4f4cc280b4f658665476ce40afba4b91aebd56eaf481e714d469cde4e"
-      ],
-      "title": "Уряд призначив заступника міністра оборони, який займатиметься формуванням оборонного бюджету",
-      "url": "https://www.radiosvoboda.org/a/news-uriad-zastupnyk-ministra-oborony-z-pytan-finansiv/33897580.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-12T22:05:23+00:00",
-      "discovered": "2026-11-12T22:15:04.640941+00:00",
-      "excerpt": "Відомство «посилює команду фахівцями з практичним досвідом у сфері оборонного фінансування та міжнародної співпраці»"
-    },
-    {
-      "keys": [
-        "806d1acf0157a9da3cd55559445e2c686e801a594078584f0233f43064f6cd3f",
-        "63d01af5f11f481dd692a82fbb3f7de433c238008b70dc122115d654696f9858"
-      ],
-      "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
-      "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-      "source": "European Union | The Guardian",
-      "published": "2026-11-12T22:01:39+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in 2016”. The prime minister was meeting fellow leaders at the European Political Community summit in Dublin, ahead of a keenly anticipated EU-UK summit next week, where he hopes to bring Britain closer to Europe. Continue reading..."
-    },
-    {
-      "keys": [
-        "04792a2590e1c8fd0ae682e44dbc9d60ac9e22981dbbd5ef36d4e1d765e93a48",
-        "c70bcdb8891c988c46b557aafd819a0598f5fa51e76ddc245b30e5baf641c430"
-      ],
-      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
-      "url": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
-      "source": "New York Times",
-      "published": "2026-11-12T22:00:29+00:00",
-      "discovered": "2026-11-12T22:43:50.976889+00:00",
-      "excerpt": "Mexican soldiers on patrol in Ciudad Juárez in Chihuahua state, Mexico, in May."
-    },
-    {
-      "keys": [
-        "b133f4dd3d0b577d9ec090bb31cfa5ed9848b8a02e5e6072726a4954eeea7b83",
-        "c8dac87bb99c45df2f7ddb593eaf95e4afaa658ba6eb867878372bf457347db7"
-      ],
-      "title": "Give the gift of music with this PopuPiano keyboard bundle for $336",
-      "url": "https://boingboing.net/2026/11/12/give-the-gift-of-music-with-this-popupiano-keyboard-bundle-for-336.html",
-      "source": "Boing Boing",
-      "published": "2026-11-12T22:00:00+00:00",
-      "discovered": "2026-11-12T22:15:04.640941+00:00",
-      "excerpt": "TL;DR : Help someone discover their musical side with this portable keyboard bundle, complete with light-up keys, interactive lessons , and more for just $335.99 (reg. $469.99). Get ready for the gift-giving part of the year with this PopuPiano bundle, which features two keyboards, a chord pad, speaker, and pedal for just $335.99 (reg. — Read the rest The post Give the gift of music with this PopuPiano keyboard bundle for $336 appeared first on Boing Boing ."
     }
   ],
   "history": [
@@ -5195,5 +5186,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-13T21:59:17.170229+00:00"
+  "last_checked": "2026-11-13T22:37:29.786158+00:00"
 }
