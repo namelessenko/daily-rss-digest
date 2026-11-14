@@ -516,6 +516,90 @@
   "pending": [
     {
       "keys": [
+        "95a27eeb815dea133f307cff00ca96d4d91f4f024d2a32d7d73eff68ba4e1832",
+        "bedaf7c5e476dec962ac597daf85a354ed171a0bdda909400a1b2607818370bb"
+      ],
+      "title": "US has lost measles elimination status, global health authorities say",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+      "source": "News : NPR",
+      "published": "2026-11-14T22:15:02+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization. (Image credit: Amy Maxmen)"
+    },
+    {
+      "keys": [
+        "976954e62f9268b4c7786b44ae1856c8e4b477c878bc709a0d72030020ac55e2",
+        "70cc84984a54a40a0b06afc58a751de31028920a3258d86ef74b28a79c4def3b"
+      ],
+      "title": "Кушнер про переговори: З'явилися ідеї, які можуть привести до прориву",
+      "url": "https://www.pravda.com.ua/news/2026/11/15/8062904/",
+      "source": "Українська правда",
+      "published": "2026-11-14T22:03:00+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "Спецпредставник і зять президента США Дональда Трампа Джаред Кушнер заявив, що під час підготовки до нового раунду тристоронніх переговорів з'явилося кілька новин ідей, які можуть або привести до прориву, або перерости в нові пропозиції. Джерело : Кушнер у соцмережі Х Пряма мова : \"Після наших тристоронніх зустрічей і подальших обговорень із президентами Путіним (правитель РФ – ред.) та Зеленським, ми зі Стівом Віткоффом продовжуємо тісні консультації з Росією, Україною та нашими європейськими партнерами щодо подальших кроків. Зараз наша увага зосереджена на сприянні прямому діалогу між Москвою та європейськими партнерами, а також на підготовці порядку денного для наступного раунду тристоронніх переговорів. У ході цих обговорень з'явилося кілька нових ідей, які зараз вивчаються. Деякі з них можуть безпосередньо привести до прориву, тоді як інші можуть перерости в нові пропозиції, що допоможуть подолати існуючі розбіжності\". Деталі : Як зазначив Кушнер, \"ЗМІ висвітлювали деякі з максималістських позицій, висунутих обома сторонами, а також різку політичну риторику\". \"У наших непублічних обговореннях обидві сторони усвідомлюють, що для припинення цієї війни необхідні практичні компроміси. Ті з нас, хто прагне знайти рішення, продовжують серйозну та конструктивну роботу\", – написав він. За словами переговірника, Трамп зазначав, що для досягнення тривалого миру необхідні надійні гарантії безпеки для України та детальні, реалістичні післявоєнні домовленості щодо безпеки, які зменшать ризик нової війни. \"НАТО залишатиметься ключовою опорою європейської безпеки, посиленою вдосконаленими механізмами у військовій сфері, комунікації, запобігання конфліктам та взаємній деескалації, а також практичними способами вирішення суперечок, перш ніж вони переростуть у кризи. Саме тому ми працюємо над тим, щоб безпосередньо залучити наших європейських партнерів до цих обговорень. Будь-яка остаточна угода має бути узгоджена відповідними сторонами, і президент Трамп підтримуватиме лише ті "
+    },
+    {
+      "keys": [
+        "8b545538495dac80e5da68c5da71b88b93ef6addb5a771b4d11801395dbbeb34",
+        "ac03ef91c29e194cb42e87d1ff9ee5375109613a849fbd0ff2cd7c8fa26fcc5e"
+      ],
+      "title": "Two sides of your Windows PC, covered for $38.39",
+      "url": "https://boingboing.net/2026/11/14/two-sides-of-your-windows-pc-covered-for-38-39.html",
+      "source": "Boing Boing",
+      "published": "2026-11-14T22:00:00+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "TL;DR: Get Windows 11 Pro and Microsoft Office Professional 2021 lifetime licenses for $38.39 (reg. $418.99) with code DEAL20. Word and Excel get most of the attention, but there's quite a bit more to Microsoft's desktop software. This bundle pairs Office Professional 2021, which includes Outlook, Access, and other familiar apps, with Windows 11 Pro and its advanced security and virtualization features. — Read the rest The post Two sides of your Windows PC, covered for $38.39 appeared first on Boing Boing ."
+    },
+    {
+      "keys": [
+        "6ef771c889636bba0fcc9237501b8445e70ddc40a7ba6bf9d490584589c43c67",
+        "9563ab6deed07f96f273d99836ab820b72d4c3706cca90ba9d05a6c722c1b1ac"
+      ],
+      "title": "US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks",
+      "url": "https://kyivindependent.com/us-now-focused-on-facilitating-direct-engagement-between-russia-europe-kushner-says-after-ukraine-peace-talks/",
+      "source": "The Kyiv Independent",
+      "published": "2026-11-14T21:58:47+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "\"Our focus now is on facilitating direct engagement between Moscow and European partners and preparing the agenda for the next round of trilateral talks,\" Kushner said."
+    },
+    {
+      "keys": [
+        "7b5dadbe08236588c21d8827c2c3994481735838cec84d1add46a4f6eb617b07",
+        "73b65057f1e22ce62a6a6091e5d897495f7565c3efe0f0e43061d2ca55a120da"
+      ],
+      "title": "Росія знову атакувала Запоріжжя – Семікін повідомив про п’ятьох поранених",
+      "url": "https://www.radiosvoboda.org/a/news-rosia-ataka-na-zaporizhzhia-semikin-piatero-poranenyh/33898712.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-14T21:57:19+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "Також раніше Семікін повідомив про часткове відновлення руху греблею ДніпроГЕС – транспорт рухається по одній смузі в кожному напрямку"
+    },
+    {
+      "keys": [
+        "f6c46e237a668efa0014070cf698b3f1cbf553e0a016b002d296fcdc07cbcfda",
+        "38da6eb49d3a7ea24ba5a2e755a60a3f6de8cda81490c8c47a971642db0c3c12"
+      ],
+      "title": "SpaceX successfully catches Starship and makes history",
+      "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+      "source": "News : NPR",
+      "published": "2026-11-14T21:42:41+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it. (Image credit: Eric Gay)"
+    },
+    {
+      "keys": [
+        "5f050f1b2f88efd9fa14659576e0a2e35f69912ee4afc260f79dd210944e96d7",
+        "73323bd16f683451f641a138b7002bb5a8455ed8e9ff80bf2af71f8d65e977bb"
+      ],
+      "title": "Israeli intelligence warns of Iranian plot to target Trump, top US officials with drones .",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xwe37o/israeli_intelligence_warns_of_iranian_plot_to/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T21:40:44+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Winter_War4982 [link] [comments]"
+    },
+    {
+      "keys": [
         "07ec065ce70f911ab4f9e8e9536c1c98bf27e0de9191af23a36f0cd24150732d",
         "8412d3d84fe395a32acdd179b829c3d543c4a9d488bf01b074a0efd25fdbf1ff"
       ],
@@ -528,8 +612,8 @@
     },
     {
       "keys": [
-        "39d010e8c19ec1b87d5d500071f07be13599b775c5015701ce7653e1460c48ac",
-        "2f3eb52a182299b8fa397ab5354640a279fd596aef83e3ba52231e31eaf963de"
+        "2f3eb52a182299b8fa397ab5354640a279fd596aef83e3ba52231e31eaf963de",
+        "39d010e8c19ec1b87d5d500071f07be13599b775c5015701ce7653e1460c48ac"
       ],
       "title": "США готують наступні контакти Москви з Європою і новий раунд переговорів, - Кушнер",
       "url": "https://www.rbc.ua/rus/news/ssha-gotuyut-nastupni-kontakti-moskvi-evropoyu-1794691201.html",
@@ -549,6 +633,18 @@
       "published": "2026-11-14T21:19:00+00:00",
       "discovered": "2026-11-14T21:29:43.905644+00:00",
       "excerpt": ""
+    },
+    {
+      "keys": [
+        "ee8f461236fe2aa2cff4b0905a0d0c77a77e6ef5b16e3ade93f7e458b5fc498e",
+        "6a113ab09f700ce91626b8418cb550385c435430eabe0158a9a2c2664e9b6989"
+      ],
+      "title": "Italy fines Meta $880 million over accessing users' photos",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xwdfji/italy_fines_meta_880_million_over_accessing_users/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T21:11:33+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/CBSnews [link] [comments]"
     },
     {
       "keys": [
@@ -600,8 +696,8 @@
     },
     {
       "keys": [
-        "e223ad74c722a6b1dd3be3165312183a73b2f7869c5a5ca95467c32dd16515f8",
-        "96f07a11d9a701b5a25485e2220f12d186cce67d78fad36a2142e90fbcde5890"
+        "96f07a11d9a701b5a25485e2220f12d186cce67d78fad36a2142e90fbcde5890",
+        "e223ad74c722a6b1dd3be3165312183a73b2f7869c5a5ca95467c32dd16515f8"
       ],
       "title": "У Києві вже будують понтонні переправи, на відновлення Південного мосту треба 2-3 місяці – міністр",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062901/",
@@ -648,6 +744,18 @@
     },
     {
       "keys": [
+        "339c317607039be96654400344213c7c42cd123fdfcff9d814a037daced13ea8",
+        "1a1759ed503cc5bd1cb29e2b0bbbaeefa14858cadf91b1518e4546c477f5606c"
+      ],
+      "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xwci09/macron_says_limiting_ukraine_aid_would_pave_way/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T20:30:58+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/LaughingLullaby [link] [comments]"
+    },
+    {
+      "keys": [
         "0839516a560b586926cf9c05f02fba331a81e67615674eab2eec7675fd6f9557",
         "12fecd0e55c3f35cb9f3656fd315c2e45a09fa241925d4cc741eb226ffbc7671"
       ],
@@ -672,8 +780,8 @@
     },
     {
       "keys": [
-        "849a957b52a18fe8e202ce77a16ea805b517aa05a55e779acd50a379de927f04",
-        "5e4d55578f964393cbd4770d73bb6e75d55a177a532381788f950a9b3c5bc883"
+        "5e4d55578f964393cbd4770d73bb6e75d55a177a532381788f950a9b3c5bc883",
+        "849a957b52a18fe8e202ce77a16ea805b517aa05a55e779acd50a379de927f04"
       ],
       "title": "How Some Flights Were Exempt From the Ground Stop",
       "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
@@ -681,6 +789,18 @@
       "published": "2026-11-14T20:21:13+00:00",
       "discovered": "2026-11-14T21:29:43.905644+00:00",
       "excerpt": "Despite widespread cancellations across the country on Friday, some flights were able to depart."
+    },
+    {
+      "keys": [
+        "88876e660f2d71cba735fe50d6dfa82c1016e3d4b9cd7c1f85efe7baa56cacb4",
+        "7a5dccb3f7a0bf89858b1905a66e97d3ca3d5c5f0c0dcc193f104419e49c9285"
+      ],
+      "title": "Italy has fined social media giant Meta €805m for photos and videos of about 20 million smartphone users without their specific consent, says country’s Data Protection Authority",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xwc80v/italy_has_fined_social_media_giant_meta_805m_for/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T20:18:47+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Raj_Valiant3011 [link] [comments]"
     },
     {
       "keys": [
@@ -729,6 +849,18 @@
       "published": "2026-11-14T20:06:04+00:00",
       "discovered": "2026-11-14T20:43:49.878305+00:00",
       "excerpt": "Ввечері 14 листопада на трасі Київ - Харків поблизу Яготина сталася ДТП за участю вантажівки, яка перевозила газовий конденсат. Про це заявив голова Київської обласної державної адміністрації Тимур Ткаченко, повідомляє РБК-Україна з посиланням на його допис у Telegram. Станом на 22:00 рух дорогою перекрито в обох напрямках. За попередньою інформацією, аварія сталася на 115-му кілометрі автодороги. Водій вантажівки DAF не впорався з керуванням, унаслідок чого транспортний засіб зіткнувся з відбійником, перекинувся та спалахнув. За словами Ткаченка, на місці події працюють екстрені служби. Наразі триває ліквідація пожежі. Інформація про можливих загиблих і постраждалих поки уточнюється. https://t.me/RBC_ua_news/212088 Водіїв закликають враховувати обмеження руху на цій ділянці траси та за можливості обирати альтернативні маршрути. Раніше РБК-Україна розповідало, що у Хмельницькій області зіткнулися мікроавтобус і легковик - 10 людей постраждали. Також ми писали, що на Львівщині зіткнулися автобус і позашляховик, травмувалися п'ятеро людей."
+    },
+    {
+      "keys": [
+        "66de25038c6eb76e59ec947af621090a54e4473a2a85a3be9fea743fec69f30a",
+        "7a84ab1ad6a36fe760e7c161d2ff82c389805cb5f101d357d86850d9d3a069e6"
+      ],
+      "title": "Iran state TV says modified missile could reach US base in Britain",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xwbvdp/iran_state_tv_says_modified_missile_could_reach/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T20:04:00+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Brennenstein [link] [comments]"
     },
     {
       "keys": [
@@ -852,6 +984,18 @@
     },
     {
       "keys": [
+        "a0ab3fd1dfa9026df4396b753a0f557cc1f9f8ffb15dd8f28112a5907af825cb",
+        "7aaae8a7be1702bd36e33491d8357a6585ba643525a0f561a7691deda997951c"
+      ],
+      "title": "Hungarian authorities uncover millions hidden by former Orban officials in forests, warehouses",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xwa1lp/hungarian_authorities_uncover_millions_hidden_by/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T18:48:32+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Not_Tom_Jones [link] [comments]"
+    },
+    {
+      "keys": [
         "a8b2db1e9e2d2dff48235ed4530f1466a862ce2563a1750f1e6868509a5fadab",
         "b310c27f3e190e6fd142eb6bcbd3ef0a242f9263cdd23499a5cec1572f38d593"
       ],
@@ -897,6 +1041,18 @@
       "published": "2026-11-14T18:33:27+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "«Ми повинні працювати, щоб цифра була якомога більшою. Дійдемо до півтори тисячі, буде півтори тисячі, буде 1 200 – буде 1 200»"
+    },
+    {
+      "keys": [
+        "b9f370a29dab2e8aba7d25e06e7cfab7da251f2c278802610711db3e3d84ed79",
+        "282691099b444fdce17eaf5a100b2eb3f6dfcaf4ec794d93d07d18c630cbd880"
+      ],
+      "title": "Around the world, drug cases keep leading back to bag tags",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw9lfe/around_the_world_drug_cases_keep_leading_back_to/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T18:30:28+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/WorldTravelerBoss [link] [comments]"
     },
     {
       "keys": [
@@ -1116,6 +1272,18 @@
     },
     {
       "keys": [
+        "60dd070c33ca948511fbbdef138507f51ab0973afc0d9df284fa345838f363de",
+        "bbdb11a2dc7dbc4b24dd316fc02a5a201f7cc7aa2b2050bd67fd299a5c743f59"
+      ],
+      "title": "UK barrister Forz Khan suspended over LinkedIn posts calling for ‘global cleansing’ of Zionism - The Times of India",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw7k10/uk_barrister_forz_khan_suspended_over_linkedin/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T17:08:44+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/BodSmith54321 [link] [comments]"
+    },
+    {
+      "keys": [
         "3584583f0b07a713b0dc644de386a53edf08ac077e658a24e9b08bd3dc49d6ba",
         "ea202a8d477e575743216aea516fea891fca970d66428d225bf1e4a554e88031"
       ],
@@ -1272,6 +1440,18 @@
     },
     {
       "keys": [
+        "a52ed4c39b8737f61e762be05cc0a6d348f98197a5d685efefdc2cbae05a148b",
+        "62b5ead10e0b55514333b640c4d2d6df88ee07723a6d7ee2f6149de81ca9b689"
+      ],
+      "title": "Canada’s response to US flight chaos reignites anger over Trump’s taunts",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw6b8h/canadas_response_to_us_flight_chaos_reignites/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T16:18:39+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/canada_mountains [link] [comments]"
+    },
+    {
+      "keys": [
         "40be516e895b9e340c5e4820c994e50186583809d4a76fbcc4ba89a3fe2aa5db",
         "929b7f649afd8ebc8f3188a0bc8e539ab1dd030a05034da63be97ede54e6ed1f"
       ],
@@ -1380,6 +1560,18 @@
     },
     {
       "keys": [
+        "b6b40e1d361e70ccc78aac32e57233f64b31d12df7840195f5fe10060bed920e",
+        "9e3c767a959ef073c8dedd65ac04ce22c4d5b4f62676b066fe0d64c9dc5ad5de"
+      ],
+      "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw56u8/ecuadorian_fishermen_who_survived_us_boat_strikes/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T15:31:40+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Splenda [link] [comments]"
+    },
+    {
+      "keys": [
         "9fe1aa8d9035309f63041353acfa38dbfda18c0ec9d67699b75a4261da89dd85",
         "cff161223d29c54e17241ee58003d9021f4d87ef73cce36535fe346d22342576"
       ],
@@ -1452,6 +1644,18 @@
     },
     {
       "keys": [
+        "01b052ef95ea3129e5367218bd29a0948cd77bd762d19744b8d0bc7446c91a0a",
+        "307e7471d49cd9853c94c4d87309a19936f76af5ea22c2448140bcde4b939af0"
+      ],
+      "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal | Ukraine",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw4hdr/zelenskyy_accuses_spacex_of_lying_about/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T15:01:42+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Jay_CD [link] [comments]"
+    },
+    {
+      "keys": [
         "e0a6ba7373fd4cf589b151719483cf4da5c7015cfd482c0e18916dad58125e30",
         "ead4a2e0b2d48e4da8c4f273005f842401e959b0af12f8ee5557d58ac3b9ee9e"
       ],
@@ -1464,8 +1668,8 @@
     },
     {
       "keys": [
-        "650c73a5b9c29e19abf608796e448d239ca927b5c1f2f3d0856e2361b0fc47a7",
-        "06e1e370ee54c0de17a24f0eb0d61bd9b3f3dcb0e8dc46ab4efece3ea5f5f25c"
+        "06e1e370ee54c0de17a24f0eb0d61bd9b3f3dcb0e8dc46ab4efece3ea5f5f25c",
+        "650c73a5b9c29e19abf608796e448d239ca927b5c1f2f3d0856e2361b0fc47a7"
       ],
       "title": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
       "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
@@ -1497,6 +1701,18 @@
       "published": "2026-11-14T14:45:00+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "Zwischen Schrundensalbe und Badesalz: Über 1400 Apotheken nehmen in Deutschland an der Langen Nacht des Impfens teil. Ein Vorsorge-Happening gegen Grippe und Covid-19, das seit vier Jahren wächst. Und in Sachsen so?"
+    },
+    {
+      "keys": [
+        "7c372d610a3fbbf39cd170d06990616423dd56e38f168e9fde046b4f7583bd2e",
+        "5b4792417b9b2563982cb59b40654912d91a8e993b396204737ba3c6ff7eb58a"
+      ],
+      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft investigation into Orbán-era minister",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw3xvv/hungary_seizes_195m_in_cash_found_buried_in/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T14:37:56+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/paneuropeanism_ [link] [comments]"
     },
     {
       "keys": [
@@ -1932,6 +2148,18 @@
     },
     {
       "keys": [
+        "ebdd4bdd69cc5605f822991eb13b85bbd1a5e8669216daa5b5e529c7e1eb9a5f",
+        "72133c3de8f3242f6b65b29cef157180eef702f4837827506f4c8060305e024f"
+      ],
+      "title": "Bulgaria halts arms supplies to Ukraine: Prime minister explains why",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw14xf/bulgaria_halts_arms_supplies_to_ukraine_prime/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T12:22:20+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Neptun_11 [link] [comments]"
+    },
+    {
+      "keys": [
         "0d05417eb72f2e31116f7c4a2bb3764f71c33a4504b2c38cb78dd333fb284cec",
         "df022964917dc257e44e15a5f59b0c3f735a89368d473591d4509f5c14126258"
       ],
@@ -1965,6 +2193,18 @@
       "published": "2026-11-14T12:03:00+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "На думку сенатора, очільник Кремля «погодиться зупинити війну лише тоді, коли зрозуміє, що не зможе перемогти»"
+    },
+    {
+      "keys": [
+        "b1d80a60779008a21510cd73bbd9e966f1a4c2f4549ac4e064414a73769368e0",
+        "979731b0fe011cde7f7b9b04259ca2ef9e78e51caa7b5c3c527d45c622c159ed"
+      ],
+      "title": "Mystery Drones Breach US F-35 Fighter Base in Britain, Forcing American Troops Into Shelters",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw0p2e/mystery_drones_breach_us_f35_fighter_base_in/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T11:58:41+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Miserable_Phase_2519 [link] [comments]"
     },
     {
       "keys": [
@@ -2012,6 +2252,18 @@
       "source": "rUkrainianConflict on Reddit",
       "published": "2026-11-14T11:25:19+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
+      "excerpt": "submitted by /u/pravda_eng_official [link] [comments]"
+    },
+    {
+      "keys": [
+        "af408cb48f264b8a8f8cbc722239c3472f6ec3e54cbb727eac112ced056568b2",
+        "076e7694cf5f2252c77d4e08ccb00780de21df6aa37fd3432bbbfa841914d937"
+      ],
+      "title": "Zelenskyy: SpaceX claims Starshield restrictions are technical issues",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xw04x4/zelenskyy_spacex_claims_starshield_restrictions/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T11:24:58+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
       "excerpt": "submitted by /u/pravda_eng_official [link] [comments]"
     },
     {
@@ -2097,6 +2349,18 @@
       "published": "2026-11-14T11:04:04+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "Радев заявив, що стосовно Болгарії наразі діє процедура надмірного дефіциту бюджету"
+    },
+    {
+      "keys": [
+        "a9ce85a04758e66bc9513d06086a3acd4226cf5268a1eb6bbda616205aa00aed",
+        "6462916efa29a34f0ab64d7eda9dab17be6878db8cabb73313671d17812b6868"
+      ],
+      "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvzor3/us_proposed_ukraine_cedes_donbas_in_exchange_for/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T10:58:13+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Cephei101 [link] [comments]"
     },
     {
       "keys": [
@@ -2352,6 +2616,18 @@
     },
     {
       "keys": [
+        "5d8bfc4856570ed11cdbd501c4f7105a6adef17b240da147cba3316ffc68d5a5",
+        "837237033d248dfbdd2b28fabe97c554d75bf052eae5e43d375c0ba07d17e0a8"
+      ],
+      "title": "Russia demands that NATO return to its 1997 borders and stop supporting Ukraine",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvxyay/russia_demands_that_nato_return_to_its_1997/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T09:07:12+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Neptun_11 [link] [comments]"
+    },
+    {
+      "keys": [
         "69d58e1203f784e94268ee97cbeb2bfaec850df4527fe94a539df1f3afa89b41",
         "d2322f28ba93739cb5558bc654291828c475e3bff7a1eb8d2606c054b056e6f3"
       ],
@@ -2373,6 +2649,18 @@
       "published": "2026-11-14T08:45:44+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "Російські окупанти вранці 14 листопада знову атакували обʼєкт ДТЕК в Одеській області. Майже 50 тисяч родин залишилися без світла. Про це повідомляє РБК-Україна з посиланням на ДТЕК. У компанії зазначили, що цей енергетичний обʼєкт уже неодноразово зазнавав обстрілів. Відновлення потребуватиме часу. Енергетики почали роботи одразу, щойно це стало безпечно - розбирають завали та ремонтують пошкоджене обладнання. Нагадаємо, 11 листопада російські удари по енергетиці Одещини залишили без світла близько 135 тисяч споживачів. Також внаслідок обстрілу загинула жінка."
+    },
+    {
+      "keys": [
+        "93bf175ecfee88c0603c2c8a377a2a582128d6ae20d5fd36ac4c3a214362b09a",
+        "f03d81bbd7d8fbba8f8cfd391d1bde4a29f0030e2995478797699344f448b838"
+      ],
+      "title": "China fires researchers after a child dies in gene editing trial",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvxk01/china_fires_researchers_after_a_child_dies_in/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T08:41:48+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/RemarkableBluejay790 [link] [comments]"
     },
     {
       "keys": [
@@ -2433,6 +2721,18 @@
       "published": "2026-11-14T07:42:00+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "Russian forces suffered 1,710 casualties over the past day."
+    },
+    {
+      "keys": [
+        "9ea2b946c39c81400c43fe8d67dd31cf75ce6b02205ddea994ea49f4378c604f",
+        "52ffb61a5845a15a92ab6df4dd46b9e3020ff2554f5de5f7d5f7eb5f86870253"
+      ],
+      "title": "Rubio warns ICC against ‘quoting laws to men with swords’",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvw6g0/rubio_warns_icc_against_quoting_laws_to_men_with/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T07:17:31+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Nepridiprav16 [link] [comments]"
     },
     {
       "keys": [
@@ -2544,6 +2844,18 @@
     },
     {
       "keys": [
+        "2398d2f6edec3297945894989732a2525302a9cbf0a8ae12ce614ffec943bed6",
+        "8eefa22e273d04e342a8d0b07e03f7e1194728982a59b7e5baf5e84bee576332"
+      ],
+      "title": "Zelensky Says Starshield Restrictions Persist as 105 US Lawmakers Demand Answers",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvu57y/zelensky_says_starshield_restrictions_persist_as/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T05:19:46+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/realthingwinner [link] [comments]"
+    },
+    {
+      "keys": [
         "244b89c1cf4376dc20f3d6835cd20f37d47eba4ce86178f412e55ecebad9c200",
         "8b58de46ac4961b58de935aba65c9d926fa51956f3f527804b5e8a441d235895"
       ],
@@ -2565,6 +2877,30 @@
       "published": "2026-11-14T04:51:03+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "\"The October and November restrictions now raise the disturbing possibility that these vulnerabilities persist even within systems on which the U.S. government relies,\" Senators Jeanne Shaheen and Chris Coons wrote."
+    },
+    {
+      "keys": [
+        "dc30ddcd9ffca7d375e800747e8a461c5cb602a66abb16607c55e24863dd9597",
+        "2306104d45aa834cf30f12b62cea9c7d915a62015b6966fb2e79483d51eaa4bd"
+      ],
+      "title": "The U.S. administration of President Donald Trump has demanded Japan triple its spending on hosting American troops to more than 3 trillion yen over five years starting in fiscal 2027",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvt72k/the_us_administration_of_president_donald_trump/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T04:28:19+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Firm-Nerve4437 [link] [comments]"
+    },
+    {
+      "keys": [
+        "d40ee77e3721687a00d4dedcd0aea5053fff015fa1291d7bdbacbec06d3a95b9",
+        "6ff1f3397cc14d9bebea4f5458a8fb31eb5aa140f5c5925d69121e37614484e3"
+      ],
+      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1725, Part 1 (Thread #1872)",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvsqrg/rworldnews_live_thread_russian_invasion_of/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-14T04:03:19+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/WorldNewsMods [link] [comments]"
     },
     {
       "keys": [
@@ -2640,8 +2976,8 @@
     },
     {
       "keys": [
-        "a2fbc15f3ab7bcd166b5e975ad7146f184d9f3ef8a51706b1a4e99473bf5e913",
-        "0ce27e69bc7a0735690fc5b903003e4d396ec0e79998410fc5a88216d33e9f39"
+        "0ce27e69bc7a0735690fc5b903003e4d396ec0e79998410fc5a88216d33e9f39",
+        "a2fbc15f3ab7bcd166b5e975ad7146f184d9f3ef8a51706b1a4e99473bf5e913"
       ],
       "title": "Mississippi River cruise crash has no fatalities, critical injuries",
       "url": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
@@ -2676,146 +3012,27 @@
     },
     {
       "keys": [
-        "2f7f8a59c11294aa9273de94c87cf9077dd5ce9a0f631d21a2446c9d281bb658",
-        "51b2836eaef7cb43249438f3d71a49d45c77797a5b4e7640128484ca4c988bde"
+        "0680ab199bb7f65c866fed45dc649bd089f789f039da16a9b003ef376e53188a",
+        "d82891add0278410a86a2f416bf1089ee1facf77b41d5582254bae0909f9beb1"
       ],
-      "title": "FAA orders nationwide ground stop for all US flight departures",
-      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-13T22:14:36+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "The Nov. 13 incident marks only the second nationwide ground stop of U.S. departures since Sept. 11, 2001."
-    },
-    {
-      "keys": [
-        "972f74cad8c09129e0e6bd4a9870fb8959112b5677d4cbfbda9e3c9a8914667c",
-        "c963fd5c9908fb769a3705cddf394821c0dbaec1ff750c5e52cc052fe47479f2"
-      ],
-      "title": "Hack Exposes Inner Workings of Russian Influence Operation „Storm-1516“",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvl9hh/hack_exposes_inner_workings_of_russian_influence/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T22:07:08+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "submitted by /u/GirasoleDE [link] [comments]"
-    },
-    {
-      "keys": [
-        "0217ba3644793c051d4e970c3dbe7a13817d9fdab124de1ab8e9922c95bd8b96",
-        "edba7614e948cc4fd37e6db43474768cbfff458b9e8716068be729a33abd9103"
-      ],
-      "title": "Get MS Office 2024 Pro Plus for $48 for life while it's on sale",
-      "url": "https://boingboing.net/2026/11/13/get-ms-office-2024-pro-plus-for-48-for-life-while-its-on-sale.html",
-      "source": "Boing Boing",
-      "published": "2026-11-13T22:00:00+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "TL;DR : Get lifetime access to the entire Microsoft Office 2024 Professional Plus for Windows for just $47.99 (reg. $249.99) while it's on sale. Upgrading your productivity suite when there's a good bargain is always a win, and Microsoft Office is sure to provide. — Read the rest The post Get MS Office 2024 Pro Plus for $48 for life while it's on sale appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "7e1df452e61d4210dced01f8051b80de58d00bf5693d6e3ce34ebd0c7ec2a2f4",
-        "eca74d6119ecdfb89749e51449345ed84d6925a5054e90ce849241f480385b30"
-      ],
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T21:59:01+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "GLP-1 medications are everywhere these days. The peptide-based drugs are both highly effective and wildly popular for diabetes, weight loss and a growing range of connected chronic health conditions, including cardiovascular disease and obstructive sleep apnea. But, amid the boom, the latest data suggests millions of Americans have turned to unapproved versions and are using the potent drugs in ways doctors never intended, raising questions about what that real-world use means for safety and efficacy. In a study published this week , researchers at the Centers for Disease Control and Prevention broke down survey data of GLP-1 use collected between July and August of 2025. Based on responses from over 8,000 US adults, the researchers estimate that about one in 10 US adults (9.8 percent) used a glucagon-like peptide-1 receptor agonist, aka GLP-1 medication, in 2025. That's around 27 million adults. The study was published in the CDC's Morbidity and Mortality Weekly Report. Among GLP-1 users, nearly half (44 percent) reported using their GLP-1 in a way that was different from how it was prescribed. Users skipped doses, delayed getting refills, and used smaller doses than prescribed, among other changes. More than half of the people modifying how they used the drug said the changes were because of cost or availability reasons. Cost and access barriers were most pronounced among younger GLP-1 users. Fifty-eight percent of adults 14­–39 years old who modified their use cited cost as a barrier, compared with just 20 percent of adults 65 or older who said the same. Read full article Comments"
-    },
-    {
-      "keys": [
-        "48bbb8188d1e86d06089a663f0364ee56affc9be5572182f5dd459d315328144"
-      ],
-      "title": "Coast Guard responds to New Orleans ship collision, 140 missing",
-      "url": "https://www.militarytimes.com/news/your-military/2026/11/13/coast-guard-responds-to-new-orleans-ship-collision-140-missing/",
-      "source": "Military Times",
-      "published": "2026-11-13T21:57:32+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "Editor’s Note: This is a developing story. U.S. Coast Guard personnel are responding to a collision between a cruise ship and a cargo ship in New Orleans that has left numerous people missing. Rescue is underway in the Mississippi River near the busy ship channel between the French Quarter and Algiers. Coast Guard units responding to the emergency include Maritime Safety and Security Team New Orleans, Aids to Navigation New Orleans and Air Station New Orleans. The Coast Guard is working with Louisiana State Police, New Orleans Fire Department, Port NOLA Harbor Police, maritime salvage and other emergency responders in the search and rescue effort, according to a Coast Guard official. “The United States Coast Guard, in coordination with local response partners, is responding to a vessel collision involving a tanker and a cruise ship near Mile Marker 96 on the Mississippi River,” Coast Guard Chief of Public Affairs Capt. Timothy Balunis said Friday. Balunis added that the river is closed to vessel traffic as officials “assess the situation and conduct response operations.” “This is a developing situation,” Balunis said. According to WDSU in New Orleans, the American Cruise Lines riverboat cruise ship American Heritage carried nearly 130 passengers , which had been docked in port. It was T-boned by the tanker Atlantic Asphalt at roughly 12:30 p.m. and was completely on its side four hours later, according to photos posted on social media. A Coast Guard official said the service will launch a Marine Board of Investigation into the incident to determine the cause of the accident and whether criminal activity is suspected. The board can make recommendations on criminal charges. Balunis said additional information would be released when it becomes available."
-    },
-    {
-      "keys": [
-        "1f5c4e764209cbc007451ea2f2001037f3673c3d9b73f2ed802939aed00934ac",
-        "22ad1341f079ad74e15980cf5926afdc043016afacd02df058a7cca387ce4cea"
-      ],
-      "title": "FAA issues nationwide ground stop for all U.S. airports",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-      "source": "News : NPR",
-      "published": "2026-11-13T21:55:13+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy. (Image credit: Bruce Bennett)"
-    },
-    {
-      "keys": [
-        "bcc41d7bbc2bbceb44ddf06f84f1838d3d35c107f24e1b8442f29f5c11399dfb",
-        "f291ed55a773ccae7cb05009c4585d8603ccd7fa67b2fdafa7034954c671ce2d"
-      ],
-      "title": "США: Федеральне управління авіації зупинило весь авіарух у країні через «надзвичайні обставини»",
-      "url": "https://www.radiosvoboda.org/a/news-faa-zupynka-aviaruhu-u-ssha/33898262.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-13T21:53:24+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "Портал із моніторингу польотів Flightradar24 повідомив, що літакам, які вже виконують рейси, дозволили продовжити рух до місць призначення"
-    },
-    {
-      "keys": [
-        "3ca6822fc9e37596290279502544710dc91e9599f8937db15381c2c7a59ff51b",
-        "fe086bed167bda4e8f8d42f2641629337e2ec62074b625d72f7de201825ae0fa"
-      ],
-      "title": "У США по всій країні призупинили авіарейси через збій у системі зв’язку",
-      "url": "https://www.pravda.com.ua/news/2026/11/13/8062812/",
-      "source": "Українська правда",
-      "published": "2026-11-13T21:53:00+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "У США 13 листопада призупинили вильоти всіх рейсів через \"надзвичайні обставини та з міркувань безпеки\". У країні виникли проблеми зі зв'язком у системі управління повітряним рухом. Джерело : Reuters з посиланням на Федеральне управління цивільної авіації США Деталі : Згідно з оголошенням, літаки, які вже перебувають у повітрі, можуть приземлитися, але ті, що знаходяться на землі, не можуть злітати. Сервіс відстеження рейсів FlightAware повідомив, що через загальнонаціональне призупинення вильотів було затримано або скасовано майже 7 000 рейсів. У FAA уточнили, що зупинку вильотів в усіх аеропортах країни оголосили через те, що збій зачепив одразу кілька центрів управління повітряним рухом на маршрутах. Наразі технічні фахівці відомства з'ясовують причини несправності. Як зазначає Reuters, це другий випадок повного призупинення всіх вильотів у масштабах США після терактів 11 вересня 2001 року."
-    },
-    {
-      "keys": [
-        "342461a8d02494d1ec179fa77cd34c6c76835620cca6093d67c30e91b90ba525",
-        "ee64724f9f4a8e880e14f4073dddd8d843897034bddc69a78f081f947ed0b22b"
-      ],
-      "title": "USA issues Ground Stop",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvkuhk/usa_issues_ground_stop/",
+      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvoo36/trump_xi_and_putin_plan_an_unprecedented_joint/",
       "source": "rworldnews on Reddit",
-      "published": "2026-11-13T21:50:28+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "submitted by /u/HoneyJojo16 [link] [comments]"
+      "published": "2026-11-14T00:36:37+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/JustMyOpinionz [link] [comments]"
     },
     {
       "keys": [
-        "ad3a589181dbc501fd1ad6a0241f966093daecb5976a4e7a5ceedeee55b491d0",
-        "7cec293c763af62117c120a88b2e849d221980f02a8f1f2e783b51b46eaf33be"
+        "f526a2a7c9af8b02a6bc6794189154e3316603a8df686ffcff3e855d764cd226",
+        "50fbf8f48e03a238aef8f8d3392f9f1b740911efadc4a5519b0bc84d37ed072e"
       ],
-      "title": "All US departing flights grounded by aviation officials",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvkfqn/all_us_departing_flights_grounded_by_aviation/",
+      "title": "Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xvmms9/pope_leo_xiv_denounces_machismo_and_demands_women/",
       "source": "rworldnews on Reddit",
-      "published": "2026-11-13T21:33:52+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "submitted by /u/AlwaysTravel [link] [comments]"
-    },
-    {
-      "keys": [
-        "eb052360a21b81c8dfc390af480b1bdce734450100e96cffe578497abbde38b5",
-        "f1e718e4f064d5f2fb223a258acc3b1d2179f604bd71f4218cc8a40c332f59a8"
-      ],
-      "title": "У всіх аеропортах США призупинили вильоти літаків",
-      "url": "https://www.rbc.ua/rus/news/vsih-aeroportah-ssha-prizupinili-viloti-litakiv-1794605532.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-13T21:32:12+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "Сьогодні п'ятницю, 13 листопада, у США з метою безпеки заборонили вильоти у всіх аеропортах країни. Про це повідомляє РБК-Україна з посиланням на Reuters та Axios. Згідно із заявою Федерального управління цивільної авіації США (FAA), рішення про призупинення польотів у країні ухвалено \"у зв'язку з надзвичайними обставинами та міркуваннями безпеки\". \"Всі рейси, що вилітають, повинні залишатися призупиненими до подальшого повідомлення\", - йдеться в повідомленні. Це було зроблено після того, як раніше агентство повідомило про проблеми зі зв'язком у системі керування повітряним рухом. \"Питання, що стосуються міжнародних рейсів, що прибувають, будуть розглядатися в індивідуальному порядку\", - додали в агентстві. Незадовго до цього оголошення FAA призупинив рух у Чикаго через проблеми зі зв'язком із диспетчерською службою. Інші інциденти Нагадаємо, 21 вересня Федеральне управління цивільної авіації США також призупинило польоти у кількох аеропортах на східному узбережжі країни. Причиною став масштабний технічний збій у системі зв'язку. Також ми писали, що 11 січня 2023 року в США також було скасовано всі рейси. Причиною став збій у роботі системи оповіщення повітряних місій."
-    },
-    {
-      "keys": [
-        "a10ddaf059a71e9073aea49be2655d8decd078e08ca26757732f4c1b5cb17ad8",
-        "a696f95a919bab3c8ec7ddf4f0d60ab4e362af3097edaeaf02dca9b3b646ef3c"
-      ],
-      "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
-      "url": "https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html",
-      "source": "New York Times",
-      "published": "2026-11-13T21:31:49+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "They helped the G.O.P. avoid more House midterm losses — on top of the advantage they already have from gerrymandering."
+      "published": "2026-11-13T23:05:20+00:00",
+      "discovered": "2026-11-14T22:19:26.333336+00:00",
+      "excerpt": "submitted by /u/Pingaz99 [link] [comments]"
     }
   ],
   "history": [
@@ -4417,5 +4634,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-14T21:29:43.905644+00:00"
+  "last_checked": "2026-11-14T22:19:26.333336+00:00"
 }
