@@ -540,6 +540,30 @@
     },
     {
       "keys": [
+        "dbf8c6e2fe710d57c7da7225d3f9c9b46b3f0cf2c70702ad73c4bd33f27d04df",
+        "ec6018f43d1c47a2a9e3e35850bb4abceed9c0c8575de2d77bf50f7b48c57a5c"
+      ],
+      "title": "Міста конкурують за людей: як створити середовище, у якому молодь захоче залишитися",
+      "url": "https://www.pravda.com.ua/news/2026/11/14/8062882/",
+      "source": "Українська правда",
+      "published": "2026-11-14T19:35:00+00:00",
+      "discovered": "2026-11-14T19:56:20.637923+00:00",
+      "excerpt": ""
+    },
+    {
+      "keys": [
+        "44080753f28d068b99ae55ec782555f2490f2cfcae28a7c6587f1b901204869d",
+        "c78db87333091e2a17a12a341bf0f3931bd0bcded7d90bd1dd43c03ae50f8d3e"
+      ],
+      "title": "Росіяни вбили чоловіка на Харківщині",
+      "url": "https://www.pravda.com.ua/news/2026/11/14/8062897/",
+      "source": "Українська правда",
+      "published": "2026-11-14T19:34:00+00:00",
+      "discovered": "2026-11-14T19:56:20.637923+00:00",
+      "excerpt": "У селищі Борова на Харківщині внаслідок російського обстрілу в суботу загинув чоловік. Джерело : Харківська обласна прокуратура Деталі : Близько 12:20 у селищі Борова Ізюмського району зафіксовано ворожий обстріл. Тип застосованого озброєння встановлюється. Загинув 67-річний чоловік. Крім того, близько 15:00 збройні сили РФ завдали ракетного удару по місту Златопіль Лозівського району. Попередньо, ворог застосував дві малогабаритні ракети типу \"Бандероль\". Зруйновано житловий будинок, пошкоджено вікна та дахи інших приватних домоволодінь. За процесуального керівництва прокурорів розпочато досудові розслідування за фактами вчинення воєнних злочинів (ст. 438 КК України)."
+    },
+    {
+      "keys": [
         "33ff1ed5afd220001c2c7282af6720e2986f82efa0c58445261f09757ee45e28",
         "41964aab95cb5dd5ac89ad9ce595be2121c8ae0c8adc8bafd8b27906359b8421"
       ],
@@ -552,8 +576,44 @@
     },
     {
       "keys": [
-        "ff9154da16a08fa38a6c17df485e1e54a01654d5ee21ba94ee85b66562156e52",
-        "969b600065ddba09a4c5904888e4d276181755d0772c387c1d15bae051c2f057"
+        "008ebf72e8564a9abc88fb60be9f7e11425ab61f6d53469cf85a6de9a08fdaee",
+        "737ab2452f8fe641f5fc822abe3afad191b6bd65e7dcc98ce0067e1448c6e844"
+      ],
+      "title": "Троє жителів Сумщини постраждали через російські атаки, в кількох місцях виникли пожежі",
+      "url": "https://www.radiosvoboda.org/a/news-troie-zhyteliv-poraneni-sunshchyna-rosiiski-ataky/33898696.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-14T19:27:13+00:00",
+      "discovered": "2026-11-14T19:56:20.637923+00:00",
+      "excerpt": "У ДСНС додають, що всі пожежі ліквідували, попри загрозу повторних ударів"
+    },
+    {
+      "keys": [
+        "32e48d4eff328b717c83c93b20b0d6e08178c9667c1520f82fd0036e5d7da5c7",
+        "b2cfbc19f8257b632c34c845c494bf4ba6a0c5941ba42a49342099136f570695"
+      ],
+      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+      "source": "News : NPR",
+      "published": "2026-11-14T19:13:54+00:00",
+      "discovered": "2026-11-14T19:56:20.637923+00:00",
+      "excerpt": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections. (Image credit: David Zalubowski)"
+    },
+    {
+      "keys": [
+        "b1856ca3b62851b187036809e30feec83370e7f66272ca1a5715e3a4343f7fca",
+        "0ce40ef013e29c8e9e8c6e4181b1594647d7abcb956d28387d35cf2c8c6eb958"
+      ],
+      "title": "Медіа: МВС Росії розшукує українських суддів, які розглядають справи проти російських депутатів",
+      "url": "https://www.radiosvoboda.org/a/news-mvs-rosii-ukrainski-suddi-rozshuk/33898694.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-14T19:03:01+00:00",
+      "discovered": "2026-11-14T19:56:20.637923+00:00",
+      "excerpt": "У базі російського МВС з’явилися розшукові картки загалом на трьох суддів Вінницького міського суду"
+    },
+    {
+      "keys": [
+        "969b600065ddba09a4c5904888e4d276181755d0772c387c1d15bae051c2f057",
+        "ff9154da16a08fa38a6c17df485e1e54a01654d5ee21ba94ee85b66562156e52"
       ],
       "title": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062895/",
@@ -576,8 +636,8 @@
     },
     {
       "keys": [
-        "b310c27f3e190e6fd142eb6bcbd3ef0a242f9263cdd23499a5cec1572f38d593",
-        "a8b2db1e9e2d2dff48235ed4530f1466a862ce2563a1750f1e6868509a5fadab"
+        "a8b2db1e9e2d2dff48235ed4530f1466a862ce2563a1750f1e6868509a5fadab",
+        "b310c27f3e190e6fd142eb6bcbd3ef0a242f9263cdd23499a5cec1572f38d593"
       ],
       "title": "Міністри оборони України і Канади обговорили прискорення постачання боєприпасів для F-16",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062893/",
@@ -612,8 +672,8 @@
     },
     {
       "keys": [
-        "35afeda173afc9689f8730fc212176a73c33cafb59880f61147a419b789632f6",
-        "0f4a5aaef8548683c8b832ee630e271605b325b8151e839761ce8d526a63bb83"
+        "0f4a5aaef8548683c8b832ee630e271605b325b8151e839761ce8d526a63bb83",
+        "35afeda173afc9689f8730fc212176a73c33cafb59880f61147a419b789632f6"
       ],
       "title": "Не менше ніж 1000 людей, в тому числі цивільні: Лубінець про наступний обмін полоненими",
       "url": "https://www.radiosvoboda.org/a/news-lubinets-pro-nastupnyi-obmin-polonenymy/33898692.html",
@@ -624,8 +684,8 @@
     },
     {
       "keys": [
-        "fdc0b373c2a6d7fdfb924f25ac4f869123ac4de5ad24b898b2889c244c675970",
-        "56aab4969d8158a577eaabed6f3bbfe1ce06e20f1faba532dbd73f15294059e8"
+        "56aab4969d8158a577eaabed6f3bbfe1ce06e20f1faba532dbd73f15294059e8",
+        "fdc0b373c2a6d7fdfb924f25ac4f869123ac4de5ad24b898b2889c244c675970"
       ],
       "title": "Стало відомо, хто може стати переможцем багатомільйонного тендеру на ремонт дороги у Хриплині",
       "url": "https://if.informator.ua/2026/11/14/stalo-vidomo-hto-mozhe-staty-peremozhczem-bagatomiljonnogo-tenderu-na-remont-dorogy-u-hryplyni/",
@@ -636,8 +696,8 @@
     },
     {
       "keys": [
-        "cd45c41a3e88023ab4fdbb9286d36838b1f8c8a0cc0b73b0e636ca76700cda6f",
-        "3f6f486f29e674ca63ecc127e3f0963b429a2bbdec25ebe4b6818db54a08b910"
+        "3f6f486f29e674ca63ecc127e3f0963b429a2bbdec25ebe4b6818db54a08b910",
+        "cd45c41a3e88023ab4fdbb9286d36838b1f8c8a0cc0b73b0e636ca76700cda6f"
       ],
       "title": "Hungarian authorities uncover millions hidden by former Orban officials in forests, warehouses",
       "url": "https://kyivindependent.com/hungarian-authorities-uncover-millions-hidden-by-former-orban-officials-in-forests-warehouses/",
@@ -672,8 +732,8 @@
     },
     {
       "keys": [
-        "561798462e73095009dd94ebe63752b6e53c4a047de925d998d448bb854a790d",
-        "3953d4cd68de6286e0a435a9080a525808c4a9f0bcf3779c0f91694310e62e45"
+        "3953d4cd68de6286e0a435a9080a525808c4a9f0bcf3779c0f91694310e62e45",
+        "561798462e73095009dd94ebe63752b6e53c4a047de925d998d448bb854a790d"
       ],
       "title": "Perhaps the Rumors of Democracy’s Demise Were Premature",
       "url": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
@@ -684,8 +744,8 @@
     },
     {
       "keys": [
-        "ae9971cec156d0bbc441d22c7bff74591558a7f6bba3ffdb75b40078dae08b20",
-        "4a972be7355de1c5bbf9127a84ea9239ac11c1b1f373567c9ff184beb4635f5f"
+        "4a972be7355de1c5bbf9127a84ea9239ac11c1b1f373567c9ff184beb4635f5f",
+        "ae9971cec156d0bbc441d22c7bff74591558a7f6bba3ffdb75b40078dae08b20"
       ],
       "title": "Генерала СБУ Дуку викликають на засідання ТСК Верховної Ради",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062892/",
@@ -708,8 +768,8 @@
     },
     {
       "keys": [
-        "968f91da7fbd5da9a422ed4b2bef0c055c7244c381b13ab81ab0e2a283250f95",
-        "5d96d6c0109fbee72b2e52179bd3d982e82974afa4217e74a7fc950d7f272564"
+        "5d96d6c0109fbee72b2e52179bd3d982e82974afa4217e74a7fc950d7f272564",
+        "968f91da7fbd5da9a422ed4b2bef0c055c7244c381b13ab81ab0e2a283250f95"
       ],
       "title": "Посольство України назвало написи \"Слава УПА\" в Польщі проявом гібридної війни РФ",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062891/",
@@ -720,8 +780,8 @@
     },
     {
       "keys": [
-        "98861a0c2b90726c451cf7b893976e02611c20f6143b73be237c3a2e781f8367",
-        "98276948a212ed02cfe18e97f1accbc9ef90855af4cb4fd7113c24b1fda09ab9"
+        "98276948a212ed02cfe18e97f1accbc9ef90855af4cb4fd7113c24b1fda09ab9",
+        "98861a0c2b90726c451cf7b893976e02611c20f6143b73be237c3a2e781f8367"
       ],
       "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
       "url": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
@@ -732,8 +792,8 @@
     },
     {
       "keys": [
-        "ef9abf0fc4293edb2a89918e6b23126ef51cf3d6997834dd6ebd9774cc2fccb0",
-        "c711f0b80e6c7d0121070a2056a3d1ead9898438ac2c630e8a0dc8d1fcb5d357"
+        "c711f0b80e6c7d0121070a2056a3d1ead9898438ac2c630e8a0dc8d1fcb5d357",
+        "ef9abf0fc4293edb2a89918e6b23126ef51cf3d6997834dd6ebd9774cc2fccb0"
       ],
       "title": "Трамп планує зустріч із Сі Цзіньпінем і Путіним на саміті в Китаї – Білий дім",
       "url": "https://www.radiosvoboda.org/a/news-trump-zustrich-xi-i-putin-samit-u-kyitai/33898682.html",
@@ -744,8 +804,8 @@
     },
     {
       "keys": [
-        "c5429fc2f5602dc76d5297da643503b354744ecdd7531dc7dc20ba35530d58ca",
-        "81e2375201678026d5b7939286810ca7d7baed9cf150112a311a486fe96c1bd5"
+        "81e2375201678026d5b7939286810ca7d7baed9cf150112a311a486fe96c1bd5",
+        "c5429fc2f5602dc76d5297da643503b354744ecdd7531dc7dc20ba35530d58ca"
       ],
       "title": "Від будівельника до прикордонника: історія Мирослава «Бойка», який працював на Прикарпатті",
       "url": "https://if.informator.ua/2026/11/14/vid-budivelnyka-do-prykordonnyka-istoriya-myroslava-bojka-yakyj-praczyuvav-na-prykarpatti/",
@@ -768,8 +828,8 @@
     },
     {
       "keys": [
-        "4c8d4081c086104d53f3fd53e1ae1ffafa66b5227a1abcd98c8142551cb64ca6",
-        "12be47e93f0eb9c7434a41934b710d650fa6c8b95adeb0afacf058e16c3f1ff5"
+        "12be47e93f0eb9c7434a41934b710d650fa6c8b95adeb0afacf058e16c3f1ff5",
+        "4c8d4081c086104d53f3fd53e1ae1ffafa66b5227a1abcd98c8142551cb64ca6"
       ],
       "title": "Friedrich Merz in Schleswig-Holstein: Der Kanzler meidet das S-Wort",
       "url": "https://www.spiegel.de/politik/deutschland/der-kanzler-meidet-das-s-wort-a-966f29df-ce02-4236-b554-4ecedae37898",
@@ -780,8 +840,8 @@
     },
     {
       "keys": [
-        "db21f487f41f4edd17ec86228cef879bb94b1cf1c30d026348e5927a0a198311",
-        "6d1276f6f6454012fc9fc5df13a98cfa072e06d01050f6eba8d033e3ad942112"
+        "6d1276f6f6454012fc9fc5df13a98cfa072e06d01050f6eba8d033e3ad942112",
+        "db21f487f41f4edd17ec86228cef879bb94b1cf1c30d026348e5927a0a198311"
       ],
       "title": "Росіяни вдарили по об'єкту інфраструктури на Чернігівщині: є загиблі та поранений",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062888/",
@@ -828,8 +888,8 @@
     },
     {
       "keys": [
-        "a7bbbdc28d11a6d6bb9e73a73480e5a7465daebcf9d4f80245ed4e4bbb866a56",
-        "9d387129505bc5542f04986718261110e73ed93edf00af7c5998f4f4fff61d8f"
+        "9d387129505bc5542f04986718261110e73ed93edf00af7c5998f4f4fff61d8f",
+        "a7bbbdc28d11a6d6bb9e73a73480e5a7465daebcf9d4f80245ed4e4bbb866a56"
       ],
       "title": "Росіяни атакували об'єкт \"Нафтогазу\" на Полтавщині, виникла масштабна пожежа",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062885/",
@@ -852,8 +912,8 @@
     },
     {
       "keys": [
-        "fb6aab195475b4dd2f2b757f65655ed66a2e2580c571a211afdfa20d03c1a8ed",
-        "8817bc64808a5f0729e3de278c03c6fc5822db48e5e8d9d520017a9e38a182d8"
+        "8817bc64808a5f0729e3de278c03c6fc5822db48e5e8d9d520017a9e38a182d8",
+        "fb6aab195475b4dd2f2b757f65655ed66a2e2580c571a211afdfa20d03c1a8ed"
       ],
       "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
       "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
@@ -864,8 +924,8 @@
     },
     {
       "keys": [
-        "a03c3aab0a724b4344067a6dee688da3d088ab9f33f34a1f111ad6bae51ef1eb",
-        "658a90db9cb7c4857007d4727bdf90e5f4c2e30c834e770749408870acd1c4fc"
+        "658a90db9cb7c4857007d4727bdf90e5f4c2e30c834e770749408870acd1c4fc",
+        "a03c3aab0a724b4344067a6dee688da3d088ab9f33f34a1f111ad6bae51ef1eb"
       ],
       "title": "Ukraine has rejected a U.S. proposal to redraw the borders of Donetsk and Luhansk oblasts so that Russia could claim to have fully captured them, a Ukrainian source told The Telegraph",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw72bh/ukraine_has_rejected_a_us_proposal_to_redraw_the/",
@@ -888,8 +948,8 @@
     },
     {
       "keys": [
-        "b7545444e6091faeab6e9539d0eebb84a3c8f1374039e8701f53f9c7893894a9",
-        "5767bdb366262275afd331244e9585625ff83894d24b5bb60616fce0f0c7f08f"
+        "5767bdb366262275afd331244e9585625ff83894d24b5bb60616fce0f0c7f08f",
+        "b7545444e6091faeab6e9539d0eebb84a3c8f1374039e8701f53f9c7893894a9"
       ],
       "title": "Куба вже готується до вторгнення США, - президент Діас-Канель",
       "url": "https://www.rbc.ua/rus/news/kuba-vzhe-gotuetsya-vtorgnennya-ssha-prezident-1794673898.html",
@@ -900,8 +960,8 @@
     },
     {
       "keys": [
-        "d0afa985c158eedabf2fadc446c5a3d2e69390a9108f13a40a4def7c6af3abe7",
-        "3634880d1bc7707c9f8f55f4a6452949a1aa2699898e285e0e7363f2ae286011"
+        "3634880d1bc7707c9f8f55f4a6452949a1aa2699898e285e0e7363f2ae286011",
+        "d0afa985c158eedabf2fadc446c5a3d2e69390a9108f13a40a4def7c6af3abe7"
       ],
       "title": "Дрон атакував комерційне судно у територіальних водах Румунії",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062884/",
@@ -924,8 +984,8 @@
     },
     {
       "keys": [
-        "fc03bb40ac4288c0e9bd66ecc77752628707e8b29748c8d2abba802843bbc8d8",
-        "1bb264751f25d215ec813d7a298488a0b21629124e3f322d9719a6620bc9418b"
+        "1bb264751f25d215ec813d7a298488a0b21629124e3f322d9719a6620bc9418b",
+        "fc03bb40ac4288c0e9bd66ecc77752628707e8b29748c8d2abba802843bbc8d8"
       ],
       "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
       "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
@@ -1008,8 +1068,8 @@
     },
     {
       "keys": [
-        "ab06640d8118d452d955fa2e891cda440c87b7e069ab69fbcb8d5400db718ef5",
-        "044012af3452a25c9ddb0903b052ffcc55683302764aa3bab25b991d7bbf392f"
+        "044012af3452a25c9ddb0903b052ffcc55683302764aa3bab25b991d7bbf392f",
+        "ab06640d8118d452d955fa2e891cda440c87b7e069ab69fbcb8d5400db718ef5"
       ],
       "title": "It's not too late to get back into piano, especially for $31.99",
       "url": "https://boingboing.net/2026/11/14/its-not-too-late-to-get-back-into-piano-especially-for-31-99.html",
@@ -1044,8 +1104,8 @@
     },
     {
       "keys": [
-        "f42224f90235afb86e02f631007af8bc8c9075d1346d3dfbe0f973d1898d92e6",
-        "e003a5a7594b8e9dbe5393ead22ffdb79856df4c61cbff2a1322f0475935b064"
+        "e003a5a7594b8e9dbe5393ead22ffdb79856df4c61cbff2a1322f0475935b064",
+        "f42224f90235afb86e02f631007af8bc8c9075d1346d3dfbe0f973d1898d92e6"
       ],
       "title": "Putin's Kostiantynivka proposal aims to seize city, push toward Kramatorsk, Zelensky says",
       "url": "https://kyivindependent.com/putins-kostiantynivka-humanitarian-mission-aims-to-seize-city-push-toward-kramatorsk-zelensky-says/",
@@ -1068,8 +1128,8 @@
     },
     {
       "keys": [
-        "cff161223d29c54e17241ee58003d9021f4d87ef73cce36535fe346d22342576",
-        "9fe1aa8d9035309f63041353acfa38dbfda18c0ec9d67699b75a4261da89dd85"
+        "9fe1aa8d9035309f63041353acfa38dbfda18c0ec9d67699b75a4261da89dd85",
+        "cff161223d29c54e17241ee58003d9021f4d87ef73cce36535fe346d22342576"
       ],
       "title": "Хто з прикарпатців потрапив до довгого списку Шевченківської премії-2027",
       "url": "https://if.informator.ua/2026/11/14/hto-z-prykarpatcziv-potrapyv-do-dovgogo-spysku-shevchenkivskoyi-premiyi-2027/",
@@ -1092,8 +1152,8 @@
     },
     {
       "keys": [
-        "ff39f6febaded1e85f1ce53b40530969209698d3bb854c975a19caffc2afa7af",
-        "f73ab12761cb9883a0e685f7a47063671134dc74d68481d37d3703b393faf6bf"
+        "f73ab12761cb9883a0e685f7a47063671134dc74d68481d37d3703b393faf6bf",
+        "ff39f6febaded1e85f1ce53b40530969209698d3bb854c975a19caffc2afa7af"
       ],
       "title": "Ченцов зустрівся з главою МЗС Угорщини в Будапешті",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062875/",
@@ -1104,8 +1164,8 @@
     },
     {
       "keys": [
-        "b3f10d3ef029dec2bfc623172624ce5503b4c8b05e34bc2a4a76990b79f617fa",
-        "3ffb795725b8f51424e4a5952f53f662bf2fe11f3980e5317f307da133525368"
+        "3ffb795725b8f51424e4a5952f53f662bf2fe11f3980e5317f307da133525368",
+        "b3f10d3ef029dec2bfc623172624ce5503b4c8b05e34bc2a4a76990b79f617fa"
       ],
       "title": "Finland to strengthen Ukraine's reconstruction efforts through strategic investment and support programme",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw4rjt/finland_to_strengthen_ukraines_reconstruction/",
@@ -1128,8 +1188,8 @@
     },
     {
       "keys": [
-        "9fa8df13c34b752a58e7bc8c8ad7d153d948e2556eb4110220a680909d6d2b57",
-        "53590e0d1b97a662d99fe4034daa59fd6422b238a52b824b9933fac55068a6d7"
+        "53590e0d1b97a662d99fe4034daa59fd6422b238a52b824b9933fac55068a6d7",
+        "9fa8df13c34b752a58e7bc8c8ad7d153d948e2556eb4110220a680909d6d2b57"
       ],
       "title": "Schleswig-Holstein: Daniel Günther tritt erneut als CDU-Spitzenkandidat an",
       "url": "https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358",
@@ -1140,8 +1200,8 @@
     },
     {
       "keys": [
-        "ead4a2e0b2d48e4da8c4f273005f842401e959b0af12f8ee5557d58ac3b9ee9e",
-        "e0a6ba7373fd4cf589b151719483cf4da5c7015cfd482c0e18916dad58125e30"
+        "e0a6ba7373fd4cf589b151719483cf4da5c7015cfd482c0e18916dad58125e30",
+        "ead4a2e0b2d48e4da8c4f273005f842401e959b0af12f8ee5557d58ac3b9ee9e"
       ],
       "title": "Путін нібито зняв \"табу\" на ліквідацію Зеленського, - ЗМІ",
       "url": "https://www.rbc.ua/rus/news/rosiyi-nibito-znyali-tabu-likvidatsiyu-zelenskogo-1794665518.html",
@@ -1164,8 +1224,8 @@
     },
     {
       "keys": [
-        "6dabe619732a677da239a15f350924b91a8a5407a72101bd1271df33b5b7b2fc",
-        "1562daf655b71fb29aafa1e678906ea2d0aa45d164115840b074b3e12d699626"
+        "1562daf655b71fb29aafa1e678906ea2d0aa45d164115840b074b3e12d699626",
+        "6dabe619732a677da239a15f350924b91a8a5407a72101bd1271df33b5b7b2fc"
       ],
       "title": "Lange Nacht des Impfens in Dresden: »Vielleicht sagt man jetzt Nein, weil man sich überhaupt entscheiden darf«",
       "url": "https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704",
@@ -1236,8 +1296,8 @@
     },
     {
       "keys": [
-        "2f3f2b83a4d958378a3d091853db25f854777c0366f9e5aac9df5ba19598e528",
-        "2b7efc10b99dab36ed890bca5ab899bf59b00219fde3b784991a2320d77be40b"
+        "2b7efc10b99dab36ed890bca5ab899bf59b00219fde3b784991a2320d77be40b",
+        "2f3f2b83a4d958378a3d091853db25f854777c0366f9e5aac9df5ba19598e528"
       ],
       "title": "No soldiers: Ukraine targets russian position with 28-robot attack force",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw3k72/no_soldiers_ukraine_targets_russian_position_with/",
@@ -1248,8 +1308,8 @@
     },
     {
       "keys": [
-        "69b1a1d66257ec4ce18a10be3149d697711543cf1b0eaaaa5e6c1ffd546dce07",
-        "1fde3cef68446a98f888ffbc5d38f46340b8ed20a9e5b664bcaefada963b15b8"
+        "1fde3cef68446a98f888ffbc5d38f46340b8ed20a9e5b664bcaefada963b15b8",
+        "69b1a1d66257ec4ce18a10be3149d697711543cf1b0eaaaa5e6c1ffd546dce07"
       ],
       "title": "У Запорізькій області російський дрон убив чоловіка, який їхав на скутері",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062868/",
@@ -1284,8 +1344,8 @@
     },
     {
       "keys": [
-        "f6cecbe408e5fa0932312d16f02ae72a5f4f3bd558730f872fac66353e015a10",
-        "445dfae7f8a40f0f1276f3400ebbe8966631e21835f6ac6544bd00dfe1533688"
+        "445dfae7f8a40f0f1276f3400ebbe8966631e21835f6ac6544bd00dfe1533688",
+        "f6cecbe408e5fa0932312d16f02ae72a5f4f3bd558730f872fac66353e015a10"
       ],
       "title": "\"Вражений твоєю креативністю\": Туск висміяв Орбана на тлі скандалів з його оточенням",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062867/",
@@ -1308,8 +1368,8 @@
     },
     {
       "keys": [
-        "96c8c21a2c5e9c757e46bddddfae3d42139817fd1891dbf7ad5a902f95906a19",
-        "65acb7da21bc757f379ca2b5a67692df29626d62193d82cd6d53213f9606a3d2"
+        "65acb7da21bc757f379ca2b5a67692df29626d62193d82cd6d53213f9606a3d2",
+        "96c8c21a2c5e9c757e46bddddfae3d42139817fd1891dbf7ad5a902f95906a19"
       ],
       "title": "SPD: Lars Klingbeil verteidigt Doppelrolle als Chef und Finanzminister",
       "url": "https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069",
@@ -1320,8 +1380,8 @@
     },
     {
       "keys": [
-        "efc25c71e74c9d47ec8a1a41d438139a4e5e5b1cd31067285270d8b5132cd7d1",
-        "9ef22953765b2925528edf34676edf07da4cc89c3a93ba87a707948820e54124"
+        "9ef22953765b2925528edf34676edf07da4cc89c3a93ba87a707948820e54124",
+        "efc25c71e74c9d47ec8a1a41d438139a4e5e5b1cd31067285270d8b5132cd7d1"
       ],
       "title": "Росія вдарила по об’єкту «Нафтогаз» на Полтавщині",
       "url": "https://www.radiosvoboda.org/a/news-rosiia-udar-po-obiektu-naftohaz-poltavshchyna/33898628.html",
@@ -1344,8 +1404,8 @@
     },
     {
       "keys": [
-        "58facdeae50e2d0a8e7b63dea8304141004cd7ca4ff2ab72e3a66ab036fb74cc",
-        "16b45d2285c56ed0328062a5a50879b97a754c84e3f74817852e2bd303724184"
+        "16b45d2285c56ed0328062a5a50879b97a754c84e3f74817852e2bd303724184",
+        "58facdeae50e2d0a8e7b63dea8304141004cd7ca4ff2ab72e3a66ab036fb74cc"
       ],
       "title": "How Democrats Can Push Ukraine Aid Past donnie duck?",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw2qbr/how_democrats_can_push_ukraine_aid_past_donnie/",
@@ -1380,8 +1440,8 @@
     },
     {
       "keys": [
-        "b084a665530dedea81ad1812252d95bd866998dfa4c9424ca431546926d1071f",
-        "2c6d4fae8c26243b29a6091c33ad74656d05b1ef557c8b7e349a6eba006e0e50"
+        "2c6d4fae8c26243b29a6091c33ad74656d05b1ef557c8b7e349a6eba006e0e50",
+        "b084a665530dedea81ad1812252d95bd866998dfa4c9424ca431546926d1071f"
       ],
       "title": "Can Europe Give Ukraine a Starlink Alternative?",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw2j99/can_europe_give_ukraine_a_starlink_alternative/",
@@ -1404,8 +1464,8 @@
     },
     {
       "keys": [
-        "6cf1374e201dcc5347869e39a41b11836cc6335d99417e85e06649d72fe81aeb",
-        "1c18211d314936ba8f0e414130a461731d557a1a5f648a18d1905addeffa436f"
+        "1c18211d314936ba8f0e414130a461731d557a1a5f648a18d1905addeffa436f",
+        "6cf1374e201dcc5347869e39a41b11836cc6335d99417e85e06649d72fe81aeb"
       ],
       "title": "Вийшов з гуртожитка і не повернувся: у Франківську розшукують 17-річного Данила Головача (ОНОВЛЕНО)",
       "url": "https://if.informator.ua/2026/11/14/vyjshov-z-gurtozhytka-i-ne-povernuvsya-u-frankivsku-rozshukuyut-17-richnogo-danyla-golovacha/",
@@ -1416,8 +1476,8 @@
     },
     {
       "keys": [
-        "a2f038dc8aef82d306500aac99918f46c68c8e3a882f6884f2b6cf14dcdf9fe2",
-        "8da400692570621d61aaa14a3af16f2a565d50382a8d2460c261371d7fa64c27"
+        "8da400692570621d61aaa14a3af16f2a565d50382a8d2460c261371d7fa64c27",
+        "a2f038dc8aef82d306500aac99918f46c68c8e3a882f6884f2b6cf14dcdf9fe2"
       ],
       "title": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes",
       "url": "https://kyivindependent.com/ukraine-hits-key-russian-oil-hub-military-airbase-in-latest-long-range-strikes/",
@@ -1440,8 +1500,8 @@
     },
     {
       "keys": [
-        "66710d7f414c32dcd862e50c08e76b9f005ab519ca2d7be39bd57a8ace7b3353",
-        "53b99315c64552743d16a7c10f9f32a89434378a4d717af6125ae8ca72c06451"
+        "53b99315c64552743d16a7c10f9f32a89434378a4d717af6125ae8ca72c06451",
+        "66710d7f414c32dcd862e50c08e76b9f005ab519ca2d7be39bd57a8ace7b3353"
       ],
       "title": "What’s Behind the Trump-Huang Relationship?",
       "url": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
@@ -1452,8 +1512,8 @@
     },
     {
       "keys": [
-        "db1c9791fec7ee61bc60439a7eaefdd9e423b05c5d7550a476f06d47c325ac64",
-        "765f2fff4d8dbfdfdf8b09405fed5e243974bfb1590fc4df6cd23c039568d989"
+        "765f2fff4d8dbfdfdf8b09405fed5e243974bfb1590fc4df6cd23c039568d989",
+        "db1c9791fec7ee61bc60439a7eaefdd9e423b05c5d7550a476f06d47c325ac64"
       ],
       "title": "Генштаб: Сили оборони вдарили по аеродрому «Липецьк-2» в Росії",
       "url": "https://www.radiosvoboda.org/a/news-rosiya-aerodrom-henshtab-lypetsk/33898599.html",
@@ -1512,8 +1572,8 @@
     },
     {
       "keys": [
-        "e0d0fe0dcb61fe1a2b4951c73323af6f4b50f13e4f1f88b715039c6c037a0e68",
-        "7dc5ec4f96edb69925b9083cee3593c2485debcad2f3920ced59e51f4eb5cfad"
+        "7dc5ec4f96edb69925b9083cee3593c2485debcad2f3920ced59e51f4eb5cfad",
+        "e0d0fe0dcb61fe1a2b4951c73323af6f4b50f13e4f1f88b715039c6c037a0e68"
       ],
       "title": "Perspective: A new kind of White House press secretary",
       "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
@@ -1524,8 +1584,8 @@
     },
     {
       "keys": [
-        "dff781bb78853e4261bf6b5b053b2e84ffb9dce042feb2f242ff79889e44ceda",
-        "abd2ba60a41d0b88f36e4d18db0c24ac5984e5680382f78d967f956bd7b5945d"
+        "abd2ba60a41d0b88f36e4d18db0c24ac5984e5680382f78d967f956bd7b5945d",
+        "dff781bb78853e4261bf6b5b053b2e84ffb9dce042feb2f242ff79889e44ceda"
       ],
       "title": "Армія РФ атакувала Запоріжжя: 15 поранених, є пошкодження – влада",
       "url": "https://www.radiosvoboda.org/a/news-rosiya-ataka-zaporizhzhya/33898604.html",
@@ -1536,8 +1596,8 @@
     },
     {
       "keys": [
-        "fa46e6fee02bcfb461fd2963fc87e3ced57f3b3f6b2dd2c80fd6a9adebc52426",
-        "9f1c30c8a21c7f2d97745997f52796ae3fea9fda0cc2c43058f987135f27dd32"
+        "9f1c30c8a21c7f2d97745997f52796ae3fea9fda0cc2c43058f987135f27dd32",
+        "fa46e6fee02bcfb461fd2963fc87e3ced57f3b3f6b2dd2c80fd6a9adebc52426"
       ],
       "title": "Mecklenburg-Vorpommern: SPD, Linke und Grüne einigen sich auf Koalitionsvertrag",
       "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e",
@@ -1572,8 +1632,8 @@
     },
     {
       "keys": [
-        "f2daa410ad9251ee1e9bef08e48f01ad8ffe83798a532406544b3c720229f6ff",
-        "bfde8f95ba3a7b02f7f9a33166bd50afe6827203f135ffbcd2f137cc0877a4f3"
+        "bfde8f95ba3a7b02f7f9a33166bd50afe6827203f135ffbcd2f137cc0877a4f3",
+        "f2daa410ad9251ee1e9bef08e48f01ad8ffe83798a532406544b3c720229f6ff"
       ],
       "title": "Уряд спросив процедуру отримання статусу УБД для іноземців",
       "url": "https://www.radiosvoboda.org/a/news-ubd-inozemtsi-kabmin/33898593.html",
@@ -1596,8 +1656,8 @@
     },
     {
       "keys": [
-        "35ccfd4e76cf9f3516832bbee84119a415dfe30fb5834a01c11c6354c3f82cc5",
-        "1b04925916e3f19a25c0dc03f80b909584858c9e54a5d2b827fa6061888d69a3"
+        "1b04925916e3f19a25c0dc03f80b909584858c9e54a5d2b827fa6061888d69a3",
+        "35ccfd4e76cf9f3516832bbee84119a415dfe30fb5834a01c11c6354c3f82cc5"
       ],
       "title": "MAGA turns on Lutnick amid China spy scandal",
       "url": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
@@ -1704,8 +1764,8 @@
     },
     {
       "keys": [
-        "fefadd73f1731b958b50455def24fbbe0ec46ad60551a0bc945838d4015b8f38",
-        "b04fe15fbac2031b7b59cf6c4ddf7549cfdb234b045b7f34c351ff556425731b"
+        "b04fe15fbac2031b7b59cf6c4ddf7549cfdb234b045b7f34c351ff556425731b",
+        "fefadd73f1731b958b50455def24fbbe0ec46ad60551a0bc945838d4015b8f38"
       ],
       "title": "СБУ каже про удар по російській нафтовій станції «Самара»",
       "url": "https://www.radiosvoboda.org/a/news-sbu-samara-rosiya/33898578.html",
@@ -1716,8 +1776,8 @@
     },
     {
       "keys": [
-        "d544e80eb532cb5d7b15ae4adc7704b2c4ccca81ea5caf5d720c6d72f14d45cb",
-        "5af44b9ab9b10f3b2fa8370838b60010cab2b953a4ac4aa218537df0ca15a32b"
+        "5af44b9ab9b10f3b2fa8370838b60010cab2b953a4ac4aa218537df0ca15a32b",
+        "d544e80eb532cb5d7b15ae4adc7704b2c4ccca81ea5caf5d720c6d72f14d45cb"
       ],
       "title": "Forever in Bluejeans",
       "url": "https://www.nytimes.com/2026/11/14/briefing/forever-in-bluejeans.html",
@@ -1776,8 +1836,8 @@
     },
     {
       "keys": [
-        "f15d812d7cbb8543f19e8db22a842a91dedc9be88799faf1a20ea9758da20590",
-        "36353a04c27875d8f84ad1e1521de74f89483840be66f5924e377052e6a0e759"
+        "36353a04c27875d8f84ad1e1521de74f89483840be66f5924e377052e6a0e759",
+        "f15d812d7cbb8543f19e8db22a842a91dedc9be88799faf1a20ea9758da20590"
       ],
       "title": "Guineas Goldboom: Neue Raffinerie und vertriebene Goldschürfer",
       "url": "https://www.dw.com/de/guineas-goldboom-neue-raffinerie-und-vertriebene-goldschürfer/a-79922802?maca=de-rss-de-top-1016-xml-atom",
@@ -1824,8 +1884,8 @@
     },
     {
       "keys": [
-        "b80bf05d2b6df13b1d1c907ab34b9d42e42008032f21a8303cdca438ccaab53e",
-        "3f33493d5c56da9e52a1b8f5254f53898559e411cc1631f308fb2114b03db025"
+        "3f33493d5c56da9e52a1b8f5254f53898559e411cc1631f308fb2114b03db025",
+        "b80bf05d2b6df13b1d1c907ab34b9d42e42008032f21a8303cdca438ccaab53e"
       ],
       "title": "Болгарія більше не постачатиме зброю Україні: прем'єр пояснив причину",
       "url": "https://www.rbc.ua/rus/news/bolgariya-bilshe-postachatime-zbroyu-ukrayini-1794652214.html",
@@ -1860,8 +1920,8 @@
     },
     {
       "keys": [
-        "3d91202b77f87fb651633cf35df2546b067a81693b9c4c5237f6682bd0c6b771",
-        "0bbe79768b493e826966cd9a490a741cc937f0d08adc136d2824e06c8f3ac19d"
+        "0bbe79768b493e826966cd9a490a741cc937f0d08adc136d2824e06c8f3ac19d",
+        "3d91202b77f87fb651633cf35df2546b067a81693b9c4c5237f6682bd0c6b771"
       ],
       "title": "Olivia Wilde Hit Bottom. Here’s How She Bounced Back.",
       "url": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
@@ -1884,8 +1944,8 @@
     },
     {
       "keys": [
-        "c46d20ed9ce40314127bece2a5df2e200ce48e68c638f54a3235c4e0846fa200",
-        "8a4c0d551869e24f292d211ef1c556ccb9f742d550f5a412e66178c8f2082c3f"
+        "8a4c0d551869e24f292d211ef1c556ccb9f742d550f5a412e66178c8f2082c3f",
+        "c46d20ed9ce40314127bece2a5df2e200ce48e68c638f54a3235c4e0846fa200"
       ],
       "title": "НАТО в обмін на Донбас, архітектура безпеки та обмін: головне про переговори від Зеленського",
       "url": "https://www.rbc.ua/rus/news/nato-obmin-donbas-arhitektura-bezpeki-ta-1794650585.html",
@@ -1896,8 +1956,8 @@
     },
     {
       "keys": [
-        "94cf4c237dd1377639ff8ce6c3445e7a3ae339c8eb51020234e35852abec5d52",
-        "945f9d782f186e557885c470baeac92f74d90ae77fbbf66ee3ca7f7e185075e1"
+        "945f9d782f186e557885c470baeac92f74d90ae77fbbf66ee3ca7f7e185075e1",
+        "94cf4c237dd1377639ff8ce6c3445e7a3ae339c8eb51020234e35852abec5d52"
       ],
       "title": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
       "url": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
@@ -1932,8 +1992,8 @@
     },
     {
       "keys": [
-        "fcf58424afd005254c1478b1d686998bb401c1890f02f801135c3d6d6854ac59",
-        "0f365ea4574bb3833e05f045c898049aa24a6405febba0af1ac967714c33d2f9"
+        "0f365ea4574bb3833e05f045c898049aa24a6405febba0af1ac967714c33d2f9",
+        "fcf58424afd005254c1478b1d686998bb401c1890f02f801135c3d6d6854ac59"
       ],
       "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
       "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
@@ -1944,8 +2004,8 @@
     },
     {
       "keys": [
-        "94f6b5ed4bd67d1de17f62630c94d7412fbfb9d11d7036913cc1841c3f023ca0",
-        "7feaeec4bfabf10c1ed69aa5b049a1ee5c510707c7377ffacf66b45d9206e24d"
+        "7feaeec4bfabf10c1ed69aa5b049a1ee5c510707c7377ffacf66b45d9206e24d",
+        "94f6b5ed4bd67d1de17f62630c94d7412fbfb9d11d7036913cc1841c3f023ca0"
       ],
       "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
       "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
@@ -1968,8 +2028,8 @@
     },
     {
       "keys": [
-        "ff4c08a8471f7e7d76ebf4842bdeaca803bbbac0432dbbdbe9610c3f1a30dd79",
-        "b4bd67b2040c6a5e8c1c2d974c6fb10b2cf1fca47ee6b40a470b1369bf1b56d1"
+        "b4bd67b2040c6a5e8c1c2d974c6fb10b2cf1fca47ee6b40a470b1369bf1b56d1",
+        "ff4c08a8471f7e7d76ebf4842bdeaca803bbbac0432dbbdbe9610c3f1a30dd79"
       ],
       "title": "ОВА: на Київщині внаслідок російських обстрілів пошкоджені склади",
       "url": "https://www.radiosvoboda.org/a/news-ataky-kyyivshchyna-sklady/33898511.html",
@@ -2016,8 +2076,8 @@
     },
     {
       "keys": [
-        "b61f0a384caf9d682368bae79c97a42d43cbf739d27c7b84f99133213b4dc3b4",
-        "37b3191c30e06e75816c0c50a9da7c1ad551bd753d14b1cbabb32e9552951828"
+        "37b3191c30e06e75816c0c50a9da7c1ad551bd753d14b1cbabb32e9552951828",
+        "b61f0a384caf9d682368bae79c97a42d43cbf739d27c7b84f99133213b4dc3b4"
       ],
       "title": "\"Примітивний хід\": Зеленський відреагував на ідею РФ щодо гуманітарної місії в Костянтинівці",
       "url": "https://www.rbc.ua/rus/news/primitivniy-hid-zelenskiy-vidreaguvav-ideyu-1794647480.html",
@@ -2028,8 +2088,8 @@
     },
     {
       "keys": [
-        "d2322f28ba93739cb5558bc654291828c475e3bff7a1eb8d2606c054b056e6f3",
-        "69d58e1203f784e94268ee97cbeb2bfaec850df4527fe94a539df1f3afa89b41"
+        "69d58e1203f784e94268ee97cbeb2bfaec850df4527fe94a539df1f3afa89b41",
+        "d2322f28ba93739cb5558bc654291828c475e3bff7a1eb8d2606c054b056e6f3"
       ],
       "title": "Baut China Militärpräsenz in Südostasien aus?",
       "url": "https://www.dw.com/de/baut-china-militärpräsenz-in-südostasien-aus/a-79939477?maca=de-rss-de-top-1016-xml-atom",
@@ -2040,8 +2100,8 @@
     },
     {
       "keys": [
-        "752fa3bce8248fde69a4d426eae5e7a31f5d7e02cf546bfa41f100bb3e85cd58",
-        "3166eb10a1e0ebb3d56dfe964b59d8479e98e8b1965491e86e78d82eca6723bd"
+        "3166eb10a1e0ebb3d56dfe964b59d8479e98e8b1965491e86e78d82eca6723bd",
+        "752fa3bce8248fde69a4d426eae5e7a31f5d7e02cf546bfa41f100bb3e85cd58"
       ],
       "title": "Росіяни атакували обʼєкт ДТЕК на Одещині, майже 50 тисяч будинків без світла",
       "url": "https://www.rbc.ua/rus/news/rosiyani-atakuvali-ob-ekt-dtek-odeshchini-1794645644.html",
@@ -2064,8 +2124,8 @@
     },
     {
       "keys": [
-        "d88b7fbe879c3c495e3e60bc1028e00d70de2e9a756bf729bc6fdf0d70ccce1e",
-        "1254b040251126454ebb3dcfddbc36e4ba078f200f4719fdd6eb4573006f4766"
+        "1254b040251126454ebb3dcfddbc36e4ba078f200f4719fdd6eb4573006f4766",
+        "d88b7fbe879c3c495e3e60bc1028e00d70de2e9a756bf729bc6fdf0d70ccce1e"
       ],
       "title": "A US Official Just Joined Russia’s Special Forces. He Still Holds Office in Vermont",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvx1g5/a_us_official_just_joined_russias_special_forces/",
@@ -2100,8 +2160,8 @@
     },
     {
       "keys": [
-        "d25e1cfae117f9d4f4dae188af06f03b2e06b0c65858169676527a86ceefca6c",
-        "5ca46d6c7ea15b6c93b484ab91932a62127a5c7e015d7673e57930a798d11c75"
+        "5ca46d6c7ea15b6c93b484ab91932a62127a5c7e015d7673e57930a798d11c75",
+        "d25e1cfae117f9d4f4dae188af06f03b2e06b0c65858169676527a86ceefca6c"
       ],
       "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-620-630-troops-in-ukraine-since-feb-24-2022/",
@@ -2112,8 +2172,8 @@
     },
     {
       "keys": [
-        "e221600e811858325703cafc86e9dc7a04a3824aa4a070eeb1e6884c25905757",
-        "d390f9abf912461889c7688628537c923de37354a3338a055e218089a631530c"
+        "d390f9abf912461889c7688628537c923de37354a3338a055e218089a631530c",
+        "e221600e811858325703cafc86e9dc7a04a3824aa4a070eeb1e6884c25905757"
       ],
       "title": "The US has Starshield limits over OCCUPIED Ukrainian territory 🚨",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvw5mf/the_us_has_starshield_limits_over_occupied/",
@@ -2124,8 +2184,8 @@
     },
     {
       "keys": [
-        "2ff2d706d0bf3f00696b8e8d1ee65b730e585bad6291872d04a42ddc6e3a22e5",
-        "02136741d3b8e0b013764d4205eb89b7fea3b54576c0e05836f3dc835c029aaa"
+        "02136741d3b8e0b013764d4205eb89b7fea3b54576c0e05836f3dc835c029aaa",
+        "2ff2d706d0bf3f00696b8e8d1ee65b730e585bad6291872d04a42ddc6e3a22e5"
       ],
       "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
       "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
@@ -2136,8 +2196,8 @@
     },
     {
       "keys": [
-        "23d316347854fb8e46cbf797e72c4d327ef24c5d8cecd7e468edfe2810343857",
-        "119d1a626fef9296dc1fc0f69da4bd849297a745adbbecf116226da039414fe2"
+        "119d1a626fef9296dc1fc0f69da4bd849297a745adbbecf116226da039414fe2",
+        "23d316347854fb8e46cbf797e72c4d327ef24c5d8cecd7e468edfe2810343857"
       ],
       "title": "Linke: Luigi Pantisano verteidigt langwieriges Verfahren zu Vanessa Emde",
       "url": "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90",
@@ -2184,8 +2244,8 @@
     },
     {
       "keys": [
-        "3ebc076599a9b93cef8e573dbb7f4c5b8bee47b4bff0e7b2f38f4a7420e56c03",
-        "135217da4ffdbe09dd1031a744931e7b60003bbeeff9fb0d7c23fc3c325904e6"
+        "135217da4ffdbe09dd1031a744931e7b60003bbeeff9fb0d7c23fc3c325904e6",
+        "3ebc076599a9b93cef8e573dbb7f4c5b8bee47b4bff0e7b2f38f4a7420e56c03"
       ],
       "title": "News: Hubert Aiwanger, Friedrich Merz, Stromsteuer, Rot-Grün-Rot in Berlin",
       "url": "https://www.spiegel.de/politik/deutschland/news-trauerakt-fuer-hubert-aiwanger-friedrich-merz-und-stromsteuer-rot-gruen-rot-in-berlin-a-3dda3c1b-9aab-48c2-b6aa-4a244a239e84",
@@ -2220,8 +2280,8 @@
     },
     {
       "keys": [
-        "8b58de46ac4961b58de935aba65c9d926fa51956f3f527804b5e8a441d235895",
-        "244b89c1cf4376dc20f3d6835cd20f37d47eba4ce86178f412e55ecebad9c200"
+        "244b89c1cf4376dc20f3d6835cd20f37d47eba4ce86178f412e55ecebad9c200",
+        "8b58de46ac4961b58de935aba65c9d926fa51956f3f527804b5e8a441d235895"
       ],
       "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
       "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
@@ -2232,8 +2292,8 @@
     },
     {
       "keys": [
-        "c342f7314e91407aaf0a2085c5975eaecd1bff4d4565c596358bc9b7ea48f029",
-        "6c8816e4adc4467f617657dcd2d1b5a336afefb4404c2c461b8eb760bbd8a7cc"
+        "6c8816e4adc4467f617657dcd2d1b5a336afefb4404c2c461b8eb760bbd8a7cc",
+        "c342f7314e91407aaf0a2085c5975eaecd1bff4d4565c596358bc9b7ea48f029"
       ],
       "title": "US Democrats direct Musk to preserve records on Ukraine's Starlink restriction, WSJ reports",
       "url": "https://kyivindependent.com/us-democrats-direct-musk-to-preserve-records-on-ukraines-starlink-restriction-wsj-reports/",
@@ -2304,8 +2364,8 @@
     },
     {
       "keys": [
-        "294ed03e98c67ca5e9a9882739ad84899468703768ebf881e5ae5b709348439a",
-        "0ab89ad654f0fa5e46018c7a2cdf9034d4fa76c43a1d41e2f9291a2a4de35a59"
+        "0ab89ad654f0fa5e46018c7a2cdf9034d4fa76c43a1d41e2f9291a2a4de35a59",
+        "294ed03e98c67ca5e9a9882739ad84899468703768ebf881e5ae5b709348439a"
       ],
       "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
       "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
@@ -2316,8 +2376,8 @@
     },
     {
       "keys": [
-        "c01e7b7a07d1fafc117acc16ebc367818e67c873b144ce2f819513d79664a577",
-        "174d2c674e14f77d02f0fae49c2aa17d6353ae1d89d9ed474e8a7940b518a957"
+        "174d2c674e14f77d02f0fae49c2aa17d6353ae1d89d9ed474e8a7940b518a957",
+        "c01e7b7a07d1fafc117acc16ebc367818e67c873b144ce2f819513d79664a577"
       ],
       "title": "Трамп назвав причину, чому в США обмежили авіаперельоти країною",
       "url": "https://www.rbc.ua/rus/news/tramp-nazvav-prichinu-chomu-ssha-obmezhili-1794618860.html",
@@ -2328,8 +2388,8 @@
     },
     {
       "keys": [
-        "818b52eac38c453becf0125691e7a7baf6af9f258207cf397410b50afe3648ee",
-        "0e6024b81eceeae649c919148979473b87410f06e0f283bdadf29472e90a3587"
+        "0e6024b81eceeae649c919148979473b87410f06e0f283bdadf29472e90a3587",
+        "818b52eac38c453becf0125691e7a7baf6af9f258207cf397410b50afe3648ee"
       ],
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
@@ -3005,150 +3065,6 @@
       "published": "2026-11-13T19:57:00+00:00",
       "discovered": "2026-11-13T20:54:52.676818+00:00",
       "excerpt": "The property was seized on Nov. 9 as part of an investigation into the alleged embezzlement of $113 million from Ukraine's now-defunct Finance and Credit Bank, which Zhevago previously controlled."
-    },
-    {
-      "keys": [
-        "0055681844afcca7429adb23f4c4861d35c03b3fa69e8c5fd8949872e143fa5e",
-        "b44dcfc4c9debcc987d0cf04982fbf6a70bb6a5a4a37917a952fe5ab847aba88"
-      ],
-      "title": "General Staff: Neptune Missiles Strike UAV Production Facility, Warehouse, and Service Center in Rostov",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvhv5g/general_staff_neptune_missiles_strike_uav/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T19:52:50+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "submitted by /u/Mil_in_ua [link] [comments]"
-    },
-    {
-      "keys": [
-        "6e50787b01be3fccf235a84537b20d1ff1c5204541de8babdd29e72453491dbf",
-        "d116c67497e32fd4f0ec21caea5670c8b2ac79f1c7e1eec169c3a2fba9ce0b65"
-      ],
-      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-      "source": "New York Times",
-      "published": "2026-11-13T19:52:01+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Some Wall Street bankers, traders and even some of Nvidia’s competitors are wondering and worrying about whether Jensen Huang’s departure will slow the breakneck pace of Nvidia’s investments."
-    },
-    {
-      "keys": [
-        "1d144ceebf475275b464fd707981c73efe8f699a6f3e95fff5ab1c393c01b860",
-        "fca318aad5aad9258732f64e69b8944e8d4956c4abfb08807a80e973f3370577"
-      ],
-      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T19:49:16+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Donald Trump Jr. agreed to end his advisory role with the prediction market Kalshi shortly after Trump Jr.'s venture capital firm made a large investment in its competitor, Polymarket. “We have mutually agreed to end Don's advisory role after his firm's significant investment in a competitor this past summer. We are grateful for his contributions in helping us market Kalshi to more customers,\" Kalshi said in a statement provided to Ars and other news outlets this week. Trump Jr. may still have a financial interest in Kalshi, which has benefited from the Trump administration's legal and regulatory support for prediction markets. Trump Jr. \"was handed about $300,000 worth of equity in Kalshi after joining the prediction market platform as a strategic adviser in early 2025,\" the Financial Times reported in June . Read full article Comments"
-    },
-    {
-      "keys": [
-        "61c7e16e31724f064d4fde575e0825d96e2bebe5ecc02ec7f75018bdf6006cab",
-        "98b611fac42a9d755d8d4f88dcf9e3d78fa1da1427799a244dffaccf977f0910"
-      ],
-      "title": "Ukraine launches nearly 1,200 drones at Russia as US-led talks will consider wider European security",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvhr2j/ukraine_launches_nearly_1200_drones_at_russia_as/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-13T19:48:21+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "submitted by /u/IvoryVervain [link] [comments]"
-    },
-    {
-      "keys": [
-        "0c7edcbbc484611b3a28e0628103dde2bfc5aff5b285a37fcdf787b14de11f0c",
-        "44415ce4041e4eba8b0223e785a5cc1a37844cd1e2f599439f1cac9a9e3826f2"
-      ],
-      "title": "У варшавському аеропорту літак перервав посадку через дрон",
-      "url": "https://www.pravda.com.ua/news/2026/11/13/8062806/",
-      "source": "Українська правда",
-      "published": "2026-11-13T19:48:00+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "У п'ятницю літак, що виконував рейс із Праги до Варшави, був змушений перервати посадку в аеропорту імені Фридерика Шопена через безпілотник, який помітили на траєкторії заходження на посадку. Джерело : \"Європейська правда \" з посиланням на Wirtualna Polska Деталі : Інцидент стався у п'ятницю, коли літак уже перебував на невеликій висоті та готувався до приземлення. Пілот був змушений різко перервати зниження і знову набрати висоту через дрон, який несподівано з'явився на траєкторії заходу літака на посадку. Як повідомив капітан повітряного судна пасажирам, рішення перервати посадку було негайним і пов'язане з появою безпілотного літального апарата. Після цього літак протягом деякого часу перебував у зоні очікування над Варшавою. Згодом екіпаж повторно здійснив захід на посадку, цього разу успішно. Інцидент у коментарі виданню підтвердив речник варшавського аеропорту Пйотр Рудзкі. \"Дійсно, такий інцидент відбувся, однак що стосується безпеки польотів, то вона жодним чином не була порушена. Це була стандартна процедура, і польоти відбуваються у звичайному режимі\", – запевнив він.є Польське законодавство передбачає покарання у вигляді позбавлення волі на строк до п'яти років за створення безпосередньої загрози повітряної катастрофи . Суд також може накласти значний штраф у розмірі до десятків тисяч злотих. Нагадаємо, 15 вересня за кілометр від авіабази Бундесверу розбився невідомий дрон . Наразі залишається незрозумілим, кому належить безпілотник і звідки він взявся. Також варто зазначити, що 1 вересня Німеччина прямо звинуватила Росію у гібридній атаці в аеропорту Лейпцига на початку серпня та оголосила заходи у відповідь."
-    },
-    {
-      "keys": [
-        "2fe6c73007a6a5854505a0b2320bdb11e7513a6320cd9bd926a75bc0aa94d9ba",
-        "3a2c7b5ba720fef96db4581502c9c74e36a8c89ee76f28dc7ef6afdb7f128ef8"
-      ],
-      "title": "Ukraine war latest: Ex-PM press secretary reportedly injured in Moscow car explosion",
-      "url": "https://kyivindependent.com/ukraine-war-latest-ex-pm-press-secretary-reportedly-injured-in-moscow-car-explosion/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-13T19:41:51+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Key developments on Nov. 13: Ex-PM press secretary reportedly injured in Moscow car explosion Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says Russia strikes Zaporizhzhia, injures 50, including 8 children Ukraine, Russia launch 'new format' for evacuating civilians from occupied territories, ombudsman"
-    },
-    {
-      "keys": [
-        "2b930b48a18771ea0041299a8fc634c53dbc03cfefc0e83e16bf21aba46df739",
-        "5cd9768e2bfee91564b47605919b706f723632af78ff3c850d9869bb30523e29"
-      ],
-      "title": "The foreign influencers helping Russia sell its occupation",
-      "url": "https://kyivindependent.com/the-foreign-influencers-helping-russia-sell-its-occupation/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-13T19:32:27+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "On the social media accounts of a group of young foreign visitors touring the Russian-occupied part of Donetsk Oblast, the war-ravaged region is presented as an appealing travel destination. In Instagram videos, the visitors release white doves — symbols of peace — into the sky and stroll through the Mariupol"
-    },
-    {
-      "keys": [
-        "9163bc356f2003cec6f872f094b75ca1a94a4d36bd60b475f09d0a67c76b90f3",
-        "cf239b779d6dc7dc4c3255929982c2f59f14e3983b33da65094c4a5ca83e33a0"
-      ],
-      "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvhaxs/former_hamas_bodyguard_convicted_of_birmingham/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-13T19:30:50+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "submitted by /u/ICanPretend1 [link] [comments]"
-    },
-    {
-      "keys": [
-        "7fb2b0bc8803bf92668078d9c9391efe515c61b08e05be699a33cf460df1ca40",
-        "cdc220566b968fee5d1b2794e2153e0871e6a7ab7755181862b82e467ebe1933"
-      ],
-      "title": "Sister June Carpenter, the Oldest Shaker, Has Died",
-      "url": "https://www.nytimes.com/2026/11/13/us/june-carpenter-dead.html",
-      "source": "New York Times",
-      "published": "2026-11-13T19:27:04+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Now there are only two practicing members of the last active Shaker community in the United States. Sister June was 88."
-    },
-    {
-      "keys": [
-        "b43e4d14ba42fc6e577eae25f32eb0934aebb7dc51163897ea8c09c7f87363f5",
-        "e76cd8617ae7b7cc1e0f9f0416c351537729590ebaefebc354803adcadf56068"
-      ],
-      "title": "Moscow car bomb severely injures former aide to Ukraine’s pro-Russia ex-PM",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvh6lr/moscow_car_bomb_severely_injures_former_aide_to/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-13T19:26:17+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "submitted by /u/Inner_Concept_3792 [link] [comments]"
-    },
-    {
-      "keys": [
-        "9f1dfd07d71dae90c5430960eac114847a0478ebb381992dd71f75cddab52271",
-        "9fb8296fb4e8fc427ceb47e202e6dd3f53b6bf84f7cf73a86146b27c30f634c9"
-      ],
-      "title": "Зеленський назвав «неприпустимою» ситуацію з енергозабезпеченням у Білій Церкві й Броварах",
-      "url": "https://www.radiosvoboda.org/a/news-zelensky-pro-sytuatsiu-enerhozabezpechennia-bila-tserkva-brovary/33898246.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-13T19:26:00+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Раніше компанія ДТЕК заявила, що протягом тижня російська армія пошкодила 10 її енергооб’єктів на Київщині, що спричинило тривалі знеструмлення"
-    },
-    {
-      "keys": [
-        "2bdf8919d89ccbb2241b591f6e42de31397f054b31ac811365349a6737cb8fd3",
-        "40fa9005f629e65a7ae8f9640ea783bc2eab81af98d1f36cbc2e73716d422cb7"
-      ],
-      "title": "Kim Davis's karma bill: $565,285.91 for refusing a gay marriage in 2015 and then refusing to pay for it",
-      "url": "https://boingboing.net/2026/11/13/kim-davis-in-hiding-to-dodge-huge-fine.html",
-      "source": "Boing Boing",
-      "published": "2026-11-13T19:19:19+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Former Kentucky county clerk Kim Davis has spent a decade refusing to pay the fines for standing behind her bigotry instead of doing her job. Now, she's evidently in hiding. The fee began at $50,000 for refusing a gay marriage. Her decade of appeals added \"$246,026.40 in attorneys' fees and $14,058.30 in expenses,\" then another \"$201,592.60 in attorneys' fees\" after the Supreme Court \"declined to hear it.\" — Read the rest The post Kim Davis's karma bill: $565,285.91 for refusing a gay marriage in 2015 and then refusing to pay for it appeared first on Boing Boing ."
     }
   ],
   "history": [
@@ -4750,5 +4666,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-14T19:11:25.678483+00:00"
+  "last_checked": "2026-11-14T19:56:20.637923+00:00"
 }
