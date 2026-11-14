@@ -1,30 +1,39 @@
 {
   "version": 1,
   "seen": [
+    "00113be2d479ceea756f4bc4a2aade3678f94a51ab28f5114c63737a7bc391d6",
     "002218c16aa75876116844c123b573947ad75a4e91d34575df63eefcc9ba191e",
+    "0089e0241eaec588dc39b16a4bb0edf991109c5483ed60485c75dd3bfdba8e3b",
     "008e7497bbbbf154a8c001f26ddf701f9478b95c3c7a2f08094f298fc403ddba",
     "00b97fd23fa4868abd7022703a9619dce0dce1f178134cc44fe5e7b771ce3dac",
     "012c07f820b658c0b44d7dee524553fb849ecfb747df19b5b33cc09e03c3acc8",
+    "0304df759353835593bb4c08f1a0ccf6c21bd7ec2f28ed9b22069cdef7846c38",
     "041302c87e7322bcbb052f118c24f10a022085b7915d3708b7683e925b6edeeb",
+    "051d025f54a6e609bd206e9a2b7b851937af4a8ce377f9efd594dac070973d19",
     "0616325642eb827c04764b93683db2224c5a91554982057487cb0fa8b71ca19f",
     "065423a34858831f4c49de0e43f1046f5d6842da45d2f984a79b983f6102e5f7",
     "069e0851a9a731c9d75618fe00438defbd5d90376670e3755e826a2819ee9a39",
     "06b0b772a655c98d16b04a7c73ba75499b9c38267d73af261d89316ca4dd2eb8",
     "070184a596b31800dbdcd70b2ebd8f4ce0fc996385ce335d982a4339ad22756f",
     "076db2f0dfbb778d80a372b003a45554c29c1fcba30a9bb7f9a1a9c7f0d18923",
+    "07fb262e0e77e3276f2b63905747362d70ac19ea48d30a8d98f2b287f1156df6",
     "089e8319488b7f87c005c0767e55c237b5ba7d8a47077a3c6485d33392b4f9d7",
     "08f733989526d241c443d605c195acab571b08ca4f7aa2971075930c26e3c71c",
     "09702f35c6757117dda5dbadc1c325db1b045b51c96f7fe12af5cf11fcd3a0e4",
     "09f8958545dcfc93ad2a0aa3cef154bff0cbf8639e23cd13d348b8c22ca4d39f",
+    "0a9ca393c377e0b4c4909121fdc7bae7603252e92f09bfdad3a8655f53d4309a",
     "0af83d9898dc744ac1195cad2365db24991d05ec12405d7c019fe0f0b499a7a8",
+    "0bcb67707d1ae6cf649be4d030368632ef68bdb288cf54ab9a28a21fa37dd5f3",
     "0cc700c6f07178d51bd1bfe6bfd55ba10e91c34f87dd18c81557b5c316213a70",
     "0d82adde3723ade23707a3a8c3ebb8a84311212a1126982deb3bc6e5779398dd",
     "0dd25ffce5ee390dfa0e7262b5531698b1c33db8bd90295886454b9515a130ec",
+    "0fd7b47fe00eaf25654d12fddab370aa8e10c6ea8f612504381d64ec85163718",
     "1056089e566b9349a8366f39a2747b9d1e6a0e67aa2dd719feb7da8bc4cbf38d",
     "10915c7849528a9aa9f6cc2c87c28ee5ea2defe035ac3b0e8fbd5bcb2e4ed17f",
     "116b338986d4c3c8e4027fbea0139da83df8a91743cbfc02e38cd74ffe729c09",
     "124067174766fff5abcf97d8c9e52886792d6132d95192c4026b97010eb674c0",
     "124f7dbf6b6fc1f76206cdeed987224a6a1dccd3105c178f94ad4d5c4914a31a",
+    "12875d7f1347305d093218b858ff6aa96abdb1f049afa9f4ff6f5ad071353938",
     "131995d1c89f789c55c6f3e3bf6bbe4fc70a829689c615c2b18def75bee8d59e",
     "13998cf84c57deb4dfc463b1a95d18b20289d3fd6dde36bdc250c9da42a03d8b",
     "162ea40a836e84db914972dee641fa53d822f3b94d6c3e577939977ffaa4b724",
@@ -40,6 +49,7 @@
     "19928eaf2c95907bc2335f9de044442d22397c530838e2d861f14893a914c2cd",
     "19bcb7f42fd0bebd384bdd625d36892feceb99c8f808b92b51ef3e8b48d0aa5d",
     "19d5246202c07b1cac5d29e7a6f2bb1e7034763e50154632049a210d93d68234",
+    "1a1ccc52dc21f09010c05b527156853ab0ced94d1666b0925232e16d73ea660d",
     "1a89773de2acc133985f3aa573ebce97740e7f4e5de6370f2ea27fda6c44ab6c",
     "1a8ad7ae484ec0d161efbf48bfc9ba1d2beb7d8eb40bb7173c09e4632c2ac566",
     "1ae9f402f3686f39f92111676aa7730c6aa1be97f9f4d20081a670a1b32327d5",
@@ -48,8 +58,11 @@
     "1b9acd8ddd73cad33bbe2b1eeb023c52c353a58c2138c8084be2de8a764be6b6",
     "1cb46eb30f45253b9f9c195e35c3992eb6b39bc664caf60385dd6e1150345566",
     "1cd7a633561cfd40c7d0df77e8df61a318f88bc9ed00821546ff0da11e7608d3",
+    "1d25409b0fdf30337fe99365ffe2cda7427ef999fd68eda28499c59309c76432",
+    "1d87843341be2f5c9dfe034eee78f8359bc17d0c35739820e65feab959d15b66",
     "1e913bf9fd9025944244f155e19357f7d88c30c7f572e8ef60057c7ce069cb1c",
     "1ecb42a3f3e14c44f193d116378382d76eb01dcdfb0cc8b9397b7d60e917ffa9",
+    "1f1af73b39b2b57a71b2986e94e38efa8b6eae3a1152afaaad4f11da561ef96f",
     "1f87bd5ebb26c4f936bba3d3e8be63e4ffe5c01635d78c491b2a201ecf0d0af1",
     "21468dbd631c37816aa6b87726d8a92ab37ffef73bcea42f1f524aa389177580",
     "214897c094cc82a41acdf3dc891e72ed5e80d7cb122a42856333de852d18862b",
@@ -57,19 +70,23 @@
     "22e495b5d21bd2719c0ad3e8150a23193fa3b7ef1bc294e223d17cd8797b4713",
     "232bd68ed3de4e5e84c96b64ca43aed29438ceba87bb51e3afe8e89c051c65de",
     "2367d15afc14508e17210894799275eb7e0e42950332a49707d879d995f59532",
+    "237fe58d2aab101382cada78eca2303b9aea06ed51a9362c990065af99e87753",
     "24e1742d66bbe8002618d58a81413e0d150046fe99b4ba773ed5f231ca6afa12",
     "268d05cb4991e9a6faba4aeac6fd1b53e407854793f7ad93c44aa7dead7b6709",
     "272069fa3814fc3d6e3e5249081980fc53ca68d6c8f56ab17567b923c44af995",
     "27d519fde93152fc9ccea1a541ca8374c09276f51ef68f914cb1eaa08e01f3c3",
+    "28ec7e8d5335a9ae7ca5ba1e54ead0df2fa82e6fa1279aa989beb2efc06054aa",
     "296b018b44293c824e887d5c91d045e4d6d0b801f2e8ce3e2931aded4a1dc325",
     "29940448bc1c63de2a343973e9fd87f5394fa4fc4e9851404c7035c49b00300b",
     "29f1812103aaf0da952d5f8f9ecd8624713031a7c3c6a96b031eaae46dfc424e",
     "2a879164698bc3ae01cc6a62a0772376937b92553dd8b8ae3d914b4d0872ce2b",
+    "2b10e91f58c4a314aa2224651d1f6eea4378221800d1cf21a3711a701943807f",
     "2bf0c7cb546ad60aa00d6b496b8f0d2700f24cefe31f53fa6cf10f56d5ea1a57",
     "2c095ea2469034797ae149e04f0f90d6a0197bf38e0314c7d2bff4bcab37d9c4",
     "2c0dca33a80e48590770ef647c64ea5e63b238d57b2492cd4ea584534daee26d",
     "2c45ec8ed2c39eadae97a4e2ef59a7920fa19cead640001cad080b12d443459d",
     "2c661a198045aa6825ebc8a4f56a2521cb2a24cad3f5e802cfe86dac7e0101f2",
+    "2c94e587c081b2dc3f6420af645b2f2b767ed3c7bca23cc8d4142210a333f53f",
     "2d836f91c51dfc4bae9830d1db1ba2a52f70c1400daccc770a999fe54e00b46b",
     "2da3dd5f84367ae273ce1e0831bd574a19983cb582f6e44c510798bcf2dad6b7",
     "2dc8262e1cc6f15bb0889852895f56e448f540c39688a6261f89a25222e61d76",
@@ -97,6 +114,7 @@
     "3d34783a912744edd78022d0edbcff8d3cd2bd28cdd7a4c4d2c7eae8a076ac02",
     "3d43d7a9eb84109ba042c71b573ad616e3a6ce8f0dff113eb26206d35ff0712d",
     "3f0d3d05fd6aecaf530ea7b371efb54ce257e64298a0e803f0d9118c3141e14c",
+    "3f12ab3bdd01f98ed2087f444e69a5b75b6b64a8c6268aa2ed1e7719198924f4",
     "3f604a3b3bcc9dbf03bfc341bceb53c313d86333a50ace7ebcc3f364cfd006dd",
     "3f61a24ce96c207c832cb0f4cd3fb2cb5de90a48439778c74c572b609239a281",
     "3f66664e285f52045d57c6ee8744841828ca9f4a636867ff3765eb2db520caaf",
@@ -105,6 +123,7 @@
     "401417bfe1f2fc44502f5c74596b960831202627748d2e1e2a7652a58d248fcc",
     "406a5c5cddf2619a27410b1f6eafd86616af5d48f3417086c6b112023c2d97f3",
     "408adecd7b735a086bd6ddcd913ca92211a763016e7a9205e1e799008c94d8d4",
+    "40a8e4cc776167c46caca04ce8e5218ba3b44d7ddec0d012e0c7dba6be40a87c",
     "414ee3f0ff2a1c87883ee560ea852822e73c49bae497a203e53911accb5a35cd",
     "42309548691d38eb59ecaa110a9300b42974cb40375093cdee524ced87a34f77",
     "423d5f0fb95ac4c4eb1e75bdaa4d08ec5d1ae629a6a24cb2a4e2e75eb8ab3b57",
@@ -116,6 +135,7 @@
     "441e311fb5285472eb153efe332083bffb1fb0397df8527cc3ce0539154f27b1",
     "45b517659e6e0c237fc5830ca194c80e75796a7fcfcbefa1caf13d51fdc4bcbb",
     "476beb4b5babdd2031bb745d62cb2e00ebc4d05f98549c6ba3273749c128c694",
+    "4a5677701f82134d166322b360b4cbe5e983315b1edf6d8484e876aa23b2b64d",
     "4b2099a2314e1cbee873857aed9e310659bd48cade00a8c7b1ea2babda3113c9",
     "4b2e16ac28011eeec5ee7dc6781ca16a8438f6cd4328392a6cca62b8d99890b8",
     "4c366e9f19f5c77e4d9a1bd445bfb6730d94603b15e8e6e30883a512b7c7b73c",
@@ -127,6 +147,7 @@
     "4e156456d7bc32cf6f75f69dc9d8d42bc6074466387c86d142be2e2100f36733",
     "4e82311f2fdfd88c9e51e2229f95b444571f3345490c1c1b6a4017c397d57108",
     "4e86e4b3248c8a9d763661dfe85ddab9273aa0ac9dc9e657605ec9a3c4b0a31e",
+    "500cdfddef5a76e916d376d4852cc5228332ebd8e05de159b4f93265e6cfb0ed",
     "509a4bf482c20cbff1686c4a0f9cfed3739a6df272b6e5ed72c5ea05d36aea40",
     "50eb1d72ca4e289fe62ace60389f4d6079385987bda6dababe23c6af3d88e761",
     "516b609386373a1306942172015144421fbdfcfa2bed24d29a81805f5e1fa4ec",
@@ -197,6 +218,7 @@
     "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
     "7017c184713d88f80dad4dd67ec403e800be36eadb134152dcaf54239d07190e",
     "714a4f3b0edee8ca72318446856b7b1e94fb3310fa857bd2ae4e4e0011d580a0",
+    "719278aae75f49f93b2c6780f0add4253084cf172a81a559f3960361056bf205",
     "7228c7724a0e84f0003e87f5df9b332fdfe7f32f38eb8952129dca76da72d7a1",
     "7337902fe6b105550cd458b605e7d34aa0b5bc1b5641f4de3d68bac8bff7f4b7",
     "74dbc28e19ff3b32430a9f8bb2fb874acb25a6dfd90776290f1a865a2a5bdfc1",
@@ -231,9 +253,11 @@
     "81fbb81fbdad1fc76e1153d7a236512a347da71410ac425b685384934d5fa06f",
     "830ab117fc9c7f6906f8d50853d8a271cfc2d50e5a185c5eed07ae7ef359ed70",
     "83108b924fae0d00f06d8f6c5928b058b06dce15328ba8d0ee49d52030cbd4db",
+    "837ac771bf4344adc4a45f08e2f8d67691d28304ca1259820c7c2f441aa9a58e",
     "83e7286c94f56ec0e8ce6c63a22eeb2a3f96ff62232c7defe22984e4868505a7",
     "8464c4060f17137ca62f11cb09d3f738d85522236db9d44e7409bf1e93e6ffc9",
     "85db2067262e09fff955cd2b433f32061ccada88fae68f9bdb9f7cf09eccba1f",
+    "85f1d1d114d5a6d91e5d9ee78adb73a6ffa393265c8f38d1be94b11f318c9593",
     "86df47c182fbb645f29e5c049bc032ee9e6e8b0791901068fb9566e452733932",
     "870db0d5468da2500cacc3d1393dbde6037f2802db62e790a49103235815f548",
     "883a1113464637318a8823cb7836aa7f265bb3d44358db1fa74f525b6d08fd38",
@@ -288,8 +312,10 @@
     "9fb3e1b820f78474ed496c58996ca707e1ef33a5a7bcb25fe207016f252c29ee",
     "a0f8951d7fd57be617d7ad9ff5b4470051b7a36053c6d5345e58aedd9ebed385",
     "a10b06802e69b5e36c791b9778961d5bd82a02c3e0ad0ee9cd809b46534b6ff5",
+    "a1b0d63ab35c03ce5791da060e08e0a787b9ebc1ef01ecb049786bf02aa6441b",
     "a2545fe809d5bbe31fa6af054bd7484292276dec9e9f187b8d8e7d0818764c4b",
     "a2cca338e0bd49e875e86a0782a1b0a7908cb119c0f3e07f88d7640e416d93ce",
+    "a36288ebc85d57c22594c0e8544762faf6b5c171f90682ff230ac4d38f3d6238",
     "a3cd9f867bc5d4aa02a8055c9ce2f7b10438352d10375a156fb7b8507b764bd1",
     "a3f4fb045b5d6bbfd7af00c42b395f37d1d0c15d9dee008bea238fe4477bc5fa",
     "a4ba7824df5b3f759977c901e3a53a8aa34c7de87db5a57c5fd95a44436fc9df",
@@ -305,12 +331,14 @@
     "a9612c9ffac6375ef25e623f38b00a7264ebbd46d30c73736cec3091aa60ef5a",
     "aa212467df2c9ba6dccf6889729336e424ebecb4281d423c7867edb946758525",
     "aac77aa5019786752b82e6896227ab5bbd9b1748538dd469de29ea45b4835885",
+    "abca93961df5b9e24993d89dce8d7868130427eeabf032a651dd954f4a336e35",
     "abf9a758b26a3aba6865f35b12cfd8a4258f601a8a3d12eda0622a4ec2df4e4e",
     "ac766154fe8c3a2da3297016d59e4bc3d835996c8610f28cf1df8998b3d175e5",
     "ad60d7617108e60d5d0ac4e896f7c1bc704526792d53217a30ebd06228092031",
     "ad614ae18f3ff6d36f28be882ecb6b86daf7d54c3fa6ba7a526ea100080fd518",
     "adcbb6ae2fe1e0d5607367cfde1c38cb8f27c5de6955f15008d2aded7e6fb688",
     "ae9ca0f75693b5214cc1ce2dd622d1593f1ec9935da0dfcccc78495d57b89381",
+    "b04f5679b8112bb4750c9774a109692f1b8596f4f3891af56d773487d9f660d5",
     "b22d39fb8ff289617d0067a7eec95ccfc6edef4cf352a2c395601f959ba045be",
     "b2545cc6d7c6295b6a6d171531ec9f728f7e8156a6954b3a98ed93ddec62a7a7",
     "b27b4cadb8bb9579d03fc48713f87b20b8d9d00393795de70997017e95a0d573",
@@ -334,6 +362,7 @@
     "baacfff62f4b5f2fb5d8e85c86944d7f0cd14658d07ba8cdb9232c0e3cbf3fcf",
     "baccff09af20683799585807b55b00bf429501ce37a18a2dc7e1d252997ea2aa",
     "bae510d1187f848b7cec220f69d643e0f8c12e59c09240550c643688ccdf3456",
+    "bb3efb8c6d6329146503d3786c6db2017f784d8243d70fcb4e65be571b77bb3d",
     "bc976bd7edf0261dd404f546dbd50747b490c7dc90b6e44e2dc961f3291e2192",
     "bca7065fe4c347a86e11364ae82cc6323617e477042cceb525022a763bdc0b4d",
     "bd2a2c27b0a36c2bb7e81f7e6317809b6954305a513c16cf8413dc7ee9b8bb4b",
@@ -385,11 +414,14 @@
     "d39f3d0566df20f1afd3010a84432b470d15645e9a3fb9a1872e0fa9549f4180",
     "d41a7ea16fd058e2325297f41357d3fc95addd12b1e473580153e5009c6c6488",
     "d451acd7041a7e948acf0be122fee0f1a0fa792dfaf1c3b26d7bb9cd9be46293",
+    "d480acc282577a54f3568362550e2b9a5b6728a437abeb317dd67a39a5ab3873",
     "d579d080bc51633b718df1057a9f1db3ca7d1650f5e44b72c24256953bc87f35",
     "d68eb8d5e5bd9fae448115079ed988c29a06e35ea54b56eb24f7a23ccb531f88",
     "d695bac69137f1a8c428bb14db319ad727ab526b7e4fbff136025fc2a076d606",
+    "d706803d7f828fe8c9d376655bf74f3c6c763cd7edd7da81b43d88bc399a1c8a",
     "d70bdf4aaa7b9fef92880f0821c33863b05f46d4de917acb58d3ff1bade2dbc1",
     "d75b4f8bc5ae6c055b5394c5e1cae35d6cd7ac818724244de5ede6a27f05727b",
+    "d7ad46a81265d8dabade99c451d069c06084900c3d91ae1185745313360f6b1a",
     "d7c39fe6bb8e5876d1d42a1c09a6588317dadad2399fcc674d0a7a68b4cdfdd1",
     "d84bc82e7be301be7b6780f9232b581d19c66b77f7d75174a6eb91b41228b63b",
     "d8d2f3fda1c3ea03e7ad5bd97fe247de4430d9024d4db82be7577792b1f0b0ee",
@@ -401,11 +433,13 @@
     "db05edb41cb2353739dd06c28b0aaa37728c17ff74ac398e726bc736f6eac2a7",
     "db3f8c77edc6b862de34a9ce80f93c7d23088166483e13c8959c2f3adddf1bbd",
     "dce475fe678041af05f4c5656b401e44dfa224d48f2b72747c37e3b74839eec7",
+    "dd06fc0c8b69a26c698a57a0673985952496d81698cd2afe1fe5ce200adfff3d",
     "dd717d9032164833eeece6d9ea72864185a18164e557fb5398a9a5798ee013d5",
     "de7910676e42a6e8ffe918af2917ae78cc41f621cfeb7546865842d2b117a893",
     "dea14e876324f7fe7851ebdf682b059fad503d34b24de369795cd04a02e04085",
     "deed29fa31db045d032558e93a393af12d4faa4e1a52ba416ee0766f7614fee1",
     "deeda58240240f7bd23f2c51d4bc7f4744add6e57b241f6b7f8c08efc394d8ff",
+    "df93bc849315c389552e0eb74d196bbd492d20176f4cf239b3d3bef7e2277d8e",
     "dfbb43cc397a5df974f1adb410636f505029c5e9b8e123a5de4a828cb7ce45cb",
     "e0064ece6a2aef9e4727b67c0654043a0e7d17c47ef0b28cec2c86779a3c74af",
     "e073531965c32b3c8a4380781773da50d829292199f30f799a2404e2f84db3dc",
@@ -419,17 +453,21 @@
     "e3d08812bd403ea1c71eb0fad3234fa7d19f5569eb6db6af787753e875b7bf2f",
     "e3ede6bb476bef887d239ebcf8637ee5d7bb3ab4002ced9729ca08d869a38a74",
     "e491f78f293a1ba71122174670bc15b22adbb12225196c6afd9280dcb24cb469",
+    "e5cf392d4a6fce4c272e28fd6d22361e34c4f7d71a923b97c0491299b74ac182",
     "e61529b588c3bfd06e34b2f9accf94ddb3a5e6663803cab1c1f337920237b4ca",
     "e636ec8652f78ec911b8e0ac2213455abd702072208ff2ac24cf6c07271c763b",
+    "e649fe0737ec3692734dd4892756533cd7bfae7c71e62d02bda4e807b0459bf4",
     "e7036f74ecc5d4a2db179e9253ac2a697c4d21d3066a52da3dd6ce82cef9c189",
     "e75346e3ba77fd15f551c1fba2c8757f890bc6ad325abbbd26f4cb21ec56b007",
     "e7932f716cdfbc4d5fbaaa35779981f618896098639bd987dd37bd2ba397a545",
     "e81068a90b5c8e1147ad3de17134e77f2bf5711105a86cdce0ff3c2c22b6bb6f",
     "e8606132f30f9f0610d5bf9b3b8592ff6cad6a5a97ea2c6422372fceab647f28",
+    "e88714ca538b4d7902fec2a114eae6a0eb1c951292c9b4c0724cf6902bf91211",
     "e91842df4f3961f50a290c5393ba6f8336743ab5134083ef1931cd82422dbaf1",
     "ea0b7541ad51b3561be2ed358ff5255d6e8002ec4f2b282568a837f11a8fc25f",
     "ea211ab5f3e0b9b89ab6a7f1dc9e342258eae015ae2bfd013ddaba943907808e",
     "ea83704f318d0d368a63f04a9f64ba33ae8b05189727d1140c671c53f746d311",
+    "ec790981eb06e42bb831ae7cabf8a8c4809c6697a84f17a281b8930b685f1276",
     "ece0f4a095164df122089b5d6716245b3dcaf904667761893c509000234fad93",
     "ecf8c2e6132a94ee708ed1811fb7c16cc18590e3a56a0168865b5e27faa8efb4",
     "ed2639d5691342bb3f2af8a2b3c3421cff928b0c36ab8d44d9873758c2ff656e",
@@ -437,6 +475,7 @@
     "ed44f8c3fb1ab03305cc715b672d8db20f164e1713b8cd2d4394f11ebeba2c2c",
     "ed871b7ed5a3eac19477aafaa92b3cc7ad2fa91b369f43039d572ae742f2499c",
     "ee374dc03cf127b7fc67a981fb8cbda43f5b7f50dc0c60f0c8251eb0ee7e1ae8",
+    "ee93574a84ea864b57711547b4c8dee690e8f116391410e5fa807c7fed3d0242",
     "f0168edc73fbf736e76449341e660a9cd6d3831d87a8c8548b957b7a717511c0",
     "f018e6ef36104d85c3caf6da89459623f421c1d10e4ad4f6ec0d5037ea83e2aa",
     "f024ea7b40e23bc3390cbe28d8c6e50bb945ce84e434bc455ddc716d55f61bab",
@@ -461,6 +500,7 @@
     "f922d99db0921172b5ce617d67c1f4b59a67f26558445bdf862ca82ff7472017",
     "fa02b314b55cf89b378a40ed34aeb14db85d5a42407fa121f97e987ce19df1b7",
     "fa8c9906fcfb98fea0a6d8f027e7251790b6c2b7d29f6ae560bfe53ee8577640",
+    "faa701b0165347248cb22d7c52d1710f3163740c261db06a996a7a92ccc4294b",
     "fad162213a1c882886ba03ea6d01981a42ad35815ab2dfe54a61ea5bec5e2fde",
     "faf321da2508ac350ec0d0e6c60f08b0c51159c2a018daeb9e76a16183461e46",
     "fb252c610de04f692b68fd2070628539cdb144f8d0245b38c372ab7830f6b699",
@@ -474,174 +514,6 @@
     "fef5a8b0c2aad0370003e7dd2d5af04dd84c7f5d82857635d4b45c4b5bd37247"
   ],
   "pending": [
-    {
-      "keys": [
-        "a1b0d63ab35c03ce5791da060e08e0a787b9ebc1ef01ecb049786bf02aa6441b",
-        "0089e0241eaec588dc39b16a4bb0edf991109c5483ed60485c75dd3bfdba8e3b"
-      ],
-      "title": "Howard Lutnick Has Got to Go",
-      "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
-      "source": "New York Times",
-      "published": "2026-11-13T23:19:01+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "The secretary of commerce is almost as responsible for Nvidia’s crisis as the fallen chief executive Jensen Huang."
-    },
-    {
-      "keys": [
-        "00113be2d479ceea756f4bc4a2aade3678f94a51ab28f5114c63737a7bc391d6",
-        "1d87843341be2f5c9dfe034eee78f8359bc17d0c35739820e65feab959d15b66"
-      ],
-      "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
-      "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
-      "source": "New York Times",
-      "published": "2026-11-13T23:18:08+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Scott Colom will be the third Black senator to represent Mississippi and the first to be elected by voters rather than the state Legislature."
-    },
-    {
-      "keys": [
-        "12875d7f1347305d093218b858ff6aa96abdb1f049afa9f4ff6f5ad071353938",
-        "e649fe0737ec3692734dd4892756533cd7bfae7c71e62d02bda4e807b0459bf4"
-      ],
-      "title": "FAA orders third nationwide ground stop in its history",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T23:17:38+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "On Friday afternoon, days after expanding use of an AI tool , the Federal Aviation Administration issued a nationwide ground stop, halting departures from all US airports. Secretary of Transportation Sean Duffy announced the ground stop on X , citing a \"communication issue impacting all Air Route Traffic Control Centers.\" Duffy promised updates as more information is known and said FAA staff were troubleshooting the problem. Department of Homeland Security Secretary Markwayne Mullin said that the ground stop was not prompted by a security threat. \"This is a telecommunications outage out of the FAA. Out of an abundance of caution, we have grounded all of the flights,\" Mullin said . \"There's no indication as of yet that this is a nefarious attack against us.\" Mullin said the FAA would handle incoming international flights on a case-by-case basis. Read full article Comments"
-    },
-    {
-      "keys": [
-        "85f1d1d114d5a6d91e5d9ee78adb73a6ffa393265c8f38d1be94b11f318c9593",
-        "40a8e4cc776167c46caca04ce8e5218ba3b44d7ddec0d012e0c7dba6be40a87c"
-      ],
-      "title": "5 Takeaways from Joe Biden’s Memoir: The Debate, Dropping Out and Advice From Romney",
-      "url": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html",
-      "source": "New York Times",
-      "published": "2026-11-13T23:01:10+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Former President Joseph R. Biden writes in his memoir that he felt he had a handle on the challenges facing him before he dropped out of his run for re-election."
-    },
-    {
-      "keys": [
-        "2c94e587c081b2dc3f6420af645b2f2b767ed3c7bca23cc8d4142210a333f53f",
-        "1f1af73b39b2b57a71b2986e94e38efa8b6eae3a1152afaaad4f11da561ef96f"
-      ],
-      "title": "Сім голів від Нідерландів і не тільки: вогняний вечір у Лізі націй (відео)",
-      "url": "https://sport.rbc.ua/rus/football/sim-goliv-vid-niderlandiv-i-tilki-vognyaniy-1794610521.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-13T22:55:21+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Греція пережила найбільший розгром у XXI столітті У п'ятницю, 13 листопада, відбулися поєдинки п'ятого туру групового етапу Ліги націй УЄФА одразу у чотирьох дивізіонах. Ігровий день подарував уболівальникам два історичні антирекорди, несподіваний перформанс на рівні легендарного Марко ван Бастена та розв'язку в кількох групах. Про це повідомляє Sport RBC.UA. Ліга А: історичне побиття від Нідерландів та впевнений крок Німеччини Нідерланди – Греція – 7:0 Голи: Саммервілл, 6, Рейндерс, 12, 19, 33, Тімбер, 40, 59, Мален, 61 У центральному поєдинку групи А2 боротьби не вийшло – підопічні Хаві декласували суперника, засудивши грецьку збірну до найбільшої поразки у ХХІ столітті в усіх турнірах (попереднім антирекордом були 1:5 від Фінляндії у 2001 році). Вже до 19-ї хвилини \"Ораньє\" вели 3:0: спершу Крісенсіо Саммервілл скористався обрізкою суперника, а згодом Тіджані Рейндерс оформив швидкий дубль. До перерви Рейндерс встиг забити втретє, ставши першим гравцем Нідерландів із часів Марко ван Бастена (1990 рік), кому підкорився хет-трик у першому таймі, а п'ятий м'яч забив Юррієн Тімбер. По перерві Тімбер оформив дубль, а остаточну крапку на 61-й хвилині поставив Доніелл Мален. Сербія – Німеччина – 1:3 Голи: Бабич, 56 – Бабич, 3 (автогол), Вірц, 14, Груда, 50 Підопічні Юргена Клоппа впевнено розібралися із сербами на виїзді. Вже на 3-й хвилині рахунок було відкрито після автоголу захисника господарів Срджана Бабича, а невдовзі Флоріан Вірц подвоїв перевагу Бундестім. На початку другого тайму Браян Груда довів рахунок до розгромного. Бабич зумів частково реабілітуватися за автогол, забивши уже в чужі ворота на 56-й хвилині, проте на більше господарів не вистачило. Серби догравали матч удев'ятьох після вилучень Драгоєвича та Живковича. https://www.youtube.com/watch?v=79OeYBio-_4 Після п'яти турів Нідерланди одноосібно очолюють групу А2 (11 очок), Греція та Німеччина ділять другу-третю сходинки (по 8 балів), а Сербія йде останньою без набраних пунктів. Ліга B: успіх Швейцарії"
-    },
-    {
-      "keys": [
-        "d480acc282577a54f3568362550e2b9a5b6728a437abeb317dd67a39a5ab3873",
-        "ec790981eb06e42bb831ae7cabf8a8c4809c6697a84f17a281b8930b685f1276"
-      ],
-      "title": "Democrats Vie for Support in Race for Top Senate Job",
-      "url": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
-      "source": "New York Times",
-      "published": "2026-11-13T22:53:50+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Chris Van Hollen se había perfilado como el favorito para desafiar a Chuck Schumer por el puesto y en los últimos días había expresado una creciente disposición a hacerlo."
-    },
-    {
-      "keys": [
-        "bb3efb8c6d6329146503d3786c6db2017f784d8243d70fcb4e65be571b77bb3d",
-        "0304df759353835593bb4c08f1a0ccf6c21bd7ec2f28ed9b22069cdef7846c38"
-      ],
-      "title": "FAA orders nationwide ground stop: please do not call it \"AI\"",
-      "url": "https://boingboing.net/2026/11/13/faa-nationwide-ground-stop-mullin-si.html",
-      "source": "Boing Boing",
-      "published": "2026-11-13T22:50:49+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "The Trump Administration is so invested in their silly names for things that during a frightening nationwide all-ground stop at our airports, Markwayne Mullin is policing language instead of explaining what the heck is going on. Neither the FAA nor the DOT has reported on what broke. — Read the rest The post FAA orders nationwide ground stop: please do not call it \"AI\" appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "4a5677701f82134d166322b360b4cbe5e983315b1edf6d8484e876aa23b2b64d",
-        "abca93961df5b9e24993d89dce8d7868130427eeabf032a651dd954f4a336e35"
-      ],
-      "title": "\"Це не 11 вересня\": У США відповіли, чи є зупинка всіх авіарейсів терористичною атакою",
-      "url": "https://www.pravda.com.ua/news/2026/11/14/8062813/",
-      "source": "Українська правда",
-      "published": "2026-11-13T22:50:00+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Міністр внутрішньої безпеки США Марквейн Маллін заявив, що скасування усіх авіарейсів у США спричинене збоєм у телекомунікаціях, а не терористичною загрозою, подібною до \"терактів 11 вересня\". Джерело: відео Fox News з коментарями Малліна журналістам Пряма мова Малліна: \"Це був збій у телекомунікаційній мережі у всьому FAA ( Федеральному авіаційному управлінні США – ред. ). З міркувань безпеки ми призупинили всі польоти. І місцезнаходження всіх рейсів уже відоме. Щодо рейсів, які прибувають з-за кордону, або тих, що наразі ще перебувають у повітрі, – ми вирішуватимемо ситуацію з кожним із них в індивідуальному порядку. У міру їхнього наближення буде визначено черговість посадки. Але, як я вже повторював, жодних попередніх ознак не було. Наразі немає жодних ознак того, що це була злочинна атака проти нас. Зараз йдеться просто про збій у телекомунікаційній мережі... У громадськості немає причин для страху чи побоювань за своїх близьких. Це не ще одне 9/11 \". Деталі: Маллін зазначив, що наразі до міністерства надходить багато запитів щодо можливого теракту. Однак міністр заперечив терористичний акт і наявність загрози загалом. \"Немає жодних причин хвилюватися за ваших близьких, якщо вони зараз летять літаком чи перебувають у подібній ситуації... Ми з'ясовуємо причини того, що сталося; з огляду на те, як часто трапляються кібератаки, завжди варто припускати таку ймовірність. Утім, на цю мить точної інформації немає\", – додав Маллін. Передісторія: У США 13 листопада призупинили вильоти всіх рейсів через \"надзвичайні обставини та з міркувань безпеки\". (FAA) уточнили, що зупинку вильотів в усіх аеропортах країни оголосили через те, що збій зачепив одразу кілька центрів управління повітряним рухом на маршрутах. Як зазначає Reuters, це другий випадок повного призупинення всіх вильотів у масштабах США після терактів 11 вересня 2001 року."
-    },
-    {
-      "keys": [
-        "237fe58d2aab101382cada78eca2303b9aea06ed51a9362c990065af99e87753",
-        "e5cf392d4a6fce4c272e28fd6d22361e34c4f7d71a923b97c0491299b74ac182"
-      ],
-      "title": "Trump administration delays Medicaid work requirements by six months",
-      "url": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay",
-      "source": "Axios",
-      "published": "2026-11-13T22:46:47+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "The Trump administration announced a six-month delay Friday in enforcing the Medicaid work requirements that were scheduled to take effect in January. Why it matters: The announcement pauses a set of rules that state officials have warned they're not ready to handle — and that could cause millions of people to lose their health coverage. Driving the news: The Centers for Medicare and Medicaid Services said there will be an \"optional hold harmless period\" through June 30 that will give states \"a transition period to further modernize systems, improve processes, and streamline the applicant and beneficiary experience. Hospitals have been so worried about the impact of the work requirements that they've created their own outreach campaign to prepare people on Medicaid, per the New York Times . The concern is not that people will be kicked out of the program for not working, but that they'll be kicked out because they don't understand the reporting rules and won't be able to prove they've met the requirements. This is breaking news. Check back for updates."
-    },
-    {
-      "keys": [
-        "500cdfddef5a76e916d376d4852cc5228332ebd8e05de159b4f93265e6cfb0ed",
-        "1d25409b0fdf30337fe99365ffe2cda7427ef999fd68eda28499c59309c76432"
-      ],
-      "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-      "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-      "source": "New York Times",
-      "published": "2026-11-13T22:46:15+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Dario Amodei, the Anthropic co-founder and chief executive."
-    },
-    {
-      "keys": [
-        "2b10e91f58c4a314aa2224651d1f6eea4378221800d1cf21a3711a701943807f",
-        "ee93574a84ea864b57711547b4c8dee690e8f116391410e5fa807c7fed3d0242"
-      ],
-      "title": "Трамп планує зустрітися з Путіним і Сі Цзіньпіном наступного четверга, - NYP",
-      "url": "https://www.rbc.ua/rus/news/tramp-planue-zustritisya-putinim-i-si-tszinpinom-1794609453.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-13T22:37:33+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Президент США Дональд Трамп має намір зустрітися з диктатором РФ Володимиром Путіним та лідером Китаю Сі Цзіньпіном вже наступного тижня. Обговорюватиметься як мінімум одна тема. Про це повідомляє РБК-Україна з посиланням на The New York Post. За даними видання, тристоронній саміт відбудеться наступного четверга, 19 листопада, на полях щорічної конференції АТЕС у Шеньчжені (Китай). Очікується, що обговорення буде здебільшого присвячене розробці угоди про контроль над ядерним озброєнням. Представник Білого дому сказав виданню, що обговорення також можуть торкнутися війни в Ірані та Північній Кореї. Зазначимо, що раніше в неділю Трамп анонсував свій візит до Китаю та практично підтвердив плани провести саміт між трьома країнами. \"Я думаю, одна із зустрічей відбутися з президентом Путіним і президентом Сі Цзіньпіном, і це буде цікаво. Ми обговорюватимемо багато питань, включаючи денуклеаризацію, але ми багато говоритимемо. Ми намагаємося покласти край війні в Ірані, і у нас це добре виходить\", - говорив президент США журналістам. Що ще важливо знати Нагадаємо, днями The Wall Street Journal писало, що тристоронній саміт Трампа, Путіна та Сі Цзіньпіна може бути під загрозою зриву. Причина полягає в тому, що США та Китай розходяться у думках щодо формату тристоронньої зустрічі. Пекін наполягає, щоб зустріч була суворо регламентована і з зачитуванням готових заяв, а Вашингтон хоче більш вільному форматі, який би дозволив трьом лідерам активніше обмінятися думками. Також ми писали, що помічник диктатора РФ Юрій Ушакова нещодавно заявив, що очікувана тристороння зустріч не дозволить повністю вирішити весь комплекс проблем щодо війни Росії проти України. Докладніше про те, чому максимум Путіна на саміті з Трампом та Сі Цзіньпіном лише загальне фото - читайте у матеріалі РБК-Україна."
-    },
-    {
-      "keys": [
-        "b04f5679b8112bb4750c9774a109692f1b8596f4f3891af56d773487d9f660d5",
-        "837ac771bf4344adc4a45f08e2f8d67691d28304ca1259820c7c2f441aa9a58e"
-      ],
-      "title": "DHS head Mark Waye Mullin says there is not a threat to the U.S. amid FAA ground stop",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-      "source": "News : NPR",
-      "published": "2026-11-13T22:36:46+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Department of Homeland Security Secretary Mark Waye Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
-    },
-    {
-      "keys": [
-        "d7ad46a81265d8dabade99c451d069c06084900c3d91ae1185745313360f6b1a",
-        "d706803d7f828fe8c9d376655bf74f3c6c763cd7edd7da81b43d88bc399a1c8a"
-      ],
-      "title": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvly1t/war_fatigue_and_economic_pressure_weigh_on/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T22:35:31+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "submitted by /u/UNITED24Media [link] [comments]"
-    },
-    {
-      "keys": [
-        "3f12ab3bdd01f98ed2087f444e69a5b75b6b64a8c6268aa2ed1e7719198924f4",
-        "df93bc849315c389552e0eb74d196bbd492d20176f4cf239b3d3bef7e2277d8e"
-      ],
-      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-      "source": "News : NPR",
-      "published": "2026-11-13T22:18:55+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule. (Image credit: Lynne Sladky)"
-    },
     {
       "keys": [
         "2f7f8a59c11294aa9273de94c87cf9077dd5ce9a0f631d21a2446c9d281bb658",
@@ -894,8 +766,8 @@
     },
     {
       "keys": [
-        "99c467bc506ba4b621183b2c2e1085cee0efa572fe8d44b6fae09becc5f2654b",
-        "4842599ee64329aeaed5d4c3511e9db97e2395a63f2b8b33e942b76a859298d5"
+        "4842599ee64329aeaed5d4c3511e9db97e2395a63f2b8b33e942b76a859298d5",
+        "99c467bc506ba4b621183b2c2e1085cee0efa572fe8d44b6fae09becc5f2654b"
       ],
       "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
       "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
@@ -906,8 +778,8 @@
     },
     {
       "keys": [
-        "ecc9a46ce462e4b02c5f9f4b175356825068ac8d3cd90333a269e9218566d2bf",
-        "cc27282dea2e130bf6e259c8dbc5d412ec0dc28963e2eb69728cd221bdaf6594"
+        "cc27282dea2e130bf6e259c8dbc5d412ec0dc28963e2eb69728cd221bdaf6594",
+        "ecc9a46ce462e4b02c5f9f4b175356825068ac8d3cd90333a269e9218566d2bf"
       ],
       "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
       "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
@@ -5364,7 +5236,163 @@
           "source": "Українська правда"
         }
       }
+    },
+    {
+      "date": "2026-11-14",
+      "created": "2026-11-14T00:19:55.708180+00:00",
+      "summary": {
+        "title": "Daily News Digest: November 13, 2026",
+        "intro": "A summary of today's events, including a nationwide FAA ground stop in the United States, upcoming high-level diplomatic meetings, and updates on domestic policy and international sports.",
+        "stories": [
+          {
+            "headline": "Nationwide FAA Ground Stop",
+            "summary": "The Federal Aviation Administration issued a nationwide ground stop for all U.S. departures due to a telecommunications outage affecting Air Route Traffic Control Centers. Secretary of Transportation Sean Duffy and Department of Homeland Security Secretary Markwayne Mullin confirmed the outage is not related to a security threat or a criminal attack. The FAA is managing incoming international flights on an individual basis as they troubleshoot the system.",
+            "article_ids": [
+              "2",
+              "5",
+              "9",
+              "11",
+              "12",
+              "16",
+              "17",
+              "18"
+            ]
+          },
+          {
+            "headline": "Upcoming Diplomatic Summit and Political Updates",
+            "summary": "President Trump is expected to meet with Vladimir Putin and Xi Jinping next Thursday at the APEC conference in Shenzhen, China. Discussions are anticipated to focus on nuclear arms control and geopolitical issues in Iran and North Korea. Domestically, the Trump administration has delayed the enforcement of Medicaid work requirements by six months to allow states time to modernize systems. Meanwhile, administration officials are urging Congress to renew a surveillance law during the lame-duck session, and GOP state officials are working to revive mail-in voting restrictions for the 2028 election.",
+            "article_ids": [
+              "6",
+              "13",
+              "15",
+              "20"
+            ]
+          },
+          {
+            "headline": "U.S. Politics and Congressional News",
+            "summary": "Scott Colom has won a seat in the Mississippi Senate, becoming the first Black senator elected by voters in the state. In national politics, Democrats are maneuvering for leadership roles, with Chris Van Hollen discussed as a potential challenger to Chuck Schumer. Additionally, former President Joe Biden has released a memoir covering his reelection campaign and subsequent decision to exit the race.",
+            "article_ids": [
+              "4",
+              "7",
+              "10"
+            ]
+          },
+          {
+            "headline": "International Sports and Other Briefs",
+            "summary": "In UEFA Nations League play, the Netherlands defeated Greece 7-0, while Germany beat Serbia 3-1. Related to the ongoing conflict, a new poll indicates rising anxiety and war fatigue among Russians. Elsewhere, the U.S. Air Force is investigating suspected drone activity at a base in the U.K., and tech-industry reporting highlights Howard Lutnick's influence on the Department of Commerce and developments regarding Anthropic's IPO.",
+            "article_ids": [
+              "1",
+              "3",
+              "8",
+              "14",
+              "19"
+            ]
+          }
+        ]
+      },
+      "sources": {
+        "1": {
+          "title": "US Air Force responds to suspected drone activity at military base in UK",
+          "url": "https://kyivindependent.com/us-air-force-responds-to-suspected-drone-activity-at-military-base-in-uk/",
+          "source": "The Kyiv Independent"
+        },
+        "2": {
+          "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+          "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+          "source": "New York Times"
+        },
+        "3": {
+          "title": "Howard Lutnick Has Got to Go",
+          "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html",
+          "source": "New York Times"
+        },
+        "4": {
+          "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
+          "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
+          "source": "New York Times"
+        },
+        "5": {
+          "title": "FAA orders third nationwide ground stop in its history",
+          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "source": "Ars Technica"
+        },
+        "6": {
+          "title": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
+          "source": "New York Times"
+        },
+        "7": {
+          "title": "5 Takeaways from Joe Biden’s Memoir: The Debate, Dropping Out and Advice From Romney",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html",
+          "source": "New York Times"
+        },
+        "8": {
+          "title": "Сім голів від Нідерландів і не тільки: вогняний вечір у Лізі націй (відео)",
+          "url": "https://sport.rbc.ua/rus/football/sim-goliv-vid-niderlandiv-i-tilki-vognyaniy-1794610521.html",
+          "source": "РБК-Украина"
+        },
+        "9": {
+          "title": "A Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html",
+          "source": "New York Times"
+        },
+        "10": {
+          "title": "Democrats Vie for Support in Race for Top Senate Job",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
+          "source": "New York Times"
+        },
+        "11": {
+          "title": "FAA orders nationwide ground stop: please do not call it \"AI\"",
+          "url": "https://boingboing.net/2026/11/13/faa-nationwide-ground-stop-mullin-si.html",
+          "source": "Boing Boing"
+        },
+        "12": {
+          "title": "\"Це не 11 вересня\": У США відповіли, чи є зупинка всіх авіарейсів терористичною атакою",
+          "url": "https://www.pravda.com.ua/news/2026/11/14/8062813/",
+          "source": "Українська правда"
+        },
+        "13": {
+          "title": "Trump administration delays Medicaid work requirements by six months",
+          "url": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay",
+          "source": "Axios"
+        },
+        "14": {
+          "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+          "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+          "source": "New York Times"
+        },
+        "15": {
+          "title": "Трамп планує зустрітися з Путіним і Сі Цзіньпіном наступного четверга, - NYP",
+          "url": "https://www.rbc.ua/rus/news/tramp-planue-zustritisya-putinim-i-si-tszinpinom-1794609453.html",
+          "source": "РБК-Украина"
+        },
+        "16": {
+          "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+          "source": "News : NPR"
+        },
+        "17": {
+          "title": "DHS head Mark Waye Mullin says there is not a threat to the U.S. amid FAA ground stop",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+          "source": "News : NPR"
+        },
+        "18": {
+          "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+          "source": "News : NPR"
+        },
+        "19": {
+          "title": "War Fatigue and Economic Pressure Weigh on Russians as Anxiety Rises, Poll Shows",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvly1t/war_fatigue_and_economic_pressure_weigh_on/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "20": {
+          "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+          "source": "News : NPR"
+        }
+      }
     }
   ],
-  "last_checked": "2026-11-13T23:30:04.237317+00:00"
+  "last_checked": "2026-11-14T00:19:55.708180+00:00"
 }
