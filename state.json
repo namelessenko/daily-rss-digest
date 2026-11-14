@@ -516,6 +516,78 @@
   "pending": [
     {
       "keys": [
+        "07ec065ce70f911ab4f9e8e9536c1c98bf27e0de9191af23a36f0cd24150732d",
+        "8412d3d84fe395a32acdd179b829c3d543c4a9d488bf01b074a0efd25fdbf1ff"
+      ],
+      "title": "Франція: за даними уряду, понад 100 тисяч людей вийшли на протести",
+      "url": "https://www.radiosvoboda.org/a/news-ponad-100-tysiach-liudei-protesty/33898709.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-14T21:29:01+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "Для охорони порядку по всій країні залучили близько 70 тисяч поліцейських"
+    },
+    {
+      "keys": [
+        "39d010e8c19ec1b87d5d500071f07be13599b775c5015701ce7653e1460c48ac",
+        "2f3eb52a182299b8fa397ab5354640a279fd596aef83e3ba52231e31eaf963de"
+      ],
+      "title": "США готують наступні контакти Москви з Європою і новий раунд переговорів, - Кушнер",
+      "url": "https://www.rbc.ua/rus/news/ssha-gotuyut-nastupni-kontakti-moskvi-evropoyu-1794691201.html",
+      "source": "РБК-Украина",
+      "published": "2026-11-14T21:20:01+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "США працюють над організацією прямих контактів між Москвою та європейськими партнерами і готують порядок денний наступного раунду тристоронніх переговорів. Під час консультацій зі сторонами з'явилися нові ідеї, які можуть допомогти подолати розбіжності. Про це повідомляє РБК-Україна з посиланням на зятя президента США та спецпосланця Джареда Кушнера в соцмережі X. За словами Кушнера, після тристоронніх зустрічей і розмов з Путіним та Зеленським він і спецпосланець Стів Віткофф продовжують тісні консультації з Росією, Україною та європейськими партнерами. Зараз США зосереджені на прямій взаємодії Москви з Європою і підготовці порядку денного наступного раунду тристоронніх переговорів. Кушнер повідомив, що під час обговорень з'явилися нові ідеї, які зараз вивчають. За його словами, частина з них може безпосередньо привести до проривів, а інші можуть стати основою нових пропозицій, які допоможуть зблизити позиції сторін. Кушнер визнав, що в медіа з'являлися повідомлення про максималістські позиції обох сторін і жорстку політичну риторику. \"У наших приватних обговореннях обидві сторони розуміють, що для завершення цієї війни знадобляться практичні компроміси\", - написав він. Спецпосланець також наголосив, що команда США й надалі дотримуватиметься конфіденційності, необхідної для таких чутливих переговорів. Про нові ідеї на переговорах напередодні розповідав і Зеленський. За його словами, американці вперше запитали Україну, чи погодиться вона вийти з Донбасу в обмін на членство в НАТО. Президент нагадав, що Україна не віддає свої землі, і розповів, що Київ готує з партнерами цілісний безпековий пакет: гарантії від НАТО і ЄС, сильну армію та план відновлення з чіткими джерелами фінансування. Також Зеленський повідомив про підготовку масштабного обміну полоненими у форматі \"більше тисячі на більше тисячі\". Москва тим часом висуває власні вимоги щодо безпеки Європи. За даними ЗМІ, Росія знову вимагає, щоб НАТО відвело війська на позиції 1997 року. Bild також писало, що Крем"
+    },
+    {
+      "keys": [
+        "0761b60dac4bad2ef9ff003d52b003bf2357845cbcbebdeeed439cece1593a09",
+        "b963ed0ab147b6a1c487711324ceb5c6f02af2d5528389ab293e4eee7512bbb3"
+      ],
+      "title": "Прем’єр Вірменії каже, що через 20 років бачить країну членом ЄС",
+      "url": "https://www.pravda.com.ua/news/2026/11/14/8062902/",
+      "source": "Українська правда",
+      "published": "2026-11-14T21:19:00+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": ""
+    },
+    {
+      "keys": [
+        "0bd6bdb0e5a857634708fbcf021c856e8614dab25d0b87dd5e7e7f8ba3b589eb",
+        "b83b4a66fce61cd3a13e1cd9c5ee256dd9c98403d0ebd54cb73b034f554d494d"
+      ],
+      "title": "Зеленський розповів, що США «вперше» пропонували Україні вийти з Донбасу в обмін на членство в НАТО",
+      "url": "https://www.radiosvoboda.org/a/news-zelensky-ssha-propozytsia-vyity-z-donbasu-v-obmin-na-chlenstvo-v-nato/33898708.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-14T21:09:55+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "За його словами, якби всі союзники по НАТО підтвердили таку пропозицію, він був би готовий обговорити це питання через «відкритий діалог із суспільством»"
+    },
+    {
+      "keys": [
+        "aad6d396e667cf52e727fbce83b2fad98a05946bfbd553e5162f58a6c77b79d3",
+        "9c2f20dc5f8db98b8ec159320dfbd482b0745de0171c3381b561b8cf2321f763"
+      ],
+      "title": "Ukrainian officer callsign 'Alex' says Russian forces are increasingly using Starlink terminals for offensive operations. \"The number of Starlink terminals used by the enemy is gradually increasing each month.",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwdbex/ukrainian_officer_callsign_alex_says_russian/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-14T21:06:23+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "submitted by /u/andrewgrabowski [link] [comments]"
+    },
+    {
+      "keys": [
+        "79e0d824f8ad4d612d47ce280c2d3b2e5bfa948acb49bab2c527dfb04455a466",
+        "94c398c80aa47d7684982f9f1b5eacebf296c20e8be152736ae9732662dd68b9"
+      ],
+      "title": "When Disaster Hit Next Door in Flatbush",
+      "url": "https://www.nytimes.com/2026/11/14/nyregion/flatbush-building-collapse-neighbors.html",
+      "source": "New York Times",
+      "published": "2026-11-14T21:05:51+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "What it felt like when the wall came down in Brooklyn."
+    },
+    {
+      "keys": [
         "0c154dcd4ee5d08df64f8dfc291bff0a5986a3324fe311369f62c0327436bd33",
         "0f4bb78fbe008d21a98b2d0445dfb8d390d61f7d84ee8b31d4036fe81da5f516"
       ],
@@ -528,8 +600,32 @@
     },
     {
       "keys": [
-        "a46e562e2c68b2b81ba47124e3aa9e3b1bffcf2ec1e4abf0c50828db2cf2ba7a",
-        "83a65ba2bfe7a5d37e374748a8cecfc64ff697860dd767b74f9d15a56eb76a98"
+        "e223ad74c722a6b1dd3be3165312183a73b2f7869c5a5ca95467c32dd16515f8",
+        "96f07a11d9a701b5a25485e2220f12d186cce67d78fad36a2142e90fbcde5890"
+      ],
+      "title": "У Києві вже будують понтонні переправи, на відновлення Південного мосту треба 2-3 місяці – міністр",
+      "url": "https://www.pravda.com.ua/news/2026/11/14/8062901/",
+      "source": "Українська правда",
+      "published": "2026-11-14T21:00:00+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "Міністр інфраструктури Микола Калашник заявив, що для повного відновлення руху Південним мостом у Києві необхідно 2-3 місяці, а дві понтонні переправи через Дніпро вже будують. Джерело : Калашник у коментарі журналістам, передають Суспільне та Інтерфакс-Україна Деталі : Міністр зазначив, що Південний міст перебуває у комунальній власності, тому відновлення очікується коштом міського бюджету Києва. Також Калашник повідомив, що понтонні переправи через Дніпро у Києві вже почали будувати. Одна переправа матиме найбільше навантаження – до 130 автомобілів на добу. Всього планується 8 таких переправ. \"Це повноцінні мостові переходи, швидкоспоруджувані, які будуються через річку Дніпро. Основа робиться з опор, і далі викладається проїзна частина\", – сказав міністр. За його словами, два мостові переходи вже будуються. Калашник заявив, що Україна отримує допомогу від США і Японії для переправ. Також розглядається залучення Франції. Міністр також розповів, що проєкт тунелю під Дніпром у столиці може вартувати від 500 мільйонів євро. \"До нас звернулась компанія-посередник з такою ініціативою. Це неодмінно треба робити. Якщо ми почнемо сьогодні, то років через три закінчимо, через три почнемо – через шість закінчимо. Варто починати вже зараз\", – прокоментував він пропозицію компанії Robbins прокласти тунель під Дніпром у столиці. Передісторія : Після російської ракетної атаки в ніч проти 27 жовтня Південний міст зазнав пошкоджень, через що рух транспорту на ньому тимчасово обмежили. 30 жовтня у Києві Південним мостом відновили рух в обох напрямках однією смугою. 6 листопада на Південному мосту відкрили другу смугу руху з лівого на правий берег. У напрямку з правого на лівий берег рух, як і раніше, здійснюється однією смугою. Мер Києва Віталій Кличко повідомив , що у Києві будуватимуть переправи через Дніпро, а фахівці профільних установ тим часом напрацьовують додаткові технічні рішення щодо збереження конструкцій мостових переходів через Дніпро."
+    },
+    {
+      "keys": [
+        "456c704fe71e8f041ffd1ac283216c04664c0a259b8ea368b050d6392661bf39",
+        "d40770446bff1153316d05a63908c605a8a5a1a1ab3fbd02269482f3b9d32bd1"
+      ],
+      "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
+      "url": "https://kyivindependent.com/tsikhanouskaya-ally-condemns-belarusian-athlete-for-insulting-ukrainian-opponent-complacency-in-russias-war/",
+      "source": "The Kyiv Independent",
+      "published": "2026-11-14T20:56:11+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "\"She should be banned from all WTA-sanctioned tournaments... This is the only proportionate response to such behaviour. She is a disgrace to the Belarusian people,\" Latushka said."
+    },
+    {
+      "keys": [
+        "83a65ba2bfe7a5d37e374748a8cecfc64ff697860dd767b74f9d15a56eb76a98",
+        "a46e562e2c68b2b81ba47124e3aa9e3b1bffcf2ec1e4abf0c50828db2cf2ba7a"
       ],
       "title": "На фронті відбулося 54 зіткнення за день – Генштаб",
       "url": "https://www.pravda.com.ua/news/2026/11/14/8062900/",
@@ -564,8 +660,8 @@
     },
     {
       "keys": [
-        "f9ab487ccdfa76b8be5daa450e3d7193e2e64151e2f2fae9c95b288b3f5ff33a",
-        "b85dbad8d11916eb7cfa208ba5d958391c1ed2d3b247ce8d771e76c4a2a28250"
+        "b85dbad8d11916eb7cfa208ba5d958391c1ed2d3b247ce8d771e76c4a2a28250",
+        "f9ab487ccdfa76b8be5daa450e3d7193e2e64151e2f2fae9c95b288b3f5ff33a"
       ],
       "title": "Gaza: Humanitäre Lage verschärft sich, politische Lösung bleibt aus",
       "url": "https://www.dw.com/de/gaza-humanitäre-lage-verschärft-sich-politische-lösung-bleibt-aus/a-79946973?maca=de-rss-de-top-1016-xml-atom",
@@ -573,6 +669,18 @@
       "published": "2026-11-14T20:23:00+00:00",
       "discovered": "2026-11-14T20:43:49.878305+00:00",
       "excerpt": "Heftige Regenfälle haben in Gaza Tausende Zelte überflutet, mehrere Menschen starben. Kann Trumps Friedensgremium mit Druck auf Israel und die Hamas die humanitäre Not lindern?"
+    },
+    {
+      "keys": [
+        "849a957b52a18fe8e202ce77a16ea805b517aa05a55e779acd50a379de927f04",
+        "5e4d55578f964393cbd4770d73bb6e75d55a177a532381788f950a9b3c5bc883"
+      ],
+      "title": "How Some Flights Were Exempt From the Ground Stop",
+      "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+      "source": "New York Times",
+      "published": "2026-11-14T20:21:13+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "Despite widespread cancellations across the country on Friday, some flights were able to depart."
     },
     {
       "keys": [
@@ -588,8 +696,8 @@
     },
     {
       "keys": [
-        "b898f638a9db28eaf28c532dbf81708bc6ea1873d20d9f1d70622daa29143371",
-        "a2e89c6e5303ba3af47f901ed907fcb8d45274af80d61b4b70d3a75152e9ca2b"
+        "a2e89c6e5303ba3af47f901ed907fcb8d45274af80d61b4b70d3a75152e9ca2b",
+        "b898f638a9db28eaf28c532dbf81708bc6ea1873d20d9f1d70622daa29143371"
       ],
       "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
       "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
@@ -612,8 +720,8 @@
     },
     {
       "keys": [
-        "dabdf4eb19e56a6e155ab83250efcde809271aa0dd77640ad41bc4c475f51c54",
-        "549b0c4f31fb96354037ef03d0f394fea676def9425e9d26ee0d45dbdd63b207"
+        "549b0c4f31fb96354037ef03d0f394fea676def9425e9d26ee0d45dbdd63b207",
+        "dabdf4eb19e56a6e155ab83250efcde809271aa0dd77640ad41bc4c475f51c54"
       ],
       "title": "Трасу Київ - Харків перекрили в обох напрямках через масштабну ДТП біля Яготина",
       "url": "https://www.rbc.ua/rus/news/trasu-kiyiv-harkiv-perekrili-oboh-napryamkah-1794686741.html",
@@ -669,6 +777,18 @@
       "published": "2026-11-14T19:27:13+00:00",
       "discovered": "2026-11-14T19:56:20.637923+00:00",
       "excerpt": "У ДСНС додають, що всі пожежі ліквідували, попри загрозу повторних ударів"
+    },
+    {
+      "keys": [
+        "6275c56921d255911f82ca05cf1d790801111086674430b276ec3345585b6310",
+        "b113efe10381e71201c879cde90f3f51a966e653488c75d7f80c5a3fa6d4e5e2"
+      ],
+      "title": "In the Rubble of a Fallen Building, He Rescued a 2-Year-Old",
+      "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-boy-rescue.html",
+      "source": "New York Times",
+      "published": "2026-11-14T19:24:17+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "Miguel Tigsilema, a construction worker, was looking for survivors in the horrific aftermath of a collapse in Brooklyn. He saw a small boy."
     },
     {
       "keys": [
@@ -792,8 +912,8 @@
     },
     {
       "keys": [
-        "892eaa2e98c8d04e1495edaad1a769c107cdd888a58b2c8cd6c70d42a9a313d0",
-        "0c0805bd1f613dbcaa48ef83f6f5625217e5562d232563d8a210266d88aefcad"
+        "0c0805bd1f613dbcaa48ef83f6f5625217e5562d232563d8a210266d88aefcad",
+        "892eaa2e98c8d04e1495edaad1a769c107cdd888a58b2c8cd6c70d42a9a313d0"
       ],
       "title": "Tech Leaders Rally Behind Jensen Huang",
       "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
@@ -804,8 +924,8 @@
     },
     {
       "keys": [
-        "9dc90f2761c1d9e86223447626367ee3958bc5bb205cb920abaa41cefa826815",
-        "4e7ac7dcb0566294436af2d28efe298659b138d5a621cfb40557046725d55c6f"
+        "4e7ac7dcb0566294436af2d28efe298659b138d5a621cfb40557046725d55c6f",
+        "9dc90f2761c1d9e86223447626367ee3958bc5bb205cb920abaa41cefa826815"
       ],
       "title": "How muscovy avoids its own war (SMO they themselves started)",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw9k65/how_muscovy_avoids_its_own_war_smo_they/",
@@ -909,6 +1029,18 @@
       "published": "2026-11-14T17:46:56+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "Travelers at George Bush Intercontinental Airport in Houston on Saturday, the day after a nationwide ground stop snarled air travel."
+    },
+    {
+      "keys": [
+        "dcc3ef86bf9dc2edac7cf5a3199cd5ea009e0d2e6ceb455b878539d1923c6c70",
+        "0ae332e34ad6ce3c80f9d26b0660e64b48bc837eb90eb8c7cf95ab10da6a677f"
+      ],
+      "title": "As Demandas da Rússia Para encerrar a Guerra na Ucrânia!",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xw8eo8/as_demandas_da_rússia_para_encerrar_a_guerra_na/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-14T17:43:02+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "submitted by /u/Prudent-List-9521 [link] [comments]"
     },
     {
       "keys": [
@@ -1329,6 +1461,18 @@
       "published": "2026-11-14T14:55:08+00:00",
       "discovered": "2026-11-14T19:11:25.678483+00:00",
       "excerpt": "Рада безпеки РФ на закритому засіданні нібито ухвалила рішення зняти негласну заборону на фізичну ліквідацію президента України Володимира Зеленського та керівництва Генштабу ЗСУ. Про це повідомляє РБК-Україна з посиланням на російське видання МК. За даними російських джерел, під час закритої наради силовики вимагали відмовитися від колишніх домовленостей не чіпати українське керівництво. Приводом для цього назвали тривалі атаки безпілотників на Ленінградську область, зокрема на порт Усть-Луга. Учасники засідання визнали безперспективною стратегію пасивної оборони. На їхню думку, навіть виділені кошти не дозволяють захистити всю територію від дронів, а удари у відповідь по українських мостах та енергетиці не зупиняють атаки на російські підприємства. Через це силовий блок нібито запропонував перейти до точкового знищення тих, хто віддає накази, мотивуючи це також неможливістю домовитися з Києвом за нинішньої влади. Російські джерела стверджують, що спецслужби та авіація можуть отримати дозвіл на використання важкого гіперзвукового озброєння проти бункерів і кортежів українського керівництва. Для руйнування заглиблених укриттів пропонують застосовувати тритонні плануючі бомби ФАБ-3000 та балістичні ракети \"Іскандер\". Нагадаємо, що Росія включила до складу своєї делегації на тристоронніх переговорах в Абу-Дабі керівника департаменту контррозвідувальних операцій ФСБ Дмитра Мінаєва. Цю структуру раніше пов'язували зі спробою вбивства начальника Головного управління розвідки Кирила Буданова ще у 2019 році. Крім того, російська спецслужба раніше відзначилася гучним скандалом та фейком про затримання нібито \"польських шпигунів\", під час якого опублікувала матеріали з численними граматичними помилками."
+    },
+    {
+      "keys": [
+        "650c73a5b9c29e19abf608796e448d239ca927b5c1f2f3d0856e2361b0fc47a7",
+        "06e1e370ee54c0de17a24f0eb0d61bd9b3f3dcb0e8dc46ab4efece3ea5f5f25c"
+      ],
+      "title": "Brooklyn Building Collapse Tragedy Devastates Immigrant Families",
+      "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
+      "source": "New York Times",
+      "published": "2026-11-14T14:48:52+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "Brenda Vasquez, 25, lost her husband, Edgar Santiago Sapón Gutierrez, 26, when an apartment building collapsed onto a Brooklyn construction site."
     },
     {
       "keys": [
@@ -2496,6 +2640,18 @@
     },
     {
       "keys": [
+        "a2fbc15f3ab7bcd166b5e975ad7146f184d9f3ef8a51706b1a4e99473bf5e913",
+        "0ce27e69bc7a0735690fc5b903003e4d396ec0e79998410fc5a88216d33e9f39"
+      ],
+      "title": "Mississippi River cruise crash has no fatalities, critical injuries",
+      "url": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
+      "source": "Axios",
+      "published": "2026-11-14T01:17:59+00:00",
+      "discovered": "2026-11-14T21:29:43.905644+00:00",
+      "excerpt": "Thirty-two people are in local hospitals and all passengers and crew are accounted for after a tanker collided with a Mississippi River cruise ship near the Port of New Orleans , officials said Friday. The big picture: With approximately 180 people on the ship, the rescue of all aboard is \"truly is a miracle on the Mississippi,\" New Orleans Mayor Helena Moreno said at a press conference. What they're saying: While the investigation remains ongoing, officials said the Atlantic Asphalt tanker appeared to have lost control, causing it to collide with the cruise ship. As passengers were disembarking after the collision, the cruise ship began to sink and eventually toppled over and flipped — leaving people in the cold water. The first 87 passengers got off while the ship was still afloat, Harbor Police Chief Melanie Montroll said. She added it \"was normal conditions\" on the river and that there wasn't a high current. \"I've never been prouder of a group of people than those people that came off of that boat,\" Louisiana Gov. Jeff Landry said. Catch up quick: The American Heritage, a vessel operated by American Cruise Lines, had docked for passengers to disembark at the port Friday afternoon about two hours before it was hit, according to a press release from the Port of New Orleans. A city spokesman confirmed to Axios that the riverboat had rolled onto its side in the water, which social media videos appear to corroborate. Zoom out: The Atlantic Asphalt tanker is registered in the Marshall Islands, and had arrived at the Port of New Orleans on Nov. 11. Per data from myshiptracking.com, the tanker began its current journey in Paulsboro, New Jersey, in late October. Zoom in: The tanker was immobilized on the river Friday at about 2pm CT, with two tugs positioned on either side. Another dozen vessels were in the water nearby as a helicopter roamed overhead and sirens rang out over the water. Editor's note: This is a breaking news story and will be updated."
+    },
+    {
+      "keys": [
         "174d2c674e14f77d02f0fae49c2aa17d6353ae1d89d9ed474e8a7940b518a957",
         "c01e7b7a07d1fafc117acc16ebc367818e67c873b144ce2f819513d79664a577"
       ],
@@ -2660,232 +2816,6 @@
       "published": "2026-11-13T21:31:49+00:00",
       "discovered": "2026-11-13T22:37:29.786158+00:00",
       "excerpt": "They helped the G.O.P. avoid more House midterm losses — on top of the advantage they already have from gerrymandering."
-    },
-    {
-      "keys": [
-        "9d534c6068e16cc6c0c56f467ec7a7ad0da0334ae4a6e10b35dd8dc801a85323",
-        "ae55f21245af91a5cd64fbb64f3a32366443f418449f4bd7a8a7ce443adb4324"
-      ],
-      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-      "source": "New York Times",
-      "published": "2026-11-13T21:28:58+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "Microsoft acknowledged that about 20 different services were impaired by the outage."
-    },
-    {
-      "keys": [
-        "6c64fb3c9c215183a7992e863ca64904ccc8cc8eed651ea040b519d88b903b66",
-        "b10ce9e97412d2eb7c129d59019f26e3f7806a95e94fd4311cdd83e7ffcb5167"
-      ],
-      "title": "У справі ексміністра уряду Орбана знайшли мільйони готівки, частину – закопану у лісі",
-      "url": "https://www.pravda.com.ua/news/2026/11/13/8062811/",
-      "source": "Українська правда",
-      "published": "2026-11-13T21:28:00+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": ""
-    },
-    {
-      "keys": [
-        "33ff7053e0d73f0d672f06dbe4327a59168b1d030d3cded73272be9c6739bba1",
-        "f8926f4f13848a0ad9561936d99bd69fecbb3573edd5551127249e55f6f7d271"
-      ],
-      "title": "ДСНС повідомляє про трьох поранених через удари Росії по Сумщині",
-      "url": "https://www.radiosvoboda.org/a/news-dsns-troie-poranenyh-udary-rosii-sumshchyna/33898260.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-13T21:25:40+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "Ударів зазнали житловий сектор, нежитлові приміщення, цивільний транспорт та об’єкти інфраструктури"
-    },
-    {
-      "keys": [
-        "1628213b17c76ed5266fe5bcf69fbadcf963349f8f7d8434ffdcc4ff1189308a",
-        "9bdcdbc1bc2cdddb768039f6230f533dbcd3a763cd109da9cbe0a550d1cf3d06"
-      ],
-      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvk7tw/ireland_faces_pressure_to_stop_sending_russia_an/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T21:24:53+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "submitted by /u/rulepanic [link] [comments]"
-    },
-    {
-      "keys": [
-        "cad9f548ba8506729d89c938569adcfdc083691ecefb338ca0df42f14cf2298a"
-      ],
-      "title": "Lawsuit says Pentagon’s future warfare panel lacks transparency and balance",
-      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/13/lawsuit-says-pentagons-future-warfare-panel-lacks-transparency-and-balance/",
-      "source": "Military Times",
-      "published": "2026-11-13T21:23:29+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "A lawsuit filed earlier this month by three government watchdog groups argues that the Defense Department assembled its Project Meridian task force to study the future of warfare in violation of federal law. According to the complaint , the task force fails to meet requirements under the Federal Advisory Committee Act , or FACA, which include a defined structure and purpose, transparency and public input, and balanced membership. The lawsuit alleges that the Defense Department failed to follow several procedures required under FACA. Among them, the department did not publish a notice in the Federal Register, which would allow the public to review materials and submit comments, or consult the General Services Administration, or GSA, to determine whether the research would serve the public interest. In a statement , Donald K. Sherman, president of Citizens for Responsibility and Ethics in Washington, or CREW, one of the plaintiffs, said FACA “sets clear requirements about transparency and avoiding conflicts of interest.” He argued that the Defense Department must either comply with those requirements or disband the project. When Defense Secretary Pete Hegseth announced Project Meridian in September, he named Elon Musk and Palmer Luckey , both owners of defense companies, and conservative politician Newt Gingrich as its directors. Nineteen others were also appointed to participate , most of whom have financial ties to the defense industry or are political allies of the administration. According to the complaint, Musk’s SpaceX holds approximately $8 billion in defense contracts, while Luckey’s Anduril Industries holds approximately $25 billion. Other participants include executives from software and AI company Oracle, autonomous shipbuilder Saronic Technologies , manufacturer Hadrian Automation and humanoid robotics company Agility Robotics, as well as investors in other defense companies. The lawsuit also challenges the qualifications of participants without direct fin"
-    },
-    {
-      "keys": [
-        "5bd80bbf2c5b00eef36992c36b94b8f99ae781db4f30b60c7084dc1ccfe17bf9",
-        "e29cc6b37daaa057c855eac625415cfb3bf3ecc74c0c282295558613c7c0a821"
-      ],
-      "title": "European leaders agree on joint team for Ukraine peace negotiations, Costa says",
-      "url": "https://kyivindependent.com/european-leaders-agree-on-joint-team-for-ukraine-peace-negotiations-costa-says/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-13T21:22:32+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "\"Only Ukraine has the legitimacy to decide on matters concerning its territory and sovereignty,\" European Council President Antonio Costa said on Nov. 13."
-    },
-    {
-      "keys": [
-        "2b5787147d04dcb97dd01a56248e1393076dd0298b9b1894574dd87556f4f280",
-        "aebf58f82cea30c12a21e9801b0e3bc61569adb55c8d781698b12a845403341f"
-      ],
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "published": "2026-11-13T21:20:47+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments"
-    },
-    {
-      "keys": [
-        "09fb9fe7572b9fd711dd9dbb039c310f7b917e6af208693f182d21c08037a606",
-        "4c2a7ae05dcf4dce5e0a55bcaf360632c08fdbe5c5db9b5edc7f514f280a6454"
-      ],
-      "title": "Ground stop ordered for all airports nationwide for ‘reasons of safety’",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvk1oh/ground_stop_ordered_for_all_airports_nationwide/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-13T21:18:11+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "submitted by /u/Unhappy_Week_5924 [link] [comments]"
-    },
-    {
-      "keys": [
-        "4012fa28bdc43140c03567dee66dc095463dabf8acda3758977387b3cbf3c3b0",
-        "c697126d2c182ca28dc90c215497d9733fb0142dbe1f8e00c4d4f2a9a5aac912"
-      ],
-      "title": "Підготовка до зими та енергетична стійкість: Зеленський зустрівся з мерами",
-      "url": "https://www.rbc.ua/rus/news/pidgotovka-zimi-ta-energetichna-stiykist-1794604482.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-13T21:14:42+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "Україна готується до зими на тлі російських ударів по критичній та транспортній інфраструктурі. Особливо важливою є координація дій з цього приводу місцевої влади і органів управління державою вищого рівня. Про це заявив президент України Володимир Зеленський у Telegram, повідомляє РБК-Україна. Зеленський зустрівся з мерами Президент провів першу подібну зустріч з міськими головами різних українських міст: Харкова, Дніпра, Ужгорода, Івано-Франківська, Чернівців, Черкас, Миколаєва, Вінниці. \"Також були виконувачі обовʼязків міських голів Одеси, Запоріжжя, Луцька, Рівного, виконавчий директор Асоціації міст України та президентка Української асоціації районних та обласних рад, голова Харківської обласної ради\", - каже Зеленський. За словами президента, це була перша зустріч у такому форматі діалогу, тепер ці заходи будуть регулярними. Підготовка до зими Зеленський зауважив, що пріоритетом є підготовка міст і громад до зимового періоду. \"Енергетика, захист неба, внутрішні безпекові загрози, стійкість зв’язку та допомога нашим людям - усе це потрібно захищати, відновлювати, забезпечувати. Відверто обговорили всі виклики, які є і які можуть бути\", - каже він. Мери обговорювали з главою держави реакцію на ці виклики на центральному рівні, на рівні обласної та місцевої влади. \"Ключове - щоб з кожного регіону та міста оперативно надходила реальна інформація по тому, що відбувається на місцях, і були відповідні рішення\", - зазначив президент. Також на зустрічі обговорили: пошук механізмів допомоги людям, які можуть опинитись у складних обставинах протягом зими, бюджетну спроможність громад. \"Головне - працювати спільно, щоб були реальні результати для українського суспільства та нашої держави. Дякую кожному, хто саме так діє\", - зазначив Зеленський. Раніше РБК-Україна писало, що відновлення після російських ударів у Сумській та Київській областях надто повільне, каже Зеленський. За його словами, вже визначили, як виправити ситуацію. Крім того, внаслідок нічної атаки Росії по"
-    },
-    {
-      "keys": [
-        "4842599ee64329aeaed5d4c3511e9db97e2395a63f2b8b33e942b76a859298d5",
-        "99c467bc506ba4b621183b2c2e1085cee0efa572fe8d44b6fae09becc5f2654b"
-      ],
-      "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-      "source": "News : NPR",
-      "published": "2026-11-13T21:06:09+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it."
-    },
-    {
-      "keys": [
-        "cc27282dea2e130bf6e259c8dbc5d412ec0dc28963e2eb69728cd221bdaf6594",
-        "ecc9a46ce462e4b02c5f9f4b175356825068ac8d3cd90333a269e9218566d2bf"
-      ],
-      "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-      "source": "News : NPR",
-      "published": "2026-11-13T21:06:05+00:00",
-      "discovered": "2026-11-13T23:30:04.237317+00:00",
-      "excerpt": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes."
-    },
-    {
-      "keys": [
-        "3029c2a1da496f1ed5b937dc54e263cab974dc67b829c7e71bc05154d518c0bb",
-        "f423edb51c56bde332ba5105d2dd0c702ead35a7d9bb5bf1f1ed61370b86bc36"
-      ],
-      "title": "Естонія не допустить спортсменів із Білорусі й РФ для участі в змаганнях на своїй території",
-      "url": "https://www.radiosvoboda.org/a/news-estonia-ne-dopustyt-sportsmeniv-z-bilorusi-i-rosii-dlia-zmahan/33898256.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-13T21:03:11+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "«Дозвіл російським та білоруським спортсменам виступати тут дав би можливість використати міжнародне висвітлення з пропагандистською метою»"
-    },
-    {
-      "keys": [
-        "495a5cee55df24e59932f2a7cf613e11631460bcaaf0260e14f97ed83dd3d564",
-        "581ea2144ac0f90ed6b1f7ef52a559f5fd79b94c0657dcaedc3712fafd98d6bb"
-      ],
-      "title": "На війні загинули троє захисників з Івано-Франківщини",
-      "url": "https://if.informator.ua/2026/11/13/na-vijni-zagynuly-troye-zahysnykiv-z-ivano-frankivshhyny/",
-      "source": "Інформатор Івано-Франківськ",
-      "published": "2026-11-13T21:00:49+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "Прикарпаття втратило трьох захисників. Попрощаються з Володимиром Цінівським, помер Роман Бойчук. Та також майже два роки вважався безвісті зниклим Володимир Паламар. Пише Інформатор Івано-Франківськ. У Солотвинській громаді попрощаються з 49-річним військовослужбовцем Володимиром Цінівським Про це повідомили на Facebook-сторінці Солотвинської селищної ради. 14 листопада у Солотвинській громаді на Івано-Франківщині відбудеться похорон військовослужбовця Володимира Цінівського. Боєць помер […]"
-    },
-    {
-      "keys": [
-        "35728c0582027b9b6c8d89e4739e1a642ed34655f3a597bd85974ab4ce0a620f"
-      ],
-      "title": "Fair winds, peacoat and desert camo: Navy makes big changes to seabag",
-      "url": "https://www.militarytimes.com/news/your-military/2026/11/13/fair-winds-peacoat-and-desert-camo-navy-makes-big-changes-to-seabag/",
-      "source": "Military Times",
-      "published": "2026-11-13T20:54:41+00:00",
-      "discovered": "2026-11-13T20:54:52.676818+00:00",
-      "excerpt": "At the conclusion of a months-long review, the Navy is streamlining the seabag of uniforms issued to new sailors and rolling out the much-anticipated new PT gear. According to a Navy Administrative message published on X, the service is phasing out its iconic double-breasted wool reefer/peacoat, which has been an optional uniform item since 2018. It will no longer be authorized for wear after Oct. 1, 2027. Also on borrowed time is the Navy’s rugged acrylic V-neck sweater, which is also an optional item and will see the end of authorized use next October. The wool V-neck sweater, the message adds, will continue to be authorized both afloat and ashore. The Navy Working Uniform Type II, the Navy’s desert digital camo working uniform, is coming to a faster phaseout. Its authorized wear will terminate at the end of November. The final item departing the seabag is the Navy’s dinner dress white jacket, a formal summer item meant to be worn with a cummerbund. After authorized wear of the jacket terminates on Oct. 1, 2027, the dinner dress blue jacket — essentially the same item, except for color — will be standard for formal wear year-round. The dinner dress blue jacket, the message notes, is a mandatory uniform item for officers in the ranks O-5 and above, and optional for the enlisted ranks and for officers through O-4. As those items are being retired, a new item will be added next October: the improved physical training uniform, or IPTU, with gender-specific sizing and an all-blue color scheme. Currently an optional item, it will now replace the unpopular gold T-shirt and blue shorts PT combo. Military Times first broke the news in February that the Navy was moving forward with scaling down to a single option for PT. “By 2027, it will be one PT uniform,” Rear Adm. Jennifer Couture, the Navy’s director of Personnel Plans and Policy, said in an interview at the time. “That makes sense. And it is also higher-quality. It is more in line with, if you were to go to a running "
-    },
-    {
-      "keys": [
-        "1683f6fc763754d232ea2be351b5e9baeb1ed7108ed02c4b5a26671ac4e90527",
-        "f5807284156253147a8181846cbb9af50aaeb9801a0358f25f2f5382ded40553"
-      ],
-      "title": "Зеленський провів нараду з мерами про підготовку до зими: тепер обіцяє регулярні зустрічі",
-      "url": "https://www.pravda.com.ua/news/2026/11/13/8062809/",
-      "source": "Українська правда",
-      "published": "2026-11-13T20:53:00+00:00",
-      "discovered": "2026-11-13T21:26:22.833124+00:00",
-      "excerpt": "Президент України Володимир Зеленський 13 листопада провів зустріч з мерами різних українських міст про підготовку до зимового періоду. Джерело : повідомлення Зеленського у соцмережах Пряма мова : \"Зустрівся з міськими головами різних українських міст – з усіх частин України, – Харкова, Дніпра, Ужгорода, Івано-Франківська, Чернівців, Черкас, Миколаєва, Вінниці, були виконувачі обовʼязків міських голів Одеси, Запоріжжя, Луцька, Рівного, також виконавчий директор Асоціації міст України та президентка Української асоціації районних та обласних рад, голова Харківської обласної ради. Зустрівся з міськими головами різних українських міст – з усіх частин України, – Харкова, Дніпра, Ужгорода, Івано-Франківська, Чернівців, Черкас, Миколаєва, Вінниці, були виконувачі обовʼязків міських голів Одеси, Запоріжжя, Луцька, Рівного, також виконавчий директор Асоціації… pic.twitter.com/TqVjktHC6X https://x.com/ZelenskyyUa/status/2121342765124485383?ref_src=twsrc%5Etfw Був присутній і Премʼєр-міністр Сергій Корецький. Це була перша зустріч у такому форматі діалогу, тепер це буде регулярно. Підготовка міст і громад до зимового періоду – пріоритет\". Деталі : На зустрічі обговорили енергетику, захист неба, внутрішні безпекові загрози, стійкість зв'язку та допомогу людям. фото: з соцмережі Х Зеленського Пряма мова : \"Говорили про те, як будемо реагувати на центральному рівні, на рівні обласної та місцевої влади. Ключове – щоб з кожного регіону та міста оперативно надходила реальна інформація по тому, що відбувається на місцях, і були відповідні рішення. Обговорили також пошук механізмів допомоги людям, які можуть опинитись у складних обставинах протягом зими. Важливо також зберегти й бюджетну спроможність громад\"."
-    },
-    {
-      "keys": [
-        "e8f1a28370ebd204542c2ee362edd91e0df5169d13c69ef43919b76cfc22e199",
-        "1534c57bcaf39d026d50b675d5cb1db06faa11a975879a84b692e098db1b29d8"
-      ],
-      "title": "US military responds to 'suspected unauthorised drone activity' at UK air base",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xvjd2k/us_military_responds_to_suspected_unauthorised/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-13T20:51:34+00:00",
-      "discovered": "2026-11-13T22:37:29.786158+00:00",
-      "excerpt": "submitted by /u/Depressed_Cat_00 [link] [comments]"
-    },
-    {
-      "keys": [
-        "075003f8a697805cc72284e2b798fac6ed3959bda3d1c9afe5ff9dc3bfab294a",
-        "9eb445f78eb2a22748dfc23a7e314b9287afa0cf104589c85bfa1d84f614ccf0"
-      ],
-      "title": "The foreign influencers helping Russia sell its occupation",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvjca2/the_foreign_influencers_helping_russia_sell_its/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T20:50:42+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "submitted by /u/rulepanic [link] [comments]"
-    },
-    {
-      "keys": [
-        "79246215207ed23a3c05239529bb75345deffac8c042feb94eb337a83d0b302e",
-        "f2eb43932fa6f2d9bcf5fd875ce8262f9cf393d36d5776e2101922e529ca970f"
-      ],
-      "title": "Ukrainian Armed Forces Step Up Use of Neptune Missiles, This Time Striking Drone Production Facilities in Rostov",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvj9eu/ukrainian_armed_forces_step_up_use_of_neptune/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T20:47:39+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "submitted by /u/rulepanic [link] [comments]"
-    },
-    {
-      "keys": [
-        "ae3433aaa335111fab35426ac47afdac6cef3a32c2328a4bbddad846ae5016ce",
-        "f973036d18b4accbcccc7d6c196d137f683e8886ac1d5267e004df1502d2dbbb"
-      ],
-      "title": "Zelenskys motorcade was not struck by eggs from pro Palestinian supporters in Dublin. Someone in the car got sick out the window. Be careful of the narrative people try to push!",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xvj897/zelenskys_motorcade_was_not_struck_by_eggs_from/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-13T20:46:21+00:00",
-      "discovered": "2026-11-13T21:59:17.170229+00:00",
-      "excerpt": "submitted by /u/_Druss_ [link] [comments]"
     }
   ],
   "history": [
@@ -4487,5 +4417,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-14T20:43:49.878305+00:00"
+  "last_checked": "2026-11-14T21:29:43.905644+00:00"
 }
