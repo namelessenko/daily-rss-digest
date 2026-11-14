@@ -516,6 +516,30 @@
   "pending": [
     {
       "keys": [
+        "44d2e4dfa2d5cfa2c80f94b275d528b6b702c8d721a1d4a5aa274a14c4690e11",
+        "11778c4d1bd920cbd9e605467f4978ad36816d5afa3793352b2808b77239ea8a"
+      ],
+      "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "source": "New York Times",
+      "published": "2026-11-14T22:47:58+00:00",
+      "discovered": "2026-11-14T22:58:08.577597+00:00",
+      "excerpt": "Jensen Huang stepped down as chief executive of Nvidia on Thursday."
+    },
+    {
+      "keys": [
+        "b6ac150eabd7107210cae9eacc4f24fefda992d04cd939be1f675eca18cbaa20",
+        "c6a0685df7af994a4af9bb53b809f69846f3676b7e3f3337c8a6c6e99799a9c2"
+      ],
+      "title": "Росіяни 8 разів атакували Запоріжжя: пошкодили житловий будинок і травмували 5 людей",
+      "url": "https://www.pravda.com.ua/news/2026/11/15/8062905/",
+      "source": "Українська правда",
+      "published": "2026-11-14T22:30:00+00:00",
+      "discovered": "2026-11-14T22:58:08.577597+00:00",
+      "excerpt": "Увечері 14 листопада росіяни пошкодили багатоквартирний будинок у Запоріжжі, внаслідок чого почалася пожежа та постраждали 5 людей. Джерело: т.в.о. голови Запорізької ОВА Михайло Семікін Пряма мова: \"Ворог завдав 8 ударів по Запоріжжю. Внаслідок атаки пошкоджено скління багатоквартирного житлового будинку та припарковані автомобілі. На місці влучання виникла пожежа\". Фото: Запорізька ОВА Деталі: Попередньо, травми дістаои п'ятеро людей. Серед них – 80-річна жінка. Інші місця влучань та наслідки ворожої атаки наразі встановлюються. Фото: Запорізька ОВА Передісторія: Унаслідок російського удару по Вознесенівському району Запоріжжя вдень 14 листопада постраждали 22 людини, серед яких троє дітей."
+    },
+    {
+      "keys": [
         "95a27eeb815dea133f307cff00ca96d4d91f4f024d2a32d7d73eff68ba4e1832",
         "bedaf7c5e476dec962ac597daf85a354ed171a0bdda909400a1b2607818370bb"
       ],
@@ -528,8 +552,20 @@
     },
     {
       "keys": [
-        "976954e62f9268b4c7786b44ae1856c8e4b477c878bc709a0d72030020ac55e2",
-        "70cc84984a54a40a0b06afc58a751de31028920a3258d86ef74b28a79c4def3b"
+        "f9ff637ff3e052005f6feea8ab5d99f4fc7a72dc4dff81b127747daefa879f8a",
+        "e936b5bbb811e2166da437e73523b19472671980a6331af5f9af6e1a9cbaa24e"
+      ],
+      "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xweof3/zelenskyy_accuses_spacex_of_lying_about/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-14T22:07:18+00:00",
+      "discovered": "2026-11-14T22:58:08.577597+00:00",
+      "excerpt": "submitted by /u/Ticklish-Nectarine3 [link] [comments]"
+    },
+    {
+      "keys": [
+        "70cc84984a54a40a0b06afc58a751de31028920a3258d86ef74b28a79c4def3b",
+        "976954e62f9268b4c7786b44ae1856c8e4b477c878bc709a0d72030020ac55e2"
       ],
       "title": "Кушнер про переговори: З'явилися ідеї, які можуть привести до прориву",
       "url": "https://www.pravda.com.ua/news/2026/11/15/8062904/",
@@ -564,8 +600,8 @@
     },
     {
       "keys": [
-        "7b5dadbe08236588c21d8827c2c3994481735838cec84d1add46a4f6eb617b07",
-        "73b65057f1e22ce62a6a6091e5d897495f7565c3efe0f0e43061d2ca55a120da"
+        "73b65057f1e22ce62a6a6091e5d897495f7565c3efe0f0e43061d2ca55a120da",
+        "7b5dadbe08236588c21d8827c2c3994481735838cec84d1add46a4f6eb617b07"
       ],
       "title": "Росія знову атакувала Запоріжжя – Семікін повідомив про п’ятьох поранених",
       "url": "https://www.radiosvoboda.org/a/news-rosia-ataka-na-zaporizhzhia-semikin-piatero-poranenyh/33898712.html",
@@ -576,8 +612,8 @@
     },
     {
       "keys": [
-        "f6c46e237a668efa0014070cf698b3f1cbf553e0a016b002d296fcdc07cbcfda",
-        "38da6eb49d3a7ea24ba5a2e755a60a3f6de8cda81490c8c47a971642db0c3c12"
+        "38da6eb49d3a7ea24ba5a2e755a60a3f6de8cda81490c8c47a971642db0c3c12",
+        "f6c46e237a668efa0014070cf698b3f1cbf553e0a016b002d296fcdc07cbcfda"
       ],
       "title": "SpaceX successfully catches Starship and makes history",
       "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
@@ -660,8 +696,8 @@
     },
     {
       "keys": [
-        "aad6d396e667cf52e727fbce83b2fad98a05946bfbd553e5162f58a6c77b79d3",
-        "9c2f20dc5f8db98b8ec159320dfbd482b0745de0171c3381b561b8cf2321f763"
+        "9c2f20dc5f8db98b8ec159320dfbd482b0745de0171c3381b561b8cf2321f763",
+        "aad6d396e667cf52e727fbce83b2fad98a05946bfbd553e5162f58a6c77b79d3"
       ],
       "title": "Ukrainian officer callsign 'Alex' says Russian forces are increasingly using Starlink terminals for offensive operations. \"The number of Starlink terminals used by the enemy is gradually increasing each month.",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwdbex/ukrainian_officer_callsign_alex_says_russian/",
@@ -993,6 +1029,18 @@
       "published": "2026-11-14T18:48:32+00:00",
       "discovered": "2026-11-14T22:19:26.333336+00:00",
       "excerpt": "submitted by /u/Not_Tom_Jones [link] [comments]"
+    },
+    {
+      "keys": [
+        "e70a2df48ab418ec69e254f8f69fd5bca78ed24162e4928f6a679ee9fead2736",
+        "c70c3fae0411d10c6504ca59e40a008e70bea93fd20876a0896147872aad431e"
+      ],
+      "title": "Ukraine declines trading Donbas for NATO membership, Zelensky warns Trump",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwa0h3/ukraine_declines_trading_donbas_for_nato/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-14T18:47:17+00:00",
+      "discovered": "2026-11-14T22:58:08.577597+00:00",
+      "excerpt": "submitted by /u/GuiltyInteraction214 [link] [comments]"
     },
     {
       "keys": [
@@ -4634,5 +4682,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-14T22:19:26.333336+00:00"
+  "last_checked": "2026-11-14T22:58:08.577597+00:00"
 }
