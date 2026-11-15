@@ -556,6 +556,54 @@
   "pending": [
     {
       "keys": [
+        "620226a45e65a5308e59d09197a8a1c88317fddaaca1c93a57a7bde3e430d88d",
+        "f2d899d4a8ac28059ae3e6aa1d1926e711a0e19f977ae9067a729d3f47c5dd8c"
+      ],
+      "title": "Російська влада заявила про атаку дронів на Москву",
+      "url": "https://www.pravda.com.ua/news/2026/11/16/8063005/",
+      "source": "Українська правда",
+      "published": "2026-11-15T23:14:00+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "Починаючи з вечора неділі та в ніч на понеділок, 16 листопада, російська влада повідомляла про таку безпілотників на Москву. Джерело : мер Москви Сергій Собянін , Telegram -канал Astra Деталі : О першій ночі Собянін повідомив про 15 нібито збитих дронів, які тримали курс на Москву. З вечора неділі, за даними Собяніна, таких безпілотників було 82. Пізніше мер Москви заявив про ще 17 нібито збитих дронів. Про наслідки атаки Собянін традиційно не повідомляє, але заявляє, що \"фахівці екстрених служб працюють на місці падіння уламків\". Разом з тим губернатор Ярославської області РФ Михайло Євраєв заявив про перекриття руху транспорту на виїзді з Ярославля у бік Москви від перехрестя Московського проспекту з Південно-Західною окружною. За його словами, підрозділи Міністерства оборони РФ та силових відомств \"ведуть роботу з відбиття атаки\". Що передувало : Влада Москви 29 жовтня повідомлялапро атаку понад 600 безпілотників на столицю Росії та Підмосков'я."
+    },
+    {
+      "keys": [
+        "f5f2abd751cf0a41288459f127be91dec6009dc7b7b58459ab9d90ab12123c21",
+        "41f698bbeb3b02838b37a7c7308ed9cb93842096d6235a934a4d4eee1a8d0aa0"
+      ],
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "published": "2026-11-15T23:11:54+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "United Launch Alliance's Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday, a crushing setback that will ripple across all sectors of the US space industry. The Vulcan rocket is on contract to launch roughly half of the US military's national security space missions in the next few years, and Sunday's mission was the first of 38 Vulcan launches booked by Amazon to build out its network of broadband Internet satellites aimed at competing with SpaceX's Starlink. Sunday's failure is expected to ground the rocket for an indefinite period of time. Vulcan is no stranger to close calls, having overcome failures with its strap-on solid rocket boosters on two of its four previous flights. In each case, the rocket corrected for those problems and continued into orbit to deploy its payloads. The incidents trigged months-long reviews and investigations before ULA could resume Vulcan flights. Read full article Comments"
+    },
+    {
+      "keys": [
+        "ad749d7876416ccd7ea5aae56de1905889e7811e06197d14a8e6dc1c04dc1413",
+        "854fb6d79c8fd4a265ab551c8e28d2e1fb34674d219707de04923577bc7fbe89"
+      ],
+      "title": "Dems' Denver victory party previews 2028 battles",
+      "url": "https://www.axios.com/2026/11/15/democrats-denver-celebration-divide",
+      "source": "Axios",
+      "published": "2026-11-15T22:50:05+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "DENVER — Thousands of Democrats gathered here this weekend for a giddy postelection summit, reveling in their party's historic midterm victories and touting the center-left strategy they say powered them. But some progressives saw the event as a lavish, out-of-touch affair bankrolled by billionaires — exactly what Democrats just campaigned against. \"I'm all for celebration, but perhaps a fancy retreat does not exactly meet the tenor of the moment,\" said Josh Orton, president of the liberal group Demand Justice and a veteran of Bernie Sanders' 2020 campaign. Why it matters: The competing views of What's Next, the buzzy confab held by the influential centrist organization Majority Democrats, offer an early glimpse of the ideological battles over health care, money in politics and other issues that will define the party's 2028 presidential primary. Zoom in: Democrats in the Mile High City were practically vibrating with happiness, still not quite able to believe they'd won back both chambers of Congress and flipped deep-red states such as Mississippi and South Carolina. \"The vibes are excellent,\" Delaware Rep. Sarah McBride, a member of the Majority Democrats, said in an interview. \"The last high-water mark, we were all in our houses on Zooms,\" she added, referring to the 2020 presidential election. \"This is the first time there's been an undeniable capacity to celebrate widespread wins in the last decade.\" Free drinks flowed. Political operatives sported bomber jackets embroidered with the phrase \"Majority Democrats.\" Speakers were immortalized in rock concert–style posters on the walls. For a brief moment in Denver's Mission Ballroom, the often-in-disarray Democratic Party looked united. Several presidential hopefuls downplayed the party's divides in speeches. Pennsylvania Gov. Josh Shapiro said onstage that ordinary people don't give \"a damn\" about \"where we fall on some imaginary political spectrum.\" Michigan Sen. Elissa Slotkin quipped in her address that elected "
+    },
+    {
+      "keys": [
+        "e83c0e05a2dcbdd7790ee415f71a39f79a16c9882c08b54f9b59e94b779720f6",
+        "880f6dbfa2ef07a21a58150114bd4847253da73dcd5cd04474cc5c189298f8b8"
+      ],
+      "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+      "source": "News : NPR",
+      "published": "2026-11-15T22:41:22+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth. (Image credit: AP)"
+    },
+    {
+      "keys": [
         "4c04fffe89df75474106466fbbce978f6455205439ca013043d36a44ef8491d3",
         "d5ee241477c018c854a239a92e7db9e803e22e6c99f1e855e28eafd76e572655"
       ],
@@ -568,8 +616,8 @@
     },
     {
       "keys": [
-        "98171549ad4e0f57a67c257ebd6a1c5b46c16cca6f1962d518419d083058413a",
-        "32879b9671fba855bcac74cb856f2bee3df34f627f6e4439aef8ef13916511f5"
+        "32879b9671fba855bcac74cb856f2bee3df34f627f6e4439aef8ef13916511f5",
+        "98171549ad4e0f57a67c257ebd6a1c5b46c16cca6f1962d518419d083058413a"
       ],
       "title": "Vance may wait until late spring to reveal 2028 plans",
       "url": "https://www.axios.com/2026/11/15/vance-2028-campaign-president-announce",
@@ -580,8 +628,8 @@
     },
     {
       "keys": [
-        "fb71e5530ff3dfe1c90dc6a8312a939add01604bbc324214863419ed1ae8d78d",
-        "86aa4319fdacf1c0a29d5b5ddc90b90434e63930bb1ef495175ff53341660c3c"
+        "86aa4319fdacf1c0a29d5b5ddc90b90434e63930bb1ef495175ff53341660c3c",
+        "fb71e5530ff3dfe1c90dc6a8312a939add01604bbc324214863419ed1ae8d78d"
       ],
       "title": "Росіяни вдарили по об’єкту критичної промисловості на Вінниччині",
       "url": "https://www.pravda.com.ua/news/2026/11/16/8063004/",
@@ -592,8 +640,8 @@
     },
     {
       "keys": [
-        "dfff12731483b42eee8b3d9aadcbe01ded07fb2ec5c8b679844b85b59de5dbf6",
-        "774ff237f3b5da532f0b984b3cbf77322c382dfab961efb2b0e410b462f94d5d"
+        "774ff237f3b5da532f0b984b3cbf77322c382dfab961efb2b0e410b462f94d5d",
+        "dfff12731483b42eee8b3d9aadcbe01ded07fb2ec5c8b679844b85b59de5dbf6"
       ],
       "title": "Прем’єр: Готуємо з Євросоюзом наповнення екстреного зимового пакета для України",
       "url": "https://www.pravda.com.ua/news/2026/11/16/8063003/",
@@ -628,8 +676,8 @@
     },
     {
       "keys": [
-        "d6d771e51989d5d59af5476d8be0b863845c5ed502e5f7383b03545c3c9fb078",
-        "6dbf125b9511936015b7865a5c414d6c3992d065f1bf3fb02b59effaa4f1a62a"
+        "6dbf125b9511936015b7865a5c414d6c3992d065f1bf3fb02b59effaa4f1a62a",
+        "d6d771e51989d5d59af5476d8be0b863845c5ed502e5f7383b03545c3c9fb078"
       ],
       "title": "Swap 10 minutes of doomscrolling for a lesson on philosophy, art, or AI for $55.99",
       "url": "https://boingboing.net/2026/11/15/swap-10-minutes-of-doomscrolling-for-a-lesson-on-philosophy-art-or-ai-for-55-99.html",
@@ -652,8 +700,8 @@
     },
     {
       "keys": [
-        "5ed56830d2492eaa332581c87aed4b89978a45148583bf32d1b6b52b9a33b8fb",
-        "27820de2e33a0240666fafb2de4ab9fa71d455573f8b4e41ae4f6e2408a65977"
+        "27820de2e33a0240666fafb2de4ab9fa71d455573f8b4e41ae4f6e2408a65977",
+        "5ed56830d2492eaa332581c87aed4b89978a45148583bf32d1b6b52b9a33b8fb"
       ],
       "title": "Президентка Єврокомісії: Європа братиме активну участь у переговорах і тиснутиме на РФ",
       "url": "https://www.pravda.com.ua/news/2026/11/15/8063001/",
@@ -664,8 +712,8 @@
     },
     {
       "keys": [
-        "e682a3bb6ac8baa64f317adee0e7fd35c5289b627860a29c59fa8c2f9c910f89",
-        "bdbf0327de2cb9ca63fc794d5e5cea1fe46f46e57754ab04a55883b81b167191"
+        "bdbf0327de2cb9ca63fc794d5e5cea1fe46f46e57754ab04a55883b81b167191",
+        "e682a3bb6ac8baa64f317adee0e7fd35c5289b627860a29c59fa8c2f9c910f89"
       ],
       "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
       "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
@@ -685,6 +733,18 @@
       "published": "2026-11-15T21:43:51+00:00",
       "discovered": "2026-11-15T21:49:14.727070+00:00",
       "excerpt": "submitted by /u/neonpurplestar [link] [comments]"
+    },
+    {
+      "keys": [
+        "1957888a8f9d05a0ffece44d0f0a8bdc3fc9a7fdcfbf26418a4fb8806ff11190",
+        "7c56692e6ace966e00c58f7a39b46994ba5e6c028b1416491efe5af787e605aa"
+      ],
+      "title": "Yemeni government force retreats from Bab el-Mandeb strait in major setback in war against Houthis",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xx7mmc/yemeni_government_force_retreats_from_bab/",
+      "source": "rworldnews on Reddit",
+      "published": "2026-11-15T21:42:42+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "submitted by /u/paneuropeanism_ [link] [comments]"
     },
     {
       "keys": [
@@ -724,8 +784,8 @@
     },
     {
       "keys": [
-        "81e972681e9e844582c46ab99cceb3e6e4638d17f77e0f99a4fa6b2e30496c1a",
-        "23063723cb1fd0b80d408e6b31f85c4f3d32181d1f8b899c2f427abff4fe15a8"
+        "23063723cb1fd0b80d408e6b31f85c4f3d32181d1f8b899c2f427abff4fe15a8",
+        "81e972681e9e844582c46ab99cceb3e6e4638d17f77e0f99a4fa6b2e30496c1a"
       ],
       "title": "Prague hosts largest demonstration in Czechia's modern history",
       "url": "https://www.reddit.com/r/worldnews/comments/1xx6sd0/prague_hosts_largest_demonstration_in_czechias/",
@@ -856,8 +916,8 @@
     },
     {
       "keys": [
-        "abd68a0eb8f6ea635ffb063878e6762368bb453e98886281e6232677e12965d0",
-        "38594cf6b36761b30d4a6c515543cd53f58bf1a02534ea36eaf08c8090a5d91e"
+        "38594cf6b36761b30d4a6c515543cd53f58bf1a02534ea36eaf08c8090a5d91e",
+        "abd68a0eb8f6ea635ffb063878e6762368bb453e98886281e6232677e12965d0"
       ],
       "title": "New Microsoft patent proposes using idle GPU power of users",
       "url": "https://www.reddit.com/r/worldnews/comments/1xx5dc3/new_microsoft_patent_proposes_using_idle_gpu/",
@@ -2224,6 +2284,42 @@
     },
     {
       "keys": [
+        "312fae48ce7b260e8c71956c4166bfaf2ecdb19e28b28a976983d2bd0f5641d8",
+        "cbd7f5c5f122c28a87ac9d4da83a66b85b3b9d416f97b9963ee5ec2705e778c5"
+      ],
+      "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
+      "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
+      "source": "New York Times",
+      "published": "2026-11-15T10:01:42+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "Bryan Torres is trying to finish medical school but has met the lifetime limit — $200,000 — for federal student loans for professional students."
+    },
+    {
+      "keys": [
+        "93ae1266e98005e5438f94ff47689d9b041a5efaacc56adf3b6ffd15ae523851",
+        "08d265eda73f291be7cf344bcd7e935d240472639fb8bc467e5e5ded17e07809"
+      ],
+      "title": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
+      "url": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
+      "source": "New York Times",
+      "published": "2026-11-15T10:00:44+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "From left, Adam Driver, Scarlett Johansson and Miles Teller in New York."
+    },
+    {
+      "keys": [
+        "5bc516f4fc4cf09e8aae8ee5f52eafa0503f6b933680aa513966e4c0dca67067",
+        "d2198cfb8f79efe140fa5229be6cc6b91c6a4106d243cc26d684dfff1ad65a60"
+      ],
+      "title": "What It Took for America to Wipe Out Measles",
+      "url": "https://www.nytimes.com/2026/11/15/well/us-measles-elimination.html",
+      "source": "New York Times",
+      "published": "2026-11-15T10:00:29+00:00",
+      "discovered": "2026-11-15T23:22:55.116547+00:00",
+      "excerpt": "Before a measles vaccine became available, nearly all American children were infected with the virus by age 15."
+    },
+    {
+      "keys": [
         "495f32e60e1b803923b0659cdfdcb8c5714b4ce16da19a1a440fbbfacc180e75",
         "806e4377ebe0b712896b38861048633555c9d4c558860c81ed4f480ffb53d2fe"
       ],
@@ -2653,54 +2749,6 @@
       "published": "2026-11-15T00:03:52+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run. (Image credit: Alex Wong)"
-    },
-    {
-      "keys": [
-        "703836ab0e1c94e913a199b2388e140c860e1cbf6f2802d78ce625f6f46cbffb",
-        "98e3596695d94e875308edcd39b4feea5e595ffabfa38eccd8f16f6f62b52189"
-      ],
-      "title": "Putin demands Britain stop defending Europe with nuclear weapons",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwfpmt/putin_demands_britain_stop_defending_europe_with/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-14T22:54:37+00:00",
-      "discovered": "2026-11-15T21:03:28.122170+00:00",
-      "excerpt": "submitted by /u/neonpurplestar [link] [comments]"
-    },
-    {
-      "keys": [
-        "72414d13346c48fc90eadb73eba7c31e7fc4ffe0fb5b2172eea9a57f98d0939e",
-        "f4b085e4a4d77f1c9a6626324224d1b3fae9811922262ca3fc72b790faee0f86"
-      ],
-      "title": "Ukraine’s FREYJA Anti-Ballistic Missile Ready as Denmark Completes Radar Component",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xwfl42/ukraines_freyja_antiballistic_missile_ready_as/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-14T22:48:51+00:00",
-      "discovered": "2026-11-15T19:48:03.995165+00:00",
-      "excerpt": "submitted by /u/pjw724 [link] [comments]"
-    },
-    {
-      "keys": [
-        "08628f2c8e4d18826b8ce142bdefedcac75018f685a0f056947ac6c77483b10f",
-        "c93b22f2e4571610223dc3a3f759763ab0850fac24e599a97bb7ed769f5c5373"
-      ],
-      "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-      "source": "News : NPR",
-      "published": "2026-11-14T22:48:38+00:00",
-      "discovered": "2026-11-15T19:48:03.995165+00:00",
-      "excerpt": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop."
-    },
-    {
-      "keys": [
-        "11778c4d1bd920cbd9e605467f4978ad36816d5afa3793352b2808b77239ea8a",
-        "44d2e4dfa2d5cfa2c80f94b275d528b6b702c8d721a1d4a5aa274a14c4690e11"
-      ],
-      "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-      "source": "New York Times",
-      "published": "2026-11-14T22:47:58+00:00",
-      "discovered": "2026-11-14T22:58:08.577597+00:00",
-      "excerpt": "Jensen Huang stepped down as chief executive of Nvidia on Thursday."
     }
   ],
   "history": [
@@ -4458,5 +4506,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-15T22:46:46.765489+00:00"
+  "last_checked": "2026-11-15T23:22:55.116547+00:00"
 }
