@@ -556,8 +556,56 @@
   "pending": [
     {
       "keys": [
-        "204f7f12bc3bb958ae47a7b55498f50caada0fbd5b5ad8e1036f96a05801008f",
-        "0de5c5a27eeedcb3785336dd0a6d3c8c3846fdfb8a7944da79da1bb19b5a9f30"
+        "0607fa5c9d0884186874cbd4dc2d78ce5f034df5a5f9a5195f927c86853e1bae",
+        "6a2fc1d6429a5fedd2722e9d0c75a20e23c0fc484d9f99409917fd79465d03ca"
+      ],
+      "title": "На фронті відбулося 130 боїв з початку доби – Генштаб ЗСУ",
+      "url": "https://www.radiosvoboda.org/a/news-genshtab-zsu-vechirne-zvedennja/33899103.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-15T20:51:52+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "Російські війська посилюють наступальні дії на напрямках Добропілля та Костянтинівки. Про це йдеться у звіті американського Інституту вивчення війни (ISW)"
+    },
+    {
+      "keys": [
+        "998ca343a0af06ad13beb075c04ee0202d53c2409de0df3bb451ab353468f848",
+        "4aabc08b57fb69ca2382f0d254a83adf5c22a3bab332c602d9aee08e6ea81906"
+      ],
+      "title": "У Бельгії стався вибух на різдвяному ярмарку, п’ятеро людей поранені",
+      "url": "https://www.pravda.com.ua/news/2026/11/15/8062999/",
+      "source": "Українська правда",
+      "published": "2026-11-15T20:40:00+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": ""
+    },
+    {
+      "keys": [
+        "a5dbec10bfa90b152999031d2ea451015d774b2708f971209bd43b1901146121",
+        "be23fe3b0f1c2ff55e9ff495e313b516692969beff6dfcf905a8036dc1641570"
+      ],
+      "title": "«Є інформація про підготовку нових ударів» – Зеленський попередив про загрозу балістики",
+      "url": "https://www.radiosvoboda.org/a/news-zahroza-udaru-rf-zelensky/33899101.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-15T20:28:00+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "Російські військові регулярно з різних видів озброєння – ударними БпЛА, ракетами, КАБами, РСЗВ – атакують українські міста і цивільну інфраструктуру в усіх регіонах України"
+    },
+    {
+      "keys": [
+        "f20f7d2a5942621937fc14af15c024e6521cd4b21529bbc1b45c14ec8c094564",
+        "a705f0baf748271bcd62da2b0fc46d8090b671bc3e5c7568120680c176d8605d"
+      ],
+      "title": "На фронті відбулося 130 боїв, найбільше на Костянтинівському напрямку – Генштаб",
+      "url": "https://www.pravda.com.ua/news/2026/11/15/8062998/",
+      "source": "Українська правда",
+      "published": "2026-11-15T20:22:00+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "Загалом від початку доби на фронті відбулося 130 бойових зіткнень, зокрема на Костянтинівському напрямку відбито 18 російських атак. Джерело : зведення Генштабу ЗСУ станом на 22:00 Деталі : На Північно-Слобожанському та Курському напрямках росіяни завдали двох авіаударів, скинувши чотири КАБ, та здійснили 88 обстрілів позицій українських військ і населених пунктів, два із яких – із застосуванням РСЗВ. На Південно-Слобожанському напрямку противник чотири рази атакував позиції українських підрозділів у районах населених пунктів Зибине та Охрімівка. Два боєзіткнення тривають. Дві спроби загарбників просунутися в бік населених пунктів Ставки та Лиман відбивали на Лиманському напрямку. Триває бій. На Слов'янському напрямку Сили оборони зупинили дві спроби загарбників йти вперед у районі населеного пункту Крива Лука. На Костянтинівському напрямку Сили оборони відбивали 18 ворожих штурмів: у районах населених пунктів Новодмитрівка, Костянтинівка, Довга Балка, Вільне та у бік Молочарки, Кіндратівки, Миколайпілля. Одне боєзіткнення триває. Сім атак здійснив ворог на Покровському напрямку. Окупанти намагалися просунутися неподалік населених пунктів Білицьке, Добропілля, Мирне та в напрямку Сергіївки, Новопавлівки. Один бій триває. На Гуляйпільському напрямку Сили оборони відбили дві ворожі атаки у бік населених пунктів Придорожнє та Єгорівка. На Оріхівському напрямку окупанти безуспішно атакували у бік Павлівки."
+    },
+    {
+      "keys": [
+        "0de5c5a27eeedcb3785336dd0a6d3c8c3846fdfb8a7944da79da1bb19b5a9f30",
+        "204f7f12bc3bb958ae47a7b55498f50caada0fbd5b5ad8e1036f96a05801008f"
       ],
       "title": "Якою Україну задумали творці Народного руху: знахідка з архіву В'ячеслава Брюховецького",
       "url": "https://www.pravda.com.ua/news/2026/11/15/8062997/",
@@ -568,8 +616,8 @@
     },
     {
       "keys": [
-        "ce8c2cdb0b44fd24a7fbedc5c85ef42b154afaf9354622dd579d55846c14d19b",
-        "235b5595a4888e1dcd33db7818dacc96be1eef940d6ca6ddfb68796e00b62beb"
+        "235b5595a4888e1dcd33db7818dacc96be1eef940d6ca6ddfb68796e00b62beb",
+        "ce8c2cdb0b44fd24a7fbedc5c85ef42b154afaf9354622dd579d55846c14d19b"
       ],
       "title": "Estonia to close border with Russia after Moscow-linked sabotage attempt on drone maker",
       "url": "https://kyivindependent.com/estonia-to-close-border-with-russia-after-moscow-linked-sabotage-attempt-on-drone-maker/",
@@ -580,8 +628,8 @@
     },
     {
       "keys": [
-        "fca7a0a096893532b2747b7bfab72350752cbcd932c1b007eb6ed636d18728ef",
-        "2ce92a5da19f5f50b2866787409c2d991b98ff5b438535505d974a25ce94ce0e"
+        "2ce92a5da19f5f50b2866787409c2d991b98ff5b438535505d974a25ce94ce0e",
+        "fca7a0a096893532b2747b7bfab72350752cbcd932c1b007eb6ed636d18728ef"
       ],
       "title": "В'ячеслав Брюховецький: засновник і фемініст. Програма, що лежала в портфелі",
       "url": "https://www.pravda.com.ua/columns/2026/11/15/8062996/",
@@ -616,8 +664,8 @@
     },
     {
       "keys": [
-        "8a3af1eea12b8567e7ad55a4c72abb0490c71664c932ecbfa3075aff6e7ac235",
-        "648a9d64f955cb6320265c7e64e83317545522e0eacd09f48c118c85ce566ae5"
+        "648a9d64f955cb6320265c7e64e83317545522e0eacd09f48c118c85ce566ae5",
+        "8a3af1eea12b8567e7ad55a4c72abb0490c71664c932ecbfa3075aff6e7ac235"
       ],
       "title": "Маріуполь, частина Донецька та інші окуповані міста знеструмлені через бойові дії",
       "url": "https://www.radiosvoboda.org/a/news-donetska-oblast-znestrumlennja/33899100.html",
@@ -637,6 +685,54 @@
       "published": "2026-11-15T19:47:00+00:00",
       "discovered": "2026-11-15T20:24:20.054737+00:00",
       "excerpt": "Президент Володимир Зеленський заявив, що Україна проведе ревізію наявних коаліцій на підтримку України. Джерело : звернення президента Пряма мова : \"Готуємо і ревізію роботи наявних коаліцій на підтримку України: які дійсно виконують свої завдання, а які залишаються пустими, якщо чесно. Будемо наповнювати це. Дякую всім, хто нам допомагає!\". Деталі : Зеленський також повідомив про підготовку зустрічі Коаліції охочих. \"Важлива зустріч, може бути зустріч історична. Можемо визначити на 100% сильну європейську позицію для перемовин. Тристоронній формат – Україна, Америка, Росія – має стати не просто чотиристороннім форматом, але й на порядок сильнішим\", – сказав він. Зеленський також повідомив, що в неділю провів розмови з премʼєр-міністром Норвегії Йонасом Гаром Стьоре та президентом Фінляндії Александром Стуббом та подякував їм за підтримку. \"Обговорили, які є перспективи, дипломатію та підготовку зустрічей в Берліні в рамках Коаліції охочих. Вдячний також за нашу антибалістичну програму FREYJA: робота триває, і система повинна бути. Європейська антибалістика – масова та ефективна – може стати одним з найбільш серйозних наших спільних внесків у наближення миру\", – сказав Зеленський."
+    },
+    {
+      "keys": [
+        "2c807b600be8a676303c59dc40b966605f4f4727947015fb0a9850bbf5d22c53",
+        "9175aa7b1b62107555e072ca400a5c42924288624686123c7a13590c04f610dd"
+      ],
+      "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xx3y56/the_pentagon_ignored_a_warning_about_the_danger/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T19:12:16+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/theatlantic [link] [comments]"
+    },
+    {
+      "keys": [
+        "e7c92b77ef9fac0608dd7a9eaa78060247d6a8af32a8da46c3a047c9e5b7621a",
+        "fc6d3f4461f9160d635031bb4fc2ad0d364990ec94b07d5aa9b29fdb835edf16"
+      ],
+      "title": "Ucrânia Ignora as Linhas Vermelhas!",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xx3vfd/ucrânia_ignora_as_linhas_vermelhas/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T19:09:16+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Prudent-List-9521 [link] [comments]"
+    },
+    {
+      "keys": [
+        "50967b0561ea1c6bbae48b7b7a2ee75bf16a4b1511966a621ab667588190f57f",
+        "267cba4187d27b1de1cb0c1c97997dfbee9d6937c0196cd85ad6aee012affb1a"
+      ],
+      "title": "How russia's Shadow Fleet Actually Operates",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xx3aq9/how_russias_shadow_fleet_actually_operates/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T18:46:18+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/LocalPowerful6651 [link] [comments]"
+    },
+    {
+      "keys": [
+        "26a1829e4890c91e27c08fbc592be3e1995deb29430c77b35d6012f57c3fd84f",
+        "dee24fc347b7a5f0ddbcb2cf43938291ae92c0f47a8c76d89bf58422fc7adf8f"
+      ],
+      "title": "Elon Musk's interference with Starlink appears to have pushed Ukraine to adopt an Israeli satellite communication system to increase the effectiveness of its strikes on ruzzian oil refineries.",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xx2wrh/elon_musks_interference_with_starlink_appears_to/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T18:31:01+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/LocalPowerful6651 [link] [comments]"
     },
     {
       "keys": [
@@ -841,6 +937,18 @@
       "published": "2026-11-15T17:04:53+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "Раніше 15 листопада Радіо Свобода інформувало, що в Естонії затримали вісьмох громадян Латвії за підозрою в спробі підпалу підприємства Threod Systems, яке виробляє безпілотники"
+    },
+    {
+      "keys": [
+        "e2ef07f646e6aea1c1debb12fa8b10953993ed6fec51169f5b2acd4d14dec49c",
+        "7f8233874cb496b781d38ead7e9ec3bf7e7ffc1233fbe7b15cecfd32208329f6"
+      ],
+      "title": "'Fantastic female warrior' – Drone operator Rayana killed fighting Russian forces",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xx0gh3/fantastic_female_warrior_drone_operator_rayana/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T16:56:09+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/KI_official [link] [comments]"
     },
     {
       "keys": [
@@ -1084,6 +1192,18 @@
     },
     {
       "keys": [
+        "98170556e1ff9328daec6b4f65fd308994154578c86b1ea8c8669cf3a55af3ea",
+        "9d13ef01f15225d13cb4caebdba9a51f66ad49f6b090f7c0a31fbc10b8291503"
+      ],
+      "title": "Russia Sends Record 165 Tons of Gold to China as Moscow Sells Off Reserves to Fund War",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwymzl/russia_sends_record_165_tons_of_gold_to_china_as/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T15:43:44+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/According-Gear-8217 [link] [comments]"
+    },
+    {
+      "keys": [
         "553254b591effe7d36f6a9e3fb7b13088532895180cb298c0a45879857ddd15c",
         "76369903a871010e4a4d8071272d7eb770c028faa24e9d623d31bc641e29604a"
       ],
@@ -1177,6 +1297,18 @@
       "published": "2026-11-15T15:15:47+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "submitted by /u/cnn [link] [comments]"
+    },
+    {
+      "keys": [
+        "ad8693fdc508940d93177e8f35044ed5fd4b61b8195ffa666cc0bf6bcec03065",
+        "383fffea0db561250c1ff704c35e24f0662c280f74f8a5b748e83cbbaacb52a8"
+      ],
+      "title": "How scammers sell fake love stories from occupied Ukraine | Investigation",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwxmbz/how_scammers_sell_fake_love_stories_from_occupied/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T15:01:19+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/KI_official [link] [comments]"
     },
     {
       "keys": [
@@ -1297,6 +1429,18 @@
       "published": "2026-11-15T14:23:37+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "submitted by /u/frobar [link] [comments]"
+    },
+    {
+      "keys": [
+        "113971fad6e62deecfa3c64e3d8106b89ef6d0508ba86a89b1285bfd29b32c8b",
+        "20af0e5d2a7d486ccac6d77eaa8a6f740cb5cc7cd47404f1149ae2d36198d252"
+      ],
+      "title": "US suggested Kyiv cede land to Russia in exchange for joining NATO, Zelensky says",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwwk37/us_suggested_kyiv_cede_land_to_russia_in_exchange/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T14:15:52+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/CommissionOrganic350 [link] [comments]"
     },
     {
       "keys": [
@@ -1588,6 +1732,18 @@
     },
     {
       "keys": [
+        "cd9a11bd23e3d60eaad8de4d406a2fde622986712aef2b18cb26110b5cea1cac",
+        "71d7968d635873fb02779ed831b7ea2b7c2d0e957e4a86111c9e13250c5c6236"
+      ],
+      "title": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwtwvf/eu_forces_board_suspected_russian_shadow_fleet/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T12:07:59+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/KI_official [link] [comments]"
+    },
+    {
+      "keys": [
         "154332ecc23964bb95d8f7ce76d259a2e4c50cbfcaa08cc5d4e54cf37db392fb",
         "9cea077dc49a07f8bda0ae0205453676ed33a2a6d3747516d5ae88ba3c27c4da"
       ],
@@ -1720,6 +1876,18 @@
     },
     {
       "keys": [
+        "0c5e4b172715aec12339f6408542fcecaa3f14585a0c8639ae682151afb269a0",
+        "be8d9dcc9d495b4199adb35a3351e53e894b8580050f968375075a8e04bdf44d"
+      ],
+      "title": "Germany Allocates €11.6 Billion in Military Aid to Ukraine for 2027",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwsosf/germany_allocates_116_billion_in_military_aid_to/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T10:56:21+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Mil_in_ua [link] [comments]"
+    },
+    {
+      "keys": [
         "1ab4f05c487dc420dcaa86f419e21e877f0c996d1f2ca49cc5c434d39e86dd9e",
         "bc8e584498f4f1e5c60ac9d44a32f58496a0fe994f008d53fa8007cb942bfd0b"
       ],
@@ -1753,6 +1921,18 @@
       "published": "2026-11-15T10:38:29+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "submitted by /u/ButterscotchBoth5204 [link] [comments]"
+    },
+    {
+      "keys": [
+        "7af1181dc7d9bb0ee2bae9e0829f427e47027e99da9c924059a3d0b0253c1183",
+        "11881d61f23ed5f9e0cc1d234f4acbf95e0540da404f57031c52eabca32d80ca"
+      ],
+      "title": "Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast, at least 30 explosions heard",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xws8ay/ukraine_reportedly_strikes_russian_military/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T10:27:03+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/KI_official [link] [comments]"
     },
     {
       "keys": [
@@ -1900,6 +2080,18 @@
     },
     {
       "keys": [
+        "5ae89f599d4eb0263d5f5285fc97ae9f3118ded9eef37b0410b4affd548419df",
+        "7132c9ce786c27c6920ddd7aca5cff508cfaaf796cac0f79b5f5e1939320a6a3"
+      ],
+      "title": "The 2021 essay which shows Putin's demands will never change",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwrb0c/the_2021_essay_which_shows_putins_demands_will/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T09:28:34+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/theipaper [link] [comments]"
+    },
+    {
+      "keys": [
         "74d5e4f7356014d6980912ff230a88ab914a0264e6a2e3fe0c820d832617839f",
         "e366ec7e298cf968fbd67f71eb93c49c27944ee025b70e104e63e79f52f23481"
       ],
@@ -1924,6 +2116,18 @@
     },
     {
       "keys": [
+        "1e037074722b3ff1ae42d8bfc3b144ef6171b5312402979d8751b267767e7429",
+        "5c24109f9df5fa39a0bdd2bf8f4e0da004119f640d9849a772c6a46400f46195"
+      ],
+      "title": "Fewer People in Bashkortostan Are Willing to Join Russia’s Army for the War Against Ukraine",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwqww1/fewer_people_in_bashkortostan_are_willing_to_join/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T09:03:35+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Mil_in_ua [link] [comments]"
+    },
+    {
+      "keys": [
         "050d81f033496258b207e0e73bc5d2efcc3bb62b5d802c1961be36a0fdc32670",
         "af5eb0789cb823dbacba437debb2026ac997a2dad389a14274a1225cf0cbcbe4"
       ],
@@ -1936,6 +2140,18 @@
     },
     {
       "keys": [
+        "d25a3bb71a93536bcdce98d9d96458531eece52b3331a7ed39799bf88886ddc8",
+        "fddc9744562d39c8e3308847abc215f43e8e6b9804157decee14f97ae7dd2a1b"
+      ],
+      "title": "Zelenskyy could face assassination attempts as Putin reportedly lifts ban",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwqt26/zelenskyy_could_face_assassination_attempts_as/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T08:56:55+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Neptun_11 [link] [comments]"
+    },
+    {
+      "keys": [
         "700714df394d04e2454f5a3151797c8f75447913dcb86cf2e8682fb9a4e6ecc5",
         "c84be1d3ced1dd19afa564937ac84b7db93f37d7cdcde65ecdfc65d91cca67f6"
       ],
@@ -1945,6 +2161,18 @@
       "published": "2026-11-15T08:44:00+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "Nur noch drei Prozent der jungen Menschen halten die SPD für ihre Partei. Fraktionschef Miersch übt Selbstkritik und zeigt Verständnis für die Gen-Z-Proteste."
+    },
+    {
+      "keys": [
+        "6551acdca4fc171258805bd40b6e35d26b42f9129be05e589becf51136fd7ca3",
+        "0793f28f4efd7f688b4a00548e9cbf8dc94587d44a9f9cc42658958ba73406bb"
+      ],
+      "title": "Ukrainian Drones Strike Taganrog, Hitting a Bridge and Two Power Plants",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwpshg/ukrainian_drones_strike_taganrog_hitting_a_bridge/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T07:52:33+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Mil_in_ua [link] [comments]"
     },
     {
       "keys": [
@@ -1969,6 +2197,18 @@
       "published": "2026-11-15T07:48:37+00:00",
       "discovered": "2026-11-15T19:48:03.995165+00:00",
       "excerpt": "Російськ війська вночі 15 листопада атакували Чорноморськ на Одещинні. Постраждали 6 людей, місто знеструмлене. Про це повідомляє РБК-Україна з посиланням на ДСНС та видання \"Думська\". Внаслідок атаки пошкоджено енергетичну інфраструктуру, значних руйнувань зазнала чотириповерхова адміністративна будівля. Також загорілися два припарковані автомобілі. Вибуховою хвилею та уламками пошкоджено газову трубу, фасади та вікна сусідніх житлових будинків. В одній із квартир опинився заблокованим травмований чоловік. Рятувальники відчинили двері, надали йому домедичну допомогу та передали медикам. Фото: наслідни атаки РФ на Чорноморськ (ДСНС) За інформацією \"Думської\", внаслідок масованої атаки Чорноморськ залишився без електропостачання. Нагадаємо, у ніч на 15 листопада російські війська випустили по Україні 132 ударні дрони, зокрема 78 реактивних \"Шахедів\". Сили ППО знешкодили 106 ворожих цілей, однак є й влучання."
+    },
+    {
+      "keys": [
+        "d74162d38291eea0380211834f11db3298028555cd32accde6f33ff24dab5687",
+        "6b933dc58341d6090d19d92d488fa558b1c18929ce31b36014b57f80d74f1739"
+      ],
+      "title": "Petrochemical Plant in Nizhnekamsk Catches Fire After Drone Attack",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwphcz/petrochemical_plant_in_nizhnekamsk_catches_fire/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T07:32:42+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Mil_in_ua [link] [comments]"
     },
     {
       "keys": [
@@ -2080,6 +2320,18 @@
     },
     {
       "keys": [
+        "15ec7130fac48aaca1c653c3b7cddddaf4852fb3af18330d8d509a86a0874751",
+        "b40c7f16af5c1cab1d7f03acd5be435c563dc0c77c038e66e989defb863ffe5c"
+      ],
+      "title": "Ukraine has carried out an attack on the Nizhnekamskneftekhim petrochemical plant in Nizhnekamsk, Russia. It is the largest synthetic rubber and plastics producer in Russia.",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwlcy0/ukraine_has_carried_out_an_attack_on_the/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-15T03:35:54+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/rulepanic [link] [comments]"
+    },
+    {
+      "keys": [
         "3fd30d78709ad8467b85865a190ba7eca987a3e30f5cef7d566ab0131f062b5d",
         "a54fa7d086d6621e7e38141e221c8ac8571f9e2a0c4b224efea005ec719fd956"
       ],
@@ -2176,6 +2428,18 @@
     },
     {
       "keys": [
+        "703836ab0e1c94e913a199b2388e140c860e1cbf6f2802d78ce625f6f46cbffb",
+        "98e3596695d94e875308edcd39b4feea5e595ffabfa38eccd8f16f6f62b52189"
+      ],
+      "title": "Putin demands Britain stop defending Europe with nuclear weapons",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwfpmt/putin_demands_britain_stop_defending_europe_with/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-14T22:54:37+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/neonpurplestar [link] [comments]"
+    },
+    {
+      "keys": [
         "72414d13346c48fc90eadb73eba7c31e7fc4ffe0fb5b2172eea9a57f98d0939e",
         "f4b085e4a4d77f1c9a6626324224d1b3fae9811922262ca3fc72b790faee0f86"
       ],
@@ -2224,6 +2488,18 @@
     },
     {
       "keys": [
+        "2522a755d2fd4a56c108c141870ddbac310447af58fa83355975e56b29b8e7e6",
+        "747d223f615deabfe9379f2e050b7d12845e5c243ae21cb9003b974f2ff5fb05"
+      ],
+      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xwf5vi/zelenskyy_says_a_new_european_security_framework/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-14T22:29:16+00:00",
+      "discovered": "2026-11-15T21:03:28.122170+00:00",
+      "excerpt": "submitted by /u/Odd_Pick_6800 [link] [comments]"
+    },
+    {
+      "keys": [
         "95a27eeb815dea133f307cff00ca96d4d91f4f024d2a32d7d73eff68ba4e1832",
         "bedaf7c5e476dec962ac597daf85a354ed171a0bdda909400a1b2607818370bb"
       ],
@@ -2236,8 +2512,8 @@
     },
     {
       "keys": [
-        "f9ff637ff3e052005f6feea8ab5d99f4fc7a72dc4dff81b127747daefa879f8a",
-        "e936b5bbb811e2166da437e73523b19472671980a6331af5f9af6e1a9cbaa24e"
+        "e936b5bbb811e2166da437e73523b19472671980a6331af5f9af6e1a9cbaa24e",
+        "f9ff637ff3e052005f6feea8ab5d99f4fc7a72dc4dff81b127747daefa879f8a"
       ],
       "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
       "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xweof3/zelenskyy_accuses_spacex_of_lying_about/",
@@ -2401,90 +2677,6 @@
       "published": "2026-11-14T21:05:51+00:00",
       "discovered": "2026-11-14T21:29:43.905644+00:00",
       "excerpt": "What it felt like when the wall came down in Brooklyn."
-    },
-    {
-      "keys": [
-        "0c154dcd4ee5d08df64f8dfc291bff0a5986a3324fe311369f62c0327436bd33",
-        "0f4bb78fbe008d21a98b2d0445dfb8d390d61f7d84ee8b31d4036fe81da5f516"
-      ],
-      "title": "Прикарпаття втратило трьох військовослужбовців",
-      "url": "https://if.informator.ua/2026/11/14/prykarpattya-vtratylo-troh-vijskovosluzhbovcziv/",
-      "source": "Інформатор Івано-Франківськ",
-      "published": "2026-11-14T21:00:04+00:00",
-      "discovered": "2026-11-14T19:11:25.678483+00:00",
-      "excerpt": "Івано-Франківщина втратила трьох військовослужбовців. На Харківщині загинув Богдан Місюра, у громаді поховають Назарія Барана, а в Коломиї проведуть в останню путь Володимира Решітку. Пише Інформатор Івано-Франківськ. З Олешанської громади загинув військовослужбовець Богдан Місюра Про це повідомили на сайті Олешанської громади. Військовослужбовець загинув у бою 9 листопада поблизу села Окіп Богодухівського району Харківської області. Солдат народився […]"
-    },
-    {
-      "keys": [
-        "96f07a11d9a701b5a25485e2220f12d186cce67d78fad36a2142e90fbcde5890",
-        "e223ad74c722a6b1dd3be3165312183a73b2f7869c5a5ca95467c32dd16515f8"
-      ],
-      "title": "У Києві вже будують понтонні переправи, на відновлення Південного мосту треба 2-3 місяці – міністр",
-      "url": "https://www.pravda.com.ua/news/2026/11/14/8062901/",
-      "source": "Українська правда",
-      "published": "2026-11-14T21:00:00+00:00",
-      "discovered": "2026-11-14T21:29:43.905644+00:00",
-      "excerpt": "Міністр інфраструктури Микола Калашник заявив, що для повного відновлення руху Південним мостом у Києві необхідно 2-3 місяці, а дві понтонні переправи через Дніпро вже будують. Джерело : Калашник у коментарі журналістам, передають Суспільне та Інтерфакс-Україна Деталі : Міністр зазначив, що Південний міст перебуває у комунальній власності, тому відновлення очікується коштом міського бюджету Києва. Також Калашник повідомив, що понтонні переправи через Дніпро у Києві вже почали будувати. Одна переправа матиме найбільше навантаження – до 130 автомобілів на добу. Всього планується 8 таких переправ. \"Це повноцінні мостові переходи, швидкоспоруджувані, які будуються через річку Дніпро. Основа робиться з опор, і далі викладається проїзна частина\", – сказав міністр. За його словами, два мостові переходи вже будуються. Калашник заявив, що Україна отримує допомогу від США і Японії для переправ. Також розглядається залучення Франції. Міністр також розповів, що проєкт тунелю під Дніпром у столиці може вартувати від 500 мільйонів євро. \"До нас звернулась компанія-посередник з такою ініціативою. Це неодмінно треба робити. Якщо ми почнемо сьогодні, то років через три закінчимо, через три почнемо – через шість закінчимо. Варто починати вже зараз\", – прокоментував він пропозицію компанії Robbins прокласти тунель під Дніпром у столиці. Передісторія : Після російської ракетної атаки в ніч проти 27 жовтня Південний міст зазнав пошкоджень, через що рух транспорту на ньому тимчасово обмежили. 30 жовтня у Києві Південним мостом відновили рух в обох напрямках однією смугою. 6 листопада на Південному мосту відкрили другу смугу руху з лівого на правий берег. У напрямку з правого на лівий берег рух, як і раніше, здійснюється однією смугою. Мер Києва Віталій Кличко повідомив , що у Києві будуватимуть переправи через Дніпро, а фахівці профільних установ тим часом напрацьовують додаткові технічні рішення щодо збереження конструкцій мостових переходів через Дніпро."
-    },
-    {
-      "keys": [
-        "456c704fe71e8f041ffd1ac283216c04664c0a259b8ea368b050d6392661bf39",
-        "d40770446bff1153316d05a63908c605a8a5a1a1ab3fbd02269482f3b9d32bd1"
-      ],
-      "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
-      "url": "https://kyivindependent.com/tsikhanouskaya-ally-condemns-belarusian-athlete-for-insulting-ukrainian-opponent-complacency-in-russias-war/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-14T20:56:11+00:00",
-      "discovered": "2026-11-14T21:29:43.905644+00:00",
-      "excerpt": "\"She should be banned from all WTA-sanctioned tournaments... This is the only proportionate response to such behaviour. She is a disgrace to the Belarusian people,\" Latushka said."
-    },
-    {
-      "keys": [
-        "83a65ba2bfe7a5d37e374748a8cecfc64ff697860dd767b74f9d15a56eb76a98",
-        "a46e562e2c68b2b81ba47124e3aa9e3b1bffcf2ec1e4abf0c50828db2cf2ba7a"
-      ],
-      "title": "На фронті відбулося 54 зіткнення за день – Генштаб",
-      "url": "https://www.pravda.com.ua/news/2026/11/14/8062900/",
-      "source": "Українська правда",
-      "published": "2026-11-14T20:33:00+00:00",
-      "discovered": "2026-11-14T20:43:49.878305+00:00",
-      "excerpt": "На фронті від початку доби відбулося 54 бойові зіткнення, зокрема на Покровському напрямку росіяни здійснили 15 атак, на Костянтинівському – 9. Джерело : зведення Генштабу ЗСУ станом на 22:00 Деталі : На Північно-Слобожанському та Курському напрямках окупанти завдали двох авіаударів, скинувши три КАБ, та здійснили 30 обстрілів позицій українських військ і населених пунктів, один із яких – із застосуванням РСЗВ. На Південно-Слобожанському напрямку противник двічі атакував позиції українських підрозділів у районах Охрімівки та Миколаївки. Чотири спроби загарбників просунутися відбивали на Лиманському напрямку в бік Нового, Зеленої Долини, Колодязів та Лиману. На Слов'янському напрямку Сили оборони зупиняли три спроби росіян іти вперед у районі населених пунктів Озерне, Пискунівка та Крива Лука. Триває бій. На Костянтинівському напрямку Сили оборони відбивали дев'ять ворожих штурмів: у районі населеного пункту Костянтинівка та у бік Русиного Яру, Кучерового Яру, Новомиколаївки та Вільного. П'ятнадцять атак здійснив ворог на Покровському напрямку. Окупанти намагалися просунутися неподалік населених пунктів Добропілля, Новогришине, Василівка, Сергіївка, Молодецьке, Новомиколаївка та Філія. На Олександрівському напрямку ворог двічі штурмував в бік Зеленого Гаю та Тернового. На Гуляйпільському напрямку Сили оборони відбили чотири ворожі атаки у бік населених пунктів Різдвянка та Єгорівка."
-    },
-    {
-      "keys": [
-        "4c531049c8917230d6c81050c6ac290a56d34f7fbcffd70d2cf70bb261436be7",
-        "4fafd649ec44b72c3aeebdb88cb70a94f20412c40bddfc31be90e8275af25c60"
-      ],
-      "title": "Прокуратура Харківщини повідомляє про загиблого через російський обстріл Борової",
-      "url": "https://www.radiosvoboda.org/a/news-prokuratura-kharkivshchyna-zahyblyi-rosiiskyi-obstril-borova/33898704.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-14T20:32:41+00:00",
-      "discovered": "2026-11-14T20:43:49.878305+00:00",
-      "excerpt": "Крім того, російська армія по обіді завдала ракетного удару по місту Златопіль Лозівського району, зруйнувавши будинок"
-    },
-    {
-      "keys": [
-        "1a1759ed503cc5bd1cb29e2b0bbbaeefa14858cadf91b1518e4546c477f5606c",
-        "339c317607039be96654400344213c7c42cd123fdfcff9d814a037daced13ea8"
-      ],
-      "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xwci09/macron_says_limiting_ukraine_aid_would_pave_way/",
-      "source": "rworldnews on Reddit",
-      "published": "2026-11-14T20:30:58+00:00",
-      "discovered": "2026-11-14T22:19:26.333336+00:00",
-      "excerpt": "submitted by /u/LaughingLullaby [link] [comments]"
-    },
-    {
-      "keys": [
-        "0839516a560b586926cf9c05f02fba331a81e67615674eab2eec7675fd6f9557",
-        "12fecd0e55c3f35cb9f3656fd315c2e45a09fa241925d4cc741eb226ffbc7671"
-      ],
-      "title": "На Прикарпатті 15 листопада прогнозують мінливу хмарність і туман",
-      "url": "https://if.informator.ua/2026/11/14/na-prykarpatti-15-lystopada-prognozuyut-minlyvu-hmarnist-i-tuman/",
-      "source": "Інформатор Івано-Франківськ",
-      "published": "2026-11-14T20:30:06+00:00",
-      "discovered": "2026-11-14T19:11:25.678483+00:00",
-      "excerpt": "15 листопада по Івано-Франківську та області синоптики прогнозують: мінливу хмарність, без опадів, вночі та вранці слабкий туман. Пише Інформатор Івано-Франківськ із посиланням на Івано-Франківський обласний центр з гідрометеорології. Вітер південно-східний, 5-10 м/с. Температура повітря по місту: вночі 1-3°морозу, вдень 7-9° тепла. По області: вночі 1-6° морозу, вдень 4-9° тепла. На високогір’ї: вночі 4-9° морозу, вдень […]"
     }
   ],
   "history": [
@@ -4242,5 +4434,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-15T20:24:20.054737+00:00"
+  "last_checked": "2026-11-15T21:03:28.122170+00:00"
 }
