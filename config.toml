@@ -4,8 +4,8 @@ site_url = ""
 title = "My Daily Reading Digest"
 description = "A daily summary of my RSS subscriptions, with links to original sources."
 language = "en"
-# This controls digest dates; the workflow schedule is independently in UTC.
-timezone = "UTC"
+# Digest dates follow Berlin local time, including daylight saving changes.
+timezone = "Europe/Berlin"
 model = "gemini-3.1-flash-lite"
 
 # At the scheduled time, summarize posts published in the last 24 hours.
@@ -21,3 +21,4 @@ max_feeds = 200
 workers = 8
 feed_timeout = 20
 api_timeout = 120
+

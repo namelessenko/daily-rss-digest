@@ -24,6 +24,7 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 from defusedxml import ElementTree as SafeET
+from . import editorial
 
 UTC = timezone.utc
 LOG = logging.getLogger(__name__)
@@ -239,7 +240,8 @@ def parse_feed(data: bytes, source: dict, final_url: str, cfg: dict, now: dateti
             keys.append(fingerprint("id:" + source["url"] + "\n" + str(entry["id"])))
         result.append({"keys": keys, "title": title, "url": link, "source": source["title"],
                        "published": stamp(dated) if dated else None, "discovered": stamp(now),
-                       "excerpt": excerpt})
+                       "excerpt": excerpt,
+                       "image": editorial.article_image(entry, body or entry.get("summary", ""), link)})
     return result
 
 
@@ -273,6 +275,8 @@ def merge_queue(pending: list[dict], incoming: list[dict], seen: list[str]) -> t
             for other in matches - {first}:
                 group["keys"] = sorted(set(group["keys"]) | set(groups.pop(other)["keys"]))
             group["keys"] = sorted(set(group["keys"]) | set(item["keys"]))
+            if not group.get("image") and item.get("image"):
+                group["image"] = item["image"]
         else:
             first = len(owner)
             while first in groups:
@@ -296,12 +300,15 @@ def schema_for(ids: list[str]) -> dict:
         "title": {"type": "string"}, "intro": {"type": "string"},
         "stories": {"type": "array", "items": {"type": "object", "properties": {
             "headline": {"type": "string"}, "summary": {"type": "string"},
+            "rating": {"type": "integer", "minimum": 1, "maximum": 5},
+            "category": {"type": "string", "enum": list(editorial.CATEGORIES)},
+            "rating_reason": {"type": "string"},
             "article_ids": {"type": "array", "items": {"type": "string", "enum": ids}}},
-            "required": ["headline", "summary", "article_ids"], "additionalProperties": False}}},
+            "required": ["headline", "summary", "article_ids", "rating", "category", "rating_reason"], "additionalProperties": False}}},
         "required": ["title", "intro", "stories"], "additionalProperties": False}
 
 
-def validate_summary(value: dict, ids: list[str]) -> dict:
+def validate_summary(value: dict, ids: list[str], require_ratings: bool = False) -> dict:
     def text_field(obj, key, maximum):
         if not isinstance(obj, dict) or not isinstance(obj.get(key), str) or not obj[key].strip() or len(obj[key]) > maximum:
             raise DigestError("Gemini returned missing or oversized summary text")
@@ -314,12 +321,15 @@ def validate_summary(value: dict, ids: list[str]) -> dict:
     used, safe = [], []
     for story in stories:
         headline = text_field(story, "headline", 400)
+        if require_ratings and any(k not in story for k in ("rating", "category", "rating_reason")):
+            raise DigestError("Gemini omitted editorial ratings; state unchanged")
         summary = text_field(story, "summary", 4000)
         refs = story.get("article_ids")
         if not isinstance(refs, list) or not refs or any(not isinstance(r, str) or r not in ids for r in refs):
             raise DigestError("Gemini returned an unknown or missing article reference")
         used.extend(refs)
-        safe.append({"headline": headline, "summary": summary, "article_ids": refs})
+        safe.append({"headline": headline, "summary": summary, "article_ids": refs,
+                     **editorial.metadata(story, DigestError)})
     if sorted(used) != sorted(ids):
         raise DigestError("Gemini omitted or repeated article references; nothing was marked processed")
     return {"title": title, "intro": intro, "stories": safe}
@@ -338,7 +348,7 @@ def summarize(articles: list[dict], cfg: dict, api_key: str) -> dict:
             "do not invent details or imply you read full articles. Explain uncertainty when excerpts "
             "are incomplete. Group related coverage, use short factual paragraphs, no HTML or Markdown. "
             "Every supplied article ID must occur exactly once across stories. Do not output URLs. "
-            f"Write title, introduction, and stories in {cfg['language']}."}]},
+            f"Write title, introduction, and stories in {cfg['language']}." + editorial.POLICY}]},
         "contents": [{"role": "user", "parts": [{"text": json.dumps({"articles": records}, ensure_ascii=False)}]}],
         "generationConfig": {"maxOutputTokens": cfg["max_output_tokens"],
                              "responseFormat": {"text": {"mimeType": "APPLICATION_JSON", "schema": schema_for(ids)}}},
@@ -368,7 +378,7 @@ def summarize(articles: list[dict], cfg: dict, api_key: str) -> dict:
                     raise DigestError("Gemini response was blocked, empty or truncated; state unchanged")
                 parts = candidates[0].get("content", {}).get("parts", [])
                 raw = "".join(p.get("text", "") for p in parts if not p.get("thought"))
-                return validate_summary(json.loads(raw), ids)
+                return validate_summary(json.loads(raw), ids, require_ratings=True)
             except requests.RequestException:
                 if attempt == 2:
                     raise DigestError("Gemini network request failed after retries") from None
@@ -433,9 +443,9 @@ def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summari
     if existing_today and not replace_today:
         status = "Today's digest already exists; new articles queued for tomorrow"
     elif queue:
-        selected = queue[:cfg["max_articles"]]
+        selected = editorial.shortlist(queue, cfg["max_articles"])
         result = validate_summary(summarizer(selected), [str(i) for i in range(1, len(selected) + 1)])
-        sources = {str(i): {k: a[k] for k in ("title", "url", "source")}
+        sources = {str(i): {**{k: a[k] for k in ("title", "url", "source")}, "image": a.get("image", "")}
                    for i, a in enumerate(selected, 1)}
         if existing_today:
             updated["history"] = [item for item in updated["history"] if item["date"] != day]
@@ -445,7 +455,8 @@ def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summari
             digest["revision"] = fingerprint(stamp(now))[:12]
         updated["history"].append(digest)
         seen = sorted(set(seen).union(*(a["keys"] for a in selected)))
-        queue = queue[len(selected):]
+        selected_keys = set().union(*(a["keys"] for a in selected))
+        queue = [a for a in queue if not selected_keys.intersection(a["keys"])]
         verb = "Replaced" if existing_today else "Created"
         status = f"{verb} {day} digest from {len(selected)} articles"
     elif existing_today and replace_today:
@@ -458,14 +469,16 @@ def advance(state: dict, incoming: list[dict], cfg: dict, now: datetime, summari
 def digest_html(item: dict) -> str:
     summary = item["summary"]
     parts = [f'<p>{html.escape(summary["intro"])}</p>']
-    for story in summary["stories"]:
-        parts.extend([f'<h3>{html.escape(story["headline"])}</h3>', f'<p>{html.escape(story["summary"])}</p>', '<ul>'])
-        for ref in story["article_ids"]:
-            source = item["sources"][ref]
-            url = http_url(source["url"])
-            parts.append(f'<li><a href="{html.escape(url, quote=True)}">{html.escape(source["title"])}</a> — {html.escape(source["source"])}</li>')
-        parts.append('</ul>')
-    parts.append('<p><small>AI summary of feed excerpts. Follow the source links for full context.</small></p>')
+    visible = [s for s in summary["stories"] if s.get("rating", 3) >= 3 and
+               ("category" not in s or s["category"] != "other")]
+    for story in sorted(visible, key=editorial.story_key):
+        parts.append(editorial.card(story, item["sources"], http_url))
+    hidden = len(summary["stories"]) - len(visible)
+    if not visible:
+        parts.append('<p>No substantial updates matching your interests in this batch.</p>')
+    if hidden:
+        parts.append(f'<p><small>{hidden} low-priority stories omitted.</small></p>')
+    parts.append('<p><small>AI summary of feed excerpts. Ratings reflect relevance and impact, not verified accuracy. Follow the source links for full context.</small></p>')
     return "\n".join(parts)
 
 
@@ -522,3 +535,4 @@ def save_state(path: Path, state: dict):
     temp = path.with_suffix(".json.tmp")
     temp.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     os.replace(temp, path)
+

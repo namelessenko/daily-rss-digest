@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Your daily briefing · layout preview</title>
+    <link>https://example.org/digest/</link>
+    <description>Ukraine · Europe &amp; world politics · New science</description>
+    <language>en</language>
+    <atom:link href="https://example.org/digest/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026-11-18 — Your daily briefing · layout preview</title>
+      <link>https://example.org/digest/#2026-11-18</link>
+      <guid isPermaLink="false">daily-rss-digest:2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 16:00:00 GMT</pubDate>
+      <description>&lt;p&gt;A preview of the new layout. All examples below are fictional.&lt;/p&gt;
+&lt;div style="margin:22px 0;padding:20px;border:1px solid #dce2e8;border-radius:12px;background:#fff;color:#172438"&gt;
+&lt;p style="margin:0 0 8px;color:#176050;font-size:14px"&gt;&lt;strong&gt;Ukraine · war impact&lt;/strong&gt; · ★★★★★ 5/5 impact&lt;/p&gt;
+&lt;h3 style="font-size:22px;line-height:1.3;margin:8px 0 16px"&gt;Example: a development with concrete military consequences&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://example.org/article"&gt;&lt;img src="https://example.org/layout-photo.svg" alt="Illustrative source link" width="680" loading="lazy" referrerpolicy="no-referrer" style="display:block;width:100%;max-width:680px;height:auto;border-radius:8px"&gt;&lt;/a&gt;&lt;small&gt;Image from the feed of Demo source; see the original article for context and credits.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Layout demonstration only — this is not a news report. A real digest would summarize feed evidence, attribute contested claims and explain the practical consequences.&lt;/p&gt;
+&lt;p style="border-left:3px solid #176050;padding-left:12px"&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Example explanation of the potential effect on capacity or civilian protection, with uncertainty stated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://example.org/article"&gt;Illustrative source link&lt;/a&gt; — Demo source&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;div style="margin:22px 0;padding:20px;border:1px solid #dce2e8;border-radius:12px;background:#fff;color:#172438"&gt;
+&lt;p style="margin:0 0 8px;color:#176050;font-size:14px"&gt;&lt;strong&gt;European politics&lt;/strong&gt; · ★★★★☆ 4/5 impact&lt;/p&gt;
+&lt;h3 style="font-size:22px;line-height:1.3;margin:8px 0 16px"&gt;Example: a consequential European policy decision&lt;/h3&gt;
+&lt;p&gt;The rating sits beside the topic, followed by a short summary, an explanation of importance and the original source.&lt;/p&gt;
+&lt;p style="border-left:3px solid #176050;padding-left:12px"&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Example explanation of what the decision changes, who is affected and when.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://example.org/article"&gt;Illustrative source link&lt;/a&gt; — Demo source&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;div style="margin:22px 0;padding:20px;border:1px solid #dce2e8;border-radius:12px;background:#fff;color:#172438"&gt;
+&lt;p style="margin:0 0 8px;color:#176050;font-size:14px"&gt;&lt;strong&gt;Science · new research&lt;/strong&gt; · ★★★☆☆ 3/5 impact&lt;/p&gt;
+&lt;h3 style="font-size:22px;line-height:1.3;margin:8px 0 16px"&gt;Example: a new study with clearly stated limitations&lt;/h3&gt;
+&lt;p&gt;Science coverage distinguishes preliminary findings from established evidence. Stories without a feed-provided image retain the same readable layout.&lt;/p&gt;
+&lt;p style="border-left:3px solid #176050;padding-left:12px"&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; An informative finding, with study design and limitations made explicit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://example.org/article"&gt;Illustrative source link&lt;/a&gt; — Demo source&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;AI summary of feed excerpts. Ratings reflect relevance and impact, not verified accuracy. Follow the source links for full context.&lt;/small&gt;&lt;/p&gt;</description>
+    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 16:00:00 GMT</lastBuildDate>
+  </channel>
+</rss>

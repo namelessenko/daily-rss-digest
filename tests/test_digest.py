@@ -23,7 +23,8 @@ SOURCE = {"url": "https://example.org/feed", "title": "Example"}
 
 def summary(items):
     return {"title": "Daily news", "intro": "What happened today.", "stories": [
-        {"headline": a["title"], "summary": a["excerpt"] or "No excerpt.", "article_ids": [str(i)]}
+        {"headline": a["title"], "summary": a["excerpt"] or "No excerpt.", "article_ids": [str(i)],
+         "rating": 3, "category": "science", "rating_reason": "Useful research update."}
         for i, a in enumerate(items, 1)]}
 
 
@@ -343,3 +344,4 @@ class WorkflowTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
