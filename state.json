@@ -634,6 +634,66 @@
   "pending": [
     {
       "keys": [
+        "75bbef0e969ad6f37a5d9d55f0cdb0c1a53fdba7663a5651871f1e5aad741e90",
+        "842fc6b90463be8e6354b7737a39c5ff67e3c38c7b2700deabe185cd566a4a9c"
+      ],
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T22:44:46+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "Finnish satellite developer ICEYE announced Tuesday that it is seeking to buy Italian rocket-maker Avio for more than $2.2 billion in a transaction aimed at creating Europe's first true vertically integrated end-to-end space company. The announcement came as an all-cash voluntary tender offer from an Italian subsidiary of ICEYE to Avio's shareholders, led by the Italian defense conglomerate Leonardo. Avio said its board of directors \"has taken note of the notice\" from ICEYE and is considering the purchase offer. Avio builds the Vega C rocket, a solid-fueled launcher designed to carry up to 3.3 metric tons (7,300 pounds) of payload to low-Earth orbit. The Vega C has flown successfully seven times in eight attempts since 2022. It is a follow-on to an earlier version of the Vega rocket that amassed a 20-for-22 record since debuting in 2012. Read full article Comments"
+    },
+    {
+      "keys": [
+        "cebcd44a72c3e2f4963920bbca82aee9400d2e684dc16ddbd15e525bf8a3dfc6",
+        "d7a07f79c896f43a933709c29023f0106f5b8c53b47cb6466765be1e61b8095f"
+      ],
+      "title": "Зеленський закликав партнерів передати Україні ракети-перехоплювачі для ППО",
+      "url": "https://www.pravda.com.ua/news/2026/11/18/8063360/",
+      "source": "Українська правда",
+      "published": "2026-11-17T22:40:00+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "Президент Володимир Зеленський заявив, що протиповітряна оборона є основним пріоритетом України та закликав партнерів передати ракети-перехоплювачі. Джерело : заява Зеленського у соцмережах Пряма мова : \"Протиповітряна оборона. Це наш основний пріоритет. Це альфа й омега нашого захисту. І нам необхідні достатні постачання, щоб захищати життя\". Деталі : Крім того, за словами президента України, РФ постійно атакує Україну реактивними \"шахедами\", крилатими ракетами та балістикою. Зеленський зазначив, що перехоплювачі є в США, деяких європейських країн та інших партнерів, і вони \"не повинні просто лежати на складах\". Що передувало: Зеленський під час онлайн-виступу на \"Рамштайні\" заявив, що Україна потребує ще 40 винищувачів F-16 , працює над якнайшвидшим отриманням шведських Gripen та французьких Rafale, а також – закликав європейських партнерів надати додаткові літаки Mirage."
+    },
+    {
+      "keys": [
+        "1aecb2c88bc406457647824ad5d223237887799141738bc68aba51afc4a2d982",
+        "643c7a89ff192f54576ba5f1ac8918aa4f467cbd88787754bbb81b1695546cb9"
+      ],
+      "title": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
+      "url": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
+      "source": "Axios",
+      "published": "2026-11-17T22:36:20+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "Donald Trump Jr. signaled that investors underestimated the political pushback to the AI ecosystem in an interview during Axios' annual BFD summit in New York. The big picture: The 2026 midterms reflected deep distrust of the AI race, with voters approving dozens of moratoriums on data centers — which President Trump rallied around. Driving the news: Trump Jr. asserted that \"a lot of\" the pushback \"is manufactured.\" But he added \"that doesn't mean it's not real\" in an interview with Axios Pro Rata author Dan Primack Tuesday. \"I think some of the big founders of the biggest [AI] companies out there probably have not done themselves the best service as [a] marketing department,\" he said, adding that they're \"probably not the best messengers when they basically say, 'AI is gonna rule the world, and you should be thrilled about it.'\" Trump Jr. spoke with Primack alongside 1789 Capital co-founder Omeed Malik, whose venture Trump Jr. joined in 2024. The investment firm has since exploded from overseeing a few hundred million dollars to billions. Editor's note: This is a breaking news story and will be updated."
+    },
+    {
+      "keys": [
+        "3b4b50519e4cddb43159879a6c3ab878850ef897c7290d61fbad43c3aa114f93",
+        "5ac497a04b0fa22077f495616ee1095619dbf4cc75667d5c8288526bdb66b71d"
+      ],
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "source": "Ars Technica",
+      "published": "2026-11-17T22:32:16+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "Hundreds of websites using the Optimizely website personalization platform served unsuspecting visitors a potent malware cocktail that targeted cryptocurrency wallets, stole payment card data, cookies, and screenshots, and delivered exploit kits for infecting iPhones and iPads, researchers said Tuesday. ReportURI said it identified 178 websites—including CNN, Zoom, the BBC, and Salesforce—that were affected. JavaScript digitally signed by Optimizely and then loaded into customer pages had been modified to include malicious components that attempted to infect visitor devices with multiple payloads. When wares were installed successfully, they swapped user cryptocurrency wallet addresses for the attackers. Other components skimmed payment cards, stole cookies and screenshots, and, on iPhones and iPads, delivered iOS exploit kits known as Coruna and DarkSword. Optimizely infrastructure delivers multipurpose malware Optimizely serves JavaScript “snippets” that include both company code and code that is provided by each customer. The JavaScript, which can be served directly from Optimizely or from a customer endpoint, runs on every page the customer serves. Somehow, the attackers wrote their own code into a portion of each affected customer’s JavaScript and then delivered it from cdn.optimizely.com. A valid certificate for that domain signed the JavaScript. Read full article Comments"
+    },
+    {
+      "keys": [
+        "49bcf0dc777dca9be6badb5081861d7d02e781ea1254fc0c70e52a4da89005ea",
+        "6e819a9b41acd4ee396298be7ffce6f307ebbb482fe3befcad600070ac5a2c41"
+      ],
+      "title": "Станіслав Асєєв отримав чеську премію «Пам'ять народу» за «мужність у боротьбі за свободу»",
+      "url": "https://www.radiosvoboda.org/a/stanislav-aseyev-chekhiya-premiya-pamyat-narodu/33900595.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-17T22:25:07+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "«Для мене ця премія – це фактично символ продовження боротьби, адже дата 17 листопада – є дуже символічною в Чехії»"
+    },
+    {
+      "keys": [
         "573d8da8072a5cb3eac60b6e68325c4f68fb51a5a42481e271d42e41d987390d",
         "910b79e5cca93c0298470b612884fca2c7eeceb29fc1e86612611d57ac14dc67"
       ],
@@ -646,8 +706,20 @@
     },
     {
       "keys": [
-        "df7242d5633453ba81ed9f6cb0976604331cc288ef51845fcc1cc39f2e54abeb",
-        "6b1d9900f2e66fe005244ab59e9d23c2af4c11fc335e1246628da958076655e6"
+        "e9de50845285d198ef3e7165088fd5edc5b87e5d074c75b920614f59144f801f",
+        "623a67eee82b1329307ef753f5d57e7197749c8ca8fad9ee576c2dcaa630f145"
+      ],
+      "title": "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe",
+      "url": "https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress",
+      "source": "Axios",
+      "published": "2026-11-17T22:17:00+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "Nvidia posted a stronger-than-expected third quarter and a bullish outlook in its first earnings report after Jensen Huang was ousted as CEO in a scandal that has reportedly spawned an SEC investigation. Why it matters: Nvidia remains squarely at the center of the AI economy — and investors are anxious for guidance on the company's strategic roadmap following Huang's sudden exit. Zoom in: Nvidia recorded quarterly revenue of $115.8 billion and net income of $65.3 billion, both more than doubling its performance from a year earlier. S&P Capital IQ analysts had expected revenue of $108.7 billion and net income of $60.5 billion. The company's data center revenue — its largest segment — rose 110% from a year ago to $107.6 billion. The showing — which included a whopping gross profit margin of 74.8% — immediately calmed investors who have shaved more than $1 trillion off of Nvidia's market cap since the Huang scandal broke. The stock was up 2% in after-hours trading Tuesday. It marks the first moment for interim CEO Colette Kress — who is also still serving as CFO — to exert her leadership during the most tumultuous moment in the company's history. She didn't mention Huang on Tuesday in the earnings report but touted Nvidia's role as \"an exceptional technology leader\" and said sales of the company's new, advanced Vera Rubin chips are \"off to an explosive start.\" \"Our roadmap is on track and our ambition has never been greater,\" she said. What we're watching: Whether Nvidia discloses any additional details about its CEO search or other investigations on its earnings call. WSJ reported Tuesday afternoon that the SEC has opened a civil probe into the company. An SEC spokesperson declined to comment. Nvidia reps did not immediately respond to a request for comment. Huang posted a public letter Tuesday saying he'd be \"honored\" to return as CEO. Newly appointed Nvidia chairman Harvey Jones said on Tuesday afternoon's earnings call that the board unanimously accepted Huang's re"
+    },
+    {
+      "keys": [
+        "6b1d9900f2e66fe005244ab59e9d23c2af4c11fc335e1246628da958076655e6",
+        "df7242d5633453ba81ed9f6cb0976604331cc288ef51845fcc1cc39f2e54abeb"
       ],
       "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
       "url": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
@@ -693,8 +765,8 @@
     },
     {
       "keys": [
-        "d322abaf5020a017907e81bfab9078c50bb27a21abc1a0747a23126462c1f021",
-        "b69b1e548c690a184ae5299e69d8905b6a2ccd8e76205699a4689b64fcc0f1fa"
+        "b69b1e548c690a184ae5299e69d8905b6a2ccd8e76205699a4689b64fcc0f1fa",
+        "d322abaf5020a017907e81bfab9078c50bb27a21abc1a0747a23126462c1f021"
       ],
       "title": "Your phone can photograph the Moon with this $260 telescope",
       "url": "https://boingboing.net/2026/11/17/your-phone-can-photograph-the-moon-with-this-260-telescope.html",
@@ -705,8 +777,8 @@
     },
     {
       "keys": [
-        "a85daa35adc072cdb985b53839550b24f4853547cbe66a1757d5f270f2f46c47",
-        "90cf2ecbcb185a2a8403a244cd8100aa5c0d4f14c89c9fecb600dbff050542fa"
+        "90cf2ecbcb185a2a8403a244cd8100aa5c0d4f14c89c9fecb600dbff050542fa",
+        "a85daa35adc072cdb985b53839550b24f4853547cbe66a1757d5f270f2f46c47"
       ],
       "title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
       "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
@@ -729,8 +801,8 @@
     },
     {
       "keys": [
-        "dd6c10ee92113e61d7aa51abd57c3fa1e444b736c1b7be2349071fbe1d458d62",
-        "9fd65584f50045cbf9e068fcf6cb92eb2ea1e28f837cdf7dfb62cf1d876c8c77"
+        "9fd65584f50045cbf9e068fcf6cb92eb2ea1e28f837cdf7dfb62cf1d876c8c77",
+        "dd6c10ee92113e61d7aa51abd57c3fa1e444b736c1b7be2349071fbe1d458d62"
       ],
       "title": "Вистраждана перемога: збірна України закрила Лігу націй перемогою над Грузією",
       "url": "https://sport.rbc.ua/rus/football/vistrazhdana-peremoga-zbirna-ukrayini-zakrila-1794952063.html",
@@ -741,8 +813,8 @@
     },
     {
       "keys": [
-        "afb7c451be698a1d373bc20163cb5b10a1c0a7d2af1e38eb9bdfcc23539e2379",
-        "5b0a28c49d62128995235bbd21eca2f7f2e3e4f1efe74d7a865b89f720b08f2d"
+        "5b0a28c49d62128995235bbd21eca2f7f2e3e4f1efe74d7a865b89f720b08f2d",
+        "afb7c451be698a1d373bc20163cb5b10a1c0a7d2af1e38eb9bdfcc23539e2379"
       ],
       "title": "«Не можемо відмовити 3 мільйонам людей у безпеці» – Безкаравайний про розмінування біля фронту",
       "url": "https://www.radiosvoboda.org/a/news-bezkaravaynyy-rozminuvannya-bilya-frontu/33900589.html",
@@ -765,8 +837,8 @@
     },
     {
       "keys": [
-        "469f273b740cc59fe131205182811d13018b2db88a492716d29fdde5716c3a18",
-        "0191c0a78e7ec8f902f7842037e5ef3940d4430d54ada2978da3eda48f03a07d"
+        "0191c0a78e7ec8f902f7842037e5ef3940d4430d54ada2978da3eda48f03a07d",
+        "469f273b740cc59fe131205182811d13018b2db88a492716d29fdde5716c3a18"
       ],
       "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
       "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
@@ -801,8 +873,8 @@
     },
     {
       "keys": [
-        "b44bb411701e9df9018d33ea8e1bcd840e5d6b6bd1b9fe64c3f43a8aad41afd0",
-        "4fa3bf42cff2bd4052c54329073161af53930e5f8c91a260cd61163b2b568531"
+        "4fa3bf42cff2bd4052c54329073161af53930e5f8c91a260cd61163b2b568531",
+        "b44bb411701e9df9018d33ea8e1bcd840e5d6b6bd1b9fe64c3f43a8aad41afd0"
       ],
       "title": "Найбільше боїв на Покровському напрямку та затишшя на шести ділянках фронту – зведення Генштабу ЗСУ за добу",
       "url": "https://www.radiosvoboda.org/a/news-henshtab-zsu-front-pokrovskyy-napryamok/33900587.html",
@@ -848,8 +920,8 @@
     },
     {
       "keys": [
-        "afa107cc14027ffea8ffb644d4b67c1eb3275eb2d0952959ea08868d25c84d4b",
-        "adb991ffb7ce877f8d09dbf4b427fb9e9cebdabd54d2d73ce4bb9541f109e801"
+        "adb991ffb7ce877f8d09dbf4b427fb9e9cebdabd54d2d73ce4bb9541f109e801",
+        "afa107cc14027ffea8ffb644d4b67c1eb3275eb2d0952959ea08868d25c84d4b"
       ],
       "title": "Ukrainian food producer shuts down after devastating Russian strike",
       "url": "https://kyivindependent.com/ukrainian-food-producer-shuts-down-after-devastating-russian-strike/",
@@ -860,8 +932,8 @@
     },
     {
       "keys": [
-        "9fe1eaf101018e2fbb87dcfce43d4776f6bf069e340d81646a440132a746c626",
-        "9c0b1ad2b784821d9ef619819b571fd360da7ca0ee7d4e6d611c8c4cb59111ff"
+        "9c0b1ad2b784821d9ef619819b571fd360da7ca0ee7d4e6d611c8c4cb59111ff",
+        "9fe1eaf101018e2fbb87dcfce43d4776f6bf069e340d81646a440132a746c626"
       ],
       "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
       "url": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
@@ -883,8 +955,8 @@
     },
     {
       "keys": [
-        "78e1b7e68e36eab97bd880b13004f3a5ac18f3494b665807f868d7464ee62ca4",
-        "720a8c1b380b5006364746e77563f398723a8518857078ca43b4c4e0be37b6d6"
+        "720a8c1b380b5006364746e77563f398723a8518857078ca43b4c4e0be37b6d6",
+        "78e1b7e68e36eab97bd880b13004f3a5ac18f3494b665807f868d7464ee62ca4"
       ],
       "title": "ООН: за десять місяців 2026 року в Україні загинуло більше цивільних, ніж за весь минулий рік",
       "url": "https://www.radiosvoboda.org/a/news-zhertvy-rosiyski-ataky-oon-naslidky-ukrayina/33900585.html",
@@ -907,8 +979,8 @@
     },
     {
       "keys": [
-        "f973cd2b6cfdd43ef78f5cd2909fdcc1cda5e8fd402235e40c5b5b88ffd36be0",
-        "d8053569a543bc735f112984744849e8f31a7c53e05890f6837f648af35b43f0"
+        "d8053569a543bc735f112984744849e8f31a7c53e05890f6837f648af35b43f0",
+        "f973cd2b6cfdd43ef78f5cd2909fdcc1cda5e8fd402235e40c5b5b88ffd36be0"
       ],
       "title": "EU-Staaten und Ruanda beschließen Abschiebezentrum",
       "url": "https://www.dw.com/de/eu-staaten-und-ruanda-beschließen-abschiebezentrum/a-79975193?maca=de-rss-de-top-1016-xml-atom",
@@ -919,8 +991,8 @@
     },
     {
       "keys": [
-        "f642ee3b291ef90d94dff3c3dad977708c5a8904b6044c58d458c1a8fbac71c0",
-        "f411457109a8001e0438541bfb3fd71b732fd3284f5d3414f55600a26104e140"
+        "f411457109a8001e0438541bfb3fd71b732fd3284f5d3414f55600a26104e140",
+        "f642ee3b291ef90d94dff3c3dad977708c5a8904b6044c58d458c1a8fbac71c0"
       ],
       "title": "Стало відомо про втрату чотирьох захисників із Прикарпаття",
       "url": "https://if.informator.ua/2026/11/17/stalo-vidomo-pro-vtratu-chotyroh-zahysnykiv-iz-prykarpattya/",
@@ -931,8 +1003,8 @@
     },
     {
       "keys": [
-        "be749f3b12f5df08a67b5bf77a3efdd52c10609c2f498a9fe08b46522057949b",
-        "92c32b9e41f2a889e5cb57d0ac29de86aad8cc00e7424819fd4b0727f262d9b7"
+        "92c32b9e41f2a889e5cb57d0ac29de86aad8cc00e7424819fd4b0727f262d9b7",
+        "be749f3b12f5df08a67b5bf77a3efdd52c10609c2f498a9fe08b46522057949b"
       ],
       "title": "Why the world's biggest climate meeting (still) matters",
       "url": "https://www.axios.com/2026/11/17/un-climate-conference-negotiations-energy",
@@ -967,8 +1039,8 @@
     },
     {
       "keys": [
-        "77d9548ec337f45307824cefe56f4e188633e33c7a3d3f765fb7a1efc2309b31",
-        "5d71dd6223cd483b548f9f0309f56f24e9c3612e792d60e97304cf05b9381ba3"
+        "5d71dd6223cd483b548f9f0309f56f24e9c3612e792d60e97304cf05b9381ba3",
+        "77d9548ec337f45307824cefe56f4e188633e33c7a3d3f765fb7a1efc2309b31"
       ],
       "title": "Apple, OpenAI і не тільки: інтернет-сервіси \"лягли\" по всьому світу",
       "url": "https://www.rbc.ua/rus/news/apple-openai-i-tilki-internet-servisi-lyagli-1794948274.html",
@@ -979,8 +1051,8 @@
     },
     {
       "keys": [
-        "d04c58d04a15bfd3ace6e1ffdff0268ad0e61dbe80b249c30736a1750c7c9da9",
-        "7855ca4b7ce97028fe0c64ca6bab43c47be737973985a2dc2fd2d454782bc210"
+        "7855ca4b7ce97028fe0c64ca6bab43c47be737973985a2dc2fd2d454782bc210",
+        "d04c58d04a15bfd3ace6e1ffdff0268ad0e61dbe80b249c30736a1750c7c9da9"
       ],
       "title": "В Україні простоює 60% техніки для розмінування: у Мінекономіки пояснили причини",
       "url": "https://www.radiosvoboda.org/a/news-ukrayina-tekhnika-prostiy-rozminuvannya-minekonomiky/33900582.html",
@@ -1003,8 +1075,8 @@
     },
     {
       "keys": [
-        "e671411d99b52e20212e35c206cf300ac0a3790d80639b23094e1f7fd6549a5c",
-        "3776385b9cc8f33b7b6a5e7ab57252eeda70331b00afcf4c41df79561a274dae"
+        "3776385b9cc8f33b7b6a5e7ab57252eeda70331b00afcf4c41df79561a274dae",
+        "e671411d99b52e20212e35c206cf300ac0a3790d80639b23094e1f7fd6549a5c"
       ],
       "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
@@ -1026,8 +1098,8 @@
     },
     {
       "keys": [
-        "9d6c0917e2d936f10a7ac475e118583b7266fb1ab502ce8b579b409ddfd21fc3",
-        "32b99dc61667b78eae3f56940171b3a2c25b44d5049eb5323f964aa08d7a7bda"
+        "32b99dc61667b78eae3f56940171b3a2c25b44d5049eb5323f964aa08d7a7bda",
+        "9d6c0917e2d936f10a7ac475e118583b7266fb1ab502ce8b579b409ddfd21fc3"
       ],
       "title": "Помірний дощ: яку погоду прогнозують на Прикарпатті 18 листопада",
       "url": "https://if.informator.ua/2026/11/17/pomirnyj-doshh-yaku-pogodu-prognozuyut-na-prykarpatti-18-lystopada/",
@@ -1050,8 +1122,8 @@
     },
     {
       "keys": [
-        "9431e86a0c9508a7bbc62a84c8be0f3ad46a073fc604f767a08c5fc7679c0ec1",
-        "0005e159f1d0da7afc96b7a39f65e902d9164b1f9c5fdddb45304370babed264"
+        "0005e159f1d0da7afc96b7a39f65e902d9164b1f9c5fdddb45304370babed264",
+        "9431e86a0c9508a7bbc62a84c8be0f3ad46a073fc604f767a08c5fc7679c0ec1"
       ],
       "title": "У Міноборони РФ підтвердили падіння військово-транспортного літака, загинули 19 людей",
       "url": "https://www.radiosvoboda.org/a/news-minoborony-an-12-avariya-pidtverdzhennya/33900580.html",
@@ -1098,8 +1170,8 @@
     },
     {
       "keys": [
-        "caf102938fe2b7b9e0171e8c0b1310078a676a023055ff4d09c18253471c78bd",
-        "bf60fa71965919c8cbeed2de682e7ca0fd50e7236c881a622ac5dcedfc40bccf"
+        "bf60fa71965919c8cbeed2de682e7ca0fd50e7236c881a622ac5dcedfc40bccf",
+        "caf102938fe2b7b9e0171e8c0b1310078a676a023055ff4d09c18253471c78bd"
       ],
       "title": "Влада: через атаки РФ на Київщині пошкоджені енергооб’єкти, є постраждалі",
       "url": "https://www.radiosvoboda.org/a/news-kyyivshchyna-ova-postrazhdali-enerhoobyekty/33900577.html",
@@ -1122,8 +1194,8 @@
     },
     {
       "keys": [
-        "f36fb521dfd8c15d5b32a75b8ca94a666cc262ec948aa600db8815e557378dac",
-        "75bf32a80fc74fd0a9146f39a01f8f84a9b9a3c26b59bc2c093139e5e1657823"
+        "75bf32a80fc74fd0a9146f39a01f8f84a9b9a3c26b59bc2c093139e5e1657823",
+        "f36fb521dfd8c15d5b32a75b8ca94a666cc262ec948aa600db8815e557378dac"
       ],
       "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
       "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
@@ -1145,8 +1217,8 @@
     },
     {
       "keys": [
-        "e83e6667cb976edee5739520c76acf7907277df6772ef66b1046736c3c46e015",
-        "2ffcf7301b8bde5b4f3b3a9c9c56027b65e05b81cdebcb5cda6fae6c2d01e361"
+        "2ffcf7301b8bde5b4f3b3a9c9c56027b65e05b81cdebcb5cda6fae6c2d01e361",
+        "e83e6667cb976edee5739520c76acf7907277df6772ef66b1046736c3c46e015"
       ],
       "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
       "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
@@ -1157,8 +1229,8 @@
     },
     {
       "keys": [
-        "e066369639a6d7868cfd36d10f2c0946314dd9075ee301bae67b1d2fc962232e",
-        "4c7e98d9806cf11efdb98f2b54550a5d9a3913b64ce875299f9d1b91245c47f7"
+        "4c7e98d9806cf11efdb98f2b54550a5d9a3913b64ce875299f9d1b91245c47f7",
+        "e066369639a6d7868cfd36d10f2c0946314dd9075ee301bae67b1d2fc962232e"
       ],
       "title": "Civilization studio Firaxis Games lays off a third of staff",
       "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
@@ -1169,8 +1241,8 @@
     },
     {
       "keys": [
-        "c347272d8ce6ddf2a266b538e2fb03d85332533b037fd6ee128a2f1fe1c48e48",
-        "5d1fb53a389b5e6b2b80246d2735e564fc3fe93e0574158bed1c09692b985036"
+        "5d1fb53a389b5e6b2b80246d2735e564fc3fe93e0574158bed1c09692b985036",
+        "c347272d8ce6ddf2a266b538e2fb03d85332533b037fd6ee128a2f1fe1c48e48"
       ],
       "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
       "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
@@ -1181,8 +1253,8 @@
     },
     {
       "keys": [
-        "f855f8d02a4270cbc08d79c05c4ec0a94ef636326447db55eb8e65279eb974af",
-        "05f107a52e44eeee696727665ab23cb82a2d490cea27eda6ff1339f5bd72b8cc"
+        "05f107a52e44eeee696727665ab23cb82a2d490cea27eda6ff1339f5bd72b8cc",
+        "f855f8d02a4270cbc08d79c05c4ec0a94ef636326447db55eb8e65279eb974af"
       ],
       "title": "Зеленський заявив, що треба поставити \"справедливу й жорстку крапку в діяльності \"Хімпрому\"\"",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063351/",
@@ -1216,8 +1288,8 @@
     },
     {
       "keys": [
-        "cc0a7797a4fb56641e24b4559c847379d2d7222f58e2fc88de451cad1fad253e",
-        "af9bd415a946b0389739867b15c1bef56e88f1471c2dcf330db1b7b9698f7218"
+        "af9bd415a946b0389739867b15c1bef56e88f1471c2dcf330db1b7b9698f7218",
+        "cc0a7797a4fb56641e24b4559c847379d2d7222f58e2fc88de451cad1fad253e"
       ],
       "title": "What is a dirty bomb and how dangerous is the weapon",
       "url": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon",
@@ -1240,8 +1312,8 @@
     },
     {
       "keys": [
-        "41a88faba1b16452452321485cac1ee33f5284bb3c683884ce4b569a92a63fa3",
-        "2e42e4d5b44cb3bff85f163ed6b9d047048de177218cdb47fc828fc10385c2df"
+        "2e42e4d5b44cb3bff85f163ed6b9d047048de177218cdb47fc828fc10385c2df",
+        "41a88faba1b16452452321485cac1ee33f5284bb3c683884ce4b569a92a63fa3"
       ],
       "title": "ООН: У жовтні Росія вбила в Україні щонайменше 372 цивільних – на 95% більше, ніж торік",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063349/",
@@ -1252,8 +1324,8 @@
     },
     {
       "keys": [
-        "d93dfd0d70b6aa096dbf8b336b662aba0b2921c2ae87f6dbf50e441ee392c4fe",
-        "3d503e134efc2f8872be4f095b9f6a51f801f609224c86c5be7bb570c3949bdd"
+        "3d503e134efc2f8872be4f095b9f6a51f801f609224c86c5be7bb570c3949bdd",
+        "d93dfd0d70b6aa096dbf8b336b662aba0b2921c2ae87f6dbf50e441ee392c4fe"
       ],
       "title": "Ukraine war latest: Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
       "url": "https://kyivindependent.com/ukraine-war-latest-entire-section-of-crimean-bridge-collapses-after-seven-phase-operation-zelensky-reveals/",
@@ -1300,8 +1372,8 @@
     },
     {
       "keys": [
-        "253e630d8d181bca7122d26c5b1324aad3d534ca6dcac918862769a605d5cd13",
-        "170d2c69e55bdda9fd072e15eaea954691c54adcaafabf013ff060463248ffbe"
+        "170d2c69e55bdda9fd072e15eaea954691c54adcaafabf013ff060463248ffbe",
+        "253e630d8d181bca7122d26c5b1324aad3d534ca6dcac918862769a605d5cd13"
       ],
       "title": "Зеленський: Америка може допомогти знищити російські пускові для балістики, але обирає протилежний процес",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063344/",
@@ -1372,8 +1444,8 @@
     },
     {
       "keys": [
-        "d963e9be3ba8bde424722ad74b8c061e07f79f316917d9cb25082285e38eaad1",
-        "33d16288911ace2fb63e38dae28cf1a382df60ee4e63e38b3368836577d1945f"
+        "33d16288911ace2fb63e38dae28cf1a382df60ee4e63e38b3368836577d1945f",
+        "d963e9be3ba8bde424722ad74b8c061e07f79f316917d9cb25082285e38eaad1"
       ],
       "title": "ЗМІ: десять країн ЄС вимагають не допустити Росію до Венеційської бієнале 2027 року",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063342/",
@@ -1396,8 +1468,8 @@
     },
     {
       "keys": [
-        "4d9068cc810082fae3a2cf61ea1be0fbd41e0a6fdfc2664d39c3f59e40cd03c1",
-        "0b690b371cd777dafe38183aa3a2652f39c6e739d792bcc1b7505442b42d7794"
+        "0b690b371cd777dafe38183aa3a2652f39c6e739d792bcc1b7505442b42d7794",
+        "4d9068cc810082fae3a2cf61ea1be0fbd41e0a6fdfc2664d39c3f59e40cd03c1"
       ],
       "title": "«Це наше право на захист» – Хмара відреагував на критику США щодо дипстрайків",
       "url": "https://www.radiosvoboda.org/a/news-khmara-dypstrayky-ssha-krytyka/33900562.html",
@@ -1408,8 +1480,8 @@
     },
     {
       "keys": [
-        "df44d3a6253de1abc932221f2b46e4e8b24f0f04fed2adbb13b8439a6ff8a8ae",
-        "18420e8cad3d6ebd92f627b716be72e409cf6e54b12f4ac857ab7f663bc730d7"
+        "18420e8cad3d6ebd92f627b716be72e409cf6e54b12f4ac857ab7f663bc730d7",
+        "df44d3a6253de1abc932221f2b46e4e8b24f0f04fed2adbb13b8439a6ff8a8ae"
       ],
       "title": "Зеленський заінтригував новими операціями після удару по Кримському мосту",
       "url": "https://www.rbc.ua/rus/news/zelenskiy-zaintriguvav-novimi-operatsiyami-1794941189.html",
@@ -1444,8 +1516,8 @@
     },
     {
       "keys": [
-        "d13f2d4075653335ce77bbc17f880794bcd045069a74163614e480ac2202798f",
-        "133d3a2b9ef6528453b1eb89a99a71cbf1c18f608912afa040347ad3fed84687"
+        "133d3a2b9ef6528453b1eb89a99a71cbf1c18f608912afa040347ad3fed84687",
+        "d13f2d4075653335ce77bbc17f880794bcd045069a74163614e480ac2202798f"
       ],
       "title": "У повітряному просторі Молдови зафіксували сім безпілотників: частина з них розбилася",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063339/",
@@ -1468,8 +1540,8 @@
     },
     {
       "keys": [
-        "351f331a74f523006c007a1ab656a5d55bdbaf05caa9cf23f9f83fc875094766",
-        "0b29e27b4cac29a4d627460c527bad0c0b5397d2112a745c4a827bcaf9d6724d"
+        "0b29e27b4cac29a4d627460c527bad0c0b5397d2112a745c4a827bcaf9d6724d",
+        "351f331a74f523006c007a1ab656a5d55bdbaf05caa9cf23f9f83fc875094766"
       ],
       "title": "Прикарпатці отримали золоті нагороди на міжнародному турнірі з вільної боротьби",
       "url": "https://if.informator.ua/2026/11/17/prykarpatczi-otrymaly-zoloti-nagorody-na-mizhnarodnomu-turniri-z-vilnoyi-borotby/",
@@ -1528,8 +1600,8 @@
     },
     {
       "keys": [
-        "75d7d0311248504eee2b1dc7a7207f02998f77d078c28bed59939b49b53cf951",
-        "727fa0b453d1809e398dab3e715bddb59dc85b7522055d8f886bcb29240dcd53"
+        "727fa0b453d1809e398dab3e715bddb59dc85b7522055d8f886bcb29240dcd53",
+        "75d7d0311248504eee2b1dc7a7207f02998f77d078c28bed59939b49b53cf951"
       ],
       "title": "Fire Point показала запуск ракет \"Фламінго\" по Кримському мосту (відео)",
       "url": "https://www.rbc.ua/rus/news/fire-point-pokazala-zapusk-raket-flamingo-1794939927.html",
@@ -1540,8 +1612,8 @@
     },
     {
       "keys": [
-        "6eeee599db14eaaf1cf00afdc4cb833fefab55c02eccc378308b283ba16189d7",
-        "1ff5f26b951ba58c8b65c0c8601987543c5e8848f65bef98f813568f53e22336"
+        "1ff5f26b951ba58c8b65c0c8601987543c5e8848f65bef98f813568f53e22336",
+        "6eeee599db14eaaf1cf00afdc4cb833fefab55c02eccc378308b283ba16189d7"
       ],
       "title": "Франція визнала присутність своїх військових в Україні",
       "url": "https://www.radiosvoboda.org/a/news-francija-vyznala-prysutnist-svojih-vijskovyh-v-ukrajini/33900557.html",
@@ -1564,8 +1636,8 @@
     },
     {
       "keys": [
-        "e294befdda143e7c38353c6dcd773345b2b22651602ece7e84c950a4f994bc88",
-        "c01039b39b7c5de523876cfbeac25397f8cd48fc5d57d864643fc31477044d31"
+        "c01039b39b7c5de523876cfbeac25397f8cd48fc5d57d864643fc31477044d31",
+        "e294befdda143e7c38353c6dcd773345b2b22651602ece7e84c950a4f994bc88"
       ],
       "title": "A French cartoonist draws bodies with the skin peeled back",
       "url": "https://boingboing.net/2026/11/17/remi-verbraeken-interview.html",
@@ -1576,8 +1648,8 @@
     },
     {
       "keys": [
-        "9db0d7425740138b583d2edb30aa4aad90b89e4bb75cb44524ed54001965ced9",
-        "083a1ae54489921d07c2bf3ab60aa18e39a12c59191508e48072420b66c16d57"
+        "083a1ae54489921d07c2bf3ab60aa18e39a12c59191508e48072420b66c16d57",
+        "9db0d7425740138b583d2edb30aa4aad90b89e4bb75cb44524ed54001965ced9"
       ],
       "title": "Заступник Гегсета засудив удари України вглиб РФ, каже, що вони \"приносять біль населенню\"",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063337/",
@@ -1612,8 +1684,8 @@
     },
     {
       "keys": [
-        "2c937fca266163c4f48e830f57ad012700c76ca01fe753bf62aa5fedea2f5f27",
-        "19d1a9d27f032c981f1c92c21373979f78cc30c5b5002c3e27bac9b89be789ce"
+        "19d1a9d27f032c981f1c92c21373979f78cc30c5b5002c3e27bac9b89be789ce",
+        "2c937fca266163c4f48e830f57ad012700c76ca01fe753bf62aa5fedea2f5f27"
       ],
       "title": "До 3 черг відключень: якими будуть графіки обмежень електроенергії 18 листопада",
       "url": "https://www.rbc.ua/rus/news/3-cherg-vidklyuchen-kimi-budut-grafiki-obmezhen-1794938945.html",
@@ -1648,8 +1720,8 @@
     },
     {
       "keys": [
-        "cad10750de13a4095da86e68f773e51cec7cf835911d7f919a8e164f875d32ea",
-        "9c2c1266a7eb64931ad1655194da26df01c2cc5c9846df90754e7b1b2533406e"
+        "9c2c1266a7eb64931ad1655194da26df01c2cc5c9846df90754e7b1b2533406e",
+        "cad10750de13a4095da86e68f773e51cec7cf835911d7f919a8e164f875d32ea"
       ],
       "title": "РФ вдруге за день атакувала Вінницю: виникла пожежа в центрі міста, 4 постраждалих",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063333/",
@@ -1660,8 +1732,8 @@
     },
     {
       "keys": [
-        "a3e554864ca1b16183555c8743819d94f857b91c3fac22ce2cbc2857a0a582fd",
-        "8c3b280a294d5d17757582118dbda08c301f664f795ee1a6828140c4e7bfb8ec"
+        "8c3b280a294d5d17757582118dbda08c301f664f795ee1a6828140c4e7bfb8ec",
+        "a3e554864ca1b16183555c8743819d94f857b91c3fac22ce2cbc2857a0a582fd"
       ],
       "title": "Низький профіль перед зимою: як прочитати карту зношення колеса",
       "url": "https://if.informator.ua/2026/11/17/nyzkyj-profil-pered-zymoyu-yak-prochytaty-kartu-znoshennya-kolesa/",
@@ -1672,8 +1744,8 @@
     },
     {
       "keys": [
-        "a35ef8ef540a59f37734282fe5f4f4fb38d1d8d91afee176d8bb0a8d644e917e",
-        "20099a2fde41eb79284cc8d5c1b8e508910b417e2a47dd839a2cb6d1b88cdbe7"
+        "20099a2fde41eb79284cc8d5c1b8e508910b417e2a47dd839a2cb6d1b88cdbe7",
+        "a35ef8ef540a59f37734282fe5f4f4fb38d1d8d91afee176d8bb0a8d644e917e"
       ],
       "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
       "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
@@ -1684,8 +1756,8 @@
     },
     {
       "keys": [
-        "f874843725bb476c5757cf53f6d269c9bc4a21f73c87183b2e2dfb08e6f74a0a",
-        "7d393460606f761705406160c614af39a4d5011a262dd3b141cb4a4ad4888ed2"
+        "7d393460606f761705406160c614af39a4d5011a262dd3b141cb4a4ad4888ed2",
+        "f874843725bb476c5757cf53f6d269c9bc4a21f73c87183b2e2dfb08e6f74a0a"
       ],
       "title": "Молдова закрила шість пунктів пропуску на кордоні з Україною через атаку російських дронів",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063332/",
@@ -1696,8 +1768,8 @@
     },
     {
       "keys": [
-        "dc933a0df2a799dc3ff0e39b7aebbd28a68c0deb04f59fb51f140e40435e9471",
-        "a59e27708c283c1918e8ae77884d49b04b1dcb98d815ebf012d8fa473d6fc57d"
+        "a59e27708c283c1918e8ae77884d49b04b1dcb98d815ebf012d8fa473d6fc57d",
+        "dc933a0df2a799dc3ff0e39b7aebbd28a68c0deb04f59fb51f140e40435e9471"
       ],
       "title": "Виконавець у залі суду, замовники – в тіні: як розслідують вбивство Андрія Парубія",
       "url": "https://www.pravda.com.ua/articles/2026/11/17/8063329/",
@@ -1719,8 +1791,8 @@
     },
     {
       "keys": [
-        "93ee4baa5fc2a6a58bdce5bf6d5cae97d76c2ccca06fe9753030e449d2dab545",
-        "34d2664bd569e0b8ee8cbaa5cc10a5f1411091ab5f49cf81750fc16a53d67f71"
+        "34d2664bd569e0b8ee8cbaa5cc10a5f1411091ab5f49cf81750fc16a53d67f71",
+        "93ee4baa5fc2a6a58bdce5bf6d5cae97d76c2ccca06fe9753030e449d2dab545"
       ],
       "title": "Ukraine has proposed Oleshky-like humanitarian operation in 10 more occupied settlements, Zelensky says",
       "url": "https://kyivindependent.com/ukraine-has-proposed-oleshky-like-humanitarian-operation-in-10-more-occupied-settlements-zelensky-says/",
@@ -1755,8 +1827,8 @@
     },
     {
       "keys": [
-        "95b84846e87d45b7e380e6e2b6a81aab108a5d37a50a1f240982f97c335559f1",
-        "678e6c4c68ca55f656c21dfaaa9cd9a8cfd022df138fce64028d9fcce5193fa5"
+        "678e6c4c68ca55f656c21dfaaa9cd9a8cfd022df138fce64028d9fcce5193fa5",
+        "95b84846e87d45b7e380e6e2b6a81aab108a5d37a50a1f240982f97c335559f1"
       ],
       "title": "Burnham delays announcement about options for closer relationship with EU until next month – as it happened",
       "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
@@ -1767,8 +1839,8 @@
     },
     {
       "keys": [
-        "9800fda36f2361acf7d5d3726cdfd0796c3772b579277051c30db7e8759c7ca8",
-        "50db5d9f1797b6a3e2e8b8e467776c455cbf1fc7f929af9fe668111bbc6e4716"
+        "50db5d9f1797b6a3e2e8b8e467776c455cbf1fc7f929af9fe668111bbc6e4716",
+        "9800fda36f2361acf7d5d3726cdfd0796c3772b579277051c30db7e8759c7ca8"
       ],
       "title": "Швеція виділяє 65 мільйонів євро на підтримку оборони України",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063330/",
@@ -1779,8 +1851,8 @@
     },
     {
       "keys": [
-        "78f7c6dd99826357cddb4dd66fc7305ef7465b493083447b728115a25f7927ff",
-        "20872531abc79a5e1e47eb5fa9fc0a6ac3a52a1a50f0b1d09775e506870b5b7f"
+        "20872531abc79a5e1e47eb5fa9fc0a6ac3a52a1a50f0b1d09775e506870b5b7f",
+        "78f7c6dd99826357cddb4dd66fc7305ef7465b493083447b728115a25f7927ff"
       ],
       "title": "Jeff Clark discusses this week's monster surf at Maverick's",
       "url": "https://boingboing.net/2026/11/17/jeff-clark-mavericks-monster-waves.html",
@@ -1791,8 +1863,8 @@
     },
     {
       "keys": [
-        "7cf67f42dcc7c692a9e6fcd58db2a08e3a704d6b907868c5a6e2d6fe759f8d4d",
-        "7ad80043ce642ad8095ba4731f151d7472dd3b649c822d16ff9cde90364f9fed"
+        "7ad80043ce642ad8095ba4731f151d7472dd3b649c822d16ff9cde90364f9fed",
+        "7cf67f42dcc7c692a9e6fcd58db2a08e3a704d6b907868c5a6e2d6fe759f8d4d"
       ],
       "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
@@ -1815,8 +1887,8 @@
     },
     {
       "keys": [
-        "3a073a2840912f7ffff4080c88db329bc94589bee1adc5294de09b5c39d558bf",
-        "1d4c695982f0820c5f49c67876927f0fd5e2fd65aaa76149b51eef9dfe02b6e0"
+        "1d4c695982f0820c5f49c67876927f0fd5e2fd65aaa76149b51eef9dfe02b6e0",
+        "3a073a2840912f7ffff4080c88db329bc94589bee1adc5294de09b5c39d558bf"
       ],
       "title": "У Києві частково відновили рух громадського транспорту Північним мостом – влада",
       "url": "https://www.radiosvoboda.org/a/news-pivnichnyy-mist-chastkove-vidnovlennya-rukh/33900546.html",
@@ -1839,8 +1911,8 @@
     },
     {
       "keys": [
-        "42fd947bc30ad2c968a92a2b0ea38d8832e90edfdffb6626cb9a5fa4a2e1d51c",
-        "3d55030ebe617a991510b80fd8e3eb834c61b15eac9746814dbb9d82340eb2d4"
+        "3d55030ebe617a991510b80fd8e3eb834c61b15eac9746814dbb9d82340eb2d4",
+        "42fd947bc30ad2c968a92a2b0ea38d8832e90edfdffb6626cb9a5fa4a2e1d51c"
       ],
       "title": "Як правильно зберігати добрива взимку",
       "url": "https://if.informator.ua/2026/11/17/yak-pravylno-zberigaty-dobryva-vzymku/",
@@ -1875,8 +1947,8 @@
     },
     {
       "keys": [
-        "e4aebdbed5df5ddb08a1a9f279f3c469e59dc111069ff073a9e98faa8af179cf",
-        "38630b4b5c30efb7c59e2d113b3b74624fdac93b08ffb7cdc3387234d0929f00"
+        "38630b4b5c30efb7c59e2d113b3b74624fdac93b08ffb7cdc3387234d0929f00",
+        "e4aebdbed5df5ddb08a1a9f279f3c469e59dc111069ff073a9e98faa8af179cf"
       ],
       "title": "США критикують удари України вглиб Росії, зокрема по Wildberries",
       "url": "https://www.radiosvoboda.org/a/news-ssha-krytyka-ukrayina-udary-wildberries/33900530.html",
@@ -1899,8 +1971,8 @@
     },
     {
       "keys": [
-        "76a97c461a353b98347f5f15d2f935d11a06dc5c151fc927903cdf911bde6633",
-        "63c76d94dec3b8814431009c1d08897bd277c474cb1cc8368039f93eed0a4ae8"
+        "63c76d94dec3b8814431009c1d08897bd277c474cb1cc8368039f93eed0a4ae8",
+        "76a97c461a353b98347f5f15d2f935d11a06dc5c151fc927903cdf911bde6633"
       ],
       "title": "Joseph's Machines cleans house with broom-and-dustpan shoes and a mouth-powered spray bottle",
       "url": "https://boingboing.net/2026/11/17/josephs-machines-cleaning-shoes.html",
@@ -1923,8 +1995,8 @@
     },
     {
       "keys": [
-        "b771e42d832c9f0603fd3abcaf48274012080001c57230e3b18cacad8598f3c7",
-        "9ababcaedbe41c637df804c8a32f138ee8d8efef642c431b9b997aac2cfab6e5"
+        "9ababcaedbe41c637df804c8a32f138ee8d8efef642c431b9b997aac2cfab6e5",
+        "b771e42d832c9f0603fd3abcaf48274012080001c57230e3b18cacad8598f3c7"
       ],
       "title": "A 100-million-year-old cricket in amber still has a moving gas bubble in its belly",
       "url": "https://boingboing.net/2026/11/17/amber-cricket-gas-bubble.html",
@@ -1947,8 +2019,8 @@
     },
     {
       "keys": [
-        "f2a5366b474489087bbddd64781d1dad8e0ed6c07c052b1aeda25792dfa3cf1e",
-        "2cc5c32c65105c07a31cadb35b78a9be91a941896eaa4f0c2c2bd45d6b86714d"
+        "2cc5c32c65105c07a31cadb35b78a9be91a941896eaa4f0c2c2bd45d6b86714d",
+        "f2a5366b474489087bbddd64781d1dad8e0ed6c07c052b1aeda25792dfa3cf1e"
       ],
       "title": "Jensen Huang agrees to face Congress over Nvidia scandal",
       "url": "https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates",
@@ -1959,8 +2031,8 @@
     },
     {
       "keys": [
-        "fa61ef9ae03414758e85a4c9072926f1c1c6693e653c17c1db7d206370427379",
-        "bdeec8a5cfad7a91c648d336e168f0ea3760064980580d1e0bfb4401b7e42344"
+        "bdeec8a5cfad7a91c648d336e168f0ea3760064980580d1e0bfb4401b7e42344",
+        "fa61ef9ae03414758e85a4c9072926f1c1c6693e653c17c1db7d206370427379"
       ],
       "title": "News des Tages: Deutsche Bank, Angriff auf die Krimbrücke, Glücksatlas",
       "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bank-angriff-auf-die-krimbruecke-gluecksatlas-a-54b6649a-6b11-44b8-bf5d-637e3ff64120",
@@ -1971,8 +2043,8 @@
     },
     {
       "keys": [
-        "32dee05bb908e134302b08492d5a7a546fb6c8808faf3f29e30d366fe2b8962d",
-        "1dd8e54864c961ff6cbc98880fcf78937dad0a3381888745bbef2d58713ac10c"
+        "1dd8e54864c961ff6cbc98880fcf78937dad0a3381888745bbef2d58713ac10c",
+        "32dee05bb908e134302b08492d5a7a546fb6c8808faf3f29e30d366fe2b8962d"
       ],
       "title": "BSW und Bundestagswahl: Karlsruhe entscheidet über Neuauszählung",
       "url": "https://www.spiegel.de/politik/deutschland/bsw-und-bundestagswahl-karlsruhe-entscheidet-ueber-neuauszaehlung-a-852c3f4f-1f36-40ff-bd91-b88e3486b93a",
@@ -2041,8 +2113,8 @@
     },
     {
       "keys": [
-        "a65f11b251a97fcdc93cd546bb8761d9bfb313c859198d4050ccc682f34617ac",
-        "467b463b10318ba4e49860c59579b7494aaf1aaf31583d142d585adac5fe77cc"
+        "467b463b10318ba4e49860c59579b7494aaf1aaf31583d142d585adac5fe77cc",
+        "a65f11b251a97fcdc93cd546bb8761d9bfb313c859198d4050ccc682f34617ac"
       ],
       "title": "A dish of swimming scallops looks like a bowl of colorful goldfish crackers",
       "url": "https://boingboing.net/2026/11/17/swimming-scallops-dish.html",
@@ -2065,8 +2137,8 @@
     },
     {
       "keys": [
-        "b062abd77f1f49f1ef22594dea43752994ba611cc2dcff6c635419d058f2961b",
-        "4cb4169d6a10959b487a107eca99c203b9351c1eccf21cea36b1ed5977013c94"
+        "4cb4169d6a10959b487a107eca99c203b9351c1eccf21cea36b1ed5977013c94",
+        "b062abd77f1f49f1ef22594dea43752994ba611cc2dcff6c635419d058f2961b"
       ],
       "title": "These 1989 anti-smoking posters show animals puffing cigarettes",
       "url": "https://boingboing.net/2026/11/17/1989-anti-smoking-posters-animals.html",
@@ -2088,8 +2160,8 @@
     },
     {
       "keys": [
-        "c9b04de9aa83b236e2ece136ecf40e53e294b97c775cbebb34895c799ba190eb",
-        "a5f58e1fbf127db38e580c6dfb4c31537af591fe1b7a4a4ddde8c77d88db5e0d"
+        "a5f58e1fbf127db38e580c6dfb4c31537af591fe1b7a4a4ddde8c77d88db5e0d",
+        "c9b04de9aa83b236e2ece136ecf40e53e294b97c775cbebb34895c799ba190eb"
       ],
       "title": "A California landfill erupted in a geyser of rotting trash",
       "url": "https://boingboing.net/2026/11/17/chiquita-canyon-landfill-garbage-geyser-castaic.html",
@@ -2124,8 +2196,8 @@
     },
     {
       "keys": [
-        "dc9771a2c489e80633b419fe82f12e6696096e2e5a2996fffb2a69d6610b8cf0",
-        "1005dac2b22969290436ebab2c54c43f2c579ba745b79b72ce75cff4d948b28e"
+        "1005dac2b22969290436ebab2c54c43f2c579ba745b79b72ce75cff4d948b28e",
+        "dc9771a2c489e80633b419fe82f12e6696096e2e5a2996fffb2a69d6610b8cf0"
       ],
       "title": "Зеленський – «Рамштайну»: ракети-перехоплювачі не повинні лежати на складах",
       "url": "https://www.radiosvoboda.org/a/news-zelenskyy-rakety-perekhoplyuvachi-sklady/33900521.html",
@@ -2136,8 +2208,8 @@
     },
     {
       "keys": [
-        "9ae84f5b1afe5fd5f6872522f1085ae824df55242d82b5ce930ad0b649c8beb7",
-        "2217f9cef08798a5a453b8ae8650c21008344e3dcf1e4b1ed897c1a9131dd409"
+        "2217f9cef08798a5a453b8ae8650c21008344e3dcf1e4b1ed897c1a9131dd409",
+        "9ae84f5b1afe5fd5f6872522f1085ae824df55242d82b5ce930ad0b649c8beb7"
       ],
       "title": "Jemen: Saudi-Arabiens Verbündete geraten ins Wanken",
       "url": "https://www.dw.com/de/jemen-saudi-arabiens-verbündete-geraten-ins-wanken/a-79971660?maca=de-rss-de-top-1016-xml-atom",
@@ -2160,8 +2232,8 @@
     },
     {
       "keys": [
-        "f04dc41dac532ed4d43e07b58b38c1ecf5ba042977c81f152429cf1eb3bdeb09",
-        "aa34f50e6f7c5177e90dc9c3793f2052c28b2d3c1fdb706b0a4800bc7f5780e5"
+        "aa34f50e6f7c5177e90dc9c3793f2052c28b2d3c1fdb706b0a4800bc7f5780e5",
+        "f04dc41dac532ed4d43e07b58b38c1ecf5ba042977c81f152429cf1eb3bdeb09"
       ],
       "title": "Прикарпатець Віктор Голіней став срібним призером чемпіонату світу з пауерліфтингу",
       "url": "https://if.informator.ua/2026/11/17/prykarpatecz-viktor-golinej-stav-sribnym-pryzerom-chempionatu-svitu-z-pauerliftyngu/",
@@ -2220,8 +2292,8 @@
     },
     {
       "keys": [
-        "ec17cecea594b5f2e1ed64c5ff6b666656360725eea5c616686be12d038123f2",
-        "5e7aa92ccce60b85b0600a68c2f9a6b367f0f86469896b4436391103863525df"
+        "5e7aa92ccce60b85b0600a68c2f9a6b367f0f86469896b4436391103863525df",
+        "ec17cecea594b5f2e1ed64c5ff6b666656360725eea5c616686be12d038123f2"
       ],
       "title": "Україна вгатила по нафтохімічному гіганту РФ за 1500 км від кордону",
       "url": "https://www.rbc.ua/rus/news/ukrayina-vgatila-naftohimichnomu-gigantu-1794932115.html",
@@ -2232,8 +2304,8 @@
     },
     {
       "keys": [
-        "fe42878d18be804e9b7c483d7882fada8765e87ba39f692cf2abd94b18b220cb",
-        "0eb22c74de634e6d630d59afc195808f511bd9486223703524c4cb5ba2de36c1"
+        "0eb22c74de634e6d630d59afc195808f511bd9486223703524c4cb5ba2de36c1",
+        "fe42878d18be804e9b7c483d7882fada8765e87ba39f692cf2abd94b18b220cb"
       ],
       "title": "The danger lurking in Russia's frozen wars",
       "url": "https://kyivindependent.com/the-danger-lurking-in-russias-frozen-wars/",
@@ -2244,8 +2316,8 @@
     },
     {
       "keys": [
-        "608907420628c9985ecb3aac16fa64675dd1711b3ebf8ac179c5d5f38dcaf829",
-        "55df3f7ffafe08227af0875546e89f4d94f1509f6b078795e2485afb7cd6a270"
+        "55df3f7ffafe08227af0875546e89f4d94f1509f6b078795e2485afb7cd6a270",
+        "608907420628c9985ecb3aac16fa64675dd1711b3ebf8ac179c5d5f38dcaf829"
       ],
       "title": "Do You Need a Measles Booster?",
       "url": "https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html",
@@ -2280,8 +2352,8 @@
     },
     {
       "keys": [
-        "d284c18e8bd39f78807aaa8577fefaa9ddd71430faed2335e95e6f486137ed0c",
-        "17cdc0243504208485a7ca3ba8cd9b13c9a42564ce07c4c486d6707cb9b4db7f"
+        "17cdc0243504208485a7ca3ba8cd9b13c9a42564ce07c4c486d6707cb9b4db7f",
+        "d284c18e8bd39f78807aaa8577fefaa9ddd71430faed2335e95e6f486137ed0c"
       ],
       "title": "Hoping for Britain to rejoin the EU with Andy Burnham? You may be waiting a long time | Timothy Garton Ash",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/17/hope-britain-rejoin-eu-andy-burnham-europe",
@@ -2292,8 +2364,8 @@
     },
     {
       "keys": [
-        "e4e672edbe0869c3b7845399784aa9f3b4c9c20c1ac33a4f3151d0eeeb2775b5",
-        "05ca75217fcea5751abab0809986116b4aba7e1f8eac2470777d78aca60bcaf4"
+        "05ca75217fcea5751abab0809986116b4aba7e1f8eac2470777d78aca60bcaf4",
+        "e4e672edbe0869c3b7845399784aa9f3b4c9c20c1ac33a4f3151d0eeeb2775b5"
       ],
       "title": "Elif Eralp: Polizeigewerkschaft GdP wirft ihr »blanken Polizeihass« vor",
       "url": "https://www.spiegel.de/politik/deutschland/elif-eralp-polizeigewerkschaft-gdp-wirft-ihr-blanken-polizeihass-vor-a-5296761c-f586-47cc-8a34-7e555d7bf8d8",
@@ -2328,8 +2400,8 @@
     },
     {
       "keys": [
-        "e09db283828cb00f38a87c5b4c32443547295bf2aea3319b4d5ff96e00640228",
-        "c26aa24dbb3034fe340bf245a85fb87ed404da94ebc6c6c0db29eaa5998c2284"
+        "c26aa24dbb3034fe340bf245a85fb87ed404da94ebc6c6c0db29eaa5998c2284",
+        "e09db283828cb00f38a87c5b4c32443547295bf2aea3319b4d5ff96e00640228"
       ],
       "title": "Військовий літак Ан-12 розбився у РФ, загинули 19 людей",
       "url": "https://www.rbc.ua/rus/news/viyskoviy-litak-an-12-rozbivsya-rf-zaginuli-1794929016.html",
@@ -2352,8 +2424,8 @@
     },
     {
       "keys": [
-        "c4ee7852e6baec35e8945135eccaaab09c46f8f46878a0b52d736a855b1ccf31",
-        "38453d90748d6e685f9b712b65718612cb4e359d0921dcc5c20196cc580a9f0f"
+        "38453d90748d6e685f9b712b65718612cb4e359d0921dcc5c20196cc580a9f0f",
+        "c4ee7852e6baec35e8945135eccaaab09c46f8f46878a0b52d736a855b1ccf31"
       ],
       "title": "The Winning Democrat Who Wants to Break Up Political Parties",
       "url": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
@@ -2376,8 +2448,8 @@
     },
     {
       "keys": [
-        "940718a8ff1c7d3f840c26fdbbf2a2704ace7f91e45024e8f032e168cbf96ea2",
-        "6f3d592842611f87dd798120297da611c5991bdb081d05ebf1d8bd6d67aa8888"
+        "6f3d592842611f87dd798120297da611c5991bdb081d05ebf1d8bd6d67aa8888",
+        "940718a8ff1c7d3f840c26fdbbf2a2704ace7f91e45024e8f032e168cbf96ea2"
       ],
       "title": "Türkei: Weiterer oppositioneller TV-Sender unter staatlicher Kontrolle",
       "url": "https://www.dw.com/de/türkei-weiterer-oppositioneller-tv-sender-unter-staatlicher-kontrolle/a-79969106?maca=de-rss-de-top-1016-xml-atom",
@@ -2436,8 +2508,8 @@
     },
     {
       "keys": [
-        "c5ce5e893b424d330e1a52b88ac3324f1163ee6f9d1479f229a88d0a30eb22c1",
-        "0e336d3164e30bc01b10c4a937ff5db92d8a45ba7cb4ba00b451709267001e6e"
+        "0e336d3164e30bc01b10c4a937ff5db92d8a45ba7cb4ba00b451709267001e6e",
+        "c5ce5e893b424d330e1a52b88ac3324f1163ee6f9d1479f229a88d0a30eb22c1"
       ],
       "title": "Дощі, штормовий вітер і похолодання: прогноз погоди в Україні до кінця робочого тижня",
       "url": "https://www.rbc.ua/rus/news/doshchi-shtormoviy-viter-i-poholodannya-prognoz-1794922663.html",
@@ -2460,8 +2532,8 @@
     },
     {
       "keys": [
-        "e6a6397d185cb401925223bb947108f52981ea4b826070d018b73acc7dd0408f",
-        "5bd1ffe9fd6ad81d4ad517fdf10e6ec2f25f92707ea97b9ddb97737940805364"
+        "5bd1ffe9fd6ad81d4ad517fdf10e6ec2f25f92707ea97b9ddb97737940805364",
+        "e6a6397d185cb401925223bb947108f52981ea4b826070d018b73acc7dd0408f"
       ],
       "title": "When the Saudi desert was green",
       "url": "https://mappingignorance.org/2026/11/17/when-the-saudi-desert-was-green/",
@@ -2484,8 +2556,8 @@
     },
     {
       "keys": [
-        "b6d2eff5d009ccaac1929b5acd3392242b98206c56a8e855f207d671c2013239",
-        "580835841fde7b90a7e21eb49819815e226cbff8c97afcb165524246f1ea0f5c"
+        "580835841fde7b90a7e21eb49819815e226cbff8c97afcb165524246f1ea0f5c",
+        "b6d2eff5d009ccaac1929b5acd3392242b98206c56a8e855f207d671c2013239"
       ],
       "title": "СБУ показала відео ударів по Кримському мосту",
       "url": "https://www.rbc.ua/rus/news/sbu-pokazala-video-udariv-krimskomu-mostu-1794922740.html",
@@ -2520,8 +2592,8 @@
     },
     {
       "keys": [
-        "fb6e9ddb04cb7fac532f34c54cda5c20d80ad06796d32a80ff246c4465c2d222",
-        "39a616e7f4284cf1a1588422c47248f5a4b4acce9e9968e0c40a5de6c2745b2a"
+        "39a616e7f4284cf1a1588422c47248f5a4b4acce9e9968e0c40a5de6c2745b2a",
+        "fb6e9ddb04cb7fac532f34c54cda5c20d80ad06796d32a80ff246c4465c2d222"
       ],
       "title": "Зимові канікули у школах України: коли почнуться та скільки триватимуть",
       "url": "https://www.rbc.ua/rus/news/zimovi-kanikuli-shkolah-ukrayini-koli-pochnutsya-1794918961.html",
@@ -2556,8 +2628,8 @@
     },
     {
       "keys": [
-        "b71da9b3dcc117d17ebbbaedbbfa27bfde10711e3a3898710b83bbead99d0839",
-        "4a543baacd8121941a20d231b65cddfa786f0505118100bcec682c44fe9d5c36"
+        "4a543baacd8121941a20d231b65cddfa786f0505118100bcec682c44fe9d5c36",
+        "b71da9b3dcc117d17ebbbaedbbfa27bfde10711e3a3898710b83bbead99d0839"
       ],
       "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
       "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
@@ -2568,8 +2640,8 @@
     },
     {
       "keys": [
-        "8e21ef8842aaa26049422ec5356e4adfa71c846734bf5bf5897ca313699327cc",
-        "1c7d077c6459f911e846bddeee1a7b1bbc73345d1a5ad8bd4f3e89823938bc87"
+        "1c7d077c6459f911e846bddeee1a7b1bbc73345d1a5ad8bd4f3e89823938bc87",
+        "8e21ef8842aaa26049422ec5356e4adfa71c846734bf5bf5897ca313699327cc"
       ],
       "title": "Nvidia's earnings mark start of post-Jensen era",
       "url": "https://www.axios.com/2026/11/17/nvidia-earnings-report-ceo-transition",
@@ -2592,8 +2664,8 @@
     },
     {
       "keys": [
-        "87cd2d9586cc7d9f2838fff0c1bbc57ad13a79a59e68334f0b04f9ca5cf2d5b3",
-        "3a875c828ec3cc89fb176df40fb7bec901d40a733c13aa31ebe3f4e5567aa8d0"
+        "3a875c828ec3cc89fb176df40fb7bec901d40a733c13aa31ebe3f4e5567aa8d0",
+        "87cd2d9586cc7d9f2838fff0c1bbc57ad13a79a59e68334f0b04f9ca5cf2d5b3"
       ],
       "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
@@ -2628,8 +2700,8 @@
     },
     {
       "keys": [
-        "3dc6e3a47eaee6b20fddb1e3519032306ffc10d50b4895b96309449b246bdd9d",
-        "08002e318d0f7a24be321d59049d8dde62c187a298dd969b14f1987d9375d16a"
+        "08002e318d0f7a24be321d59049d8dde62c187a298dd969b14f1987d9375d16a",
+        "3dc6e3a47eaee6b20fddb1e3519032306ffc10d50b4895b96309449b246bdd9d"
       ],
       "title": "Can Google win the AI race without killing its cash cow?",
       "url": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
@@ -2640,8 +2712,8 @@
     },
     {
       "keys": [
-        "fdbaf4bde8d1c9093d3117a40c1f76aadba9735d4bea3e2664b22e6cca64878d",
-        "d002b5a3f3a17bfe78fb07384ba05f34d27a9450695607e97213089a5e976727"
+        "d002b5a3f3a17bfe78fb07384ba05f34d27a9450695607e97213089a5e976727",
+        "fdbaf4bde8d1c9093d3117a40c1f76aadba9735d4bea3e2664b22e6cca64878d"
       ],
       "title": "Кримський міст під ударом. Все про операцію України, яка заблокувала ворогу Азовське море",
       "url": "https://www.rbc.ua/rus/news/krimskiy-mist-pid-udarom-operatsiyu-ukrayini-1794914044.html",
@@ -2652,8 +2724,8 @@
     },
     {
       "keys": [
-        "e6b3e5f46e4135180b5fda1eae60c784deb4b8a634041d6a23d506b406b598b0",
-        "03611acb585d93685716f796f7b9f0821e149aa6d9d67a24ce1b8f678667e8ce"
+        "03611acb585d93685716f796f7b9f0821e149aa6d9d67a24ce1b8f678667e8ce",
+        "e6b3e5f46e4135180b5fda1eae60c784deb4b8a634041d6a23d506b406b598b0"
       ],
       "title": "U.S. gets another D+ on premature births",
       "url": "https://www.axios.com/2026/11/17/premature-birth-rate-us-high-low",
@@ -2664,8 +2736,8 @@
     },
     {
       "keys": [
-        "de093fe4184eac6bf3085cda677c16783b3e94006e66187cfaeab11345db39d5",
-        "8a64854992f2749f33f79ab1aa6cc0801bf2c7eddd6cd2e04b12a0c544f5afad"
+        "8a64854992f2749f33f79ab1aa6cc0801bf2c7eddd6cd2e04b12a0c544f5afad",
+        "de093fe4184eac6bf3085cda677c16783b3e94006e66187cfaeab11345db39d5"
       ],
       "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
@@ -2676,8 +2748,8 @@
     },
     {
       "keys": [
-        "da49075454d737a43b820cf8b6f6c88884bb419507e87fb2b43f3f890e4d16ec",
-        "3a95eb70fa40571519d7d3bae618cd8a422501044ec5bdc303b90ca5e36ea68a"
+        "3a95eb70fa40571519d7d3bae618cd8a422501044ec5bdc303b90ca5e36ea68a",
+        "da49075454d737a43b820cf8b6f6c88884bb419507e87fb2b43f3f890e4d16ec"
       ],
       "title": "Trump arrives in Philippines to kick off Asia trip",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
@@ -2724,8 +2796,8 @@
     },
     {
       "keys": [
-        "7fa93fc08b030253589435a525b97e4e2335a918cc9d41ba7d7468dfe1b6f484",
-        "2b64ff039aaaf20797a98746c3620ce9651a3af8b12ab91631c19b401d496738"
+        "2b64ff039aaaf20797a98746c3620ce9651a3af8b12ab91631c19b401d496738",
+        "7fa93fc08b030253589435a525b97e4e2335a918cc9d41ba7d7468dfe1b6f484"
       ],
       "title": "Democrats' squishy definition of Medicare expansion",
       "url": "https://www.axios.com/2026/11/17/democrats-medicare-for-all-definition",
@@ -2760,8 +2832,8 @@
     },
     {
       "keys": [
-        "af7057034e36a37c40592c5bf54556104ce6b0f1a4a060049a8eb04a12bd2373",
-        "a7efc4c8446b7ca14a38dce5d2396a098d7f05805e33a11f8ed7061b9bb998db"
+        "a7efc4c8446b7ca14a38dce5d2396a098d7f05805e33a11f8ed7061b9bb998db",
+        "af7057034e36a37c40592c5bf54556104ce6b0f1a4a060049a8eb04a12bd2373"
       ],
       "title": "Florida stayed red in a blue wave. But look at what happened in Hispanic precincts.",
       "url": "https://www.axios.com/local/miami/2026/11/17/florida-2026-hispanic-voters-blue-shift-angie-nixon",
@@ -2784,8 +2856,8 @@
     },
     {
       "keys": [
-        "9fadc1cd536e7330261e6886d2da2caaddb3a59d27eb1ba3be988d643bb79954",
-        "9e977d7c944598a9a146b125ede55dbc22cd5c29faecc1b5ccb262def1f0c4e6"
+        "9e977d7c944598a9a146b125ede55dbc22cd5c29faecc1b5ccb262def1f0c4e6",
+        "9fadc1cd536e7330261e6886d2da2caaddb3a59d27eb1ba3be988d643bb79954"
       ],
       "title": "More people are getting the flu. Should you get a flu shot before you travel?",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
@@ -2796,8 +2868,8 @@
     },
     {
       "keys": [
-        "f9c92f7cab968cd0ec72ad3bbcb60c84831f072278a99fbfb9c6f36534d75d6b",
-        "2d149b2ed3eeb7110b1425783de1820b0fce6260286c0ab6acc20b4500183e39"
+        "2d149b2ed3eeb7110b1425783de1820b0fce6260286c0ab6acc20b4500183e39",
+        "f9c92f7cab968cd0ec72ad3bbcb60c84831f072278a99fbfb9c6f36534d75d6b"
       ],
       "title": "Does locking up a student's cell phone improve test scores? A new study suggests so",
       "url": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
@@ -2820,8 +2892,8 @@
     },
     {
       "keys": [
-        "63f04582e755179e779ce04a951fc6172c7b7fd8752fb23a1fcd3cfa0d527b65",
-        "209d073e193095c047187c14fb1d470c6b0354e3ee13a58129cf8193ffeaed99"
+        "209d073e193095c047187c14fb1d470c6b0354e3ee13a58129cf8193ffeaed99",
+        "63f04582e755179e779ce04a951fc6172c7b7fd8752fb23a1fcd3cfa0d527b65"
       ],
       "title": "Операція тривала кілька тижнів: Зеленський розповів про удар по Кримському мосту",
       "url": "https://www.rbc.ua/rus/news/operatsiya-trivala-kilka-tizhniv-zelenskiy-1794908562.html",
@@ -2832,8 +2904,8 @@
     },
     {
       "keys": [
-        "a2b41580c5cf3e0abe00693ffe71ca1703a9ef9e0ac29748335d2baaf0ca7764",
-        "1cfba637bfa862bc42bb469ff77682574b6d220ec657146969a59a85eeca72c7"
+        "1cfba637bfa862bc42bb469ff77682574b6d220ec657146969a59a85eeca72c7",
+        "a2b41580c5cf3e0abe00693ffe71ca1703a9ef9e0ac29748335d2baaf0ca7764"
       ],
       "title": "Friedrich Merz lobt ausländische Medien für ein »deutlich positiveres« Deutschland-Bild",
       "url": "https://www.spiegel.de/politik/deutschland/deutschland-friedrich-merz-lobt-auslaendische-medien-fuer-ein-deutlich-positiveres-deutschlandbild-a-37e0819d-1ecd-487b-bdd4-21bb7c353c9f",
@@ -2880,8 +2952,8 @@
     },
     {
       "keys": [
-        "98cf81819402bbc9835ed219daf7bc81c48bbed774dfa0f0df890c768ac91501",
-        "3226bf463b62867374211bfce179d30bed358d16abbacae0ba8156a61a32633c"
+        "3226bf463b62867374211bfce179d30bed358d16abbacae0ba8156a61a32633c",
+        "98cf81819402bbc9835ed219daf7bc81c48bbed774dfa0f0df890c768ac91501"
       ],
       "title": "Під ударом Мукачево, Тернопіль, Чернівці: що відомо про масований удар по заходу України",
       "url": "https://www.rbc.ua/rus/news/pid-udarom-mukachevo-ternopil-chernivtsi-1794905169.html",
@@ -2892,8 +2964,8 @@
     },
     {
       "keys": [
-        "110993421cbb9a9c6f702b0e9228ae506c9b07d42f310497a000f7bc09dba2c5",
-        "0ba66b30de28116aca9b566ec2353456f762c5e7ebdb84e9883b60a15a7bce5e"
+        "0ba66b30de28116aca9b566ec2353456f762c5e7ebdb84e9883b60a15a7bce5e",
+        "110993421cbb9a9c6f702b0e9228ae506c9b07d42f310497a000f7bc09dba2c5"
       ],
       "title": "У Києві запустили додаткові рейси кільцевої електрички 17 листопада: як курсує",
       "url": "https://www.rbc.ua/rus/news/kievi-zapustili-dodatkovi-reysi-kiltsevoyi-1794904242.html",
@@ -2928,8 +3000,8 @@
     },
     {
       "keys": [
-        "e4aa1e41366de94c7cf75040006fe0393be36343e075f6babfdf65973ca9e69b",
-        "6a31595fad8ad14527254e8b4c5831dfb756bed0b6fdec66fb381e7d8aa3307a"
+        "6a31595fad8ad14527254e8b4c5831dfb756bed0b6fdec66fb381e7d8aa3307a",
+        "e4aa1e41366de94c7cf75040006fe0393be36343e075f6babfdf65973ca9e69b"
       ],
       "title": "GTA-Release: Warum \"Grand Theft Auto VI\" mehr als nur ein Spiel ist",
       "url": "https://www.dw.com/de/gta-release-warum-grand-theft-auto-vi-mehr-als-nur-ein-spiel-ist/a-79933772?maca=de-rss-de-top-1016-xml-atom",
@@ -2988,8 +3060,8 @@
     },
     {
       "keys": [
-        "fc266e3593cf5ba14e1bc129e2cad238b5e3b6b10c04fc8a07804e4f5a6a060a",
-        "7cee10198b632b6c6c0a4f6e726f2d5c15ecae3582e1eaacb3d5c7a74555f09c"
+        "7cee10198b632b6c6c0a4f6e726f2d5c15ecae3582e1eaacb3d5c7a74555f09c",
+        "fc266e3593cf5ba14e1bc129e2cad238b5e3b6b10c04fc8a07804e4f5a6a060a"
       ],
       "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
       "url": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
@@ -3000,8 +3072,8 @@
     },
     {
       "keys": [
-        "edfc1d09c6eb7ab1530a06858fc3295e6e824ec1f0055fb9a045b0d43e583bb6",
-        "cb2b0e54a5a83e3a2a447507c212189cd59fec364766023740a53991fa576565"
+        "cb2b0e54a5a83e3a2a447507c212189cd59fec364766023740a53991fa576565",
+        "edfc1d09c6eb7ab1530a06858fc3295e6e824ec1f0055fb9a045b0d43e583bb6"
       ],
       "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
       "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
@@ -3036,8 +3108,8 @@
     },
     {
       "keys": [
-        "efbe24aeb4dbf2a7f4dc6359f75576ee75fd7c8e050c92952b4b376a670c8875",
-        "b84bbdc8203e4bce3a44dc0b4d587487d563d134cbb3e4fb91da9f1d819c4561"
+        "b84bbdc8203e4bce3a44dc0b4d587487d563d134cbb3e4fb91da9f1d819c4561",
+        "efbe24aeb4dbf2a7f4dc6359f75576ee75fd7c8e050c92952b4b376a670c8875"
       ],
       "title": "Friedrich Merz: Marcel Fratzscher kritisiert Plan, die Stromsteuer noch zu senken",
       "url": "https://www.spiegel.de/politik/deutschland/marcel-fratzscher-kritisiert-friedrich-merz-fuer-plan-die-stromsteuer-noch-zu-senken-a-446a0dce-88c1-41fc-a0a7-177eae446dd3",
@@ -3048,8 +3120,8 @@
     },
     {
       "keys": [
-        "ed3f38f8e7c5f6c83acb97d9743775a5cf587be76583e8f454c2112fa7fccaca",
-        "814e45af83a19ce41208a3d9b56262fd0b01cf306aeb8c9a69c8b34bf6acde3d"
+        "814e45af83a19ce41208a3d9b56262fd0b01cf306aeb8c9a69c8b34bf6acde3d",
+        "ed3f38f8e7c5f6c83acb97d9743775a5cf587be76583e8f454c2112fa7fccaca"
       ],
       "title": "Invest in international rail services to boost UK-EU reset, Burnham urged",
       "url": "https://www.theguardian.com/business/2026/nov/17/invest-international-rail-services-boost-uk-eu-reset-andy-burnham",
@@ -3096,8 +3168,8 @@
     },
     {
       "keys": [
-        "74da89bb0fdb2811232cf09983f0bd7ebcf7a51a1db778c8a0c8ea04f69e7d38",
-        "14aaccc21e69c03e806b64593d7db138a36382ffab810b3ac3479d859c25a26d"
+        "14aaccc21e69c03e806b64593d7db138a36382ffab810b3ac3479d859c25a26d",
+        "74da89bb0fdb2811232cf09983f0bd7ebcf7a51a1db778c8a0c8ea04f69e7d38"
       ],
       "title": "Top Trump aides to meet with Europeans, Ukrainians on peace plan",
       "url": "https://www.axios.com/2026/11/17/witkoff-kushner-ukraine-europe-russia-berlin-meeting",
@@ -3189,6 +3261,18 @@
       "published": "2026-11-17T01:16:00+00:00",
       "discovered": "2026-11-17T01:51:15.166858+00:00",
       "excerpt": "За даними Telegram -каналу Astra , у російському Курську після атаки горить електропідстанція, яка живить 400 тисяч жителів. Джерело : Astra Деталі : Близько опівночі місцеві жителі повідомляли про гучні вибухи та роботу ППО, незабаром з'явилися повідомлення місцевих пабліків про \"наслідки на землі\". За даними аналізу Astra , у російському Курську зазнала атаки і горить електрична підстанція \"Садова\". Офіційно російська влада про атаку і наслідки не повідомляла. Довідково : Електрична підстанція 330 кВ \"Садова\" — це ключовий центр енергосистеми самого Курська і північних районів Курської області, що належить компанії \"Россети\". \"Садовам\", розташована в Північному районі Курська, забезпечує електроенергією близько 400 тисяч жителів Курська і великі промислові підприємства міста (включаючи заводи \"Прибор\", \"Счетмаш\" та ін.)."
+    },
+    {
+      "keys": [
+        "171dad343d5e7bb1da05491a5ddc7fd23a2711ad4f2cf2934be6ad219cc0474e",
+        "938730a9069022b0d89ef323250b33df4402f177eee22b6e5ee17f3d3bd6cf69"
+      ],
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "source": "European Union | The Guardian",
+      "published": "2026-11-17T01:10:59+00:00",
+      "discovered": "2026-11-17T22:52:47.595240+00:00",
+      "excerpt": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country. Continue reading..."
     },
     {
       "keys": [
@@ -5396,5 +5480,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-17T22:26:03.080192+00:00"
+  "last_checked": "2026-11-17T22:52:47.595240+00:00"
 }
