@@ -673,6 +673,58 @@
   "pending": [
     {
       "keys": [
+        "06bd3a9663df699f70414b89fda54f27bff13234383c5a1d3e1041202707d74a",
+        "0f00e0e5e25f9b847d3c23e85e401587c183bd3857d7ff1ca7be94cb1269f333"
+      ],
+      "title": "Радбез ООН проведе засідання високого рівня щодо ситуації в Україні",
+      "url": "https://www.pravda.com.ua/news/2026/11/18/8063361/",
+      "source": "Українська правда",
+      "published": "2026-11-17T23:40:00+00:00",
+      "discovered": "2026-11-17T23:50:47.413321+00:00",
+      "excerpt": "Рада Безпеки ООН збереться на засідання високого рівня для обговорення російської війни проти України. Воно відбудеться у понеділок, 23 листопада. Джерело : \" Укрінформ \" Деталі : Засідання проведе президент Латвії Едгарс Рінкевичс, оскільки в листопаді країна головує в Раді Безпеки ООН. Воно розпочнеться о 10:00 за нью-йоркським часом (17:00 за Києвом).",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/3/958846/b3eec94db2ac41a5b3478c08c24d4f73.jpeg"
+    },
+    {
+      "keys": [
+        "00c4ca52ef55693f4914036278a944abb203f4d6521183c377eeaaf46134b606",
+        "0e3138d885548cbdb20b57fcf6b2202f4b937fa6b73071d97ef8fcf4433ebf2e"
+      ],
+      "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
+      "source": "New York Times",
+      "published": "2026-11-17T23:25:31+00:00",
+      "discovered": "2026-11-17T23:50:47.413321+00:00",
+      "excerpt": "Representative Hakeem Jeffries, Democrat of New York, is expected to be nominated for speaker. Before the election, he did not endorse a plan to phase in Medicare for All. But with the Democrats’ sweeping gains, he appears to be taking a more ambitious approach.",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-jeffries-medicare-fzkj/17dc-jeffries-medicare-fzkj-mediumSquareAt3X.jpg"
+    },
+    {
+      "keys": [
+        "e6a476e4cd2ccff34b845854cdf4a0162e2fa66708ea56f779099959bd40012b",
+        "7e94a22670c638ed99f686fff616e1382935e2ec8d139210275788923eeb42db"
+      ],
+      "title": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
+      "source": "New York Times",
+      "published": "2026-11-17T23:23:41+00:00",
+      "discovered": "2026-11-17T23:50:47.413321+00:00",
+      "excerpt": "Senator Chuck Schumer of New York, the minority leader, at a news conference at the Capitol on Tuesday.",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-democrts-mcgj/17dc-democrts-mcgj-mediumSquareAt3X.jpg"
+    },
+    {
+      "keys": [
+        "8cd75a9bb9c172959b07cf7ee0f297df3674b23fba649ca58ede1c3909d4f052",
+        "403e6f12610fccf75b49396910bf58987a9c024d96adf81e73db4fa128bc7446"
+      ],
+      "title": "Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.",
+      "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew",
+      "source": "New York Times",
+      "published": "2026-11-17T23:19:54+00:00",
+      "discovered": "2026-11-17T23:50:47.413321+00:00",
+      "excerpt": "Howard Lutnick has frequently clashed with top officials over how to regulate sales of advanced technology to Asia, particularly Nvidia’s chip sales in the region.",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17nvidia-earnings-live-lutnick-version-plzv/17nvidia-earnings-live-lutnick-version-plzv-mediumSquareAt3X.jpg"
+    },
+    {
+      "keys": [
         "a85fe1e0631959e46b15fe283fb4827813d46c02d458023fa063f1e9f8b36e81",
         "a9a8bab1f65ef9f26859fded4c52f913523ebcea0dc6b0e8521620b77f5afca7"
       ],
@@ -686,8 +738,8 @@
     },
     {
       "keys": [
-        "be2e670fea7b85bc98b255de8abb3e8c08ce5d240f739edec422ef221a5d76c5",
-        "234e74335733ebae3e9a158af67990bb43cddd600903f73a8001eafc4d2367b7"
+        "234e74335733ebae3e9a158af67990bb43cddd600903f73a8001eafc4d2367b7",
+        "be2e670fea7b85bc98b255de8abb3e8c08ce5d240f739edec422ef221a5d76c5"
       ],
       "title": "San Diego dumps both Flock cameras and smart streetlights",
       "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
@@ -725,8 +777,8 @@
     },
     {
       "keys": [
-        "c5cbbfb073ee2cc3e8981c9b3ab5e307bc85f00614f2234efcb0c605aad7275e",
-        "7995d481a999ed1e1907583e90a87ff5c80b9c01c752efd46d3ff4155024f8bb"
+        "7995d481a999ed1e1907583e90a87ff5c80b9c01c752efd46d3ff4155024f8bb",
+        "c5cbbfb073ee2cc3e8981c9b3ab5e307bc85f00614f2234efcb0c605aad7275e"
       ],
       "title": "Another Storm Is Bearing Down on California",
       "url": "https://www.nytimes.com/2026/11/17/weather/california-storms-sf-waves.html",
@@ -828,8 +880,8 @@
     },
     {
       "keys": [
-        "e6474d477b6c857430c6e7c596023669dd3ac5bb1f0fee7c469d4e635b373163",
-        "ce865647f728d3d747894f3308c2372792ba3b408aeab1f0aa06795bfdef9614"
+        "ce865647f728d3d747894f3308c2372792ba3b408aeab1f0aa06795bfdef9614",
+        "e6474d477b6c857430c6e7c596023669dd3ac5bb1f0fee7c469d4e635b373163"
       ],
       "title": "Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54",
       "url": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
@@ -3128,8 +3180,8 @@
     },
     {
       "keys": [
-        "908656bfd529982395f8454e5650a691e28e7a51cdfeefdf39a5d7447eef4eb4",
-        "01a6588775e6f52dd12b02cdf51be05467e530b4e196adf142e6ca4f4f2881fe"
+        "01a6588775e6f52dd12b02cdf51be05467e530b4e196adf142e6ca4f4f2881fe",
+        "908656bfd529982395f8454e5650a691e28e7a51cdfeefdf39a5d7447eef4eb4"
       ],
       "title": "Trump’s Ego Trip With Xi and Putin Will End Badly",
       "url": "https://www.nytimes.com/2026/11/17/opinion/trump-xi-putin-summit.html",
@@ -5781,5 +5833,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-17T23:31:09.112766+00:00"
+  "last_checked": "2026-11-17T23:50:47.413321+00:00"
 }
