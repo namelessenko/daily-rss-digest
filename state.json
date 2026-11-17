@@ -14,6 +14,7 @@
     "041302c87e7322bcbb052f118c24f10a022085b7915d3708b7683e925b6edeeb",
     "0492cd01fbdf892b5fe61ab752b4f8285fd5ba030132a95c857f539d8d977d47",
     "051d025f54a6e609bd206e9a2b7b851937af4a8ce377f9efd594dac070973d19",
+    "055489b79635a615bc0746d12099868beecc7cf9c9080c9cd18386cd9dbe0e1e",
     "0616325642eb827c04764b93683db2224c5a91554982057487cb0fa8b71ca19f",
     "065423a34858831f4c49de0e43f1046f5d6842da45d2f984a79b983f6102e5f7",
     "069e0851a9a731c9d75618fe00438defbd5d90376670e3755e826a2819ee9a39",
@@ -26,6 +27,7 @@
     "089e8319488b7f87c005c0767e55c237b5ba7d8a47077a3c6485d33392b4f9d7",
     "08f733989526d241c443d605c195acab571b08ca4f7aa2971075930c26e3c71c",
     "09702f35c6757117dda5dbadc1c325db1b045b51c96f7fe12af5cf11fcd3a0e4",
+    "097948516506fc61e45da32a2bbf3832d64e841aca684db8086b2fb9a6107672",
     "09f8958545dcfc93ad2a0aa3cef154bff0cbf8639e23cd13d348b8c22ca4d39f",
     "0a1d2359e17db2c9dd8361644b75ae9b115d044011f3f188fc141b7e925cec67",
     "0a9ca393c377e0b4c4909121fdc7bae7603252e92f09bfdad3a8655f53d4309a",
@@ -36,6 +38,7 @@
     "0d10d966a10725f59a548f6829781d3a3e94c82dabacbf3b76e15cda9cb2af45",
     "0d82adde3723ade23707a3a8c3ebb8a84311212a1126982deb3bc6e5779398dd",
     "0dd25ffce5ee390dfa0e7262b5531698b1c33db8bd90295886454b9515a130ec",
+    "0f7b6003e5faa0309e9c50a432d36c6b765bc9208f672ada37f894f62d300dce",
     "0fd7b47fe00eaf25654d12fddab370aa8e10c6ea8f612504381d64ec85163718",
     "1056089e566b9349a8366f39a2747b9d1e6a0e67aa2dd719feb7da8bc4cbf38d",
     "10915c7849528a9aa9f6cc2c87c28ee5ea2defe035ac3b0e8fbd5bcb2e4ed17f",
@@ -66,6 +69,7 @@
     "1b66a38656a6a0de16f66029ba56a1ac35812ca2ea10308e7379f306bc41a196",
     "1b9acd8ddd73cad33bbe2b1eeb023c52c353a58c2138c8084be2de8a764be6b6",
     "1c12e5b3f0918d3422f23266556751cd6d537c956b8878ef40072cd460e09a73",
+    "1c84605c9904453bf1986bed2e899bb6ad6f5a72386094624a1bbcae4c37d9e3",
     "1cb46eb30f45253b9f9c195e35c3992eb6b39bc664caf60385dd6e1150345566",
     "1cd7a633561cfd40c7d0df77e8df61a318f88bc9ed00821546ff0da11e7608d3",
     "1d25409b0fdf30337fe99365ffe2cda7427ef999fd68eda28499c59309c76432",
@@ -93,6 +97,7 @@
     "27d519fde93152fc9ccea1a541ca8374c09276f51ef68f914cb1eaa08e01f3c3",
     "28cb1101d7b7f1e1bdb6a368a2f7d7ad218a6d7318d6ad3ff6e60d54d428214e",
     "28ec7e8d5335a9ae7ca5ba1e54ead0df2fa82e6fa1279aa989beb2efc06054aa",
+    "291ec95eb5d37af48191c3cf804fa5cc25bdd47e5e4f3a1b0b2e60e742c6b5e9",
     "296b018b44293c824e887d5c91d045e4d6d0b801f2e8ce3e2931aded4a1dc325",
     "29940448bc1c63de2a343973e9fd87f5394fa4fc4e9851404c7035c49b00300b",
     "29f1812103aaf0da952d5f8f9ecd8624713031a7c3c6a96b031eaae46dfc424e",
@@ -108,10 +113,13 @@
     "2da3dd5f84367ae273ce1e0831bd574a19983cb582f6e44c510798bcf2dad6b7",
     "2da52b376d015e80f0b353a3023ad141c5585c0d309a4a60d0e6b78d6dbba59d",
     "2dc8262e1cc6f15bb0889852895f56e448f540c39688a6261f89a25222e61d76",
+    "2dff280ba5cfb0c9159c61f881277f6cba9e9b8e79c454d53b9b7297d9157e40",
     "2fa4bd3b18dc5a0f79f9b33ebc0c2d4b70e349757b535f9b992d5abd2855572b",
+    "3057e8c15eaa905eb60bcba9cacd27c676c281bb5abeeda1f278ad7918666ff8",
     "308d5af94ebbed75fdee9009cb5420c716f988c39ffc78e381cb1be1358d9a15",
     "308d5bdb3e977339756899a5e3aa6614ff80847a2fa24f42e17c071c2728bbe3",
     "30aaa8e2b0c506d8025013428107dcfd568eb3a584a3d750adce25eebcf2615d",
+    "30ae886dcb14033a1a515e8c13a2ffc3830cba03e90f44ccb0a7cf33762f5272",
     "317dd31fb50c2e602deee027ff0bddee3a921d455ee7aede33d56ea0d6a70f25",
     "318db958a8fd73d6c363e2547fec479c72042ad3d955b22e23e032b6c8ecc8ae",
     "318f40ee286b4b1d46a2959dc6339cfe71ec342c642224fd7bca69e33870cb97",
@@ -124,12 +132,15 @@
     "343bbc74a4d48606755b4dd83ce39fc0e96791b44e01b77861c82d63a6bdaaa9",
     "34b98118d4d5e2b2b31c51e2b39fab345bd93bff341f78ac2cf5a86a8d9ac962",
     "35d04f6102e57d930100e14a502d7bd0ae0ba704488798a7e1fcb179e8e0d5b0",
+    "35deb0e7b1ba50d58beac9c191e3a6832b78e5205210bcb186779b04dad08b4d",
     "35f266f915ec089bad8c95fa3b31dc6d76905b300d686b10fe8631e29fb7b494",
     "371703c29e4399103eecd53db0d22f70af21615a9b6a83ecc59b7cd2a596fea8",
     "380d2a74f8fe6a5f610be3d6f46b2a4036873fd8777204a1d0db9f0d554ee00e",
     "38aa5eb3b0cb207cc26781142a378561b04096937c8133de32fbf858f9a0a801",
     "38c7a850baeeabf86881377ab561de38647fb673a7825f7df42306e07f36be16",
+    "393917028aa276cce3561695bbe7af34b0e1d94847e753c4391a965dfb33ac31",
     "395f350f0fac622e4be4c6dd916dc455e0c7d37de95b7c67e6a413a786fb5bb3",
+    "3a6ff4ab8f80f3123d15b2cedd67437540f456db4b1de087770d84fe3b581594",
     "3aeb69ab7747b65d60b50d1da9c607b6ffe592b39e796d1c85f9ebdc9d950192",
     "3b45185e0b82351dc604e3e3dff513e5208f5d535f4a5d1cdc152c150b151b4a",
     "3b83e7e9ff07b68b909939bf85aa51271621b2ea3a90f6cc2bba56cd82a723f7",
@@ -159,6 +170,7 @@
     "44b32a527983af0a48a9613b5e1a7f309473b313fa649cec03c0ded2dbcd4eb9",
     "45b517659e6e0c237fc5830ca194c80e75796a7fcfcbefa1caf13d51fdc4bcbb",
     "476beb4b5babdd2031bb745d62cb2e00ebc4d05f98549c6ba3273749c128c694",
+    "49e3c591c31ed5721abb62364cc579c570ec63a3937d876d45212baf757849ad",
     "4a5677701f82134d166322b360b4cbe5e983315b1edf6d8484e876aa23b2b64d",
     "4b2099a2314e1cbee873857aed9e310659bd48cade00a8c7b1ea2babda3113c9",
     "4b2e16ac28011eeec5ee7dc6781ca16a8438f6cd4328392a6cca62b8d99890b8",
@@ -176,6 +188,7 @@
     "500cdfddef5a76e916d376d4852cc5228332ebd8e05de159b4f93265e6cfb0ed",
     "509a4bf482c20cbff1686c4a0f9cfed3739a6df272b6e5ed72c5ea05d36aea40",
     "50eb1d72ca4e289fe62ace60389f4d6079385987bda6dababe23c6af3d88e761",
+    "50fd30df37fb416f8f570c9311f272ee759140788a9dca11577253dfe2e13734",
     "516b609386373a1306942172015144421fbdfcfa2bed24d29a81805f5e1fa4ec",
     "51f4d4b54620f8e18716113e64b33eee5d0cb0c8a0092e9def98fdca68f33142",
     "5246bc5a9413aad483b30ba3a9198c9fa53437f7237c6176a1d6c7d32cce6847",
@@ -188,6 +201,7 @@
     "55abb50c5e0b58c2cdc0d55165d995db631daf486e4f958ca813f3581ee4d247",
     "561ba16dea5548f9cb10d4114a00927d3cede42030247a2ebbb54971ee737d05",
     "561c98e6e7a9f9f709061a9d3aed5f022c3bcc6dbd22ade8342af799b97c15d2",
+    "5667db364c2e510904db0b1ff4d1420be4af08cc9733252e08fdac7c6dc3f88b",
     "567f064e2a20e7a8b82c3386b5d461ea6d09a231f5d731cf9adf50ae5fe374ea",
     "568eebe1b24cb4f94b475e0f3bf2d06394ede5c4ad5ae238cedc68d7fb673512",
     "56c544bd681bffa3bb85429fa5a7e9ee1baa1e206a73aba593ef3885c3efdc1b",
@@ -249,9 +263,11 @@
     "6f401c477d4b7b887822c24ccac4353c52688240b6f86b7ffdd69cac75b0ed80",
     "6f76c1bd0456388c5b92e3fe7f7b570b96d6540a194cda005bf948cb215ed8cb",
     "6f8b7daa62fa4cd00211faad31867e7c11d0959dbba2ac051903bd06ff2fc377",
+    "6ffb49a42f7cb6c7420c5c32ada0a0224e146bed65d7560fd33d2ded879f1890",
     "7017c184713d88f80dad4dd67ec403e800be36eadb134152dcaf54239d07190e",
     "70dbaabf1d9ceb844d3147e255ad5fb50ca3f6fbfa57acb50463ce63ca99dee2",
     "7112ef86f3c645f30518efe072e8c39aa0a4448b3077784eada75de6fea313e0",
+    "7122e9b9adfd7aa0b4b99e8c5547aeeb060def816884e005c6d1790b278f577d",
     "714a4f3b0edee8ca72318446856b7b1e94fb3310fa857bd2ae4e4e0011d580a0",
     "719278aae75f49f93b2c6780f0add4253084cf172a81a559f3960361056bf205",
     "7228c7724a0e84f0003e87f5df9b332fdfe7f32f38eb8952129dca76da72d7a1",
@@ -277,6 +293,7 @@
     "7b0ee07930a2749d660b233ade1a1d9ee3e47177b48e8b3e6ea0c82eed16f6b2",
     "7b89252b4ed0db99f5eb09396c9b63c4ab4f34f7dff8e076103cff770f2b3ab6",
     "7bd071dc88ba31e897c0e0eed6647a3a46ed0f577fffd6318c78c593b657ae33",
+    "7bebf7204b43b10bada8e1b9787f82693d6403869ba88f8418de6861e8282734",
     "7c680cc77a00ab91d17ffd60bb803b4982bfb792226888d22d3eca675c6a035f",
     "7cbda8d4ffe1f29e1457696c64f805323c68597e3f22f7078a49d8e935dfc9c3",
     "7d4922759ca69808fce48bd64df8fcea494bdf3369cb59df0fb6fe7ddab17021",
@@ -284,11 +301,13 @@
     "7d8b382012acf3a245c02709334dfb8b925fdecf8d876bb4da4cb1f3967756dd",
     "7da109a7a805b09c7458866d9c4ebcb98ceea8b4396a05843e0bf426e139531e",
     "7dc7cbf7e7e83138209a90630fdcdba94c85c6eb228c5bfa10a455397bf98f7b",
+    "7e72280db97da0d4124f98134ad8732937dfe1ab6d6ea11b93a4a87997065186",
     "7e9032b7e33cda534b0a40358c517b2f8761b63120cbf259e0dfe9b42f7353d5",
     "7f186d6934c6cbe7a2fd1ac093f695e7204409e7a6fbd8c25f53fbedb22ff886",
     "7f2e181937df65a4aa5697ee75d4c14557d80325dee84cd8552de11948efec09",
     "80f645dc8680939f175ece649df7715f74c3ccf08dec93edd7c6ac1b47abaa2a",
     "81bbe8df9ec91f2f662adb1bfe96c95080a34add0bf10b15771a5d077cd53ece",
+    "81e296c5033e406c6dfdafedc70e8a27af7c843a0cb71a1761b20858fa9b6694",
     "81efc8a7bc8f6ba010d83da6369e289a7dab4e410b6c79200b476d1db2d7ed40",
     "81fbb81fbdad1fc76e1153d7a236512a347da71410ac425b685384934d5fa06f",
     "830ab117fc9c7f6906f8d50853d8a271cfc2d50e5a185c5eed07ae7ef359ed70",
@@ -296,13 +315,16 @@
     "837ac771bf4344adc4a45f08e2f8d67691d28304ca1259820c7c2f441aa9a58e",
     "83e7286c94f56ec0e8ce6c63a22eeb2a3f96ff62232c7defe22984e4868505a7",
     "8464c4060f17137ca62f11cb09d3f738d85522236db9d44e7409bf1e93e6ffc9",
+    "85026e825374d2e71b0ac79cbc9fb41f4b310fc1b178ae19d402162e29dcc88d",
     "85db2067262e09fff955cd2b433f32061ccada88fae68f9bdb9f7cf09eccba1f",
     "85f1d1d114d5a6d91e5d9ee78adb73a6ffa393265c8f38d1be94b11f318c9593",
+    "85f88f2405346b4ab9a2f67dac30af5fb1bfcdfc11b0f2aec69eab187635202a",
     "86df47c182fbb645f29e5c049bc032ee9e6e8b0791901068fb9566e452733932",
     "870db0d5468da2500cacc3d1393dbde6037f2802db62e790a49103235815f548",
     "883a1113464637318a8823cb7836aa7f265bb3d44358db1fa74f525b6d08fd38",
     "8897d95a595388620a3b8be5684e07bb8ee119872abd6c5c1a67d1be5e168e7e",
     "8926ff481d21f78dca41f6628f931e5718b65293d5c2e3eeca97f6f6e8fea177",
+    "8945acf7ccf277d7fdc5d289e95133c44e7e0af0a09c399435ae721179ee031c",
     "8bc1ad00bafbabf2e030eafa113721d1bbf314c8ebaf573d72ed3066b4558967",
     "8c3d22a2e34e3d202daa82937327d948897772a5e30d3ab51c1a2e68594b527e",
     "8d6696663a390bae85bb8d8dfe84aa5a32c7ba8feebad0cfa77c0d0a8c9f8eac",
@@ -321,6 +343,7 @@
     "926db5bd76a0178541a21270453390fd072bebe4cb1f437a4967307efbf90b49",
     "92936ee1a35662a7c0904f2e71e708efe338cba533f8b2ef19b396e66af462a1",
     "939136a2940448dcb965d3b3b982af28d24d7be20100ed1ebc981d364f18970d",
+    "9425b2f52702ce45abaa5d93c08183ae240368dcf715c668f8d8ffcde2e4f965",
     "960d6cbdfd58c3f601a35f9ce7b34d7c13548ed4355d324ee364f92728f487c6",
     "966106b2789ba51b7f3c87b2a2d145bb87bf96dc97b7f6cb36adfb6a9c67f548",
     "96651a40ca12c320cb13e645f6c543d225dc45e83f7044d102e29014e6b84130",
@@ -339,6 +362,7 @@
     "9a98e5096b5d1554564c427993817895573f0033eaa0eefbbd2fb631b1097b60",
     "9b4d5fa0c466555f81c6968b085259306de2411cb8d67bf9baba8ccdfad33898",
     "9bc548d17e84db4ad0a2c4f9bbd4454ff9ee72556a9f878bd83787555a63cca1",
+    "9bdb42ff92a58bc8516d7a3c825f3438400f95761e6b65767c32479055069a46",
     "9c0eead815f38681aa625c8d3caa38e98b2708effc149564613a12c1223508c3",
     "9c97ffb4851ec27cc6c19ec3a5c452d485b13843057b38162fbd9641f4178edc",
     "9cc92d06ce74e13b22215778a9c1ab982944ac4ac328ca8cfe5005ad8691ebcc",
@@ -350,6 +374,7 @@
     "9e0a99fb8cdef262a6dca6bd461bfcff94db3fbb566cf5c23f527a8a671131c7",
     "9e217490f72bd3d6159d6c34622deb01578b69167f74c09011018e286f7d3577",
     "9ea7731f87a2a1bdd712dadb0f1621232ea4d1f7af1fcf4d5fb1d5bd29ee4ef6",
+    "9edad05aa1ed340cf1915d72d673427c5075d3d6036f1d1c01592621c37e4995",
     "9ef3fdefae16ce3c8687a124b8c12315d99f1ac7edcf22721198d564f9294bd0",
     "9f249741e21d69d8affa678c69097ca54147ec22af5937bd2e2602a9415d6e61",
     "9f5153210f206fbe47d6b609ec926b25a2ae163adcc048e3586423f041e6dc0e",
@@ -361,11 +386,13 @@
     "a14ce72ccdb105209ee77891d26c0e7b39ac1d548bca718045d8156401c3e86a",
     "a1b0d63ab35c03ce5791da060e08e0a787b9ebc1ef01ecb049786bf02aa6441b",
     "a2545fe809d5bbe31fa6af054bd7484292276dec9e9f187b8d8e7d0818764c4b",
+    "a2bb3575ee650031181c734975aaef9273c1d9e2c92b91ca80311f7577f43fa4",
     "a2cca338e0bd49e875e86a0782a1b0a7908cb119c0f3e07f88d7640e416d93ce",
     "a36288ebc85d57c22594c0e8544762faf6b5c171f90682ff230ac4d38f3d6238",
     "a3cd9f867bc5d4aa02a8055c9ce2f7b10438352d10375a156fb7b8507b764bd1",
     "a3f4fb045b5d6bbfd7af00c42b395f37d1d0c15d9dee008bea238fe4477bc5fa",
     "a4ba7824df5b3f759977c901e3a53a8aa34c7de87db5a57c5fd95a44436fc9df",
+    "a5e04cabc018eba6f0ab5bc0a8719c6bc56f11e759146e93ec84b3ed00507e9c",
     "a632d037f44ad0d878fd9a777aa0a73191b8b39372eef70600bb213404db1d46",
     "a67508bf98e1f3be16f9f531079cd14b8a0cd08deee55fda431ca44f4bd03177",
     "a73d2a29a341c3878e51d73cbc25b7e346838a48517980fc60a74a283a4fbf09",
@@ -375,6 +402,7 @@
     "a8385a2a4715bab538377b7480fb714e9966dccd527ff7622f077fb8c06c629d",
     "a87a8eb77ff64608cd3ad8a7b0d89d2a5a1f14f3af648a20d3f1966062faeb63",
     "a8f865fad37eec1a0304d743f57ebd833472845021a9c0277f9cf61dceb6539e",
+    "a94bc37c5102a02e4b82eaa35775516310778af2e0a8f0bef6d4b6a890ed9038",
     "a9612c9ffac6375ef25e623f38b00a7264ebbd46d30c73736cec3091aa60ef5a",
     "aa212467df2c9ba6dccf6889729336e424ebecb4281d423c7867edb946758525",
     "aac77aa5019786752b82e6896227ab5bbd9b1748538dd469de29ea45b4835885",
@@ -382,6 +410,8 @@
     "abca93961df5b9e24993d89dce8d7868130427eeabf032a651dd954f4a336e35",
     "abf9a758b26a3aba6865f35b12cfd8a4258f601a8a3d12eda0622a4ec2df4e4e",
     "ac766154fe8c3a2da3297016d59e4bc3d835996c8610f28cf1df8998b3d175e5",
+    "acde0ef2ce75c071723ab1a1cb3d3c8594cfb5d5b4ee5cf4c8a478f2f396f674",
+    "acf7cfb1bc1a8e47b7d0d0d528b8bae05eb58a565aa93aa3c1ee52dc55f986e0",
     "ad60d7617108e60d5d0ac4e896f7c1bc704526792d53217a30ebd06228092031",
     "ad614ae18f3ff6d36f28be882ecb6b86daf7d54c3fa6ba7a526ea100080fd518",
     "adcbb6ae2fe1e0d5607367cfde1c38cb8f27c5de6955f15008d2aded7e6fb688",
@@ -464,6 +494,7 @@
     "d058172cf5baa6cf684a6c0e68976d46772faf7f4df7552bc9d44a92cb6e94ab",
     "d05ab6a642fd2aa4363f2ae5a4954f0fd889422c45c034ea7d0e1946bee61dcc",
     "d095f59823b8b0dd2cd9d84b742d2c804abfedd4df764636ec15f62824009470",
+    "d0a15f7660a95522b510d97aa5e914dc775d976a893279fd571c9d17c34dcac2",
     "d0db07e2dc50b244ca5b47043115b1dea015c7ebdaba760667942cff1b6dc1ec",
     "d0df0e840d915e3b8fb020bd4cb300dc2a4d59951e93642eb36a192c636f8d3f",
     "d1122947edb73159679d2975475ef269e6a1e1ee973715d074b740a2a2c1434e",
@@ -472,7 +503,9 @@
     "d2438b38deb643764f252fcaa185f1061fc7a32415f22bc9181b01486356b936",
     "d24bb121b5e9bfba0556de90c65d8c396efe65e86af18e1e4a420c1e4f823b60",
     "d2852ca9bb0eb881138ff3f070d339a8d01ae879e6eb925a8d0ed69b0596de06",
+    "d294a58e7e4f6660dcf902b8dc3d60ca8b5c2a294d0ffe1f9711361b4dba8810",
     "d3560baa81a96fe97e43b27873b7c9ef49ce7678249f737ce30e29d2b2363f57",
+    "d35bcd737e02bdbe9f788280e48e916b9b4e741dd7f48377d92f0ad847df7a18",
     "d363d4311f6d6ec33c9dd761ac3f7fd003eacdf31fb78a65f741bb8dfef40647",
     "d39f3d0566df20f1afd3010a84432b470d15645e9a3fb9a1872e0fa9549f4180",
     "d3dfad65c21b32ff7c89db6f60d58e183cf44278e53537223e282e75591e9369",
@@ -502,6 +535,7 @@
     "db05edb41cb2353739dd06c28b0aaa37728c17ff74ac398e726bc736f6eac2a7",
     "db3f8c77edc6b862de34a9ce80f93c7d23088166483e13c8959c2f3adddf1bbd",
     "dbae6ad6d60a10ca3850c89d953607c701e8bee6b43b81d186f39ace3b5da5c2",
+    "dc6abcef16cd79c8e1c69a21d0f2a02c8aa2b8f40471e7b105ebad6b6a3e50e3",
     "dce475fe678041af05f4c5656b401e44dfa224d48f2b72747c37e3b74839eec7",
     "dd06fc0c8b69a26c698a57a0673985952496d81698cd2afe1fe5ce200adfff3d",
     "dd717d9032164833eeece6d9ea72864185a18164e557fb5398a9a5798ee013d5",
@@ -538,6 +572,7 @@
     "e8606132f30f9f0610d5bf9b3b8592ff6cad6a5a97ea2c6422372fceab647f28",
     "e88714ca538b4d7902fec2a114eae6a0eb1c951292c9b4c0724cf6902bf91211",
     "e91842df4f3961f50a290c5393ba6f8336743ab5134083ef1931cd82422dbaf1",
+    "e985c60b950a40d3c3aa25b20ddddc842756ec62fe8aca4ac931e91d4460fc60",
     "ea0b7541ad51b3561be2ed358ff5255d6e8002ec4f2b282568a837f11a8fc25f",
     "ea211ab5f3e0b9b89ab6a7f1dc9e342258eae015ae2bfd013ddaba943907808e",
     "ea83704f318d0d368a63f04a9f64ba33ae8b05189727d1140c671c53f746d311",
@@ -547,10 +582,12 @@
     "ece0f4a095164df122089b5d6716245b3dcaf904667761893c509000234fad93",
     "ecf8c2e6132a94ee708ed1811fb7c16cc18590e3a56a0168865b5e27faa8efb4",
     "ed2639d5691342bb3f2af8a2b3c3421cff928b0c36ab8d44d9873758c2ff656e",
+    "ed2f75fffa6a12768e71d943204ed42571c5c41b60cf91c10d274f97b418fa6f",
     "ed3efd06965c7e717729dbbcea27a7a4d6c5c7ac3606d1189dad9c59eecbe118",
     "ed44f8c3fb1ab03305cc715b672d8db20f164e1713b8cd2d4394f11ebeba2c2c",
     "ed871b7ed5a3eac19477aafaa92b3cc7ad2fa91b369f43039d572ae742f2499c",
     "ee374dc03cf127b7fc67a981fb8cbda43f5b7f50dc0c60f0c8251eb0ee7e1ae8",
+    "ee7edb2ff1c503a97f78fdac26c6387791bd6e998681e054e5085f3b86bf6c61",
     "ee93574a84ea864b57711547b4c8dee690e8f116391410e5fa807c7fed3d0242",
     "f0168edc73fbf736e76449341e660a9cd6d3831d87a8c8548b957b7a717511c0",
     "f018e6ef36104d85c3caf6da89459623f421c1d10e4ad4f6ec0d5037ea83e2aa",
@@ -590,188 +627,11 @@
     "fceab854cee88018b543eebe9b346ccaf686cc50ab89b1d8ce55dcdda1d0ebc1",
     "fdab3922d34a116248ab8530a57977a4d81f9bf12d106a9c419d0405448580ff",
     "fe463fe732d84258261d6a3e329017482792952341692be396b4a89dbc93ccc1",
+    "fe87ee9df2eaa8d80d7653463b6ad17a47c8981d5d862d99999f68dc6533b4d5",
+    "fe975df80aa5b3f549e5a7c0796386166a15314fe59624b2a9f38586b16f634c",
     "fef5a8b0c2aad0370003e7dd2d5af04dd84c7f5d82857635d4b45c4b5bd37247"
   ],
   "pending": [
-    {
-      "keys": [
-        "3a6ff4ab8f80f3123d15b2cedd67437540f456db4b1de087770d84fe3b581594",
-        "291ec95eb5d37af48191c3cf804fa5cc25bdd47e5e4f3a1b0b2e60e742c6b5e9"
-      ],
-      "title": "У столиці РФ другу ніч поспіль заявляють про атаку дронів",
-      "url": "https://www.pravda.com.ua/news/2026/11/17/8063185/",
-      "source": "Українська правда",
-      "published": "2026-11-16T23:34:00+00:00",
-      "discovered": "2026-11-16T23:44:51.257428+00:00",
-      "excerpt": "У ніч на вівторок, 17 листопада, російська влада заявила про атаку безпілотників, які нібито \"летіли на Москву\". Джерело : мер Москви Сергій Собянін Деталі : Починаючи з вечора понеділка, Собянін повідомляв про нібито \"збиті\" безпілотники, які тримали курс на Москву. За підрахунками мера російської столиці, з вечора і до першої ночі таких дронів було понад 200. Традиційно представники влади РФ не повідомляють про наслідки атаки, про у повідомленнях Собянін додає: \"На місці падіння уламків працюють спеціалісти екстрених служб\". Оновлено : Після 1:40 Собянін заявив про ще 20 нібито збитих дронів. Що передувало : Починаючи з вечора неділі та в ніч на понеділок, 16 листопада, російська влада повідомляла про атаку безпілотників на Москву ."
-    },
-    {
-      "keys": [
-        "acde0ef2ce75c071723ab1a1cb3d3c8594cfb5d5b4ee5cf4c8a478f2f396f674",
-        "50fd30df37fb416f8f570c9311f272ee759140788a9dca11577253dfe2e13734"
-      ],
-      "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
-      "url": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
-      "source": "New York Times",
-      "published": "2026-11-16T22:27:45+00:00",
-      "discovered": "2026-11-16T23:44:51.257428+00:00",
-      "excerpt": "A data center under construction in Kota Tinggi, Malaysia."
-    },
-    {
-      "keys": [
-        "35deb0e7b1ba50d58beac9c191e3a6832b78e5205210bcb186779b04dad08b4d",
-        "acf7cfb1bc1a8e47b7d0d0d528b8bae05eb58a565aa93aa3c1ee52dc55f986e0"
-      ],
-      "title": "Give your cat something better than the box this Christmas with this $15 self-rolling LED ball",
-      "url": "https://boingboing.net/2026/11/16/give-your-cat-something-better-than-the-box-this-christmas-with-this-15-self-rolling-led-ball.html",
-      "source": "Boing Boing",
-      "published": "2026-11-16T22:00:00+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "TL;DR : The Cheerble Ball is a self-rolling, LED-lit cat toy built to appease the fussiest cats. Grab yours now while it's on sale for just $14.97 (reg. $27.99) to get it in time for Christmas. We cat lovers tend to adore cats because of their aloof, individualistic personalities. — Read the rest The post Give your cat something better than the box this Christmas with this $15 self-rolling LED ball appeared first on Boing Boing ."
-    },
-    {
-      "keys": [
-        "7e72280db97da0d4124f98134ad8732937dfe1ab6d6ea11b93a4a87997065186",
-        "ed2f75fffa6a12768e71d943204ed42571c5c41b60cf91c10d274f97b418fa6f"
-      ],
-      "title": "Санду: Молдова не конкурує з жодною країною-кандидаткою на вступ у ЄС",
-      "url": "https://www.pravda.com.ua/news/2026/11/16/8063181/",
-      "source": "Українська правда",
-      "published": "2026-11-16T21:57:00+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": ""
-    },
-    {
-      "keys": [
-        "85f88f2405346b4ab9a2f67dac30af5fb1bfcdfc11b0f2aec69eab187635202a",
-        "a2bb3575ee650031181c734975aaef9273c1d9e2c92b91ca80311f7577f43fa4"
-      ],
-      "title": "Three small failures combined to take down Microsoft 365",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "source": "Ars Technica",
-      "published": "2026-11-16T21:56:39+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "A hidden defect in Microsoft's cloud gateway, dormant since July, was to blame for one of the largest outages in the company's history last week. A preliminary Post-Incident Report (PIR) released by the company outlines how the latent bug, changes in traffic, and reduced server capacity combined to knock much of Microsoft 365 and Exchange infrastructure offline at the end of last week. Microsoft's report lists the incident's final status as \"a technical issue not related to cyber or AI/agents.\" Microsoft's preliminary report places the outage between November 12 at 16:20 UTC and November 13 at 16:10 UTC, just under 24 hours total, and additional monitoring remained in place for any affected systems through November 14. The outage started on November 12 and quickly rippled through businesses and public offices that depend on Microsoft's cloud and email exchange infrastructure. The outage is covered in Microsoft's incident IDs EX1550543 and MO1550821. You need Microsoft 365 admin credentials to see the full report on the company's status pages, but Office Watch has reproduced the preliminary report , and the University of Pennsylvania maintains an archive of Microsoft's service-health updates . Read full article Comments"
-    },
-    {
-      "keys": [
-        "7122e9b9adfd7aa0b4b99e8c5547aeeb060def816884e005c6d1790b278f577d",
-        "85026e825374d2e71b0ac79cbc9fb41f4b310fc1b178ae19d402162e29dcc88d"
-      ],
-      "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
-      "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
-      "source": "New York Times",
-      "published": "2026-11-16T21:54:08+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Sean Connery as James Bond, with the spy’s characteristic Aston Martin DB5, in “Goldfinger.”"
-    },
-    {
-      "keys": [
-        "097948516506fc61e45da32a2bbf3832d64e841aca684db8086b2fb9a6107672",
-        "a5e04cabc018eba6f0ab5bc0a8719c6bc56f11e759146e93ec84b3ed00507e9c"
-      ],
-      "title": "Київ зазнав атаки балістикою, попередньо, є влучання у мости – влада",
-      "url": "https://www.radiosvoboda.org/a/news-kyyiv-ataka-rf-balistyka-poperedzhennya/33899838.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-16T21:46:01+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Мер додав, що, попередньо, були влучання в Північний та Південний мости в столиці"
-    },
-    {
-      "keys": [
-        "1c84605c9904453bf1986bed2e899bb6ad6f5a72386094624a1bbcae4c37d9e3",
-        "5667db364c2e510904db0b1ff4d1420be4af08cc9733252e08fdac7c6dc3f88b"
-      ],
-      "title": "У Києві, Дніпрі та Запоріжжі пролунали вибухи: РФ вдарила балістикою",
-      "url": "https://www.rbc.ua/rus/news/kievi-dnipri-ta-zaporizhzhi-prolunali-vibuhi-1794865310.html",
-      "source": "РБК-Украина",
-      "published": "2026-11-16T21:40:50+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Росіяни у понеділок ввечері, 16 листопада, атакували Україну балістикою. Ворог вдарив ракетами по Києву, Дніпру та Запоріжжю, після чого в обох містах пролунали потужні вибухи. Про це повідомляє РБК-Україна з посиланням на Telegram Повітряних сил ЗСУ. \"Червоний рівень небезпеки. Закликаємо мешканців міста пройти до найближчих укриттів\", - йшлося у повідомленні Київської МВА о 23:26 в Telegram. В цей момент сигнал повітряної тривоги поширився у більшості областей України. Перед цим Повітряні сили ЗСУ попередили, що є загроза застосування балістики, після чого зафіксували пуски ракет на Київ, Дніпро та Запоріжжя. Вибухи у Києві та Дніпрі було чути приблизно 23:31. У Запоріжжі було гучно о 23:20 та ще о 23:33. Наразі мер Києва Віталій Кличко підтвердив, що ворог бив по столиці балістикою, а співголова Ради оборони Запорізької області Іван Федоров написав, що по Запоріжжю завдано щонайменше 6 ударів і під обстрілом - критична інфраструктура. Оновлено о 00:20 Мер Києва Віталій Кличко поінформував, що у Києві, попередньо, є влучання у Північний та Південний мости. Окрім того, ворог пошкодив системи критичної інфраструктури, тож в деяких районах спостерігаються перебої з водою і світлом. Тим часом у Запорізькій ОВА поінформували, що під ударом балістики опинилося промислове підприємство. Також зауважимо, що о 00:03 вибухи пролунали у Харкові. Попередньо, ворог теж атакував місто балістикою, а саме - вдарив по Холодногірському району. Приблизно о 00:23 у місті пролунали повторні вибухи, але в цей момент вже фіксувалися дрони. Де оголосили тривогу Станом на 23:40 карта повітряних тривог має такий вигляд. Як можна побачити, сигнал продовжується у більшості областей України. Що ще важливо знати Нагадаємо, сьогодні речник Командування Повітряних сил ЗСУ Юрій Ігнат повідомив, що Україна вже кілька днів отримувала попередження про підготовку Росії до нового удару. Серед можливих цілей називалися енергетика та критична інфраструктура. Також ми писали, що президент України Володими"
-    },
-    {
-      "keys": [
-        "9edad05aa1ed340cf1915d72d673427c5075d3d6036f1d1c01592621c37e4995",
-        "a94bc37c5102a02e4b82eaa35775516310778af2e0a8f0bef6d4b6a890ed9038"
-      ],
-      "title": "РФ атакувала Київ балістикою: є інформація про влучання в два мости",
-      "url": "https://www.pravda.com.ua/news/2026/11/16/8063180/",
-      "source": "Українська правда",
-      "published": "2026-11-16T21:37:00+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Увечері 16 листопада в Києві пролунали вибухи: Росія атакувала балістичними ракетами мости в Києві. Джерело : мер Києва Віталій Кличко Пряма мова: \"У столиці працюють сили ППО. Київ під атакою балістики. Перебувайте в укриттях!\" Деталі : Пізніше Кличко повідомив, що за попередньою інформацією, є влучання в Північний та Південний мости в Києві. Оновлено : Після опівночі у вівторок Кличко повідомив, що внаслідок атаки росіян є пошкодження систем критичної інфраструктури. В деяких районах зафіксовані перебої з водо- і теплопостачанням."
-    },
-    {
-      "keys": [
-        "3057e8c15eaa905eb60bcba9cacd27c676c281bb5abeeda1f278ad7918666ff8",
-        "8945acf7ccf277d7fdc5d289e95133c44e7e0af0a09c399435ae721179ee031c"
-      ],
-      "title": "Поліція: у Польщі затримали 16-річного громадянина РФ через погрози убивством учням та адміністрації школи",
-      "url": "https://www.radiosvoboda.org/a/news-nepovnolitniy-pohrozy-polshcha-shkola/33899837.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-16T21:36:59+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Суд помістив підлітка на три місяці до виховної установи для неповнолітніх"
-    },
-    {
-      "keys": [
-        "2dff280ba5cfb0c9159c61f881277f6cba9e9b8e79c454d53b9b7297d9157e40",
-        "fe975df80aa5b3f549e5a7c0796386166a15314fe59624b2a9f38586b16f634c"
-      ],
-      "title": "Fewer international students, billions at stake",
-      "url": "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
-      "source": "Axios",
-      "published": "2026-11-16T21:36:03+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Fewer international students are enrolling at American universities, costing the American economy billions of dollars and hurting college towns. Why it matters: International students typically pay higher tuition than their American counterparts, helping offset financial challenges and support domestic students. Their absence could hit smaller colleges especially hard, with ripple effects for local economies and the workforce. Driving the news: New international student enrollment at U.S. colleges and universities fell 18% during the 2025–26 academic year, according to data released Monday by the Institute of International Education. Overall international enrollment dropped 3% to about 1.15 million students. International graduate student numbers fell 13%, compared to a 0.3% dip among undergraduates. However, doctoral enrollment rose 3%. Threat level: \"For domestic enrollment, we're hitting the demographic cliff,\" Sarah Spreitzer, vice president and chief of staff for government relations at the American Council on Education, tells Axios. She pointed to fewer high school graduates and state budget cuts as extra financial pressures facing universities. \"I think international students were used as one of the levers that you could pull to help address some of the budgetary issues.\" Domestic students could receive \"less support,\" she said, although it's too soon to know whether that could mean higher tuition or fewer scholarships. By the numbers: International students contributed roughly $40 billion to the U.S. economy in 2025-2026, and those aren't just tuition dollars. Their spending on housing, food and transportation helped support over 300,000 jobs, per data released by NAFSA: Association of International Educators. That's down 7%, or $3 billion, compared to the 2024-2025 academic year, with 46,000 fewer jobs supported. It marks the second straight annual decline after three years of growth. Real estate developers in Boston told Spreitzer last year that declining "
-    },
-    {
-      "keys": [
-        "9425b2f52702ce45abaa5d93c08183ae240368dcf715c668f8d8ffcde2e4f965",
-        "d0a15f7660a95522b510d97aa5e914dc775d976a893279fd571c9d17c34dcac2"
-      ],
-      "title": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors",
-      "url": "https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html",
-      "source": "New York Times",
-      "published": "2026-11-16T21:35:33+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss."
-    },
-    {
-      "keys": [
-        "fe87ee9df2eaa8d80d7653463b6ad17a47c8981d5d862d99999f68dc6533b4d5"
-      ],
-      "title": "DoD restores parental access to teens’ medical records",
-      "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/16/dod-restores-parental-access-to-teens-medical-records/",
-      "source": "Military Times",
-      "published": "2026-11-16T21:27:37+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Military parents will be able to view their teenagers’ Defense Department electronic health records more easily starting Wednesday — a change parents have said is necessary to guide health decisions for their children. Beginning Nov. 18, dependent children ages 13-18 will be able to go into the MHS Genesis portal and grant permission for their parents to view their medical records. Previously, parents had to go into patient administration offices at their military hospital or clinic and have their teenage children sign a consent form for parents to have access. The cumbersome process and restrictions, which went into effect in 2023, have vexed military parents, according to Army Surgeon General Lt. Gen. Mary Izaguirre. “The parents don’t have access to [records] based on the current departmental policy, and then the children don’t have ID cards to sign in to get into [the Defense Enrollment and Eligibility Records System] … so there’s this space,” Izaguirre said Oct. 13 during a forum for families at the Association of the U.S. Army’s annual meeting. Parental access to minor medical records largely depends on state and federal regulations. An update in 2023 to the Health Insurance Portability and Accountability Act’s (HIPAA) privacy rules modified the circumstances under which a person’s health information can be disclosed under federal law. The change, which followed the Supreme Court’s decision in 2022 to overturn Roe v. Wade, prohibited doctors, insurance companies and other health organizations from disclosing patient information to state officials for investigations or civil or criminal cases. The Defense Health Agency subsequently published guidance saying that in the military health system, parents of minors 12 and under would have full access to their children’s health records, but those with dependents ages 13 to 17 only have access to appointment information, messaging, vaccination records and allergy care. HIPAA’s privacy rules permit parents to access mi"
-    },
-    {
-      "keys": [
-        "0f7b6003e5faa0309e9c50a432d36c6b765bc9208f672ada37f894f62d300dce",
-        "6ffb49a42f7cb6c7420c5c32ada0a0224e146bed65d7560fd33d2ded879f1890"
-      ],
-      "title": "Zelensky warns of imminent Russian attacks, 'extremely dangerous' North Korean missile development",
-      "url": "https://kyivindependent.com/zelensky-warns-of-imminent-russian-attacks-extremely-dangerous-north-korean-missile-development/",
-      "source": "The Kyiv Independent",
-      "published": "2026-11-16T21:27:18+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "\"Please, be sure to heed air-raid alerts this evening, tonight, and throughout the day tomorrow,\" Zelensky warned Ukrainians. \"There is information that the Russians have prepared for an attack.\" Zelensky also said North Korea is now supplying Moscow with dozens of ballistic missiles each month."
-    },
-    {
-      "keys": [
-        "9bdb42ff92a58bc8516d7a3c825f3438400f95761e6b65767c32479055069a46",
-        "d294a58e7e4f6660dcf902b8dc3d60ca8b5c2a294d0ffe1f9711361b4dba8810"
-      ],
-      "title": "Путін на зустрічі з соратником Кім Чен Ина згадав участь корейських військових у боях на Курщині",
-      "url": "https://www.pravda.com.ua/news/2026/11/16/8063179/",
-      "source": "Українська правда",
-      "published": "2026-11-16T21:23:00+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "Глава Кремля Володимир Путін на зустрічі з членом президії Трудової партії Кореї Чо Ен Воном відзначив участь корейських військових у боях на Курщині. Джерело : РИА Новости Деталі : Путін передав найкращі побажання і \"дружній привіт\" Кім Чен Ину під час зустрічі з Чо Ен Воном. Він також назвав участь військових КНДР у визволенні територій Курської області \"новою сторінкою в літописі бойового співтовариства двох країн\". За його словами, до кінця року росіяни планують відкрити в Курську скульптуру присвячену російським та корейським бійцям. Передісторія : У 2025 році українська армія взяла в полон на Курщині двох військових з Північної Кореї. Пізніше з'ясувалося , що підроблений військовий квиток, який виявили у одного з полонених бійців КНДР, виписано на ім'я реального жителя російської республіки Тива. Під час виступу на Генасамблеї ООН 23 вересня Зеленський повідомив , що нещодавно Україна передала Південній Кореї двох північнокорейських військовополонених. Зокрема, він розповів, що один з північнокорейців намагався накласти на себе руки, як тільки зрозумів, що опинився в полоні, адже саме так виховує людей пропаганда в КНДР."
-    },
     {
       "keys": [
         "4c1472321c25a9b6ab9eebdd06671b4fad6085498b427ce4ddeb3eb09b06b94d",
@@ -3104,18 +2964,6 @@
       "published": "2026-11-16T00:21:45+00:00",
       "discovered": "2026-11-16T23:24:48.463859+00:00",
       "excerpt": "submitted by /u/one_and_equal [link] [comments]"
-    },
-    {
-      "keys": [
-        "22475e1b0adf482f956ceeaa0f8aa234494e4ce62857cfb601d7ac206816530c",
-        "b59d4497561470047f592ed95f1180f19989d7ca41db18b2f23da2004f0c320c"
-      ],
-      "title": "Poland Satirizes Russian Demands by Claiming Smolensk from 1634 Treaty. Amid reports of Moscow seeking Donbas, NATO pullbacks from Baltics, and Finland's alliance exit...a popular Polish history post proposed Poland reclaim Smolensk under the 1634 Peace of Polanów",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xxatgr/poland_satirizes_russian_demands_by_claiming/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-16T00:02:52+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "submitted by /u/one_and_equal [link] [comments]"
     }
   ],
   "history": [
@@ -5033,7 +4881,187 @@
           "source": "Новини - Радіо Свобода"
         }
       }
+    },
+    {
+      "date": "2026-11-17",
+      "created": "2026-11-17T00:15:17.336593+00:00",
+      "summary": {
+        "title": "Daily News Digest: November 17, 2026",
+        "intro": "This digest covers significant developments in the ongoing conflict in Ukraine, international relations, and domestic policy updates.",
+        "stories": [
+          {
+            "headline": "Ukraine Reports Ballistic Missile Attacks Across Multiple Cities",
+            "summary": "Russian ballistic missile strikes targeted Kyiv, Dnipro, and Zaporizhzhia late Monday, causing explosions and damaging critical infrastructure. In Kyiv, officials reported potential impacts on the Northern and Southern bridges, leading to disruptions in water and power supplies. Zaporizhzhia also experienced strikes against industrial facilities and critical infrastructure, while Kharkiv reported multiple explosions. Earlier in the day, President Zelensky warned of imminent Russian attacks and noted that North Korea is supplying dozens of ballistic missiles to Moscow monthly.",
+            "article_ids": [
+              "12",
+              "13",
+              "14",
+              "19"
+            ]
+          },
+          {
+            "headline": "Moscow Faces Drone Strikes as Escalation Continues",
+            "summary": "Russian authorities reported a wave of drone attacks against Moscow. Moscow Mayor Sergey Sobyanin claimed that over 200 drones were shot down between Monday evening and early Tuesday, with an additional 20 intercepted later. Emergency services were deployed to sites where debris fell, though Russian officials provided limited information on the impact.",
+            "article_ids": [
+              "4"
+            ]
+          },
+          {
+            "headline": "Russia-North Korea Military Cooperation Highlighted",
+            "summary": "During a meeting with a high-ranking North Korean official, Vladimir Putin praised the participation of North Korean soldiers in combat operations in the Kursk region. He described the military collaboration as a new chapter in the partnership between the two nations and announced plans for a commemorative sculpture in Kursk to honor both Russian and North Korean troops.",
+            "article_ids": [
+              "20"
+            ]
+          },
+          {
+            "headline": "European Leaders Urge Clampdown on Russian Crypto Networks",
+            "summary": "European foreign ministers are calling for intensified sanctions to target Russian cryptocurrency networks. Finnish Foreign Minister Elina Valtonen emphasized the need to close loopholes that allow Russia to bypass financial restrictions, urging enhanced international cooperation to disrupt funding for the war effort.",
+            "article_ids": [
+              "1"
+            ]
+          },
+          {
+            "headline": "Reported Damage to Kerch Strait Bridge",
+            "summary": "Unverified reports circulating online suggest that an arch of the Kerch Strait Bridge, which connects Russia to occupied Crimea, may have collapsed following a reported Ukrainian strike.",
+            "article_ids": [
+              "2"
+            ]
+          },
+          {
+            "headline": "Microsoft Reports Cause of Major Outage",
+            "summary": "Microsoft confirmed that a hidden defect in its cloud gateway, combined with traffic changes and reduced server capacity, caused a significant service disruption for Microsoft 365 and Exchange between November 12 and November 13. The company stated the incident was a technical issue unrelated to cyberattacks.",
+            "article_ids": [
+              "10"
+            ]
+          },
+          {
+            "headline": "U.S. Policy and Domestic Updates",
+            "summary": "The Department of Defense announced that starting November 18, military parents will regain easier access to their teenagers’ medical records via the MHS Genesis portal. In the education sector, new data shows international student enrollment at U.S. colleges fell 18% in the 2025–26 academic year, costing the economy an estimated $3 billion. Meanwhile, the Trump administration is reportedly moving to tighten loopholes related to A.I. chip exports, and Transportation Secretary Pete Buttigieg is navigating his role in the 2026 midterms with an eye toward future political cycles.",
+            "article_ids": [
+              "6",
+              "7",
+              "16",
+              "18"
+            ]
+          },
+          {
+            "headline": "International and Health Briefs",
+            "summary": "Moldovan President Maia Sandu stated that Moldova does not view itself as being in competition with other EU candidate countries. In Poland, a 16-year-old Russian citizen was detained for allegedly threatening school staff and students. Additionally, medical experts have raised concerns over a rise in measles cases among pregnant women and newborns. In aviation, pilots maintained contact with air traffic control during a recent nationwide flight stoppage. Finally, Nvidia's Madison Huang has emerged as a significant figure in product marketing, and a $15 LED ball is being marketed as a holiday toy for cats.",
+            "article_ids": [
+              "3",
+              "5",
+              "8",
+              "9",
+              "11",
+              "15",
+              "17"
+            ]
+          }
+        ]
+      },
+      "sources": {
+        "1": {
+          "title": "European foreign ministers call on EU to crack down on Russian crypto networks",
+          "url": "https://kyivindependent.com/european-foreign-ministers-call-on-eu-to-crack-down-on-russian-crypto-networks-financing-war-against-ukraine/",
+          "source": "The Kyiv Independent"
+        },
+        "2": {
+          "title": "Arch of the Kerch Strait Bridge (to Crimea) appears to have collapsed tonight after Ukrainian strike.",
+          "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xy55kn/arch_of_the_kerch_strait_bridge_to_crimea_appears/",
+          "source": "rUkrainianConflict on Reddit"
+        },
+        "3": {
+          "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
+          "url": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
+          "source": "New York Times"
+        },
+        "4": {
+          "title": "У столиці РФ другу ніч поспіль заявляють про атаку дронів",
+          "url": "https://www.pravda.com.ua/news/2026/11/17/8063185/",
+          "source": "Українська правда"
+        },
+        "5": {
+          "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+          "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+          "source": "New York Times"
+        },
+        "6": {
+          "title": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
+          "source": "New York Times"
+        },
+        "7": {
+          "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
+          "url": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
+          "source": "New York Times"
+        },
+        "8": {
+          "title": "Give your cat something better than the box this Christmas with this $15 self-rolling LED ball",
+          "url": "https://boingboing.net/2026/11/16/give-your-cat-something-better-than-the-box-this-christmas-with-this-15-self-rolling-led-ball.html",
+          "source": "Boing Boing"
+        },
+        "9": {
+          "title": "Санду: Молдова не конкурує з жодною країною-кандидаткою на вступ у ЄС",
+          "url": "https://www.pravda.com.ua/news/2026/11/16/8063181/",
+          "source": "Українська правда"
+        },
+        "10": {
+          "title": "Three small failures combined to take down Microsoft 365",
+          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+          "source": "Ars Technica"
+        },
+        "11": {
+          "title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
+          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
+          "source": "New York Times"
+        },
+        "12": {
+          "title": "Київ зазнав атаки балістикою, попередньо, є влучання у мости – влада",
+          "url": "https://www.radiosvoboda.org/a/news-kyyiv-ataka-rf-balistyka-poperedzhennya/33899838.html",
+          "source": "Новини - Радіо Свобода"
+        },
+        "13": {
+          "title": "У Києві, Дніпрі та Запоріжжі пролунали вибухи: РФ вдарила балістикою",
+          "url": "https://www.rbc.ua/rus/news/kievi-dnipri-ta-zaporizhzhi-prolunali-vibuhi-1794865310.html",
+          "source": "РБК-Украина"
+        },
+        "14": {
+          "title": "РФ атакувала Київ балістикою: є інформація про влучання в два мости",
+          "url": "https://www.pravda.com.ua/news/2026/11/16/8063180/",
+          "source": "Українська правда"
+        },
+        "15": {
+          "title": "Поліція: у Польщі затримали 16-річного громадянина РФ через погрози убивством учням та адміністрації школи",
+          "url": "https://www.radiosvoboda.org/a/news-nepovnolitniy-pohrozy-polshcha-shkola/33899837.html",
+          "source": "Новини - Радіо Свобода"
+        },
+        "16": {
+          "title": "Fewer international students, billions at stake",
+          "url": "https://www.axios.com/2026/11/16/international-student-enrollment-decline-college-budgets",
+          "source": "Axios"
+        },
+        "17": {
+          "title": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors",
+          "url": "https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html",
+          "source": "New York Times"
+        },
+        "18": {
+          "title": "DoD restores parental access to teens’ medical records",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2026/11/16/dod-restores-parental-access-to-teens-medical-records/",
+          "source": "Military Times"
+        },
+        "19": {
+          "title": "Zelensky warns of imminent Russian attacks, 'extremely dangerous' North Korean missile development",
+          "url": "https://kyivindependent.com/zelensky-warns-of-imminent-russian-attacks-extremely-dangerous-north-korean-missile-development/",
+          "source": "The Kyiv Independent"
+        },
+        "20": {
+          "title": "Путін на зустрічі з соратником Кім Чен Ина згадав участь корейських військових у боях на Курщині",
+          "url": "https://www.pravda.com.ua/news/2026/11/16/8063179/",
+          "source": "Українська правда"
+        }
+      }
     }
   ],
-  "last_checked": "2026-11-16T23:44:51.257428+00:00"
+  "last_checked": "2026-11-17T00:15:17.336593+00:00"
 }
