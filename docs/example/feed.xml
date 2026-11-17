@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>My Daily Reading Digest</title>
+    <link>https://example.github.io/daily-digest/</link>
+    <description>A daily summary of my RSS subscriptions, with links to original sources.</description>
+    <language>en</language>
+    <atom:link href="https://example.github.io/daily-digest/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026-11-05 — Offline demonstration</title>
+      <link>https://example.github.io/daily-digest/#2026-11-05</link>
+      <guid isPermaLink="false">daily-rss-digest:2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 06:17:00 GMT</pubDate>
+      <description>&lt;p&gt;This preview uses fixtures and no AI service.&lt;/p&gt;
+&lt;h3&gt;A new community library opens&lt;/h3&gt;
+&lt;p&gt;The new library offers free workshops and longer opening hours.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://example.org/library"&gt;A new community library opens&lt;/a&gt; — Demo feed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;City publishes its cycling plan&lt;/h3&gt;
+&lt;p&gt;Protected lanes will connect three neighborhoods under the proposed plan.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://example.org/cycling"&gt;City publishes its cycling plan&lt;/a&gt; — Demo feed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;small&gt;AI summary of feed excerpts. Follow the source links for full context.&lt;/small&gt;&lt;/p&gt;</description>
+    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 06:17:00 GMT</lastBuildDate>
+  </channel>
+</rss>
