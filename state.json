@@ -634,8 +634,80 @@
   "pending": [
     {
       "keys": [
-        "80b5071df8d1108c251e626f8c9f2031e6b28dd640443c53cbf97ade3ad60640",
-        "6dc8a622c43955fdd347c8cfe45de7905a7582b42b920c537bb59e4c06a25ae8"
+        "8c26f0c9383fd038e1b52a3b5d2bd8b6ceb70cb0cebe43b511395f58a4b43101",
+        "b5aba900d1498b7a99c8daa5f973dc642e6f7aeba191eb510d885b6c1028463b"
+      ],
+      "title": "The Nvidia Scandal Reveals an Administration Willing to Sell America Out",
+      "url": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
+      "source": "New York Times",
+      "published": "2026-11-17T01:18:05+00:00",
+      "discovered": "2026-11-17T01:51:15.166858+00:00",
+      "excerpt": "It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security."
+    },
+    {
+      "keys": [
+        "96dee19eca7606bed0ffc141402f11d3439e4b479418382ff35f8c01442f57ac",
+        "4fc67ec7bf6bc1a4cd0816c31baebad1c99d24d8347c33126a773f100686cf7f"
+      ],
+      "title": "У російському Курську після атаки горить електропідстанція – пабліки",
+      "url": "https://www.pravda.com.ua/news/2026/11/17/8063188/",
+      "source": "Українська правда",
+      "published": "2026-11-17T01:16:00+00:00",
+      "discovered": "2026-11-17T01:51:15.166858+00:00",
+      "excerpt": "За даними Telegram -каналу Astra , у російському Курську після атаки горить електропідстанція, яка живить 400 тисяч жителів. Джерело : Astra Деталі : Близько опівночі місцеві жителі повідомляли про гучні вибухи та роботу ППО, незабаром з'явилися повідомлення місцевих пабліків про \"наслідки на землі\". За даними аналізу Astra , у російському Курську зазнала атаки і горить електрична підстанція \"Садова\". Офіційно російська влада про атаку і наслідки не повідомляла. Довідково : Електрична підстанція 330 кВ \"Садова\" — це ключовий центр енергосистеми самого Курська і північних районів Курської області, що належить компанії \"Россети\". \"Садовам\", розташована в Північному районі Курська, забезпечує електроенергією близько 400 тисяч жителів Курська і великі промислові підприємства міста (включаючи заводи \"Прибор\", \"Счетмаш\" та ін.)."
+    },
+    {
+      "keys": [
+        "4e7cac5b6d7e39791bfc0ee47cf73133586b8e3b97985320361b03c3c89c1b26",
+        "93b3a71e071d108925fa756188435160c8638fb5a628b06e7fb2752d433838cf"
+      ],
+      "title": "Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xy6qhy/ukrainian_forces_reportedly_strike_crimean_bridge/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-17T00:56:30+00:00",
+      "discovered": "2026-11-17T01:51:15.166858+00:00",
+      "excerpt": "submitted by /u/KI_official [link] [comments]"
+    },
+    {
+      "keys": [
+        "674e0282d7995ab185a07cc99ddd14314661abdc4f0aa44487434994e946f510",
+        "50c08841e022ba6a80729ae3cb1f2a2b4fedbb40d63500e6ec9fce568a0b4798"
+      ],
+      "title": "Ukraine’s FREYJA Missile Interceptor Ready as Denmark Delivers Key Radar, Zelenskyy Says",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xy6pnj/ukraines_freyja_missile_interceptor_ready_as/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-17T00:55:25+00:00",
+      "discovered": "2026-11-17T01:51:15.166858+00:00",
+      "excerpt": "submitted by /u/RoninSolutions [link] [comments]"
+    },
+    {
+      "keys": [
+        "a0ea5547839949323061931ab0bc6207520dbd586ff7ad39a70276519e59ebb7",
+        "71addca625955327ff114ea8ace38198742c488dfb0aa495145fb3da402a09ef"
+      ],
+      "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+      "source": "New York Times",
+      "published": "2026-11-17T00:51:40+00:00",
+      "discovered": "2026-11-17T01:51:15.166858+00:00",
+      "excerpt": "President Trump acknowledged on Monday that the Treasury and commerce secretaries had been at odds over how hard to crack down on a loophole that has allowed China to access advanced A.I. chips through data centers in other countries."
+    },
+    {
+      "keys": [
+        "eacd78d517d91a0dea89d346f86183f93bd7382a360e4364c95034829d9e1d81",
+        "51ca84ae9810a9de4f3051d391af1b9e3c499689561ef201953da6a2748dd171"
+      ],
+      "title": "Russian Missiles Hit Kyiv’s North and South Bridges as Allies Prepare to Meet at NATO HQ",
+      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xy6lby/russian_missiles_hit_kyivs_north_and_south/",
+      "source": "rUkrainianConflict on Reddit",
+      "published": "2026-11-17T00:49:45+00:00",
+      "discovered": "2026-11-17T01:51:15.166858+00:00",
+      "excerpt": "submitted by /u/RoninSolutions [link] [comments]"
+    },
+    {
+      "keys": [
+        "6dc8a622c43955fdd347c8cfe45de7905a7582b42b920c537bb59e4c06a25ae8",
+        "80b5071df8d1108c251e626f8c9f2031e6b28dd640443c53cbf97ade3ad60640"
       ],
       "title": "Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges",
       "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/",
@@ -682,8 +754,8 @@
     },
     {
       "keys": [
-        "f419cd13be922009748fd657c2ea40dde32595c487670bec9cbe6825bed09fc2",
-        "12f0c7f4cdab21094970cdc8bcbdb5e8c7a84b3bd5fb9e92d871b2ea546e609d"
+        "12f0c7f4cdab21094970cdc8bcbdb5e8c7a84b3bd5fb9e92d871b2ea546e609d",
+        "f419cd13be922009748fd657c2ea40dde32595c487670bec9cbe6825bed09fc2"
       ],
       "title": "Експерт-криміналіст заявив про імовірне убивство, а не самогубство Епштейна – BBC",
       "url": "https://www.pravda.com.ua/news/2026/11/17/8063186/",
@@ -730,8 +802,8 @@
     },
     {
       "keys": [
-        "ee2552e3077204566b71d85ab91d5c6406f9404288aeec70e56dcc235f378794",
-        "436bed9079b48d011933e97c46e36158bc910004486b63f4ac899e300429000e"
+        "436bed9079b48d011933e97c46e36158bc910004486b63f4ac899e300429000e",
+        "ee2552e3077204566b71d85ab91d5c6406f9404288aeec70e56dcc235f378794"
       ],
       "title": "Tetsuya Chiba Has Died. He Drew Some of the Greatest Manga of All Time.",
       "url": "https://www.nytimes.com/2026/11/16/obituaries/tetsuya-chiba-dead.html",
@@ -2427,8 +2499,8 @@
     },
     {
       "keys": [
-        "ac74305100f82d22b1cd747c49c4dd024bc74ddffcca2df7dc4e6639420de17b",
-        "2045b8ace6e16f310553fdf0ca863c8ac385eeccc50e224e579860a9aeb57afc"
+        "2045b8ace6e16f310553fdf0ca863c8ac385eeccc50e224e579860a9aeb57afc",
+        "ac74305100f82d22b1cd747c49c4dd024bc74ddffcca2df7dc4e6639420de17b"
       ],
       "title": "Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week",
       "url": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
@@ -3036,18 +3108,6 @@
       "published": "2026-11-16T02:06:52+00:00",
       "discovered": "2026-11-16T23:24:48.463859+00:00",
       "excerpt": "США не лише припинили підтримувати Україну, а й тиснуть на неї, змушуючи погоджуватися на неприйнятні умови. Таку оцінку посередництву Вашингтона дали в оточенні президента Франції Еммануеля Макрона. Про це повідомляє РБК-Україна з посиланням на французьку радіостанцію France Inter. В оточенні Макрона заявили, що американці лише називають себе посередниками, а насправді працюють інакше. \"Вони роблять річ, яка водночас дуже проста і дуже вульгарна: максимізують шанси сильної сторони і мінімізують шанси слабкої, підштовхуючи слабшого прийняти неприйнятні умови\", - пояснили в Єлисейському палаці. За словами співрозмовників радіостанції, американці не просто перестали підтримувати Україну, а й \"займаються тим, щоб її потопити\". Макрон хоче, щоб Україна зберегла здатність захищатися і завдавати ударів по Росії. Для цього він закликає передати Києву засоби боротьби з дронами, ракети-перехоплювачі та можливості для ударів углиб території РФ. Ці питання обговорять 19 листопада на саміті Коаліції охочих у Берліні, куди очікують понад 20 глав держав і урядів. В оточенні президента також розкритикували французьких політиків, які закликають скоротити допомогу Україні, зокрема партію \"Нескорена Франція\" і кандидатку в президенти від \"Національного об'єднання\" Марін Ле Пен. За словами співрозмовників, ті, хто хоче урізати допомогу, грають проти Франції, а не проти України. Зеленський розповів, що американці вперше запитали, чи погодиться Україна вийти з Донбасу в обмін на членство в НАТО. Росія ж, за даними джерел РБК-Україна, на переговорах в Абу-Дабі відмовилася обговорювати припинення вогню, території, енергетику та безпеку в Чорному морі. Сам Макрон напередодні звернувся до французів і заявив, що Україні є місце в НАТО, а ті, хто хоче урізати їй допомогу, підштовхують її до несправедливого миру."
-    },
-    {
-      "keys": [
-        "311fbf1847b0ff130defb5595d724aac1cb6cb74c86a9382e2fd397451385939",
-        "c8c8e6e913356465e56f391fca20c3887553351c7c9aebba8ffc9e5139789423"
-      ],
-      "title": "\"Russians are tired of the 'special military operation'\": prominent pro-war Z military correspondent complains about mass unfollows",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xxc9by/russians_are_tired_of_the_special_military/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-16T01:11:29+00:00",
-      "discovered": "2026-11-16T23:24:48.463859+00:00",
-      "excerpt": "submitted by /u/JaB675 [link] [comments]"
     }
   ],
   "history": [
@@ -5147,5 +5207,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-17T00:48:01.551617+00:00"
+  "last_checked": "2026-11-17T01:51:15.166858+00:00"
 }
