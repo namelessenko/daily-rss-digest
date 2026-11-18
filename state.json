@@ -673,8 +673,34 @@
   "pending": [
     {
       "keys": [
-        "773e97929fc5e8d846856878bdc21c8af6a7c9907e285dcdeae3d2b72099c88a",
-        "399f0e681209f325fd22ac8de69cd48ed7af589b3cac6a3b0942af69c21525b0"
+        "8edd4000fd2fea80ee314ae0e9be41c5de2b3c592dae73bfbd6704cc4db5b199",
+        "8d1bc4bf925f60a9c489e930075c3913d1a456662e7f10a63e7ffeca18ade15f"
+      ],
+      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+      "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+      "source": "New York Times",
+      "published": "2026-11-18T01:23:27+00:00",
+      "discovered": "2026-11-18T01:36:30.488298+00:00",
+      "excerpt": "Heidi Overton during a Senate committee hearing in September.",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg"
+    },
+    {
+      "keys": [
+        "401e135e3807526cabc6240c397a4616bbddf4a7aeddb254ce26aee07132fb91",
+        "f08a8df3f3eebfa6237107764f85fa046f38a6593a48aaae3564fc294c05c990"
+      ],
+      "title": "National Book Award Finalist May Be Ineligible for the Prize",
+      "url": "https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html",
+      "source": "New York Times",
+      "published": "2026-11-18T01:06:45+00:00",
+      "discovered": "2026-11-18T01:36:30.488298+00:00",
+      "excerpt": "The writer Abdelrahman ElGendy was blocked from visiting the United States to attend this year’s National Book Awards ceremony. Though his memoir is a finalist for the nonfiction award, it appears not to qualify.",
+      "image": ""
+    },
+    {
+      "keys": [
+        "399f0e681209f325fd22ac8de69cd48ed7af589b3cac6a3b0942af69c21525b0",
+        "773e97929fc5e8d846856878bdc21c8af6a7c9907e285dcdeae3d2b72099c88a"
       ],
       "title": "House Dems can't stand the speaker vote drama anymore",
       "url": "https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley",
@@ -683,6 +709,19 @@
       "discovered": "2026-11-18T00:56:22.964539+00:00",
       "excerpt": "House Democrats aren't unanimous on whether House Minority Leader Hakeem Jeffries (D-N.Y.) should be speaker, but they pretty much all agree on two things: He probably will be speaker, and they just want this to be over. Why it matters: Their phones and emails are still being blown up by constituents and grassroots activists urging them to do what they can to block Jeffries from securing the speaker gavel. There isn't much Jeffries' skeptics and detractors on Capitol Hill can do: He is set to easily win his caucus' nomination on Wednesday and then be formally elected to the role on Jan. 3. Rep.-elect Jake Johnson (D-Minn.), who told Axios last week he was undecided, said Tuesday he met with Jeffries and was \"assured\" votes on his two key issues: Ending the Trump administration's tariffs and the war in Iran. \"I'll be voting for Leader Jeffries,\" Johnson told Axios. State of play: The movement to deny Jeffries the speakership has proliferated online and among the progressive grassroots but has struggled to gain a foothold on Capitol Hill. A handful of members of the progressive \"Bloc\" — and some other newly elected members in deeply red district — have voiced skepticism of Jeffries, but only in a few cases has that evolved into outright opposition. \"As of now, I'm a 'no,'\" Rep.-elect Angela Gonzales-Torres (D-Calif.) told Axios on Wednesday. \"The people are saying we deserve better, and better is possible.\" Reality check: Nobody is challenging Jeffries. Some people floated as potential potential challengers, such as Rep. Jamie Raskin (D-Md.), have firmly ruled it out . Rep. Ayanna Pressley (D-Mass.), the subject of an online petition urging her to seek the role, has privately told colleagues she is not running but been more equivocal in public. \"I'm very humbled to even be in conversation,\" Pressley said at a town hall on Monday. She added that she was \"making no declarations or announcements\" at that event and does not \"need to be the speaker of the House to speak fo",
       "image": "https://images.axios.com/J5PVkE_PdOpixbfGIOJos42gZ7Y=/0x527:6000x3902/1366x768/2026/11/17/1794955265559.jpeg"
+    },
+    {
+      "keys": [
+        "e33adc74be718f5ef051a70eba453f5e8cd35b22ce7661548d29d63e866acacb",
+        "6abdff61d60dc1afbf43e6d3848e14df63a3d6284e0b2713069dba051b6f3a10"
+      ],
+      "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+      "source": "New York Times",
+      "published": "2026-11-18T00:47:02+00:00",
+      "discovered": "2026-11-18T01:36:30.488298+00:00",
+      "excerpt": "Jensen Huang voluntarily resigned as Nvidia’s chief executive after reports of a relationship with a company customer and an employee.",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-nvidia-04-vtqg/17biz-nvidia-04-vtqg-mediumSquareAt3X.jpg"
     },
     {
       "keys": [
@@ -724,8 +763,8 @@
     },
     {
       "keys": [
-        "fdfb64fab122f05f42c334c090107ff5687eafa5bc367cbc810ef4f52c1e6966",
-        "1794966eff2cbc113a15df878e18b82986c28412b2471a2331e9169038a59a6f"
+        "1794966eff2cbc113a15df878e18b82986c28412b2471a2331e9169038a59a6f",
+        "fdfb64fab122f05f42c334c090107ff5687eafa5bc367cbc810ef4f52c1e6966"
       ],
       "title": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
       "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html",
@@ -750,8 +789,8 @@
     },
     {
       "keys": [
-        "c5cc0b3ea5684c58ca15dd94d18224e238489aec7a71ed2452f2dbfb991ec1b8",
-        "84077d2e66f1609689fc5398e1d556ccd13d6ad2f572077614432c0b93354dda"
+        "84077d2e66f1609689fc5398e1d556ccd13d6ad2f572077614432c0b93354dda",
+        "c5cc0b3ea5684c58ca15dd94d18224e238489aec7a71ed2452f2dbfb991ec1b8"
       ],
       "title": "Ukraine protests IAEA chief's plan to appoint sanctioned Russian official as deputy",
       "url": "https://kyivindependent.com/ukraine-protests-iaea-chiefs-plan-to-appoint-sanctioned-russian-official-as-deputy-2/",
@@ -825,6 +864,19 @@
       "discovered": "2026-11-17T23:50:47.413321+00:00",
       "excerpt": "Рада Безпеки ООН збереться на засідання високого рівня для обговорення російської війни проти України. Воно відбудеться у понеділок, 23 листопада. Джерело : \" Укрінформ \" Деталі : Засідання проведе президент Латвії Едгарс Рінкевичс, оскільки в листопаді країна головує в Раді Безпеки ООН. Воно розпочнеться о 10:00 за нью-йоркським часом (17:00 за Києвом).",
       "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/3/958846/b3eec94db2ac41a5b3478c08c24d4f73.jpeg"
+    },
+    {
+      "keys": [
+        "2ce64321d22b3dbaf01e270fdbd670320173b8a2aebeaa48f18b38771d7aab33",
+        "43cb23ac20c4a86f8dfdbcb8b480474bf68b0cdc19c15b672ff0d71685917688"
+      ],
+      "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
+      "source": "New York Times",
+      "published": "2026-11-17T23:38:01+00:00",
+      "discovered": "2026-11-18T01:36:30.488298+00:00",
+      "excerpt": "Markwayne Mullin, the homeland security secretary, spoke to reporters outside the White House on Friday.",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-MULLINS-FLIGHT-qhtv/17DC-MULLINS-FLIGHT-qhtv-mediumSquareAt3X.jpg"
     },
     {
       "keys": [
@@ -3525,67 +3577,6 @@
       "published": "2026-11-17T01:36:39+00:00",
       "discovered": "2026-11-17T02:28:22.684529+00:00",
       "excerpt": "The California coast has seen an influx of olive ridley sea turtles, which are the smallest such reptiles and are normally found in tropical waters."
-    },
-    {
-      "keys": [
-        "930dce9f4f8994c7adb47712326a38b9f52fa188f45c235bee2b0c987b80921d",
-        "57a9f23d5f26215566b2034999c18f23c32fa474ebd918da4e9662590b550ced"
-      ],
-      "title": "SPYS Shahed Hunter Drone Upgraded, Reaches Speeds of Up to 500 km/h",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xy7bli/spys_shahed_hunter_drone_upgraded_reaches_speeds/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-17T01:23:43+00:00",
-      "discovered": "2026-11-17T02:28:22.684529+00:00",
-      "excerpt": "submitted by /u/Mil_in_ua [link] [comments]"
-    },
-    {
-      "keys": [
-        "8c26f0c9383fd038e1b52a3b5d2bd8b6ceb70cb0cebe43b511395f58a4b43101",
-        "b5aba900d1498b7a99c8daa5f973dc642e6f7aeba191eb510d885b6c1028463b"
-      ],
-      "title": "The Nvidia Scandal Reveals an Administration Willing to Sell America Out",
-      "url": "https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html",
-      "source": "New York Times",
-      "published": "2026-11-17T01:18:05+00:00",
-      "discovered": "2026-11-17T01:51:15.166858+00:00",
-      "excerpt": "It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security."
-    },
-    {
-      "keys": [
-        "4fc67ec7bf6bc1a4cd0816c31baebad1c99d24d8347c33126a773f100686cf7f",
-        "96dee19eca7606bed0ffc141402f11d3439e4b479418382ff35f8c01442f57ac"
-      ],
-      "title": "У російському Курську після атаки горить електропідстанція – пабліки",
-      "url": "https://www.pravda.com.ua/news/2026/11/17/8063188/",
-      "source": "Українська правда",
-      "published": "2026-11-17T01:16:00+00:00",
-      "discovered": "2026-11-17T01:51:15.166858+00:00",
-      "excerpt": "За даними Telegram -каналу Astra , у російському Курську після атаки горить електропідстанція, яка живить 400 тисяч жителів. Джерело : Astra Деталі : Близько опівночі місцеві жителі повідомляли про гучні вибухи та роботу ППО, незабаром з'явилися повідомлення місцевих пабліків про \"наслідки на землі\". За даними аналізу Astra , у російському Курську зазнала атаки і горить електрична підстанція \"Садова\". Офіційно російська влада про атаку і наслідки не повідомляла. Довідково : Електрична підстанція 330 кВ \"Садова\" — це ключовий центр енергосистеми самого Курська і північних районів Курської області, що належить компанії \"Россети\". \"Садовам\", розташована в Північному районі Курська, забезпечує електроенергією близько 400 тисяч жителів Курська і великі промислові підприємства міста (включаючи заводи \"Прибор\", \"Счетмаш\" та ін.)."
-    },
-    {
-      "keys": [
-        "171dad343d5e7bb1da05491a5ddc7fd23a2711ad4f2cf2934be6ad219cc0474e",
-        "938730a9069022b0d89ef323250b33df4402f177eee22b6e5ee17f3d3bd6cf69"
-      ],
-      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-      "source": "European Union | The Guardian",
-      "published": "2026-11-17T01:10:59+00:00",
-      "discovered": "2026-11-17T22:52:47.595240+00:00",
-      "excerpt": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country. Continue reading...",
-      "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7"
-    },
-    {
-      "keys": [
-        "4e7cac5b6d7e39791bfc0ee47cf73133586b8e3b97985320361b03c3c89c1b26",
-        "93b3a71e071d108925fa756188435160c8638fb5a628b06e7fb2752d433838cf"
-      ],
-      "title": "Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges",
-      "url": "https://www.reddit.com/r/UkrainianConflict/comments/1xy6qhy/ukrainian_forces_reportedly_strike_crimean_bridge/",
-      "source": "rUkrainianConflict on Reddit",
-      "published": "2026-11-17T00:56:30+00:00",
-      "discovered": "2026-11-17T01:51:15.166858+00:00",
-      "excerpt": "submitted by /u/KI_official [link] [comments]"
     }
   ],
   "history": [
@@ -5891,5 +5882,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-18T00:56:22.964539+00:00"
+  "last_checked": "2026-11-18T01:36:30.488298+00:00"
 }
