@@ -21,9 +21,10 @@ Rebuilding saved history shows the new layout but cannot invent old ratings or p
 
 ## What changes
 
-Priority order: consequential Ukraine war developments, European politics, world
-politics, new scientific studies. Articles are shortlisted before Gemini sees them,
-using transparent keyword matching with space reserved for politics and science.
+Balanced coverage: consequential Ukraine developments, European/world politics, economy, and
+new scientific studies. Articles are shortlisted before Gemini sees them, using
+transparent keyword matching and equal turns for those four interests when available.
+Stories are displayed by descending importance rating; Ukraine has no fixed first position.
 This is a bounded sample of feeds, not exhaustive coverage; keyword selection may
 miss relevant articles, especially in languages outside English, Ukrainian and Russian.
 max_articles in config.toml controls the batch size. The supplied value remains 20.

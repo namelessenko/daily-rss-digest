@@ -8,7 +8,7 @@ from digest.core import load_config, render_site, stamp
 root = Path(__file__).resolve().parents[1]
 cfg = load_config(root / "config.toml")
 cfg.update(site_url="https://example.org/digest", title="Your daily briefing · layout preview",
-           description="Ukraine · Europe & world politics · New science")
+           description="Ukraine · Politics · Economy · Science")
 stories = [
     {"headline": "Example: a development with concrete military consequences", "rating": 5,
      "category": "ukraine", "rating_reason": "Example explanation of the potential effect on capacity or civilian protection, with uncertainty stated.",
@@ -16,6 +16,9 @@ stories = [
     {"headline": "Example: a consequential European policy decision", "rating": 4,
      "category": "europe", "rating_reason": "Example explanation of what the decision changes, who is affected and when.",
      "summary": "The rating sits beside the topic, followed by a short summary, an explanation of importance and the original source.", "article_ids": ["2"]},
+    {"headline": "Example: an economic decision affecting household costs", "rating": 4,
+     "category": "economy", "rating_reason": "Example explanation of the effect on prices, wages or borrowing costs.",
+     "summary": "Layout demonstration only. Economic stories focus on practical consequences, with context rather than routine market fluctuations.", "article_ids": ["4"]},
     {"headline": "Example: a new study with clearly stated limitations", "rating": 3,
      "category": "science", "rating_reason": "An informative finding, with study design and limitations made explicit.",
      "summary": "Science coverage distinguishes preliminary findings from established evidence. Stories without a feed-provided image retain the same readable layout.", "article_ids": ["3"]},
@@ -23,7 +26,7 @@ stories = [
 sources = {str(i): {"title": "Illustrative source link", "source": "Demo source",
                    "url": "https://example.org/article",
                    "image": "https://example.org/layout-photo.svg" if i == 1 else ""}
-           for i in range(1, 4)}
+           for i in range(1, 5)}
 state = {"history": [{"date": "2026-11-18", "created": stamp(datetime(2026, 11, 18, 16, tzinfo=timezone.utc)),
                      "summary": {"intro": "A preview of the new layout. All examples below are fictional.", "stories": stories},
                      "sources": sources}]}

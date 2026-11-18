@@ -5,21 +5,27 @@ import re
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlsplit
 
-CATEGORIES = ("ukraine", "europe", "world", "science", "other")
-LABELS = {"ukraine": "Ukraine · war impact", "europe": "European politics",
-          "world": "World politics", "science": "Science · new research", "other": "Other"}
+CATEGORIES = ("ukraine", "europe", "world", "economy", "science", "other")
+LABELS = {"ukraine": "Ukraine", "europe": "European politics",
+          "world": "World politics", "economy": "Economy", "science": "Science · new research", "other": "Other"}
 POLICY = """
-Reader priorities, in order:
+Give balanced coverage to these four interests, with no topic automatically ranked higher:
+Ukraine, politics, economy, and science. Use the same importance standard for every topic.
+The introduction should reflect the mix of qualifying stories, not default to war coverage.
 1. The ongoing war in Ukraine: developments with concrete effects on military capacity,
 front lines, civilian protection, infrastructure, logistics, arms deliveries, funding,
 sanctions enforcement, or negotiations. Routine rhetoric, recycled claims, isolated
 incidents with no demonstrated wider effect, and unsupported casualty claims are noise.
 Attribute contested claims. Do not infer a strategic breakthrough from one report.
-2. European politics, then world politics: enacted decisions and consequential changes.
-3. New scientific studies: explain what was studied, the finding and its limits.
+2. Politics in Europe and worldwide: enacted decisions and consequential changes.
+Give Europe particular attention within politics while including important world developments.
+3. Economy: inflation, wages, employment, trade, central-bank decisions, energy costs,
+public finances and consequential business developments. Explain practical consequences;
+exclude routine market fluctuations, hype and investment tips.
+4. New scientific studies: explain what was studied, the finding and its limits.
 Distinguish preprints, peer-reviewed studies, animal studies and human studies when known.
 Do not infer causation from an association or turn preliminary findings into medical advice.
-Assign each grouped story a category: ukraine, europe, world, science, or other.
+Assign each grouped story a category: ukraine, europe, world, economy, science, or other.
 Assign an integer rating 1–5 for importance TO THIS READER, not truth or certainty:
 5 = exceptional, demonstrated major impact; 4 = substantial concrete development;
 3 = useful relevant update; 2 = marginal, repetitive or speculative; 1 = irrelevant/noise.
@@ -38,20 +44,22 @@ PATTERNS = [
     r"\beu\b|europe|european|bundestag|brussels|german|france|french|poland|polish|britain|election|parliament|sanction|nato|європ|европ|німеч|герман|польщ|польш",
     r"politic|president|government|diplomac|treaty|ceasefire|політик|политик|уряд|правительств",
     r"study|studies|research|scient|trial|journal|preprint|discovery|дослідж|исследован|наук",
+    r"econom|inflation|interest rate|central bank|\bgdp\b|\btrade\b|tariff|employment|\bwages\b|recession|економ|эконом|інфляц|инфляц|центробанк",
 ]
 
 def shortlist(queue, limit):
-    buckets = [[] for _ in range(5)]
+    buckets = [[] for _ in range(6)]
     for article in queue:
         text = (article["title"] + " " + article["excerpt"]).lower()
-        category = next((i for i, pattern in enumerate(PATTERNS)
-                         if re.search(pattern, text)), 4)
-        buckets[category].append(article)
-    # Reserve roughly 50% Ukraine, 30% politics, 20% science; fill unused slots.
-    order = [0, 0, 1, 0, 2, 0, 1, 3, 0, 3]
+        category = next((i for i in (0, 3, 4, 1, 2)
+                         if re.search(PATTERNS[i], text)), 5)
+        # Europe and world politics share one slot in the four-topic rotation.
+        buckets[1 if category == 2 else category].append(article)
+    # Equal turns for Ukraine, politics, economy and science; fill gaps when a topic is absent.
+    order = [0, 1, 4, 3]
     selected = []
     while len(selected) < limit and any(buckets):
-        for category in (order if any(buckets[:4]) else [4]):
+        for category in (order if any(buckets[:5]) else [5]):
             if buckets[category] and len(selected) < limit:
                 selected.append(buckets[category].pop(0))
     return selected
@@ -113,7 +121,7 @@ def metadata(story, error):
     return {k: story[k] for k in fields}
 
 def story_key(story):
-    return (CATEGORIES.index(story.get("category", "other")), -story.get("rating", 0))
+    return (-story.get("rating", 0),)  # Stable ties preserve the model's order.
 
 def card(story, sources, http_url):
     e = html.escape

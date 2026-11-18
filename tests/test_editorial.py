@@ -28,6 +28,17 @@ class EditorialTests(unittest.TestCase):
         for url in ["https://127.0.0.1/p.jpg", "https://[::1]/p", "https://user:pass@example.org/p", "data:image/png,a"]:
             self.assertEqual(e.image_url(url), "")
 
+    def test_story_order_uses_rating_and_neutral_label(self):
+        stories = [{"category": "ukraine", "rating": 3}, {"category": "science", "rating": 5},
+                   {"category": "world", "rating": 4}]
+        self.assertEqual([s["category"] for s in sorted(stories, key=e.story_key)],
+                         ["science", "world", "ukraine"])
+        self.assertEqual(e.LABELS["ukraine"], "Ukraine")
+        self.assertIn("economy", d.schema_for(["1"])["properties"]["stories"]["items"]["properties"]["category"]["enum"])
+        self.assertEqual(e.metadata({"category": "economy", "rating": 4, "rating_reason": "Changes household costs."}, d.DigestError)["category"], "economy")
+        tied = [{"category": "science", "rating": 4}, {"category": "ukraine", "rating": 4}]
+        self.assertEqual(sorted(tied, key=e.story_key), tied)
+
     def test_ratings_validation_and_legacy_history(self):
         result = summary(self.items)
         for rating in [0, 6, True, "5"]:
@@ -45,7 +56,7 @@ class EditorialTests(unittest.TestCase):
     def test_shortlist_reserves_science_and_ukraine_and_keeps_unselected(self):
         items = []
         for i, title in enumerate(["Celebrity gossip"] * 20 + ["Ukraine air defence deliveries"] * 12 +
-                                  ["European parliament vote"] * 8 + ["New scientific study"] * 8):
+                                  ["European parliament vote"] * 8 + ["New scientific study"] * 8 + ["European inflation report"] * 8):
             a = copy.deepcopy(self.items[0])
             a.update(title=title, excerpt="", keys=[d.fingerprint(str(i))],
                      url=f"https://example.org/{i}")
@@ -55,7 +66,8 @@ class EditorialTests(unittest.TestCase):
         titles = [a["title"] for a in state["history"][0]["sources"].values()]
         self.assertIn("New scientific study", titles)
         self.assertIn("Ukraine air defence deliveries", titles)
-        self.assertGreater(titles.count("Ukraine air defence deliveries"), titles.count("New scientific study"))
+        counts = [titles.count(title) for title in ("Ukraine air defence deliveries", "European parliament vote", "New scientific study", "European inflation report")]
+        self.assertLessEqual(max(counts) - min(counts), 1)
         seen = set(state["seen"])
         pending = {k for a in state["pending"] for k in a["keys"]}
         self.assertFalse(seen & pending)
