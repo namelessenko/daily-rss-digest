@@ -749,6 +749,18 @@
   "pending": [
     {
       "keys": [
+        "922f1f3526f324945426484cb39bef364f32ef1593f4de9282719902d609c32f"
+      ],
+      "title": "Renowned Iraq War Marine under federal investigation",
+      "url": "https://www.militarytimes.com/news/2026/11/20/renowned-iraq-war-marine-under-federal-investigation/",
+      "source": "Military Times",
+      "published": "2026-11-20T22:39:14+00:00",
+      "discovered": "2026-11-20T22:40:01.908723+00:00",
+      "excerpt": "A retired U.S. Marine known for his heroism and presence in an iconic photo taken during the Iraq War’s Second Battle of Fallujah is under federal investigation for allegations regarding his conduct as an instructor for the Junior Reserve Officers’ Training Corps. The Naval Criminal Investigative Service, which handle’s the Navy’s felony-level probes, is investigating retired Marine Sgt. Maj. Bradley Kasal , Military Times confirmed Friday. CBS News was first to report on the investigation. A Marine Corps spokesperson told Military Times that the service is aware of the allegations against Kasal, which occurred while he worked as a civilian JROTC instructor at the Basic Academy of International Studies in Henderson, Nevada. Although the Corps did not specify the time frame of the investigation, Kasal was employed by the Clark County School District three months after his retirement from the Corps in August 2018. He later resigned in August 2025, the school district told CBS. The school district did not immediately return a Military Times request for comment. The service’s and NCIS’ spokesperson both said no further details are to be released at this time to “protect the integrity of the investigation.” Kasal was awarded the Navy Cross in 2006 for his actions two years prior as a 1st sergeant in the 3rd Battalion of the 1st Marine Regiment in the I Marine Expeditionary Force while serving in the Iraq War and in support of Operation Phantom Fury. In November 2004, in Fallujah, Iraq, Kasal was assisting in a traveling overwatch when he learned that Marines were pinned down inside a house by an unknown number of enemy personnel. He entered the house, moved toward a wounded Marine and came under heavy rifle fire with another, both becoming immobilized and severely wounded in the legs. Kasal rolled on top of his fellow Marine and absorbed shrapnel in his body after insurgents threw grenades. Later, when offered medical attention and extraction, he refused until others wer",
+      "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/fallujah.JPG.jpg"
+    },
+    {
+      "keys": [
         "bbc35917e37304f3be78105f3c16376721d016e7795ad4562af95c8cf9d4e375",
         "fb9540f13518c7aa73ec54ade512193bd67bae01433bce31d48ec0a701864f4c"
       ],
@@ -3248,8 +3260,8 @@
     },
     {
       "keys": [
-        "e521f2df7d25eba1771f71b4d89b9b6babebabea5a1e78dfef95442f8e5f3e13",
-        "1a631bf75ae83ee9376067bd0d4c04c94b7310b8aa0cbf43f5d21ca202cba39b"
+        "1a631bf75ae83ee9376067bd0d4c04c94b7310b8aa0cbf43f5d21ca202cba39b",
+        "e521f2df7d25eba1771f71b4d89b9b6babebabea5a1e78dfef95442f8e5f3e13"
       ],
       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
@@ -6212,5 +6224,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-20T22:39:13.730472+00:00"
+  "last_checked": "2026-11-20T22:40:01.908723+00:00"
 }
