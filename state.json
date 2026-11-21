@@ -801,8 +801,8 @@
     },
     {
       "keys": [
-        "76726d7233c3fdbaf25ae18b9d688ca41f76d77b4a2ecd988d704d2de289a4cb",
-        "0c92d0b486d9060c7f2247272cc0cd42bce4f772cddd283c10e3633069b291c0"
+        "0c92d0b486d9060c7f2247272cc0cd42bce4f772cddd283c10e3633069b291c0",
+        "76726d7233c3fdbaf25ae18b9d688ca41f76d77b4a2ecd988d704d2de289a4cb"
       ],
       "title": "Бази даних ФБР вдруге за останні місяці зламали хакери – ЗМІ",
       "url": "https://www.pravda.com.ua/news/2026/11/21/8063997/",
@@ -2448,19 +2448,6 @@
       "discovered": "2026-11-20T22:37:42.960301+00:00",
       "excerpt": "",
       "image": ""
-    },
-    {
-      "keys": [
-        "2a9e12721740fb0974fb0518b1f5a9cfa5ab1f824d370fedd7c55af4f73fcece",
-        "4eea537c9ada5f9f0fd2ae9b21f0b0564a73a4749da5016c36b52fb3401eb385"
-      ],
-      "title": "Атака РФ по Кривому Рогу: число постраждалих зросло, по території ресторану були удари ракетою та БпЛА",
-      "url": "https://www.radiosvoboda.org/a/news-kryvyy-rih-udar-naslidky-postrazhdali/33902808.html",
-      "source": "Новини - Радіо Свобода",
-      "published": "2026-11-20T21:38:51+00:00",
-      "discovered": "2026-11-20T22:37:42.960301+00:00",
-      "excerpt": "25 постраждалих перебувають у тяжкому стані, серед них – хлопчики 4, 9, 11, 16 та 17 років.",
-      "image": "https://gdb.rferl.org/6d87212f-e2b9-4379-2eaa-08df3eea91f6_w800_h450.jpeg"
     }
   ],
   "history": [
@@ -5206,5 +5193,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-21T21:38:33.281377+00:00"
+  "last_checked": "2026-11-21T21:39:42.464137+00:00"
 }
