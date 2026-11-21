@@ -801,6 +801,32 @@
     },
     {
       "keys": [
+        "76726d7233c3fdbaf25ae18b9d688ca41f76d77b4a2ecd988d704d2de289a4cb",
+        "0c92d0b486d9060c7f2247272cc0cd42bce4f772cddd283c10e3633069b291c0"
+      ],
+      "title": "Бази даних ФБР вдруге за останні місяці зламали хакери – ЗМІ",
+      "url": "https://www.pravda.com.ua/news/2026/11/21/8063997/",
+      "source": "Українська правда",
+      "published": "2026-11-21T21:36:00+00:00",
+      "discovered": "2026-11-21T21:38:33.281377+00:00",
+      "excerpt": "",
+      "image": ""
+    },
+    {
+      "keys": [
+        "1c6333ca8e4d0a1ff309c9bd4ae7cb28cabf320ba22c111d9746308539acc763",
+        "c849fd7cabba773a9367b06b55bb34bc9e3287b3ca77d0d30817903c262f4b95"
+      ],
+      "title": "Рютте: НАТО захищатиме «кожен сантиметр» території Польщі",
+      "url": "https://www.radiosvoboda.org/a/news-ryutte-polshcha-ataka-nato/33903258.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-21T21:30:56+00:00",
+      "discovered": "2026-11-21T21:38:33.281377+00:00",
+      "excerpt": "Польща заявила про порушення свого повітряного простору трьома об’єктами з боку Росії. За попередніми оцінками, йшлося про дві ракети та безпілотник",
+      "image": "https://gdb.rferl.org/65b208a3-abe9-4a93-d110-08ddd95ee7a2_w800_h450.jpg"
+    },
+    {
+      "keys": [
         "211b02290c0fe3ca3d444decdab9ca664271fd42c6f4d058b5b339b4dd517a0d",
         "d2b88559710f51be879d1842536d21113e3592595055b072c14f5c6bcfe55f7d"
       ],
@@ -1971,8 +1997,8 @@
     },
     {
       "keys": [
-        "ff26d21aada9f954f1585973226ac1e2f6d56d911bc06da5566b906d86e04c89",
-        "a85a25e026663cac32384f444eebbd132e28b274f7ce8c2daaf4738be78ecf39"
+        "a85a25e026663cac32384f444eebbd132e28b274f7ce8c2daaf4738be78ecf39",
+        "ff26d21aada9f954f1585973226ac1e2f6d56d911bc06da5566b906d86e04c89"
       ],
       "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
       "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
@@ -2435,45 +2461,6 @@
       "discovered": "2026-11-20T22:37:42.960301+00:00",
       "excerpt": "25 постраждалих перебувають у тяжкому стані, серед них – хлопчики 4, 9, 11, 16 та 17 років.",
       "image": "https://gdb.rferl.org/6d87212f-e2b9-4379-2eaa-08df3eea91f6_w800_h450.jpeg"
-    },
-    {
-      "keys": [
-        "8911ae46b5ac8781bf91435538019f8e10f538a92e73eb40e33ad103f99a8464",
-        "a377b3cc4f6d07f13e6aea5ac2896b4e50af616bfcdfada8427d3ad4b1067c85"
-      ],
-      "title": "The latest from Trump's press conference",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-      "source": "News : NPR",
-      "published": "2026-11-20T21:38:21+00:00",
-      "discovered": "2026-11-20T22:37:42.960301+00:00",
-      "excerpt": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047636"
-    },
-    {
-      "keys": [
-        "00c92a00288de5710fb974942545374b927df76a731d328c8b7430d9e712044b",
-        "03a71d43a888f291f5c0ba82961d057d18d5ac7b4a086799dc38941feaa17b01"
-      ],
-      "title": "Rising seas have forced this Quinault village to relocate",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-      "source": "News : NPR",
-      "published": "2026-11-20T21:38:13+00:00",
-      "discovered": "2026-11-20T22:37:42.960301+00:00",
-      "excerpt": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6046485"
-    },
-    {
-      "keys": [
-        "35ed05b115bc2d79de8e004327b364da4918f5e22b4bb5b04cfec9d9d5dad6cc",
-        "af9aa0f5d71d2b5538175515af5d677a9d5f799d09e5a35d7e205a2130c812db"
-      ],
-      "title": "Trump's impact on an Ohio steel plant",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-      "source": "News : NPR",
-      "published": "2026-11-20T21:38:11+00:00",
-      "discovered": "2026-11-20T22:37:42.960301+00:00",
-      "excerpt": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5860971"
     }
   ],
   "history": [
@@ -5219,5 +5206,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-21T21:37:16.117764+00:00"
+  "last_checked": "2026-11-21T21:38:33.281377+00:00"
 }
