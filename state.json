@@ -828,6 +828,19 @@
   "pending": [
     {
       "keys": [
+        "9219dbb4a2702f9fa7d2ac9a771384cefc6652966729913becba430ac052caa7",
+        "e1421253b76564b6719b6cf8db73c50b85c52672cd8f9bc93947156cd5c4d13a"
+      ],
+      "title": "У Польщі знайшли уламки російських крилатих ракет Х-101 – прокуратура",
+      "url": "https://www.radiosvoboda.org/a/news-polshcha-ataka-rakety-rosiya/33903617.html",
+      "source": "Новини - Радіо Свобода",
+      "published": "2026-11-22T21:29:00+00:00",
+      "discovered": "2026-11-22T21:43:48.486572+00:00",
+      "excerpt": "Слідчі завершили роботи на місцях падіння у Новому Липовці та Руднику-над-Сяном",
+      "image": "https://gdb.rferl.org/dd315b49-87cd-47ed-92bd-9cb4ffafc30f_cx0_cy10_cw0_w800_h450.jpg"
+    },
+    {
+      "keys": [
         "1ee0bf4a1a4d33c62d2184d950fba545e0328f0c737727fbfa7c879518cec8ce",
         "f6e6304221f75b5c409ed01e9ddc27ea3819b946352d7a90f86cc44ed3e294e6"
       ],
@@ -880,8 +893,8 @@
     },
     {
       "keys": [
-        "3fa00464a8d09c60d1553f3156b755929b382cfb4f4ebf3ab21dd673bb72d734",
-        "155ebd0a430c743c7bb08c50f808cfaf185818df4f732713176d0c0b3cae7552"
+        "155ebd0a430c743c7bb08c50f808cfaf185818df4f732713176d0c0b3cae7552",
+        "3fa00464a8d09c60d1553f3156b755929b382cfb4f4ebf3ab21dd673bb72d734"
       ],
       "title": "У Димері з-під завалів деблокували тіло ще однієї людини, п’ятеро загиблих – влада",
       "url": "https://www.radiosvoboda.org/a/news-dymer-ataka-rosiya/33903611.html",
@@ -906,8 +919,8 @@
     },
     {
       "keys": [
-        "bf142e2494152f70081b0636da15e143c45b63e1fffc709b4fe7ef03b8999996",
-        "7ec2924ac3f23561fe20f90bf2d1723855283440d7eaaf335f0b983160993f8a"
+        "7ec2924ac3f23561fe20f90bf2d1723855283440d7eaaf335f0b983160993f8a",
+        "bf142e2494152f70081b0636da15e143c45b63e1fffc709b4fe7ef03b8999996"
       ],
       "title": "\"Шахед\" влучив у дитсадок у Харкові, є постраждалі",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064096/",
@@ -919,8 +932,8 @@
     },
     {
       "keys": [
-        "6639de9fbe191027079cdacd1c9ce1a93fd7f1467a5d082df506825c5bddc48c",
-        "2caf8223f4303bbb9744244bc01f371b2493a5b7ef7e2f783ab6a21043bb10d8"
+        "2caf8223f4303bbb9744244bc01f371b2493a5b7ef7e2f783ab6a21043bb10d8",
+        "6639de9fbe191027079cdacd1c9ce1a93fd7f1467a5d082df506825c5bddc48c"
       ],
       "title": "У Димері з-під завалів дістали живу дитину, водночас зросла кількість загиблих",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064075/",
@@ -958,8 +971,8 @@
     },
     {
       "keys": [
-        "fcd53ae2d0e50170ed2b93978a3d0a54449183fe97d5d7b43f10549f1e1a45e7",
-        "0b6c1b610f610d7240f43157aa00c18a3532a5e6638940e667d7897a75de9076"
+        "0b6c1b610f610d7240f43157aa00c18a3532a5e6638940e667d7897a75de9076",
+        "fcd53ae2d0e50170ed2b93978a3d0a54449183fe97d5d7b43f10549f1e1a45e7"
       ],
       "title": "Росія застосовує нову тактику у війні проти України, - Зеленський",
       "url": "https://www.rbc.ua/rus/news/rosiya-zastosovue-novu-taktiku-viyni-proti-1795374833.html",
@@ -971,8 +984,8 @@
     },
     {
       "keys": [
-        "9b9573dceca15984d42c3fb70c7e74a64a4813d61f532b88e6dc1837802617c4",
-        "73a59aa62cd8fe547a00c0c1e00ee559741be95962b1958335be7c60e829ee96"
+        "73a59aa62cd8fe547a00c0c1e00ee559741be95962b1958335be7c60e829ee96",
+        "9b9573dceca15984d42c3fb70c7e74a64a4813d61f532b88e6dc1837802617c4"
       ],
       "title": "Директор Національної розвідки США захищає Трампа, який назвав Путіна своїм \"другом\"",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064091/",
@@ -984,8 +997,8 @@
     },
     {
       "keys": [
-        "ed878177906496ace00b190dd62d55d40bd4fdaebfd0750560df3b70aa112e67",
-        "5d554a5f7a9f8d8b1e22c92308bb5db1bb12f8148836788b198ca66bf81eab28"
+        "5d554a5f7a9f8d8b1e22c92308bb5db1bb12f8148836788b198ca66bf81eab28",
+        "ed878177906496ace00b190dd62d55d40bd4fdaebfd0750560df3b70aa112e67"
       ],
       "title": "Хмарність і снігопад: якою буде погода на Прикарпатті 23 листопада",
       "url": "https://if.informator.ua/2026/11/22/hmarnist-i-snigopad-yakoyu-bude-pogoda-na-prykarpatti-23-lystopada/",
@@ -997,8 +1010,8 @@
     },
     {
       "keys": [
-        "7a72a09a7125d4943727a29953a8b26305ad82fa5ad9b12664ec508776158dd8",
-        "33d86baca0d36198f918760dc0e1160f5fd768754e113acb2bfab5f0e5171439"
+        "33d86baca0d36198f918760dc0e1160f5fd768754e113acb2bfab5f0e5171439",
+        "7a72a09a7125d4943727a29953a8b26305ad82fa5ad9b12664ec508776158dd8"
       ],
       "title": "Зеленський: у Димері загинули чотири людини, про 10 осіб досі нічого невідомо",
       "url": "https://www.rbc.ua/rus/news/zelenskiy-dimeri-zaginuli-chotiri-lyudini-1795373618.html",
@@ -1010,8 +1023,8 @@
     },
     {
       "keys": [
-        "a65c80e00c2dc571fe05973441a7dbc4233a78c38dd1d6caeb0e3324cc81ab20",
-        "29da40bcaa76096e0afd0f04cd670569806d21d8a207f4e7d5679d381b0f5fc0"
+        "29da40bcaa76096e0afd0f04cd670569806d21d8a207f4e7d5679d381b0f5fc0",
+        "a65c80e00c2dc571fe05973441a7dbc4233a78c38dd1d6caeb0e3324cc81ab20"
       ],
       "title": "Внаслідок удару по \"Новусу\" в Вишневому загинули троє людей, 15 постраждали",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064090/",
@@ -1023,8 +1036,8 @@
     },
     {
       "keys": [
-        "b3651da826072d100f3c588d4fe26d800fc3cc24317d66cc45896ec9414e88d9",
-        "885ffcd6d40da4139df6ffc901e66c731c376d5bb22a5bad9fd673a9b563f811"
+        "885ffcd6d40da4139df6ffc901e66c731c376d5bb22a5bad9fd673a9b563f811",
+        "b3651da826072d100f3c588d4fe26d800fc3cc24317d66cc45896ec9414e88d9"
       ],
       "title": "'Routine shopping trip turned tragedy' — Russia attacks Kyiv Oblast supermarket during working hours, killing 3, injuring 15",
       "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/",
@@ -1088,8 +1101,8 @@
     },
     {
       "keys": [
-        "e3377e85c94563064aab508b608311c524144c8d0b15045be74ebc1d162ae302",
-        "16eae0d58a28f6a50b49934257ba95543f0d5c7b33e649ce61f6cb0ddf9c406b"
+        "16eae0d58a28f6a50b49934257ba95543f0d5c7b33e649ce61f6cb0ddf9c406b",
+        "e3377e85c94563064aab508b608311c524144c8d0b15045be74ebc1d162ae302"
       ],
       "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
       "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
@@ -1101,8 +1114,8 @@
     },
     {
       "keys": [
-        "c5f76f0572c7c6d41ea854651902a54ddebfb1aed6e1bd6502830ffcda1da99b",
-        "8e7b50dde61f75dbe6ecee64e4433e586ac7007b0bed9f5dfe29c62ca4002482"
+        "8e7b50dde61f75dbe6ecee64e4433e586ac7007b0bed9f5dfe29c62ca4002482",
+        "c5f76f0572c7c6d41ea854651902a54ddebfb1aed6e1bd6502830ffcda1da99b"
       ],
       "title": "Блощинський: Відбудувати Україну недостатньо – потрібно навчитися її лагодити",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064073/",
@@ -1114,8 +1127,8 @@
     },
     {
       "keys": [
-        "fb5eefc3ffdfd07175e0915afefd155324eecde05ecabbbb1ef1d33a40e6e125",
-        "0a54f7322f4f6e2213f20cf6d744a64d52b5a37c0127daca75578fbde7a91700"
+        "0a54f7322f4f6e2213f20cf6d744a64d52b5a37c0127daca75578fbde7a91700",
+        "fb5eefc3ffdfd07175e0915afefd155324eecde05ecabbbb1ef1d33a40e6e125"
       ],
       "title": "ОВА: через удар РФ по магазину Вишневому загинуло двоє людей, восьмеро постраждалих",
       "url": "https://www.radiosvoboda.org/a/33903579.html",
@@ -1127,8 +1140,8 @@
     },
     {
       "keys": [
-        "f21d4c4d05ba05323159efe95239acca01692414f33505a5747fb05fefe11377",
-        "047f2974a04addeaf7ccf0f5261b98bd2ae5bd8019d1a5b19770a2c0bd74187a"
+        "047f2974a04addeaf7ccf0f5261b98bd2ae5bd8019d1a5b19770a2c0bd74187a",
+        "f21d4c4d05ba05323159efe95239acca01692414f33505a5747fb05fefe11377"
       ],
       "title": "Russian warship docked in Benghazi hit by suspected drone attack, Libyan officials say",
       "url": "https://kyivindependent.com/russian-warship-docked-in-benghazi-hit-by-suspected-drone-attack-libyan-officials-say/",
@@ -1140,8 +1153,8 @@
     },
     {
       "keys": [
-        "969ebf4934607f02bf0f854f18ad19fee90995aff0cd82eb533b7ade7d2f66ad",
-        "815cf9004f4a0cf12056927eef289ee220dc95004f7798bcd30fc558d084c285"
+        "815cf9004f4a0cf12056927eef289ee220dc95004f7798bcd30fc558d084c285",
+        "969ebf4934607f02bf0f854f18ad19fee90995aff0cd82eb533b7ade7d2f66ad"
       ],
       "title": "Лікарні Прикарпаття отримали нове хірургічне обладнання в межах гуманітарної допомоги",
       "url": "https://if.informator.ua/2026/11/22/likarni-prykarpattya-otrymaly-nove-hirurgichne-obladnannya-v-mezhah-gumanitarnoyi-dopomogy/",
@@ -1218,8 +1231,8 @@
     },
     {
       "keys": [
-        "b71b83db95fbab50542f10751ebb6583f98a99d1bdc5f1dda8e4e4dc790f8ff4",
-        "98c47726e3348e2496bbab767ed3a30e4baf35616c4dcd06881cc842fa07402e"
+        "98c47726e3348e2496bbab767ed3a30e4baf35616c4dcd06881cc842fa07402e",
+        "b71b83db95fbab50542f10751ebb6583f98a99d1bdc5f1dda8e4e4dc790f8ff4"
       ],
       "title": "У 5 областях діють аварійні відключення електроенергії",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064085/",
@@ -1231,8 +1244,8 @@
     },
     {
       "keys": [
-        "48748c492b3705fb59da8528e0ac524c614db6d1c07f56c54d6b47699ef329bb",
-        "0dc3b6e8c7f36fba42cb08a79415e55e9daa810fb649a943273e01ffe963e5b8"
+        "0dc3b6e8c7f36fba42cb08a79415e55e9daa810fb649a943273e01ffe963e5b8",
+        "48748c492b3705fb59da8528e0ac524c614db6d1c07f56c54d6b47699ef329bb"
       ],
       "title": "На Київщині 23 листопада оголосили Днем жалоби за жертвам атаки РФ",
       "url": "https://www.radiosvoboda.org/a/news-zhaloba-kyyivshchyna-23-lystopada/33903577.html",
@@ -1244,8 +1257,8 @@
     },
     {
       "keys": [
-        "bbe4d248ca6563b6dd12dc41f1645ac863dfa456b265da76ac21a001d74d7ce6",
-        "addae698d643b1a5d4d482f9079dffaf991482e9a688298dafa650576dc815a9"
+        "addae698d643b1a5d4d482f9079dffaf991482e9a688298dafa650576dc815a9",
+        "bbe4d248ca6563b6dd12dc41f1645ac863dfa456b265da76ac21a001d74d7ce6"
       ],
       "title": "What Does It Actually Mean to Write ‘Like a Human’?",
       "url": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
@@ -1270,8 +1283,8 @@
     },
     {
       "keys": [
-        "d379ab83af494e404667165225931e8f1dcee7ff15ba49dc5720487462570146",
-        "92e8560cdc08e96a2d51afe0a6c0a3e9129f5bedab378316260e14b5d4b19d30"
+        "92e8560cdc08e96a2d51afe0a6c0a3e9129f5bedab378316260e14b5d4b19d30",
+        "d379ab83af494e404667165225931e8f1dcee7ff15ba49dc5720487462570146"
       ],
       "title": "У Польщі кажуть про дезінформацію РФ через нібито атаку України у Калінінградській області",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064083/",
@@ -1283,8 +1296,8 @@
     },
     {
       "keys": [
-        "fff002d2c873ddd31e40fc4dd3f0c94a3299ef2645bca12b477a1e373d805ad6",
-        "44d35ec693533267b51b13137e48440370460cf3b4a71dfb8de75515ce28a009"
+        "44d35ec693533267b51b13137e48440370460cf3b4a71dfb8de75515ce28a009",
+        "fff002d2c873ddd31e40fc4dd3f0c94a3299ef2645bca12b477a1e373d805ad6"
       ],
       "title": "«Це роки праці людей»: чому у Калуші стурбовані можливим розширенням міського кладовища",
       "url": "https://if.informator.ua/2026/11/22/cze-roky-praczi-lyudej-chomu-u-kalushi-sturbovani-mozhlyvym-rozshyrennyam-miskogo-kladovyshha/",
@@ -1296,8 +1309,8 @@
     },
     {
       "keys": [
-        "8ba55133a3e98c43b5fed6fde03b3c063cdf8bff8bf34ceec5520a2b78a7c15e",
-        "19899fa9853d6c56c7bab9c91295554d19f9b48419a401944e7053eef95ad96b"
+        "19899fa9853d6c56c7bab9c91295554d19f9b48419a401944e7053eef95ad96b",
+        "8ba55133a3e98c43b5fed6fde03b3c063cdf8bff8bf34ceec5520a2b78a7c15e"
       ],
       "title": "На Полтавщині російський дрон пошкодив ЛЕП – Дяківнич",
       "url": "https://www.radiosvoboda.org/a/news-poltavshchyna-lep-ataka-rosiya/33903572.html",
@@ -1322,8 +1335,8 @@
     },
     {
       "keys": [
-        "a2dafaae61f48be8ca8fce0331f86ef1497ebc3a3c12f247b4186045711d06d8",
-        "3c28e0306ea59d264e94271d70bb3aeac5b1bc446d5f59375a67e3e2b4b8e2ae"
+        "3c28e0306ea59d264e94271d70bb3aeac5b1bc446d5f59375a67e3e2b4b8e2ae",
+        "a2dafaae61f48be8ca8fce0331f86ef1497ebc3a3c12f247b4186045711d06d8"
       ],
       "title": "Росіяни влучили в магазин у Вишневому: є загиблі та поранені",
       "url": "https://www.pravda.com.ua/news/2026/11/22/8064074/",
@@ -1361,8 +1374,8 @@
     },
     {
       "keys": [
-        "977a8dc08285d217cf439c77d6fec350a5c1c82a2fb9fff4e1c7adb65567f116",
-        "65fdb295e5324323dce3cefc9fc0b12b3b2b6e85283cca1705a94c9a91f5bbe5"
+        "65fdb295e5324323dce3cefc9fc0b12b3b2b6e85283cca1705a94c9a91f5bbe5",
+        "977a8dc08285d217cf439c77d6fec350a5c1c82a2fb9fff4e1c7adb65567f116"
       ],
       "title": "Ткаченко: кількість загиблих через удар РФ по Димеру зросла до трьох",
       "url": "https://www.radiosvoboda.org/a/news-dymer-ataka-rosiya/33903570.html",
@@ -1374,8 +1387,8 @@
     },
     {
       "keys": [
-        "e046742973c55732032107618bbc7033668a84d3953eb7d8e46e05cebdd1983a",
-        "630b478d379d6cd2f0ea6d2928a18bf9e8e46c7ad6dbe63b455245a5159b03bd"
+        "630b478d379d6cd2f0ea6d2928a18bf9e8e46c7ad6dbe63b455245a5159b03bd",
+        "e046742973c55732032107618bbc7033668a84d3953eb7d8e46e05cebdd1983a"
       ],
       "title": "Cop31 climate talks break down as key deal rejected",
       "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
@@ -1400,8 +1413,8 @@
     },
     {
       "keys": [
-        "44530f0052b14bdbd6334b7adcded07414bdd71340a5a6a25a1057f72bc28d33",
-        "1c2a0203e18ba6bd44f487050eb4b91b0a0e39f0deef1d8120079b9319257d55"
+        "1c2a0203e18ba6bd44f487050eb4b91b0a0e39f0deef1d8120079b9319257d55",
+        "44530f0052b14bdbd6334b7adcded07414bdd71340a5a6a25a1057f72bc28d33"
       ],
       "title": "Двоє школярів із Прикарпаття отримали відзнаку Президента «Майбутнє України»",
       "url": "https://if.informator.ua/2026/11/22/dvoye-shkolyariv-iz-prykarpattya-otrymaly-vidznaku-prezydenta-majbutnye-ukrayiny/",
@@ -1439,8 +1452,8 @@
     },
     {
       "keys": [
-        "5e8fb6dba0e59104e4643425acf66acdbc2f16712fab8e6332471ed7f47fae7e",
-        "5b805079c4130f0d3ef964866a4c950cca36ab92a0363dd2728d9376f7abdb1b"
+        "5b805079c4130f0d3ef964866a4c950cca36ab92a0363dd2728d9376f7abdb1b",
+        "5e8fb6dba0e59104e4643425acf66acdbc2f16712fab8e6332471ed7f47fae7e"
       ],
       "title": "Markus Söder entdeckt die kalte Progression – und provoziert den nächsten Koalitionskrach",
       "url": "https://www.spiegel.de/politik/deutschland/ausgleich-der-kalten-progression-droht-schon-der-naechste-koalitionsstreit-a-68edb092-41fd-4ae8-9494-01ebc13ee219",
@@ -1452,8 +1465,8 @@
     },
     {
       "keys": [
-        "8e3e9ae30514de6dace69d1dadd65c1467f6b233ccc14ecd363549501438f689",
-        "12dfd0db14b6bcee212384a642870d2e1a3c98cab1c5f99d4bf3850921ed5dad"
+        "12dfd0db14b6bcee212384a642870d2e1a3c98cab1c5f99d4bf3850921ed5dad",
+        "8e3e9ae30514de6dace69d1dadd65c1467f6b233ccc14ecd363549501438f689"
       ],
       "title": "Ukrainian troops share battlefield drone expertise with 4 NATO allies in US-led exercise",
       "url": "https://kyivindependent.com/ukrainian-troops-share-battlefield-drone-expertise-with-4-nato-allies-in-us-led-exercise/",
@@ -1465,8 +1478,8 @@
     },
     {
       "keys": [
-        "f9f0039c5607acd4d54f1a06b0157f1745153e901bb724a2f85bc14741425a1f",
-        "e4ee28c9e612a666bcac25378981cf0ec59de39ea24b693e91e000091574545b"
+        "e4ee28c9e612a666bcac25378981cf0ec59de39ea24b693e91e000091574545b",
+        "f9f0039c5607acd4d54f1a06b0157f1745153e901bb724a2f85bc14741425a1f"
       ],
       "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
       "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
@@ -1478,8 +1491,8 @@
     },
     {
       "keys": [
-        "d4dab85870febdde27f6cf3d002588b57376aaa605a09e8e9d6f2f25f69b589c",
-        "7bb9505adead21900cafed4163841aa0dc3cad99826d65c55beb0fbcd82292d6"
+        "7bb9505adead21900cafed4163841aa0dc3cad99826d65c55beb0fbcd82292d6",
+        "d4dab85870febdde27f6cf3d002588b57376aaa605a09e8e9d6f2f25f69b589c"
       ],
       "title": "Росія атакувала Вишневе на Київщині: загинула людина, троє поранених – влада",
       "url": "https://www.radiosvoboda.org/a/news-vyshneve-ataka-rosiya/33903566.html",
@@ -1517,8 +1530,8 @@
     },
     {
       "keys": [
-        "c3791ac9dfc5d6fa103e7861f4b8e6f8fdd7357fb8bd819b6932d3e2a654833c",
-        "8a5ae01211056ed7032ee65d789220dc5caffe50ababdc342006778bac33709d"
+        "8a5ae01211056ed7032ee65d789220dc5caffe50ababdc342006778bac33709d",
+        "c3791ac9dfc5d6fa103e7861f4b8e6f8fdd7357fb8bd819b6932d3e2a654833c"
       ],
       "title": "У Запорізькій області запровадили спеціальні аварійні відключення світла – обленерго",
       "url": "https://www.radiosvoboda.org/a/news-svitlo-zaporizhzhya-hrafik/33903555.html",
@@ -1556,8 +1569,8 @@
     },
     {
       "keys": [
-        "e2311b1b35d4082681b0dcdbbd4a48264dfeb3e307bafcf32635db1aba9371df",
-        "4115a93c96fc48aa6d1373d3710efb36e86fa0b3a191f88323bc84d7cb7feab8"
+        "4115a93c96fc48aa6d1373d3710efb36e86fa0b3a191f88323bc84d7cb7feab8",
+        "e2311b1b35d4082681b0dcdbbd4a48264dfeb3e307bafcf32635db1aba9371df"
       ],
       "title": "Мешканець Рогатинщини передав до музею скам&#8217;янілий зуб мамонта",
       "url": "https://if.informator.ua/2026/11/22/meshkanecz-rogatynshhyny-peredav-do-muzeyu-skamyanilyj-zub-mamonta/",
@@ -1595,8 +1608,8 @@
     },
     {
       "keys": [
-        "4c66e02f702d86adf23c90a7d2cbc7b19d857f773513f3885cf0e7ec1cf705dc",
-        "31eee1301e10d4fae696dd68265821e4cb9eeecf7df68f65f493f224ef5f454f"
+        "31eee1301e10d4fae696dd68265821e4cb9eeecf7df68f65f493f224ef5f454f",
+        "4c66e02f702d86adf23c90a7d2cbc7b19d857f773513f3885cf0e7ec1cf705dc"
       ],
       "title": "Stefanie Hubig will Femizide immer als Morde erfassen",
       "url": "https://www.spiegel.de/politik/deutschland/femizide-stefanie-hubig-will-mordparagrafen-verschaerfen-a-c6d29e6d-8edb-4651-8128-ef74725623e4",
@@ -1608,8 +1621,8 @@
     },
     {
       "keys": [
-        "ff2b4f7933db2177a4f124d89e13c4f7d092fa1aabded5d2250ff80c70b977a3",
-        "9bc7e752155d21e3329b41be6920a9418950e0757deadc1b53231e9de4a4b580"
+        "9bc7e752155d21e3329b41be6920a9418950e0757deadc1b53231e9de4a4b580",
+        "ff2b4f7933db2177a4f124d89e13c4f7d092fa1aabded5d2250ff80c70b977a3"
       ],
       "title": "Чехія пригрозила заблокувати масштабну допомогу ЄС для України",
       "url": "https://www.rbc.ua/rus/news/chehiya-prigrozila-zablokuvati-masshtabnu-1795354399.html",
@@ -1647,8 +1660,8 @@
     },
     {
       "keys": [
-        "13c37ab45da5edd7de12d39358e5241cc713d4df3092d51c452e06137102dcee",
-        "0564a762746e6b96ddccb48f8ab28b7847b47d29a8ca535c40275345c0988e87"
+        "0564a762746e6b96ddccb48f8ab28b7847b47d29a8ca535c40275345c0988e87",
+        "13c37ab45da5edd7de12d39358e5241cc713d4df3092d51c452e06137102dcee"
       ],
       "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
@@ -1686,8 +1699,8 @@
     },
     {
       "keys": [
-        "e0f4c82f469ffbdacadbbfd2c19942103043121ef83af170c4bd96780f2b2ac8",
-        "7c1564f5fd4053e16a331a127cda84fd91412fa0529bd081ff36201533540b77"
+        "7c1564f5fd4053e16a331a127cda84fd91412fa0529bd081ff36201533540b77",
+        "e0f4c82f469ffbdacadbbfd2c19942103043121ef83af170c4bd96780f2b2ac8"
       ],
       "title": "Кількість загиблих у Димері зросла до двох – ОВА",
       "url": "https://www.radiosvoboda.org/a/news-dymer-zahybli/33903529.html",
@@ -1699,8 +1712,8 @@
     },
     {
       "keys": [
-        "f31a7e6022861c3ce622b2eb0367dd087f11daf9bd4f66ed145e6e3d1b67eb3c",
-        "17884ad8aec4c0e07553318fd5bede26b7980484abb7fed7e861183e14902864"
+        "17884ad8aec4c0e07553318fd5bede26b7980484abb7fed7e861183e14902864",
+        "f31a7e6022861c3ce622b2eb0367dd087f11daf9bd4f66ed145e6e3d1b67eb3c"
       ],
       "title": "Deutschland plant schärferes Vorgehen gegen Femizide",
       "url": "https://www.dw.com/de/deutschland-plant-schärferes-vorgehen-gegen-femizide/a-80013513?maca=de-rss-de-top-1016-xml-atom",
@@ -1725,8 +1738,8 @@
     },
     {
       "keys": [
-        "74b6a3cb1bcc5ddee164094ed85603ca78a487f4f3f160e2633cd8fe143356fd",
-        "1f27d4d431ba64759c58d1d04ac5089fd7f64650eceb27ec923283ae718a673a"
+        "1f27d4d431ba64759c58d1d04ac5089fd7f64650eceb27ec923283ae718a673a",
+        "74b6a3cb1bcc5ddee164094ed85603ca78a487f4f3f160e2633cd8fe143356fd"
       ],
       "title": "Путін погодився на гарантії безпеки для України за моделлю НАТО, але висунув умову, - WP",
       "url": "https://www.rbc.ua/rus/news/putin-pogodivsya-garantiyi-bezpeki-ukrayini-1795349874.html",
@@ -1738,8 +1751,8 @@
     },
     {
       "keys": [
-        "c02dc5b27fc913b0bb974deffc74027af90a0ff20097523d4cf49be9c47abfaf",
-        "2fb979214caaf23b3dbd46218cc26d418442c2f7d6aee2039ebbf0d2f7a36c08"
+        "2fb979214caaf23b3dbd46218cc26d418442c2f7d6aee2039ebbf0d2f7a36c08",
+        "c02dc5b27fc913b0bb974deffc74027af90a0ff20097523d4cf49be9c47abfaf"
       ],
       "title": "Looking for the Formula to Stop an Apocalypse",
       "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
@@ -1764,8 +1777,8 @@
     },
     {
       "keys": [
-        "a5b96b00ff7701fe2fc4ce8ed979a4b6bcd69ff5ba12280e01bfac650a7183e0",
-        "64bf11b35d2d269e93d07674cbe3fbace50e338f88a7cfc8850723217dfcde1d"
+        "64bf11b35d2d269e93d07674cbe3fbace50e338f88a7cfc8850723217dfcde1d",
+        "a5b96b00ff7701fe2fc4ce8ed979a4b6bcd69ff5ba12280e01bfac650a7183e0"
       ],
       "title": "Руслан Марцінків звітуватиме перед громадою за 2026 рік: де та коли",
       "url": "https://if.informator.ua/2026/11/22/ruslan-marczinkiv-zvituvatyme-pered-gromadoyu-za-2026-rik-de-ta-koly/",
@@ -1790,8 +1803,8 @@
     },
     {
       "keys": [
-        "bbf73bb8ca99ea7072e373ef678f2da9939ccaadde1733efab1708c30fdb9be7",
-        "57055916822ecf4894ae6261dabd93ca15b83d9b27152862a2376b8398659821"
+        "57055916822ecf4894ae6261dabd93ca15b83d9b27152862a2376b8398659821",
+        "bbf73bb8ca99ea7072e373ef678f2da9939ccaadde1733efab1708c30fdb9be7"
       ],
       "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
       "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
@@ -1803,8 +1816,8 @@
     },
     {
       "keys": [
-        "bd41802d075c0a2035dfd5fc743849c711c9897abb9b282619cbbaea5980e346",
-        "b9c55f0d317151fef9bb0262b3ed46be3582ad4f0316b21e0aa0fd4c136e6201"
+        "b9c55f0d317151fef9bb0262b3ed46be3582ad4f0316b21e0aa0fd4c136e6201",
+        "bd41802d075c0a2035dfd5fc743849c711c9897abb9b282619cbbaea5980e346"
       ],
       "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
@@ -1855,8 +1868,8 @@
     },
     {
       "keys": [
-        "a08ac65474c84b9845d89b8a98b1ecffa5e6ac86379e58640b7d3e163be0cc82",
-        "6c6c64940c26c8636ac71b25f6f5b2a5338978071f3a05b860a6b9fd6fc99bf2"
+        "6c6c64940c26c8636ac71b25f6f5b2a5338978071f3a05b860a6b9fd6fc99bf2",
+        "a08ac65474c84b9845d89b8a98b1ecffa5e6ac86379e58640b7d3e163be0cc82"
       ],
       "title": "Zelensky says US delays on Patriot missiles are 'difficult to understand' as Russia fires 165 missiles in a week",
       "url": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/",
@@ -1868,8 +1881,8 @@
     },
     {
       "keys": [
-        "b61560379fd98aff925e3ec4b69440ecfc369cfbab5fb81be0dc8b320d383924",
-        "68a07b51bb71164563cadd847555a773136322b8b707c0a65fa41d0343adedfa"
+        "68a07b51bb71164563cadd847555a773136322b8b707c0a65fa41d0343adedfa",
+        "b61560379fd98aff925e3ec4b69440ecfc369cfbab5fb81be0dc8b320d383924"
       ],
       "title": "У Димері з-під завалів дістали тіло загиблої людини, число постраждалих зросло до трьох – влада",
       "url": "https://www.radiosvoboda.org/a/news-dymer-ataka-rf/33903499.html",
@@ -1894,8 +1907,8 @@
     },
     {
       "keys": [
-        "91f17bbab19c22899c708b845ea794f8f552565e55f5836912fe755ecde361d4",
-        "83fcfcf25c09452fb980136ffac9bbb5520a00edf4f62d6cc4c4d8a236e64c10"
+        "83fcfcf25c09452fb980136ffac9bbb5520a00edf4f62d6cc4c4d8a236e64c10",
+        "91f17bbab19c22899c708b845ea794f8f552565e55f5836912fe755ecde361d4"
       ],
       "title": "Bundeswehr ändert Truppenverlegung nach Litauen kurzfristig",
       "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce",
@@ -1933,8 +1946,8 @@
     },
     {
       "keys": [
-        "c93814540dac6591399220ef132109764b55fa257e5355678194b17b2b0f50d2",
-        "273405a4db0301b37da40025be432d315af9bbdfbfbc476c89a9b475170b9ae6"
+        "273405a4db0301b37da40025be432d315af9bbdfbfbc476c89a9b475170b9ae6",
+        "c93814540dac6591399220ef132109764b55fa257e5355678194b17b2b0f50d2"
       ],
       "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
       "url": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
@@ -1946,8 +1959,8 @@
     },
     {
       "keys": [
-        "37b9e50db77ccf5861d9e6686f351ceb1310c40ec690f207e45e1f1c668f660f",
-        "3246ff2835037550b41904f416d0b0df17265d82c6802fbcdc9f33e850c1aa90"
+        "3246ff2835037550b41904f416d0b0df17265d82c6802fbcdc9f33e850c1aa90",
+        "37b9e50db77ccf5861d9e6686f351ceb1310c40ec690f207e45e1f1c668f660f"
       ],
       "title": "Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’",
       "url": "https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html",
@@ -1985,8 +1998,8 @@
     },
     {
       "keys": [
-        "f363abef4f46f12cd009b5450763e197442d7b6bbb0126c00457aab87b60623e",
-        "78966c8f7e9b84cb64b24257c9883424ced314d92d7b95f88184befdad50ca0d"
+        "78966c8f7e9b84cb64b24257c9883424ced314d92d7b95f88184befdad50ca0d",
+        "f363abef4f46f12cd009b5450763e197442d7b6bbb0126c00457aab87b60623e"
       ],
       "title": "Russian attacks across Ukraine injure 30 over past day as rescue operation continues near Kyiv after drone strike",
       "url": "https://kyivindependent.com/russian-attacks-across-ukraine-injure-30-over-past-day-as-rescue-operation-continues-near-kyiv-after-drone-strike/",
@@ -2050,8 +2063,8 @@
     },
     {
       "keys": [
-        "3efd38807b1e3037454d68e53649fab3060ab93bd5923235d3430625aa5ee0cd",
-        "3b2bd2fedded6ab2ef1890cd5859266b981d3aa358e530cdb85ff6c348a53231"
+        "3b2bd2fedded6ab2ef1890cd5859266b981d3aa358e530cdb85ff6c348a53231",
+        "3efd38807b1e3037454d68e53649fab3060ab93bd5923235d3430625aa5ee0cd"
       ],
       "title": "EU und Indonesien besiegeln Handelsabkommen",
       "url": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-top-1016-xml-atom",
@@ -2063,8 +2076,8 @@
     },
     {
       "keys": [
-        "d7a89ebc30cec08c7de6ea7825ded0ab96cb6015d927586f2a77ec98cd07c154",
-        "b27be7e2dfc5b4358af35bf17868d8de7f52a36fa031f0206120b148a778330f"
+        "b27be7e2dfc5b4358af35bf17868d8de7f52a36fa031f0206120b148a778330f",
+        "d7a89ebc30cec08c7de6ea7825ded0ab96cb6015d927586f2a77ec98cd07c154"
       ],
       "title": "Ситуація зі світлом в Одесі та прилеглих районах залишається вкрай складною, - \"Укренерго\"",
       "url": "https://www.rbc.ua/rus/news/situatsiya-zi-svitlom-odesi-ta-prileglih-1795334497.html",
@@ -2076,8 +2089,8 @@
     },
     {
       "keys": [
-        "a35ba75bf8b007151f3f332e6dd375c4abab6b0ef9f96f4bef2f26c29ed757d6",
-        "01cd78a9e0bd2fe8aafb0ae3960d951d50267440c8341e1b6c48d77fa38af9b1"
+        "01cd78a9e0bd2fe8aafb0ae3960d951d50267440c8341e1b6c48d77fa38af9b1",
+        "a35ba75bf8b007151f3f332e6dd375c4abab6b0ef9f96f4bef2f26c29ed757d6"
       ],
       "title": "General Staff: Russia has lost 1,637,170 troops in Ukraine since Feb. 24, 2022",
       "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-637-170-troops-in-ukraine-since-feb-24-2022/",
@@ -2089,8 +2102,8 @@
     },
     {
       "keys": [
-        "cdbea9bcbec42009e09bc778a844a4894335b6045de3c2868e74d679eb3703df",
-        "737078e55af63975531b277097bc2e938aa3a29835d1233a3368c5a940d1aa14"
+        "737078e55af63975531b277097bc2e938aa3a29835d1233a3368c5a940d1aa14",
+        "cdbea9bcbec42009e09bc778a844a4894335b6045de3c2868e74d679eb3703df"
       ],
       "title": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
       "url": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67",
@@ -2128,8 +2141,8 @@
     },
     {
       "keys": [
-        "8bb9e0bfffdf970c89206d4b0d9a3caa805aec7073a287ff1d709238c179b45f",
-        "6b0011499e8b17ccd9f9b324abf478732a46bbcfa4270f73ef30703b908477bb"
+        "6b0011499e8b17ccd9f9b324abf478732a46bbcfa4270f73ef30703b908477bb",
+        "8bb9e0bfffdf970c89206d4b0d9a3caa805aec7073a287ff1d709238c179b45f"
       ],
       "title": "Дрони летіли з восьми напрямків, є прильоти: як ППО відбила нічну атаку РФ",
       "url": "https://www.rbc.ua/rus/news/droni-letili-vosmi-napryamkiv-e-priloti-k-1795328299.html",
@@ -2141,8 +2154,8 @@
     },
     {
       "keys": [
-        "f0d89a87e62773b9ee8a6feebdef9ba82b47005018e46d5017b54f54b59ad4cc",
-        "6ae165a92a28d70c064d923f058f026425919748c3b994389d608eb07b5f302c"
+        "6ae165a92a28d70c064d923f058f026425919748c3b994389d608eb07b5f302c",
+        "f0d89a87e62773b9ee8a6feebdef9ba82b47005018e46d5017b54f54b59ad4cc"
       ],
       "title": "Як вибрати четвертий предмет на НМТ-2027: на що звернути увагу вступникам",
       "url": "https://www.rbc.ua/rus/news/k-vibrati-chetvertiy-predmet-nmt-2027-shcho-1795012572.html",
@@ -2154,8 +2167,8 @@
     },
     {
       "keys": [
-        "f7fade437499bdb7060a260fc8fad8f76867e1236ab8206189e3b3e47db9b667",
-        "a1a5b2a7d2732e7ce85043aac0cc29b5d89198828713028961362ba37589ff64"
+        "a1a5b2a7d2732e7ce85043aac0cc29b5d89198828713028961362ba37589ff64",
+        "f7fade437499bdb7060a260fc8fad8f76867e1236ab8206189e3b3e47db9b667"
       ],
       "title": "РФ атакувала Київщину: в п'ятиповерхівці зруйновано квартири, під завалами шукають людей",
       "url": "https://www.rbc.ua/rus/news/rf-atakuvala-kiyivshchinu-p-yatipoverhivtsi-1795327237.html",
@@ -2167,8 +2180,8 @@
     },
     {
       "keys": [
-        "f493949058fc34e6879c04834999bff1b6f5505e82041eff88f9cb31ebf894ed",
-        "7914bc78f7bd12307098201726ac184fcfc46427209af819e847c5abe1e52695"
+        "7914bc78f7bd12307098201726ac184fcfc46427209af819e847c5abe1e52695",
+        "f493949058fc34e6879c04834999bff1b6f5505e82041eff88f9cb31ebf894ed"
       ],
       "title": "Spende an Nawalny: Russische Ornithologin sitzt in Haft",
       "url": "https://www.dw.com/de/spende-an-nawalny-russische-ornithologin-sitzt-in-haft/a-80009856?maca=de-rss-de-top-1016-xml-atom",
@@ -2219,8 +2232,8 @@
     },
     {
       "keys": [
-        "3b2218af77cf49a29bd1149978932be7bd1556eeea19fefc1c5b016274200ac4",
-        "318e9cee8e6a87cacd5db863e35336f1350c89c8d773dce9ae298b9c2acc6b78"
+        "318e9cee8e6a87cacd5db863e35336f1350c89c8d773dce9ae298b9c2acc6b78",
+        "3b2218af77cf49a29bd1149978932be7bd1556eeea19fefc1c5b016274200ac4"
       ],
       "title": "Ukrainian drones reportedly strike Russian National Guard facility in Krasnodar",
       "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-national-guard-facility-in-krasnodar/",
@@ -2232,8 +2245,8 @@
     },
     {
       "keys": [
-        "7de2db5c97f68bef8109ab149baf04d28958b10120e03c66373cfa0219e18156",
-        "162bd183129f5e3e8156ecee2a560a8f021668daf32bf313d09f01f12be83aad"
+        "162bd183129f5e3e8156ecee2a560a8f021668daf32bf313d09f01f12be83aad",
+        "7de2db5c97f68bef8109ab149baf04d28958b10120e03c66373cfa0219e18156"
       ],
       "title": "UK to produce 'middle strike,' long-range drones for Ukraine in Britain",
       "url": "https://kyivindependent.com/uk-to-produce-middle-strike-long-range-drones-for-ukraine-in-britain/",
@@ -2258,8 +2271,8 @@
     },
     {
       "keys": [
-        "5dec36731a3a574aafa89e970ebbca0a5aabfdabb46bb42d32f16847c5168bc7",
-        "4437e116c51040574b9c460b082a5dc7d44fa0d4c15357cc21ccc7cd2c1693d2"
+        "4437e116c51040574b9c460b082a5dc7d44fa0d4c15357cc21ccc7cd2c1693d2",
+        "5dec36731a3a574aafa89e970ebbca0a5aabfdabb46bb42d32f16847c5168bc7"
       ],
       "title": "В Краснодарському краї РФ дим на НПЗ та в містечку Росгвардії, а в Калінінграді виє тривога",
       "url": "https://www.rbc.ua/rus/news/krasnodarskomu-krayi-rf-dim-npz-ta-mistechku-1795303637.html",
@@ -2310,8 +2323,8 @@
     },
     {
       "keys": [
-        "be8417f08f470f20f15b0151d25d091b0786926de487043bf03386c5820e2398",
-        "2047645e90e1c08f9c37339ff40b427e5cabf67e4bbc1d857f0ef955406b3bff"
+        "2047645e90e1c08f9c37339ff40b427e5cabf67e4bbc1d857f0ef955406b3bff",
+        "be8417f08f470f20f15b0151d25d091b0786926de487043bf03386c5820e2398"
       ],
       "title": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
       "url": "https://kyivindependent.com/swedish-gripen-pilot-unable-to-shoot-down-suspected-russian-missile-over-poland-due-to-poor-weather-commander-says/",
@@ -2336,8 +2349,8 @@
     },
     {
       "keys": [
-        "9f1cab0044cdf05407f9546797e94a6c01a515bc375a83eec12e25c3d870734c",
-        "2848fc32d2f60f6fcec2896b68e0e89d0399d282a7bcfbcc29bd0a16acf118f9"
+        "2848fc32d2f60f6fcec2896b68e0e89d0399d282a7bcfbcc29bd0a16acf118f9",
+        "9f1cab0044cdf05407f9546797e94a6c01a515bc375a83eec12e25c3d870734c"
       ],
       "title": "Highlights and challenges from covering an historic month in South America",
       "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
@@ -2349,8 +2362,8 @@
     },
     {
       "keys": [
-        "9ff7ae97d47a60c2b1897369cddafbca13347d864a37488aa823771786d8970c",
-        "2865956f78af43d27ae543e68dc350329520cecc2e7938943bc41980d03e36e9"
+        "2865956f78af43d27ae543e68dc350329520cecc2e7938943bc41980d03e36e9",
+        "9ff7ae97d47a60c2b1897369cddafbca13347d864a37488aa823771786d8970c"
       ],
       "title": "10TB of encrypted cloud storage is a one-time $249.97 purchase, right now",
       "url": "https://boingboing.net/2026/11/21/10tb-of-encrypted-cloud-storage-is-a-one-time-249-97-purchase-right-now.html",
@@ -5310,5 +5323,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-22T21:41:53.016406+00:00"
+  "last_checked": "2026-11-22T21:43:48.486572+00:00"
 }
