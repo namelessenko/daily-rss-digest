@@ -2876,6 +2876,19 @@
     },
     {
       "keys": [
+        "145cd6396c14d9017666ab7b21840f9ec407c8eb24699689020b2d74a5c0bb69",
+        "23e7886f0241a8e7db99d477f4a84e25d2661bea0467967d279c63f8388b274e"
+      ],
+      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+      "source": "News : NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "discovered": "2026-11-25T00:42:39.868270+00:00",
+      "excerpt": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection. (Image credit: Brandon Bell)",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/4032x2688!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg"
+    },
+    {
+      "keys": [
         "142c060260fcf477299ce368289e71bb5bd2431c86ed2bdd2b7c9fa4afa41ec5",
         "5a49e5a3c1c0384e2d069ee80daea01015b1f3d4cfd2221a5e80c3682a67cbb1"
       ],
@@ -6591,5 +6604,5 @@
       }
     }
   ],
-  "last_checked": "2026-11-25T00:36:45.343411+00:00"
+  "last_checked": "2026-11-25T00:42:39.868270+00:00"
 }
